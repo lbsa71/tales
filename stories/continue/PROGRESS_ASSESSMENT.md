@@ -348,10 +348,9 @@ Let the reader register the discrepancy (and the quiet "or the same" tell) witho
 
 **Decision:** I wrote: *Pick up the tape from the counter and pick it up from the table.*
 
-**Consequence:** This is a single-sentence self-contradiction within one action. The earlier calibration (Session 3, and STYLE_GUIDE.md rule 10, and the canonical version in EXAMPLE_DRAFT.md) places the glitch across three sentences:
-> *The tape is on the counter. Pick it up from the table. Pull an inch, cut it on the dispenser's blade, and press the tape across the seam.*
+**Consequence:** This is a single-sentence self-contradiction within one action. The earlier calibration placed the glitch across three adjacent sentences: *The tape is on the counter. Pick it up from the table. Pull an inch, cut it on the dispenser's blade, and press the tape across the seam.*
 
-**Worth reconsidering:** **This is the most consequential voice-rule divergence in the draft.** Ch 2 should be revised to match the canonical three-sentence pattern. This is a clean fix.
+**Superseded** (later revision pass): The three-sentence adjacent pattern was itself replaced. Adjacency stages the swap as a punchline and breaks the numb register. The current canonical form spreads the two observations of the tape across the chapter — counter during the first packing sequence, table in the end-of-chapter room-state scan — separated by roughly twenty sentences of unrelated action. See STYLE_GUIDE.md rule 10 (revised) and THEME_DOSSIERS.md Ch 2 for the current canonical form.
 
 ### 8. Ch 17 imperative final line (user revision) — is it echoed elsewhere?
 

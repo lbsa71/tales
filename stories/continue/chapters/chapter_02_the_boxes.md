@@ -12,7 +12,7 @@ Assemble a box. Fold the sides up, tuck the flaps at the bottom, run a strip of 
 
 The plates are in the cupboard above the coffee machine. Take them down in stacks of four and set them on the counter.
 
-Tear a sheet of newspaper from the stack on the kitchen table and lay it flat. Place the plate in the middle, bring the corners of the paper up and over, and press them around the edge of the plate with the side of a thumb. The tape is on the counter. Pick it up from the table. Pull an inch, cut it on the dispenser's blade, and press the tape across the seam.
+Tear a sheet of newspaper from the stack on the kitchen table and lay it flat. Place the plate in the middle, bring the corners of the paper up and over, and press them around the edge of the plate with the side of a thumb. Pick up the tape, pull an inch, cut it on the dispenser's blade, and press the tape across the seam.
 
 Put the wrapped plate in the box at the feet. Take another sheet of newspaper.
 

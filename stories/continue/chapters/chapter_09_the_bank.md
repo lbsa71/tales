@@ -50,7 +50,7 @@ Unlock the front door of the building and climb the stairs to the third floor. A
 
 Walk through the hallway to the bedroom. Through the bedroom to the living room. Through the living room to the glass door of the balcony. Open the door and step out.
 
-The drying rack stands folded behind the wooden chair by the railing. The wood of the rack is dry. The bars are dry. The clothes that hung on the rack are not on the rack and not on the floor of the balcony.
+The drying rack stands folded behind the wooden chair by the railing. The wood of the rack is dry. The bars are dry.
 
 Fold the drying rack flat and lean it against the wall.
 

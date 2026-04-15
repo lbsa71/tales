@@ -42,7 +42,7 @@ When writing or revising chapter content:
    - Is a glitch being compressed into a single clever sentence?
    - Does the sentence read as a body holding together by refusing to look up?
 
-3. **Verify glitch placement** against THEME_DOSSIERS.md. Every glitch in the dossier for that chapter should be present; no glitch should be announced or commented on; glitches should sit across sentences per rule 10.
+3. **Verify glitch placement** against THEME_DOSSIERS.md. Every glitch in the dossier for that chapter should be present; no glitch should be announced or commented on; glitches should sit across the chapter (separated by unrelated action), not across adjacent sentences that stage a swap, per rule 10.
 
 4. **Verify motif state** (list, wall phone, cups, wardrobe, bookshelves, photograph) for the chapter against THEME_TRACKER.md.
 
@@ -75,7 +75,7 @@ When checking existing content for issues:
 
 7. **Check for foreshadowing.** Any *had no idea, later would, what was not yet known* is forbidden.
 
-8. **Check glitches against the dossier.** Every glitch required by THEME_DOSSIERS.md for this chapter should be present, placed across sentences per rule 10, and not commented on.
+8. **Check glitches against the dossier.** Every glitch required by THEME_DOSSIERS.md for this chapter should be present, placed across the chapter (not across adjacent sentences that set up a swap) per rule 10, and not commented on.
 
 9. **Verify stable anchors have not glitched.** The crayon drawings, the elm, the rectangle of light (mostly), and the first-chapter cadence in the last chapter must be stable.
 
@@ -123,7 +123,7 @@ When checking existing content for issues:
 7. No name, no pronoun for the protagonist. Other characters keep theirs.
 8. Present tense discipline; past only in the italicised inscription passage.
 9. Minimal body-agent (*a hand*, *a thumb*) only when a sentence needs a subject slot.
-10. Glitches placed across sentences, not compressed inside one.
+10. Glitches spread across the chapter (separated by unrelated action), not compressed inside one sentence and not staged across adjacent sentences as a reversal. Each observation is flat; the reader assembles the contradiction.
 11. Memory allowed as monofocus action — retrieval of a datum carried by efficiency of motion (*without hesitation*, *without looking*). Never as flashback.
 
 **Positional specificity** (extends rules 4 and 11): Every placement names its specific location. *A pocket* is forbidden; *the right pocket of the coat* is required. The body knows which.
@@ -202,7 +202,7 @@ See NARRATOR_VOICE.md and STYLE_GUIDE.md for the extended statements.
 
 ### Rhythm by Phase
 
-- **Phase 1 (Ch. 1-2):** Calm, material, clean. The baseline the reader will remember. No glitches in Ch. 1. One small gestural glitch in Ch. 2, placed across three sentences.
+- **Phase 1 (Ch. 1-2):** Calm, material, clean. The baseline the reader will remember. No glitches in Ch. 1. One small spatial glitch in Ch. 2 — the tape dispenser observed at two different locations across the chapter, separated by the fridge-clearance passage — for the reader to find on their own.
 - **Phase 2 (Ch. 3-6):** Same register. Glitches accumulate. The prose does not change.
 - **Phase 3 (Ch. 7-11):** Same register. Glitches cross into the protagonist's own apartment in Ch. 7. The prose stays calm through the bureaucratic scenes and the documentary discrepancies.
 - **Phase 4 (Ch. 12-15):** The prose's first permitted dissolution. The inscription page in Ch. 12 (italicised, past tense, contained). The plate-cup-plate sentence in Ch. 14 (using *and* chains). The object-swap sentences in Ch. 15. These are rare and earned. Everywhere else the prose holds its baseline.
@@ -222,7 +222,7 @@ See NARRATOR_VOICE.md and STYLE_GUIDE.md for the extended statements.
 5. Draft in the canonical voice (bare imperatives, no protagonist pronoun)
 6. After drafting, run the six-point sentence checklist
 7. Search for forbidden words, em-dashes, and protagonist pronouns
-8. Verify every required glitch is present and uncommented, placed across sentences
+8. Verify every required glitch is present and uncommented, placed across the chapter and not as an adjacent-sentence swap
 9. Verify list state and wall phone state match the dossier
 10. Read the chapter aloud
 ```
@@ -283,7 +283,7 @@ Before considering any chapter "complete":
 7. ✅ No foreshadowing
 8. ✅ Present tense throughout (except italicised inscription)
 9. ✅ Camera stays at the body's position
-10. ✅ All required glitches from THEME_DOSSIERS.md present, placed across sentences
+10. ✅ All required glitches from THEME_DOSSIERS.md present, placed across the chapter (not in adjacent-sentence swaps)
 11. ✅ Glitches placed at baseline register, not announced
 12. ✅ List state matches the dossier
 13. ✅ Wall phone state matches the dossier

@@ -59,7 +59,7 @@ The peaks are not emotional climaxes. The peaks are the moments at which the rea
 
 **What the reader feels:** Settling into rhythm. The pleasure of methodical work. Mild satisfaction at the boxes filling, at the labels, at the protagonist's competence.
 
-**What the reader notices:** The tape dispenser moment. *The tape is on the counter. Pick it up from the table.* The reader pauses for a quarter-second and moves on. It might be a typo. It might be the writer being inattentive.
+**What the reader notices:** The tape dispenser's migration. Halfway through the chapter: *Reach for the tape on the counter.* At the end, after the fridge clearance and the light on the counter: *The tape dispenser is on the table.* The attentive reader hesitates for a quarter-second: *wasn't it on the counter?* and moves on. A reader not tracking the tape notices nothing. Either reading is correct. The discrepancy is never staged.
 
 **What is happening in the reader:** The reader's trust in the book is now mixed with a small, unaccounted-for worry.
 

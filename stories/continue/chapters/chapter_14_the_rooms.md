@@ -46,7 +46,7 @@ Take a plate down from the cupboard. Tear a sheet of newspaper from the pile and
 
 Wrap a plate and the plate is a cup and wrap the cup and the cup is a plate and put the plate in the box. Take a cup from the cupboard above the coffee machine, wrap it in a sheet of newspaper, and put it in the box. Take another plate down. Wrap it. Put it in the box. The plate is a shirt. Fold and stack it in the box.
 
-Take another cup from the cupboard. The cupboard has more cups in it than it did before. Wrap the cup and put it in the box.
+Take another cup from the cupboard. Wrap the cup and put it in the box.
 
 Close the box. Run a strip of tape along the seam. Label the side with the marker from the counter.
 
@@ -66,7 +66,7 @@ Wrap it in newspaper. The plate is a plate. Put it in the box labelled KITCHEN, 
 
 Take another plate from the cupboard. Wrap it. Put it in the box.
 
-The cupboard above the coffee machine has more plates in it than it did before. Take another plate down. Wrap it. Put it in the box.
+Take another plate down. Wrap it. Put it in the box.
 
 At some point, stop.
 

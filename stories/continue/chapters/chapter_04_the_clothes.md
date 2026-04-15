@@ -60,9 +60,9 @@ At the end of the third cycle, the rack on the balcony is full of clothes and th
 
 Take the list from the inside pocket of the coat at the kitchen counter. Read it. Cross off part of Item 3 — *Bedroom — clothes* — and leave the *to charity* part uncrossed. Fold the paper once and then once again and put it back in the inside pocket of the coat.
 
-Walk through the hallway to the bedroom. The bags are no longer by the wardrobe. The three bags are also not at the front door in the hallway.
+Walk through the hallway to the bedroom. The wardrobe doors stand open. The rail is empty. The shelves are bare.
 
-Walk back through the hallway to the front door. Open the door to leave.
+Walk back through the hallway to the front door.
 
 The three bags are stacked by the front door.
 

@@ -19,6 +19,8 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 
 **Voice note:** This document is partially scrubbed for the voice migration. All italicised voice examples have been rewritten to the new voice (bare imperatives, object-as-subject observations, no protagonist pronoun). The meta-discussion around the italicised examples may still occasionally use *he/him/his* as shorthand for the protagonist — this is meta-description only, and the actual prose of the novella follows NARRATOR_VOICE.md and STYLE_GUIDE.md rigorously. If a *he* appears outside italics in this file, read it as "the protagonist" in meta and then forget it when drafting.
 
+**Glitch discipline (overrides earlier prescriptions):** A glitch is *discovered by the reader*, not *staged by the prose*. The form that is now forbidden, even where earlier versions of this dossier prescribed it, is the adjacency-swap: two consecutive sentences whose only function is to contradict each other (*The tape is on the counter. Pick it up from the table.*; *The bags are not by the wardrobe. The bags are not at the door.* ... *The bags are by the door.*). These read as punchlines, as constructed reversals, and they break the numb register by announcing themselves. The elegant form separates the two observations by a span of unrelated action, so the contradiction sits at a distance the reader may or may not close. Across the chapter, not across the sentence. Rule 10's "across sentences" is sharpened accordingly.
+
 ---
 
 ## Chapter 1 — The Key
@@ -85,13 +87,14 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 - Buying supplies. The hardware shop. The number of boxes (specific number). Tape. The receipt.
 - The fridge clearance. The categories he sorts food into.
 
-**Glitches:** One. **Gestural, placed across three sentences per rule 10.** *The tape is on the counter. Pick it up from the table. Pull an inch, cut it on the dispenser's blade, and press the tape across the seam.* Two flat statements contradicting each other, and a third that continues past. The prose does not stop. The next sentence is the next plate.
+**Glitches:** One. **Spatial, spread across the chapter.** The tape dispenser is observed at two different locations in two separated passages: at the counter during the first packing sequence, and on the kitchen table in the end-of-chapter room-state sentence. The two observations are ~20 sentences apart with the fridge-clearance and the rectangle-of-light passage between them. No sentence contradicts any other sentence. The reader who tracks the tape assembles the displacement; the reader who does not tracks past. The prose never sets up a swap and never announces the migration.
 
 **List state:** The list is consulted at the kitchen table at the end of the chapter. The first half of Item 1 is crossed off (or some sub-marker; the writer's choice of how exactly partial completion is tracked). A sub-item is added in the same handwriting: *glasses (tomorrow)*, or *finish kitchen*, or similar small clarification. The list is functional. Only one hand has written on it.
 
 **Wall phone state:** Silent. Possibly noticed in passing as the protagonist moves through the kitchen. Not described in any detail.
 
 **What must NOT be said:**
+- *The tape is on the counter. Pick it up from the table.* Forbidden. Two adjacent sentences naming contradictory locations reads as a constructed swap, a punchline staged by the prose. The glitch is not adjacent. The glitch is discovered.
 - *Wasn't the tape dispenser on the counter? Pick it up from the table anyway.* Forbidden. The glitch is not commented on, even as a question.
 - *The tape dispenser on the counter. Strange. Pick it up from the table.* Forbidden. The word *strange* is forbidden.
 - Any thought about the food in the fridge as "her food", "the last food she", etc. The food is food. It goes in the bin bags.
@@ -172,7 +175,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 
 2. **Object:** The drying rack on the balcony. The first chapter described the balcony as having dead plants and a chair. *Folded behind the chair* — the protagonist finds a drying rack. This is a small thing. The reader who remembers the first chapter notices.
 
-3. **Object:** *The three boxes stacked by the front door. He moved them to the car.* The reader is told that the boxes the protagonist packed in Chapter 2 and stacked by the front door are now (a) still by the front door in the present sentence, and (b) already in the car. The chapter does not resolve the contradiction. The next sentence is the next thing.
+3. **Object:** The three bin bags. After the washing machine cycles and the clothes are hung on the balcony to dry, the bags should be empty, limp, or gone. At the end of the chapter, on the way out, the three bags are stacked by the front door. The prose only states the final observation. It does not say "not by the wardrobe" or "not at the door" and then reverse. The reader who tracks the bags carries the contradiction. The reader who does not notices nothing.
 
 **List state:** Consulted normally. the protagonist crosses off something on Item 3 (Bedroom — clothes to charity). The list is otherwise stable in this chapter.
 
@@ -182,7 +185,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 - That he remembered her wearing the dress. That he held it up. That he inhaled it. None of this. He folds. He puts it in the bag.
 - That the grocery list was the last thing she wrote. That she had not had time to buy fish. That she would never buy oranges again. None of this. The grocery list is in the drawer. He reads it. He puts it back.
 - "Almost as if she had just stepped out." Forbidden. The novella does not do this.
-- Any narration of the boxes-in-the-car contradiction. The boxes are by the door. He moved them to the car. Two consecutive sentences. The reader carries the discrepancy.
+- *The bags are no longer by the wardrobe. The three bags are also not at the front door in the hallway. ... The three bags are stacked by the front door.* Forbidden. The double-negation followed by a reversal is a staged punchline. The elegant form states only the end observation and leaves the contradiction for the reader.
 
 **What the reader should infer:**
 - That the protagonist has been here long enough to know the rhythms of the wardrobe.
@@ -408,7 +411,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 
 3. **Object:** The wardrobe is empty. *Not cleared. Empty in the way of a wardrobe that has been empty for a long time.* (Borderline construction; acceptable because it is naming a physical state rather than a feeling.)
 
-4. **Object:** The dry rack on the balcony.
+4. **Object:** The drying rack on the balcony is folded, dry. The clothes that were hung to dry in Chapter 4 are not named or catalogued as absent. The prose only describes what is there. The reader who remembers the balcony in Chapter 4 registers the absence on their own.
 
 5. **Object:** One cup in the cupboard.
 
@@ -651,6 +654,8 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 
 7. **Syntactic:** *Labels a box with a word that doesn't match what's inside.*
 
+8. **Object / temporal:** The cupboard never empties. Plates and cups keep being drawn from it through the packing sequence. The prose does not count and does not announce ("more than before" is forbidden); it only lets the sequence continue. The reader who registers that the cupboard should have emptied many plates ago feels the displacement without being shown it.
+
 8. **List glitch:** *A paragraph in the handwriting of the list. Some words legible, some not.* The list is no longer a list.
 
 **List state:** A paragraph. Not numbered. Not items. His handwriting. Some words legible, some not. The list is moving toward its end-state.
@@ -663,6 +668,7 @@ Read this in conjunction with NARRATOR_VOICE.md, STYLE_GUIDE.md, THEME_TRACKER.m
 - "It was as though the apartment had grown rooms." Forbidden.
 - "He could no longer trust his senses." Forbidden interior question.
 - That the warm coffee was impossible.
+- *The cupboard has more cups in it than it did before.* Forbidden. Announcing the multiplication breaks the form. The multiplication is carried by the duration of the sequence.
 
 **What the reader should infer:**
 - That the apartment is no longer the apartment.

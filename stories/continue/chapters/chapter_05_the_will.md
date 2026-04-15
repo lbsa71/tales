@@ -28,8 +28,6 @@ The desk stands against the back wall under the window that looks onto the inner
 
 The boxes stacked along the wall are still there. The folded camp bed is still in the corner. The three cardboard boxes on the floor, taped shut, unlabelled, are still in place.
 
-The second room now has a desk.
-
 Open the drawer in the middle of the desk. The drawer slides out smoothly. Inside: a pencil, a blank notebook with a hard cover, a paperclip, a rubber band. No will.
 
 Open the top drawer on the right. Empty.

@@ -210,12 +210,15 @@ Past tense is allowed **only** inside the italicised inscription passage in the 
 - ✓ *On the third shelf a hand stops on a hardback.*
 - ✗ *The hands are working quickly.* *(overuse — reads as stylistic tic)*
 
-### 10. Glitches placed across sentences
+### 10. Glitches placed across the chapter, not across adjacent sentences
 
-- ✓ *The tape is on the counter. Pick it up from the table. Pull an inch and cut it on the dispenser's blade.*
+- ✓ *Reach for the tape on the counter.* ... *(twenty sentences of other work)* ... *The tape dispenser is on the table.*
+- ✗ *The tape is on the counter. Pick it up from the table.* *(adjacent contradiction — a staged swap, a punchline)*
 - ✗ *Reach for the tape on the counter and pick it up from the table.* *(compressed into one clever sentence)*
+- ✗ *The bags are no longer by the wardrobe. The three bags are also not at the front door. ... The three bags are stacked by the front door.* *(double-negation followed by reversal — the same staged swap, extended over a few lines)*
+- ✗ *The cupboard has more cups in it than it did before.* *(announcing the glitch — lets the prose, not the reader, carry the contradiction)*
 
-Both sentences state their fact flatly. Neither acknowledges the other.
+Both observations state their fact flatly. Neither acknowledges the other. They are separated by enough unrelated action that a reader who is not tracking the object will not notice. The glitch is the reader's to find, not the prose's to reveal. The numb register holds because the prose never pivots around the contradiction.
 
 ### 11. Memory as monofocus action
 
@@ -428,10 +431,11 @@ Every chapter's refrain-ending must be the same six words, in the same order, wi
 **✗** *Put the coat on. Out the front door. Down the stairs. Into the street.*
 **✓** *Put the coat on. Open the front door, step out, and turn the key in the lock. The street is empty.*
 
-### Compressed glitch → Inter-sentence glitch
+### Compressed or staged glitch → Glitch across the chapter
 
-**✗** *Reach for the tape on the counter and pick it up from the table.*
-**✓** *The tape is on the counter. Pick it up from the table. Pull an inch and cut it on the dispenser's blade.*
+**✗** *Reach for the tape on the counter and pick it up from the table.* *(compressed into a single clever sentence)*
+**✗** *The tape is on the counter. Pick it up from the table. Pull an inch and cut it on the dispenser's blade.* *(still a staged swap; adjacency makes it a punchline)*
+**✓** *Reach for the tape on the counter.* ... (twenty sentences of fridge clearance and the rectangle of light) ... *The tape dispenser is on the table.* *(two flat observations, separated by enough unrelated action that the contradiction is the reader's to find)*
 
 ### Named memory → Memory as efficiency
 

@@ -51,7 +51,7 @@ The street is empty.
 
 The plates are in the cupboard above the coffee machine. Take them down in stacks of four and set them on the counter.
 
-Tear a sheet of newspaper from the stack and lay it flat. Place the plate in the middle, bring the corners of the paper up and over, and press them around the edge of the plate with the side of a thumb. The tape is on the counter. Pick it up from the table. Pull an inch, cut it on the dispenser's blade, and press the tape across the seam.
+Tear a sheet of newspaper from the stack and lay it flat. Place the plate in the middle, bring the corners of the paper up and over, and press them around the edge of the plate with the side of a thumb. Pick up the tape, pull an inch, cut it on the dispenser's blade, and press the tape across the seam.
 
 Put the wrapped plate in the box at the feet. Take another sheet of newspaper.
 
@@ -143,7 +143,7 @@ These are the calibration choices in the excerpts above. They are revisable; if 
 
 ### Chapter 2
 
-- **The glitch is three sentences.** *The tape is on the counter. Pick it up from the table. Pull an inch, cut it on the dispenser's blade, and press the tape across the seam.* Two flat statements that contradict; a third that continues past. Neither of the first two acknowledges the other.
+- **The glitch is spread across the chapter, not across adjacent sentences.** The tape dispenser's location is observed twice: *Reach for the tape on the counter.* during the first packing sequence, and *The tape dispenser is on the table.* in the end-of-chapter room-state scan, separated by roughly twenty sentences of unrelated work (the fridge clearance, the bin run, the rectangle of light). Neither observation acknowledges the other. A reader tracking the tape assembles the displacement privately. A reader not tracking it passes through. The earlier draft's *The tape is on the counter. Pick it up from the table.* is superseded: the adjacency staged the glitch as a punchline and broke the numb register.
 - **KITCHEN is written in capitals.** The capitals represent the physical label. This also sets up the later chapters' mislabelled boxes as typographically visible.
 - **The wrapping sequence is one connected sentence** carrying three actions (place, bring, press) through commas + *and*. This is the rule 5 default rhythm.
 

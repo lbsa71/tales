@@ -201,15 +201,15 @@ Already stated. Present tense always. Past tense only inside the italicised insc
 
 Used sparingly. Never as a stylistic tic. The body is present in the camera's field of view; it does not need to be named in every sentence.
 
-### Rule 10 — Glitches placed across sentences
+### Rule 10 — Glitches placed across the chapter, not across adjacent sentences
 
-Glitches are placed across two or three adjacent sentences, not compressed inside one. Each sentence states something flatly; none acknowledges the others. The reader carries the discrepancy.
+Glitches are spread across enough unrelated action that the reader who tracks the object assembles the contradiction privately and the reader who does not passes through. Each observation states its fact flatly; neither acknowledges the other. The reader carries the discrepancy; the prose does not stage it.
 
-> The tape is on the counter. Pick it up from the table. Pull an inch, cut it on the dispenser's blade, and press the tape across the seam.
+> Reach for the tape on the counter. ... *(twenty sentences of the fridge clearance and the rectangle of light)* ... The tape dispenser is on the table.
 
-The first sentence is an observation (the tape is here). The second is the action (taken from there). The third continues past. Neither of the first two acknowledges the other.
+Two observations of the tape at two different locations, separated by enough work that the adjacency never becomes a punchline. A reader paying attention catches it. A reader not paying attention walks past. Either reading is correct.
 
-Single-sentence contradictions (*picking it up on the counter from the table*) read as clever writing. The inter-sentence placement reads as single-mindedness registering a small wrongness and not stopping.
+Adjacent-sentence contradictions (*The tape is on the counter. Pick it up from the table.*) are forbidden. They stage the glitch as a reversal and break the numb register by announcing the wrongness in the beat after the setup. Single-sentence contradictions (*picking it up on the counter from the table*) are forbidden for the same reason — they read as clever writing. The glitch belongs to the reader, not to the prose.
 
 ### Positional specificity (extends rules 4 and 11)
 
