@@ -5,10 +5,13 @@ build/
 __pycache__/
 *.pyc
 
-# voice-renderer generated output
+# build outputs (audio + PDFs) — large, regenerable
+dist/
+
+# voice-renderer fallback dir (when input is outside stories/)
 tools/voice-renderer/out/
 
-# pandoc build output
+# pandoc build output if run locally outside dist/
 *.pdf
 
 # editor / OS

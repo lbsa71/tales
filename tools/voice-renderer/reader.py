@@ -114,8 +114,13 @@ LANGUAGE_PROFILES: dict[str, dict] = {
     },
     "en": {
         "language_name": "English",
-        # en profile promoted to v3 for consistency with sv. Still
-        # tentative — Mira has not been A/B'd on real English content.
+        # 2026-04-15: Mira validated. A/B'd against Dr Alice, Madeline,
+        # and Alex on the opening paragraph of stories/continue
+        # chapter 1 (the landlord/key passage). Samples committed at
+        # tools/voice-renderer/voice_samples/english/. Mira chosen as
+        # the en default; same voice_settings as sv (calibrated for
+        # long-form narration: stability 0.55, similarity 0.75,
+        # style 0.15, speed 0.90).
         "model": "eleven_v3",
         "voice_id": "DVxf8tkOIac2UAoDXYVS",
         "voice_name": "Mira — Calm Grounded British Voice",
@@ -125,17 +130,41 @@ LANGUAGE_PROFILES: dict[str, dict] = {
         "use_speaker_boost": True,
         "speed": 0.90,
         "max_chars": 1500,
-        "validated": False,  # tentative: label-picked, not yet A/B'd on content
+        "validated": True,
     },
 }
 
 DEFAULT_LANGUAGE = "sv"
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
-CHAPTERS_DIR = REPO_ROOT / "translations" / "svenska" / "kapitel"
+# `--chapter N` / `--all` shortcut for the Swedish kapitel files that
+# live under stories/zelda/. For any other story, use --input instead.
+CHAPTERS_DIR = REPO_ROOT / "stories" / "zelda" / "translations" / "svenska" / "kapitel"
 SCRIPT_DIR = Path(__file__).resolve().parent
-DEFAULT_OUT_DIR = SCRIPT_DIR / "out"
+# Fallback when we can't derive a per-story output dir from the input
+# path (e.g. the user pointed at a markdown file outside stories/).
+FALLBACK_OUT_DIR = SCRIPT_DIR / "out"
 DOTENV_PATH = SCRIPT_DIR / ".env"
+
+
+def derive_out_dir(paths: list[Path]) -> Path:
+    """Map an input path to dist/stories/<story>/audio/.
+
+    Inputs under <repo>/stories/<name>/... write to
+    <repo>/dist/stories/<name>/audio/. If the first input falls outside
+    the stories tree, fall back to the legacy tools/voice-renderer/out/
+    location so ad-hoc renders still work.
+    """
+    if not paths:
+        return FALLBACK_OUT_DIR
+    first = paths[0].resolve()
+    stories_root = REPO_ROOT / "stories"
+    try:
+        rel = first.relative_to(stories_root)
+    except ValueError:
+        return FALLBACK_OUT_DIR
+    story_name = rel.parts[0]
+    return REPO_ROOT / "dist" / "stories" / story_name / "audio"
 
 
 def _load_dotenv(path: Path) -> None:
@@ -585,12 +614,13 @@ def cmd_synth(args) -> int:
             f"prosody reset at chunk boundaries."
         )
 
-    out_root = Path(args.out).resolve()
-    out_root.mkdir(parents=True, exist_ok=True)
-
     paths = resolve_chapter_paths(args)
     if not paths:
         raise SystemExit("no chapters matched")
+
+    out_root = Path(args.out).resolve() if args.out else derive_out_dir(paths)
+    out_root.mkdir(parents=True, exist_ok=True)
+    print(f"out={out_root}")
 
     total_chunks = 0
     total_bytes = 0
@@ -728,10 +758,10 @@ def _save_manifest(path: Path, manifest: dict) -> None:
 
 
 def cmd_concat(args) -> int:
-    out_root = Path(args.out).resolve()
     paths = resolve_chapter_paths(args)
     if not paths:
         raise SystemExit("no chapters matched")
+    out_root = Path(args.out).resolve() if args.out else derive_out_dir(paths)
     for p in paths:
         stem = chapter_stem(p)
         chapter_dir = out_root / stem
@@ -780,6 +810,11 @@ def cmd_book(args) -> int:
     `tools/reader/out/<output_name>_full.pcm`) alongside an optional
     wrapped .wav.
     """
+    if not args.out:
+        raise SystemExit(
+            "book: --out is required (point at the per-story audio dir, "
+            "e.g. dist/stories/zelda/audio)"
+        )
     out_root = Path(args.out).resolve()
     if not out_root.exists():
         raise SystemExit(f"output directory does not exist: {out_root}")
@@ -888,7 +923,9 @@ def build_parser() -> argparse.ArgumentParser:
                     help="disable speaker_boost (otherwise use profile's value)")
     sp.add_argument("--max-chars", type=int, default=None,
                     help="override profile max_chars (soft per-chunk cap)")
-    sp.add_argument("--out", type=str, default=str(DEFAULT_OUT_DIR))
+    sp.add_argument("--out", type=str, default=None,
+                    help="output dir; if omitted, derived from the input path "
+                         "(stories/<name>/... -> dist/stories/<name>/audio/)")
     sp.add_argument("--also-wav", action="store_true",
                     help="also write a .wav next to each .pcm for easy preview")
     sp.add_argument("--force", action="store_true",
@@ -901,7 +938,9 @@ def build_parser() -> argparse.ArgumentParser:
     # concat
     sp = sub.add_parser("concat", help="concatenate per-chunk .pcm files into a full-chapter file")
     _add_chapter_selection(sp)
-    sp.add_argument("--out", type=str, default=str(DEFAULT_OUT_DIR))
+    sp.add_argument("--out", type=str, default=None,
+                    help="output dir; if omitted, derived from the input path "
+                         "(stories/<name>/... -> dist/stories/<name>/audio/)")
     sp.add_argument("--wav", action="store_true", help="also emit a wrapped .wav")
     sp.add_argument("--gap-ms", type=int, default=350,
                     help="silence between chunks in milliseconds (default: 350)")
@@ -913,8 +952,9 @@ def build_parser() -> argparse.ArgumentParser:
         help="assemble every chapter's *_full.pcm into a single book-length file "
              "(run `concat` for each chapter first)",
     )
-    sp.add_argument("--out", type=str, default=str(DEFAULT_OUT_DIR),
-                    help="directory holding per-chapter subdirs (default: tools/reader/out)")
+    sp.add_argument("--out", type=str, default=None,
+                    help="directory holding per-chapter subdirs, "
+                         "e.g. dist/stories/zelda/audio")
     sp.add_argument("--wav", action="store_true", help="also emit a wrapped .wav")
     sp.add_argument("--chapter-gap-ms", type=int, default=1500,
                     help="silence between chapters in ms (default: 1500 — noticeably "

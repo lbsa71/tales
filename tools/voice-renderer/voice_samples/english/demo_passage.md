@@ -1,0 +1,1 @@
+The landlord's office is on the ground floor of the building. Sign the paper on the counter: name, date, address of the apartment. The landlord says the apartment must be empty by the end of the month and the key returned to this office. The landlord puts the key on the counter and slides it across. Take the key. Thank the landlord and leave.
