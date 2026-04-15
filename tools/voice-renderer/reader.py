@@ -147,13 +147,16 @@ FALLBACK_OUT_DIR = SCRIPT_DIR / "out"
 DOTENV_PATH = SCRIPT_DIR / ".env"
 
 
-def derive_out_dir(paths: list[Path]) -> Path:
-    """Map an input path to dist/stories/<story>/audio/.
+def derive_out_dir(paths: list[Path], language: str) -> Path:
+    """Map an input path to dist/stories/<story>/audio/<language>/.
 
     Inputs under <repo>/stories/<name>/... write to
-    <repo>/dist/stories/<name>/audio/. If the first input falls outside
-    the stories tree, fall back to the legacy tools/voice-renderer/out/
-    location so ad-hoc renders still work.
+    <repo>/dist/stories/<name>/audio/<language>/. The language segment
+    keeps multi-language stories (e.g. zelda's sv original + en
+    translation) from colliding in the same chapter-stem directories.
+    If the first input falls outside the stories tree, fall back to the
+    legacy tools/voice-renderer/out/ location so ad-hoc renders still
+    work.
     """
     if not paths:
         return FALLBACK_OUT_DIR
@@ -164,7 +167,7 @@ def derive_out_dir(paths: list[Path]) -> Path:
     except ValueError:
         return FALLBACK_OUT_DIR
     story_name = rel.parts[0]
-    return REPO_ROOT / "dist" / "stories" / story_name / "audio"
+    return REPO_ROOT / "dist" / "stories" / story_name / "audio" / language
 
 
 def _load_dotenv(path: Path) -> None:
@@ -618,7 +621,7 @@ def cmd_synth(args) -> int:
     if not paths:
         raise SystemExit("no chapters matched")
 
-    out_root = Path(args.out).resolve() if args.out else derive_out_dir(paths)
+    out_root = Path(args.out).resolve() if args.out else derive_out_dir(paths, args.language)
     out_root.mkdir(parents=True, exist_ok=True)
     print(f"out={out_root}")
 
@@ -663,8 +666,14 @@ def cmd_synth(args) -> int:
             "chunks": [],
         }
 
-        print(f"\n=== {stem}: {len(chunks)} chunks -> {chapter_out} ===")
-        for c in chunks:
+        if args.limit_chunks is not None:
+            chunks_to_process = chunks[: args.limit_chunks]
+            print(f"\n=== {stem}: {len(chunks)} chunks total, "
+                  f"limit={args.limit_chunks} -> {chapter_out} ===")
+        else:
+            chunks_to_process = chunks
+            print(f"\n=== {stem}: {len(chunks)} chunks -> {chapter_out} ===")
+        for c in chunks_to_process:
             pcm_name = f"chunk_{c.index:03d}.pcm"
             wav_name = f"chunk_{c.index:03d}.wav"
             pcm_path = chapter_out / pcm_name
@@ -761,7 +770,7 @@ def cmd_concat(args) -> int:
     paths = resolve_chapter_paths(args)
     if not paths:
         raise SystemExit("no chapters matched")
-    out_root = Path(args.out).resolve() if args.out else derive_out_dir(paths)
+    out_root = Path(args.out).resolve() if args.out else derive_out_dir(paths, args.language)
     for p in paths:
         stem = chapter_stem(p)
         chapter_dir = out_root / stem
@@ -930,6 +939,10 @@ def build_parser() -> argparse.ArgumentParser:
                     help="also write a .wav next to each .pcm for easy preview")
     sp.add_argument("--force", action="store_true",
                     help="re-synth chunks even if the .pcm already exists")
+    sp.add_argument("--limit-chunks", type=int, default=None,
+                    help="render only the first N chunks of each input "
+                         "(cost-conserving first-pass renders; rest can be "
+                         "filled in later — caching makes this cheap)")
     sp.add_argument("--stop-on-error", action="store_true")
     sp.add_argument("--api-key", type=str, default=None,
                     help="ElevenLabs API key (else read from ELEVENLABS_API_KEY / .env)")
@@ -938,6 +951,7 @@ def build_parser() -> argparse.ArgumentParser:
     # concat
     sp = sub.add_parser("concat", help="concatenate per-chunk .pcm files into a full-chapter file")
     _add_chapter_selection(sp)
+    _add_language_flag(sp)
     sp.add_argument("--out", type=str, default=None,
                     help="output dir; if omitted, derived from the input path "
                          "(stories/<name>/... -> dist/stories/<name>/audio/)")
