@@ -1,0 +1,342 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Visual Modules Configuration",
+  "description": "Configuration for generative visual modules in Unsung Heroes interactive reader",
+  "type": "object",
+  "properties": {
+    "modules": {
+      "type": "array",
+      "description": "Array of visual module configurations, one per chapter",
+      "items": {
+        "type": "object",
+        "properties": {
+          "chapterId": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 9,
+            "description": "Chapter number (1-9)"
+          },
+          "moduleName": {
+            "type": "string",
+            "enum": [
+              "DLA",
+              "ReactionDiffusion",
+              "LSystem",
+              "CellularAutomata",
+              "Morphogenetic",
+              "Boids",
+              "ForceDirectedGraph",
+              "NeuralActivation",
+              "Successor"
+            ],
+            "description": "Visual module type"
+          },
+          "enabled": {
+            "type": "boolean",
+            "description": "Whether this module is enabled"
+          },
+          "config": {
+            "type": "object",
+            "description": "Module-specific configuration"
+          }
+        },
+        "required": ["chapterId", "moduleName", "enabled", "config"]
+      }
+    },
+    "transitions": {
+      "type": "object",
+      "description": "Transition configuration between modules",
+      "properties": {
+        "duration": {
+          "type": "integer",
+          "description": "Transition duration in milliseconds",
+          "default": 1200
+        },
+        "easing": {
+          "type": "string",
+          "enum": ["linear", "ease", "ease-in", "ease-out", "ease-in-out"],
+          "description": "Easing function for transitions",
+          "default": "ease-in-out"
+        }
+      }
+    },
+    "global": {
+      "type": "object",
+      "description": "Global settings for all modules",
+      "properties": {
+        "respectReducedMotion": {
+          "type": "boolean",
+          "description": "Respect prefers-reduced-motion media query",
+          "default": true
+        },
+        "targetFrameRate": {
+          "type": "integer",
+          "description": "Target frame rate for animations",
+          "minimum": 15,
+          "maximum": 120,
+          "default": 60
+        },
+        "enablePerformanceMonitoring": {
+          "type": "boolean",
+          "description": "Enable performance monitoring and logging",
+          "default": true
+        },
+        "autoAdjustQuality": {
+          "type": "boolean",
+          "description": "Automatically reduce quality if performance drops",
+          "default": true
+        },
+        "mobileQualityReduction": {
+          "type": "number",
+          "description": "Quality multiplier for mobile devices (0.0-1.0)",
+          "minimum": 0.0,
+          "maximum": 1.0,
+          "default": 0.7
+        }
+      }
+    }
+  },
+  "modules": [
+    {
+      "chapterId": 1,
+      "moduleName": "DLA",
+      "enabled": true,
+      "config": {
+        "primaryColor": "#c89b5c",
+        "secondaryColor": "#8b6f47",
+        "accentColor": "#a67c3d",
+        "opacity": 0.18,
+        "speed": 0.2,
+        "density": 0.3,
+        "complexity": 0.4,
+        "particleCount": 30,
+        "wanderSpeed": 0.3,
+        "stickingDistance": 4,
+        "branchingFactor": 0.75,
+        "particleSize": 3,
+        "glowRadius": 10,
+        "contrast": 0.3,
+        "trailLength": 4
+      }
+    },
+    {
+      "chapterId": 2,
+      "moduleName": "ReactionDiffusion",
+      "enabled": true,
+      "config": {
+        "primaryColor": "#4a9e8e",
+        "secondaryColor": "#2d6a5f",
+        "accentColor": "#7fcdbb",
+        "opacity": 0.46,
+        "speed": 0.5,
+        "density": 0.6,
+        "complexity": 0.7,
+        "feedRate": 0.055,
+        "killRate": 0.062,
+        "diffusionA": 1.0,
+        "diffusionB": 0.5,
+        "timeStep": 0.8,
+        "gridWidth": 256,
+        "gridHeight": 256,
+        "colorIntensity": 0.6,
+        "smoothing": 0.9,
+        "driftSpeed": 0.1
+      }
+    },
+    {
+      "chapterId": 3,
+      "moduleName": "LSystem",
+      "enabled": true,
+      "config": {
+        "primaryColor": "#8b9a5b",
+        "secondaryColor": "#5a6b3c",
+        "accentColor": "#b8c689",
+        "opacity": 0.35,
+        "speed": 0.3,
+        "density": 0.5,
+        "complexity": 0.6,
+        "axiom": "F",
+        "rules": {
+          "F": "F[+F]F[-F]F"
+        },
+        "angle": 25,
+        "iterations": 4,
+        "mutationRate": 0.02,
+        "mutationInterval": 8000,
+        "lineWidth": 2,
+        "segmentLength": 6,
+        "glowIntensity": 0.4,
+        "swayAmplitude": 2.5,
+        "swayFrequency": 0.1
+      }
+    },
+    {
+      "chapterId": 4,
+      "moduleName": "CellularAutomata",
+      "enabled": true,
+      "config": {
+        "primaryColor": "#5a9b8e",
+        "secondaryColor": "#3a6b5e",
+        "accentColor": "#8dc5ba",
+        "opacity": 0.4,
+        "speed": 0.4,
+        "density": 0.15,
+        "complexity": 0.3,
+        "gridWidth": 40,
+        "gridHeight": 30,
+        "cellSize": 18,
+        "birthRule": [3],
+        "survivalRule": [2, 3],
+        "updateInterval": 800,
+        "initialDensity": 0.15,
+        "fadeInDuration": 200,
+        "fadeOutDuration": 400,
+        "showGrid": true,
+        "gridOpacity": 0.1,
+        "cellGlow": 0.3
+      }
+    },
+    {
+      "chapterId": 5,
+      "moduleName": "Morphogenetic",
+      "enabled": true,
+      "config": {
+        "primaryColor": "#9b6a9e",
+        "secondaryColor": "#6b4a6e",
+        "accentColor": "#c89ac8",
+        "opacity": 0.4,
+        "speed": 0.5,
+        "density": 0.5,
+        "complexity": 0.7,
+        "attractorCount": 200,
+        "segmentLength": 12,
+        "influenceRadius": 400,
+        "killRadius": 20,
+        "growthRate": 3,
+        "maxNodes": 800,
+        "branchThickness": 3,
+        "glowIntensity": 0.3,
+        "fadeInDuration": 500,
+        "fadeOutDuration": 2000
+      }
+    },
+    {
+      "chapterId": 6,
+      "moduleName": "Boids",
+      "enabled": true,
+      "config": {
+        "primaryColor": "#c86a9e",
+        "secondaryColor": "#984a7e",
+        "accentColor": "#e89ac8",
+        "opacity": 0.35,
+        "speed": 0.6,
+        "density": 0.4,
+        "complexity": 0.6,
+        "boidCount": 30,
+        "boidSize": 4,
+        "separationRadius": 30,
+        "alignmentRadius": 60,
+        "cohesionRadius": 80,
+        "separationWeight": 1.5,
+        "alignmentWeight": 1.0,
+        "cohesionWeight": 1.0,
+        "maxSpeed": 1.5,
+        "maxForce": 0.08,
+        "showTrails": true,
+        "trailLength": 9,
+        "trailFade": 0.9,
+        "showConnections": false
+      }
+    },
+    {
+      "chapterId": 7,
+      "moduleName": "ForceDirectedGraph",
+      "enabled": true,
+      "config": {
+        "primaryColor": "#6a9ec8",
+        "secondaryColor": "#4a6e98",
+        "accentColor": "#9ac8e8",
+        "opacity": 0.4,
+        "speed": 0.5,
+        "density": 0.3,
+        "complexity": 0.7,
+        "nodeCount": 20,
+        "edgeDensity": 0.2,
+        "repulsionForce": 1500,
+        "attractionForce": 0.03,
+        "damping": 0.9,
+        "idealEdgeLength": 100,
+        "temperature": 100,
+        "coolingFactor": 0.95,
+        "nodeRadius": 6,
+        "nodeGlow": 12,
+        "edgeWidth": 1,
+        "edgeOpacity": 0.3,
+        "showActivation": true,
+        "activationSpeed": 0.5
+      }
+    },
+    {
+      "chapterId": 8,
+      "moduleName": "NeuralActivation",
+      "enabled": true,
+      "config": {
+        "primaryColor": "#8a8ac8",
+        "secondaryColor": "#5a5a98",
+        "accentColor": "#babad8",
+        "opacity": 0.45,
+        "speed": 0.6,
+        "density": 0.6,
+        "complexity": 0.8,
+        "gridSize": 5,
+        "activationDecay": 0.96,
+        "propagationSpeed": 0.7,
+        "activationThreshold": 0.3,
+        "clusterCount": 2,
+        "nodeSize": 5,
+        "connectionThickness": 1,
+        "glowIntensity": 0.6,
+        "pulseInterval": 2500,
+        "noiseIntensity": 0.1
+      }
+    },
+    {
+      "chapterId": 9,
+      "moduleName": "Successor",
+      "enabled": true,
+      "config": {
+        "primaryColor": "#a8a8c8",
+        "secondaryColor": "#686888",
+        "accentColor": "#d8d8f8",
+        "opacity": 0.5,
+        "speed": 0.4,
+        "density": 0.7,
+        "complexity": 0.9,
+        "algorithm": "quasicrystal",
+        "tilingType": "(7,3)",
+        "rotationSpeed": 0.05,
+        "generationIterations": 6,
+        "symmetryOrder": 5,
+        "dimension": 4,
+        "rule": "2,3",
+        "sliceAngle": 0,
+        "instabilityFactor": 0.15,
+        "glitchFrequency": 0.2,
+        "glitchIntensity": 0.3,
+        "dissolveStartTime": 5000,
+        "dissolveDuration": 5000
+      }
+    }
+  ],
+  "transitions": {
+    "duration": 1200,
+    "easing": "ease-in-out"
+  },
+  "global": {
+    "respectReducedMotion": true,
+    "targetFrameRate": 60,
+    "enablePerformanceMonitoring": true,
+    "autoAdjustQuality": true,
+    "mobileQualityReduction": 0.7
+  }
+}

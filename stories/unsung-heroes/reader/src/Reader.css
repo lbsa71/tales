@@ -1,0 +1,509 @@
+/* Reset and base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+  font-family: 'Georgia', 'Palatino', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Main reader container */
+.reader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: #0a0a0f;
+  color: #c8c8d0;
+  overflow: hidden;
+  transition: background-color 1.2s ease-in-out;
+}
+
+/* Animated background gradient */
+.background-gradient {
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(
+    ellipse at center,
+    rgba(20, 20, 30, 0.8) 0%,
+    rgba(10, 10, 15, 1) 50%,
+    rgba(5, 5, 8, 1) 100%
+  );
+  animation: gradientShift 60s ease-in-out infinite;
+  opacity: 0.6;
+  transition: background 1.2s ease-in-out;
+}
+
+@keyframes gradientShift {
+  0%, 100% {
+    transform: translate(0, 0) rotate(0deg);
+  }
+  33% {
+    transform: translate(-5%, 5%) rotate(1deg);
+  }
+  66% {
+    transform: translate(5%, -5%) rotate(-1deg);
+  }
+}
+
+/* Ghost layers - residual text from previous chapters */
+.ghost-layers {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.ghost-layer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  max-width: 800px;
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.8;
+  white-space: pre-wrap;
+  color: rgba(200, 200, 208, 0.05);
+  transition: opacity 2s ease-out;
+}
+
+/* Content container */
+.content-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 85%;
+  max-width: 750px;
+  max-height: 75vh;
+  overflow-y: auto;
+  padding: 40px;
+  z-index: 10;
+  transition: opacity 0.8s ease-in-out;
+  pointer-events: auto; /* Needed for scrolling */
+  touch-action: pan-y; /* Allow vertical scrolling on touch devices */
+  -ms-touch-action: pan-y; /* IE/Edge support */
+}
+
+/* Scrollbar styling */
+.content-container::-webkit-scrollbar {
+  width: 4px;
+}
+
+.content-container::-webkit-scrollbar-track {
+  background: rgba(200, 200, 208, 0.05);
+}
+
+.content-container::-webkit-scrollbar-thumb {
+  background: rgba(200, 200, 208, 0.2);
+  border-radius: 2px;
+}
+
+.content-container::-webkit-scrollbar-thumb:hover {
+  background: rgba(200, 200, 208, 0.3);
+}
+
+/* Fade states */
+.content-container.visible {
+  opacity: 1;
+}
+
+.content-container.fading {
+  opacity: 0;
+}
+
+.content-container.hidden {
+  opacity: 0;
+}
+
+/* Chapter text */
+.chapter-text {
+  font-size: 18px;
+  line-height: 1.9;
+  text-align: left;
+  white-space: pre-wrap;
+  letter-spacing: 0.3px;
+  word-spacing: 1px;
+  animation: textFadeIn 1.5s ease-in;
+  /* Black outline for text readability over visual effects */
+  text-shadow: 
+    -1px -1px 0 rgba(0, 0, 0, 0.8),
+    1px -1px 0 rgba(0, 0, 0, 0.8),
+    -1px 1px 0 rgba(0, 0, 0, 0.8),
+    1px 1px 0 rgba(0, 0, 0, 0.8),
+    0 -1px 0 rgba(0, 0, 0, 0.8),
+    -1px 0 0 rgba(0, 0, 0, 0.8),
+    1px 0 0 rgba(0, 0, 0, 0.8),
+    0 1px 0 rgba(0, 0, 0, 0.8);
+  pointer-events: none; /* Allow clicks to pass through to canvas */
+  user-select: none; /* Disable text selection since it would interfere with interactions */
+}
+
+/* Scrollbar area - needs pointer events for scrolling */
+.content-container::-webkit-scrollbar {
+  pointer-events: auto;
+}
+
+@keyframes textFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Proceed button */
+.proceed-button {
+  position: fixed;
+  bottom: 60px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(200, 200, 208, 0.08);
+  border: 1px solid rgba(200, 200, 208, 0.15);
+  color: rgba(200, 200, 208, 0.7);
+  padding: 14px 32px;
+  font-size: 14px;
+  font-family: 'Georgia', serif;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 2px;
+  backdrop-filter: blur(10px);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.proceed-button:hover:not(.disabled) {
+  background: rgba(200, 200, 208, 0.12);
+  border-color: rgba(200, 200, 208, 0.25);
+  color: rgba(200, 200, 208, 0.9);
+  transform: translateX(-50%) translateY(-2px);
+}
+
+.proceed-button.disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.proceed-symbol {
+  font-size: 18px;
+  opacity: 0.8;
+}
+
+.proceed-text {
+  text-transform: lowercase;
+  font-style: italic;
+}
+
+/* Final marker for last chapter */
+.final-marker {
+  position: fixed;
+  bottom: 60px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 100;
+}
+
+.corruption-symbols {
+  font-size: 28px;
+  font-family: monospace;
+  color: rgba(200, 200, 208, 0.4);
+  letter-spacing: 4px;
+  animation: glitchFlicker 3s infinite;
+}
+
+@keyframes glitchFlicker {
+  0%, 100% {
+    opacity: 0.4;
+    text-shadow: 0 0 10px rgba(200, 200, 208, 0.3);
+  }
+  10%, 20%, 30%, 50%, 70%, 90% {
+    opacity: 0.2;
+  }
+  15%, 25%, 35%, 55%, 75%, 95% {
+    opacity: 0.6;
+    text-shadow: 0 0 20px rgba(200, 200, 208, 0.5);
+  }
+}
+
+/* Glitching state for final chapter */
+.reader.glitching .content-container {
+  animation: contentGlitch 5s infinite;
+}
+
+@keyframes contentGlitch {
+  0%, 100% {
+    filter: none;
+  }
+  2%, 8%, 15%, 22%, 38%, 45%, 62%, 78%, 85%, 92% {
+    filter: blur(0.5px);
+    transform: translate(-50%, -50%) translateX(0.5px);
+  }
+  4%, 10%, 18%, 25%, 40%, 48%, 65%, 80%, 88%, 95% {
+    filter: blur(0.3px);
+    transform: translate(-50%, -50%) translateX(-0.5px);
+  }
+}
+
+.reader.glitching .background-gradient {
+  animation: gradientShift 60s ease-in-out infinite, backgroundGlitch 7s infinite;
+}
+
+@keyframes backgroundGlitch {
+  0%, 100% {
+    opacity: 0.6;
+  }
+  10%, 30%, 50%, 70%, 90% {
+    opacity: 0.4;
+  }
+  20%, 40%, 60%, 80% {
+    opacity: 0.7;
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .content-container {
+    width: 90%;
+    padding: 30px 20px;
+    max-height: 70vh;
+  }
+
+  .chapter-text {
+    font-size: 16px;
+    line-height: 1.8;
+  }
+
+  .proceed-button {
+    bottom: 40px;
+    padding: 12px 24px;
+    font-size: 13px;
+  }
+
+  .final-marker {
+    bottom: 40px;
+  }
+}
+
+@media (max-width: 480px) {
+  .content-container {
+    width: 92%;
+    padding: 25px 15px;
+  }
+
+  .chapter-text {
+    font-size: 15px;
+    line-height: 1.7;
+  }
+
+  .proceed-button {
+    bottom: 30px;
+    padding: 10px 20px;
+    font-size: 12px;
+  }
+
+  .corruption-symbols {
+    font-size: 22px;
+  }
+}
+
+/* Audio controls */
+.reader-audio-control {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 200;
+}
+
+/* When reader-audio-control is applied to audio-control directly */
+.reader-audio-control.audio-control {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 200;
+}
+
+.audio-control {
+  position: relative;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.audio-control-toggle {
+  background: rgba(200, 200, 208, 0.08);
+  border: 1px solid rgba(200, 200, 208, 0.15);
+  color: rgba(200, 200, 208, 0.7);
+  padding: 10px 14px;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 2px;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+}
+
+.audio-control-toggle:hover {
+  background: rgba(200, 200, 208, 0.12);
+  border-color: rgba(200, 200, 208, 0.25);
+  color: rgba(200, 200, 208, 0.9);
+}
+
+.audio-control-panel {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  left: auto;
+  background: rgba(10, 10, 15, 0.95);
+  border: 1px solid rgba(200, 200, 208, 0.15);
+  border-radius: 4px;
+  padding: 16px;
+  width: 200px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  z-index: 201;
+  min-width: 200px;
+  box-sizing: border-box;
+}
+
+/* Ensure panel is right-aligned when inside reader-audio-control */
+.reader-audio-control .audio-control-panel,
+.audio-control.reader-audio-control .audio-control-panel {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  left: auto;
+}
+
+.audio-mute-button {
+  background: rgba(200, 200, 208, 0.08);
+  border: 1px solid rgba(200, 200, 208, 0.15);
+  color: rgba(200, 200, 208, 0.7);
+  padding: 8px 12px;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 2px;
+  margin-bottom: 12px;
+  width: 100%;
+  transition: all 0.3s ease;
+}
+
+.audio-mute-button:hover {
+  background: rgba(200, 200, 208, 0.12);
+  border-color: rgba(200, 200, 208, 0.25);
+}
+
+.audio-volume-label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.audio-volume-text {
+  font-size: 12px;
+  color: rgba(200, 200, 208, 0.6);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.audio-volume-slider {
+  width: 100%;
+  height: 4px;
+  background: rgba(200, 200, 208, 0.1);
+  border-radius: 2px;
+  outline: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.audio-volume-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 12px;
+  height: 12px;
+  background: rgba(200, 200, 208, 0.7);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.audio-volume-slider::-webkit-slider-thumb:hover {
+  background: rgba(200, 200, 208, 0.9);
+}
+
+.audio-volume-slider::-moz-range-thumb {
+  width: 12px;
+  height: 12px;
+  background: rgba(200, 200, 208, 0.7);
+  border-radius: 50%;
+  cursor: pointer;
+  border: none;
+  transition: background 0.3s ease;
+}
+
+.audio-volume-slider::-moz-range-thumb:hover {
+  background: rgba(200, 200, 208, 0.9);
+}
+
+.audio-volume-slider:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.audio-volume-value {
+  font-size: 11px;
+  color: rgba(200, 200, 208, 0.5);
+  text-align: right;
+}
+
+.audio-init-button {
+  background: rgba(200, 200, 208, 0.08);
+  border: 1px solid rgba(200, 200, 208, 0.15);
+  color: rgba(200, 200, 208, 0.7);
+  padding: 8px 16px;
+  font-size: 12px;
+  font-family: 'Georgia', serif;
+  cursor: pointer;
+  border-radius: 2px;
+  width: 100%;
+  transition: all 0.3s ease;
+  text-transform: lowercase;
+  letter-spacing: 0.5px;
+}
+
+.audio-init-button:hover {
+  background: rgba(200, 200, 208, 0.12);
+  border-color: rgba(200, 200, 208, 0.25);
+  color: rgba(200, 200, 208, 0.9);
+}
+
+@media (max-width: 768px) {
+  .reader-audio-control {
+    top: 15px;
+    right: 15px;
+  }
+
+  .audio-control-panel {
+    min-width: 180px;
+    padding: 12px;
+  }
+}

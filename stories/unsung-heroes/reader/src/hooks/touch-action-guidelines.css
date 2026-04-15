@@ -1,0 +1,95 @@
+/**
+ * Touch Action and Pointer Events CSS Guidelines
+ * 
+ * This file documents CSS best practices for preventing scroll blocking
+ * and ensuring proper pointer event handling across devices.
+ * 
+ * Related to: Global tap handler implementation (useGlobalTap hook)
+ */
+
+/*
+ * SCROLLABLE CONTAINERS
+ * 
+ * For any element that should be scrollable (especially text containers),
+ * set touch-action to allow the browser to handle scrolling natively.
+ * This prevents blocking of scroll gestures.
+ */
+
+/*
+.scrollable-container {
+  touch-action: pan-y;        /* Allow vertical panning/scrolling */
+  -ms-touch-action: pan-y;    /* IE/Edge support */
+  overflow-y: auto;
+}
+
+.scrollable-horizontal {
+  touch-action: pan-x;        /* Allow horizontal panning/scrolling */
+  -ms-touch-action: pan-x;
+  overflow-x: auto;
+}
+
+.scrollable-both {
+  touch-action: pan-x pan-y;  /* Allow both directions */
+  -ms-touch-action: pan-x pan-y;
+  overflow: auto;
+}
+*/
+
+/*
+ * OVERLAY ELEMENTS
+ * 
+ * For invisible overlays or backdrop elements that should NOT capture
+ * pointer events, use pointer-events: none. Only set to 'auto' when
+ * the overlay needs to actively capture input.
+ */
+
+/*
+.invisible-overlay {
+  pointer-events: none;       /* Let events pass through */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.active-overlay {
+  pointer-events: auto;       /* Capture events when active */
+}
+*/
+
+/*
+ * INTERACTIVE CANVAS ELEMENTS
+ * 
+ * For canvas or other interactive elements that should receive pointer
+ * events but not interfere with document scrolling.
+ */
+
+/*
+.interactive-canvas {
+  touch-action: none;         /* Disable browser touch handling on canvas */
+  pointer-events: auto;       /* Receive pointer events */
+}
+*/
+
+/*
+ * IMPORTANT NOTES:
+ * 
+ * 1. DO NOT globally disable touch-action or call preventDefault() on
+ *    touchmove/wheel events unless you explicitly intend to block scrolling.
+ * 
+ * 2. The useGlobalTap hook uses pointer events with capture: true but
+ *    does NOT call preventDefault(), allowing native scrolling to work.
+ * 
+ * 3. If you must call preventDefault() on pointer events (rare cases),
+ *    do so only on specific elements with { passive: false }, not globally.
+ * 
+ * 4. Browsers treat touchmove and wheel events as passive by default for
+ *    performance. Calling preventDefault() in passive listeners is ignored
+ *    and generates console warnings.
+ * 
+ * References:
+ * - MDN Pointer Events: https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events
+ * - Chrome Scroll Intervention: https://developer.chrome.com/blog/scrolling-intervention-2
+ * - Touch Action CSS: https://developer.mozilla.org/en-US/docs/Web/CSS/touch-action
+ */

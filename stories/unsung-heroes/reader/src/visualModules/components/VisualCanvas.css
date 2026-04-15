@@ -1,0 +1,23 @@
+/**
+ * Visual Canvas Styles
+ * 
+ * Styling for the visual module canvas component.
+ * Positions canvas as a full-screen background layer.
+ */
+
+.visual-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* Respect reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  .visual-canvas {
+    display: none;
+  }
+}

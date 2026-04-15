@@ -1,0 +1,78 @@
+name: Build PDFs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'stories/**/chapters/**'
+      - 'stories/**/translations/**'
+      - '.github/workflows/build-pdfs.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - story: unsung-heroes
+            title: Unsung Heroes
+            chapters_glob: stories/unsung-heroes/final/chapter_*.md
+            output: unsung-heroes.pdf
+            lang: en
+          - story: zelda
+            title: A Rabbit's Life
+            chapters_glob: stories/zelda/chapters/chapter_*.md
+            output: a-rabbits-life.pdf
+            lang: en
+          - story: zelda-svenska
+            title: En kanins liv
+            chapters_glob: stories/zelda/translations/svenska/kapitel/kapitel_*.md
+            output: en-kanins-liv.pdf
+            lang: sv
+          - story: continue
+            title: Continue
+            chapters_glob: stories/continue/chapters/chapter_*.md
+            output: continue.pdf
+            lang: en
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
+
+      - name: Build PDF
+        run: |
+          shopt -s nullglob
+          CHAPTERS=( ${{ matrix.chapters_glob }} )
+          if [ ${#CHAPTERS[@]} -eq 0 ]; then
+            echo "::notice::No chapters found for ${{ matrix.story }} — skipping."
+            exit 0
+          fi
+          # Sort chapter files to preserve order
+          IFS=$'\n' CHAPTERS=($(printf "%s\n" "${CHAPTERS[@]}" | sort))
+          RESOURCE_DIR=$(dirname "${CHAPTERS[0]}")
+          pandoc "${CHAPTERS[@]}" \
+            -o "${{ matrix.output }}" \
+            --pdf-engine=pdflatex \
+            --resource-path="$RESOURCE_DIR" \
+            --toc --toc-depth=1 \
+            -V geometry:margin=1in \
+            -V documentclass=report \
+            -V title="${{ matrix.title }}" \
+            -V lang=${{ matrix.lang }}
+
+      - name: Upload PDF
+        if: ${{ hashFiles(matrix.output) != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.story }}-pdf
+          path: ${{ matrix.output }}
+          retention-days: 30

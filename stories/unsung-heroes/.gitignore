@@ -1,0 +1,54 @@
+
+# Research notes
+/research/
+
+# Editor and system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+/tmp/
+*.tmp
+*.temp
+
+# Build outputs (if generating PDFs/EPUBs)
+*.pdf
+*.epub
+*.mobi
+/final/*.pdf
+/final/*.epub
+/final/*.mobi
+
+# Backup files
+*.bak
+*.backup
+*_backup.md
+
+# OS generated files
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Node modules (if using any markdown tools)
+node_modules/
+package-lock.json
+
+# Reader build artifacts
+/reader/dist/
+
+# Python (if using any processing scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# Keep final outputs but ignore intermediate builds
+!final/UNSUNG_HEROES_final.md

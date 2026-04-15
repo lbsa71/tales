@@ -1,0 +1,226 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Audio Modules Configuration",
+  "description": "Configuration for generative audio modules in Unsung Heroes interactive reader",
+  "modules": [
+    {
+      "chapterId": 1,
+      "moduleName": "FilteredNoise",
+      "enabled": true,
+      "config": {
+        "masterGain": 0.30,
+        "panWidth": 0.3,
+        "lowCutoff": 100,
+        "highCutoff": 600,
+        "density": 0.2,
+        "complexity": 0.3,
+        "noiseType": "pink",
+        "noiseGain": 0.24,
+        "filterFrequency": 300,
+        "filterQ": 0.5,
+        "filterModulationRate": 0.02,
+        "filterModulationDepth": 40,
+        "grainDensity": 0.001,
+        "grainDuration": 0.2,
+        "grainPitchMin": 150,
+        "grainPitchMax": 250,
+        "grainGain": 0.16
+      }
+    },
+    {
+      "chapterId": 2,
+      "moduleName": "GranularCloud",
+      "enabled": true,
+      "config": {
+        "masterGain": 0.18,
+        "panWidth": 0.5,
+        "lowCutoff": 80,
+        "highCutoff": 800,
+        "density": 0.3,
+        "complexity": 0.4,
+        "minConcurrentGrains": 5,
+        "maxConcurrentGrains": 12,
+        "spawnRate": 0.5,
+        "grainDurationMin": 0.5,
+        "grainDurationMax": 2.0,
+        "grainPitchMin": 120,
+        "grainPitchMax": 300,
+        "grainPitchVariation": 0.15,
+        "stereoSpread": 0.6,
+        "spatialMovement": 0.03,
+        "grainShape": "triangle",
+        "envelopeShape": "gaussian"
+      }
+    },
+    {
+      "chapterId": 3,
+      "moduleName": "SparseFM",
+      "enabled": true,
+      "config": {
+        "masterGain": 0.16,
+        "panWidth": 0.4,
+        "lowCutoff": 150,
+        "highCutoff": 1000,
+        "density": 0.25,
+        "complexity": 0.35,
+        "eventDensity": 3,
+        "eventVariation": 0.7,
+        "carrierFreqMin": 200,
+        "carrierFreqMax": 350,
+        "modulatorRatio": 2.0,
+        "modulationIndex": 50,
+        "attackTime": 0.1,
+        "decayTime": 0.6,
+        "peakGain": 0.12,
+        "carrierType": "sine",
+        "modulatorType": "sine"
+      }
+    },
+    {
+      "chapterId": 4,
+      "moduleName": "Microsound",
+      "enabled": true,
+      "config": {
+        "masterGain": 0.28,
+        "panWidth": 0.5,
+        "lowCutoff": 200,
+        "highCutoff": 2000,
+        "density": 0.3,
+        "complexity": 0.4,
+        "crackleRate": 2.5,
+        "crackleIntensity": 0.8,
+        "crackleDuration": 0.15,
+        "bitDepth": 12,
+        "bitDepthVariation": 3,
+        "sampleRateReduction": 4,
+        "filterFreq": 300,
+        "panRandomization": 0.7
+      }
+    },
+    {
+      "chapterId": 5,
+      "moduleName": "AdditiveDrone",
+      "enabled": true,
+      "config": {
+        "masterGain": 0.17,
+        "panWidth": 0.3,
+        "lowCutoff": 60,
+        "highCutoff": 800,
+        "density": 0.5,
+        "complexity": 0.5,
+        "oscillatorCount": 4,
+        "fundamentalFreq": 110,
+        "harmonic": true,
+        "harmonicRatios": [1.0, 2.0, 3.0, 4.0],
+        "phaseDriftRate": 0.01,
+        "phaseDriftDepth": 0.3,
+        "amplitudeVariation": 0.15,
+        "oscillatorGains": [1.0, 0.5, 0.3, 0.2],
+        "detuning": 5
+      }
+    },
+    {
+      "chapterId": 6,
+      "moduleName": "StereoShift",
+      "enabled": true,
+      "config": {
+        "masterGain": 0.16,
+        "panWidth": 0.8,
+        "lowCutoff": 80,
+        "highCutoff": 1200,
+        "density": 0.4,
+        "complexity": 0.45,
+        "voiceCount": 3,
+        "voiceFreqs": [165, 220, 330],
+        "voiceWaveform": "triangle",
+        "panRate": 0.015,
+        "panDepth": 0.7,
+        "panPhaseOffset": 0.33,
+        "attackTime": 2.0,
+        "releaseTime": 3.0,
+        "filterCutoff": 800,
+        "filterResonance": 0.5
+      }
+    },
+    {
+      "chapterId": 7,
+      "moduleName": "SyntheticChimes",
+      "enabled": true,
+      "config": {
+        "masterGain": 0.15,
+        "panWidth": 0.6,
+        "lowCutoff": 200,
+        "highCutoff": 3000,
+        "density": 0.2,
+        "complexity": 0.3,
+        "chimeDensity": 1.5,
+        "clusterProbability": 0.2,
+        "clusterSize": 3,
+        "fundamentalFreqs": [330, 440, 550, 660],
+        "inharmonicity": 0.05,
+        "brightness": 0.4,
+        "attackTime": 0.01,
+        "decayTime": 4.0,
+        "peakGain": 0.18,
+        "stereoVariation": 0.5
+      }
+    },
+    {
+      "chapterId": 8,
+      "moduleName": "NeuralSonification",
+      "enabled": true,
+      "config": {
+        "masterGain": 0.16,
+        "panWidth": 0.4,
+        "lowCutoff": 100,
+        "highCutoff": 1500,
+        "density": 0.4,
+        "complexity": 0.6,
+        "oscillatorCount": 6,
+        "freqMin": 150,
+        "freqMax": 600,
+        "lfoCount": 3,
+        "lfoRateMin": 0.01,
+        "lfoRateMax": 0.05,
+        "lfoDepth": 50,
+        "eventProbability": 0.02,
+        "eventMagnitude": 100,
+        "oscillatorGains": [1.0, 0.8, 0.6, 0.5, 0.4, 0.3]
+      }
+    },
+    {
+      "chapterId": 9,
+      "moduleName": "HyperlowRumble",
+      "enabled": true,
+      "config": {
+        "masterGain": 0.20,
+        "panWidth": 0.5,
+        "lowCutoff": 30,
+        "highCutoff": 2500,
+        "density": 0.35,
+        "complexity": 0.7,
+        "bassFreqMin": 35,
+        "bassFreqMax": 55,
+        "bassModRate": 0.03,
+        "bassGain": 0.25,
+        "glitchDensity": 0.3,
+        "glitchIntensity": 0.4,
+        "glitchDuration": 0.08,
+        "bitDepthMin": 8,
+        "bitDepthMax": 14,
+        "bassGlitchBalance": 0.4
+      }
+    }
+  ],
+  "transitions": {
+    "duration": 3000,
+    "easing": "ease-in-out"
+  },
+  "global": {
+    "respectReducedMotion": true,
+    "enableAudio": true,
+    "defaultVolume": 0.5,
+    "maxConcurrentModules": 2,
+    "masterCompression": true
+  }
+}

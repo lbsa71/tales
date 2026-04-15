@@ -1,0 +1,22 @@
+node_modules/
+dist/
+build/
+.venv/
+__pycache__/
+*.pyc
+
+# voice-renderer generated output
+tools/voice-renderer/out/
+
+# pandoc build output
+*.pdf
+
+# editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# env
+.env
+.env.local
