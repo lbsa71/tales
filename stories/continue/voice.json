@@ -1,0 +1,8 @@
+{
+  "_doc": "Per-tale voice-renderer overrides. See tools/voice-renderer/reader.py load_story_overrides. Layering: language profile defaults < this file < CLI flag.",
+  "languages": {
+    "en": {
+      "speed": 1.0
+    }
+  }
+}

@@ -147,6 +147,47 @@ FALLBACK_OUT_DIR = SCRIPT_DIR / "out"
 DOTENV_PATH = SCRIPT_DIR / ".env"
 
 
+def _story_root_for(paths: list[Path]) -> Path | None:
+    """Return <repo>/stories/<name> for the first input under stories/, else None."""
+    if not paths:
+        return None
+    first = paths[0].resolve()
+    stories_root = REPO_ROOT / "stories"
+    try:
+        rel = first.relative_to(stories_root)
+    except ValueError:
+        return None
+    return stories_root / rel.parts[0]
+
+
+def load_story_overrides(paths: list[Path], language: str) -> dict:
+    """Read stories/<name>/voice.json -> overrides for this language.
+
+    Schema:
+        {
+          "languages": {
+            "<lang>": { "speed": 1.0, "stability": 0.6, ... }
+          }
+        }
+
+    Any field present here overrides the language profile default but is
+    overridden by an explicit CLI flag. Missing file or missing language
+    block returns {} (no overrides).
+    """
+    story_root = _story_root_for(paths)
+    if story_root is None:
+        return {}
+    cfg_path = story_root / "voice.json"
+    if not cfg_path.exists():
+        return {}
+    try:
+        data = json.loads(cfg_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"  WARN: could not read {cfg_path}: {e}", file=sys.stderr)
+        return {}
+    return (data.get("languages") or {}).get(language) or {}
+
+
 def derive_out_dir(paths: list[Path], language: str) -> Path:
     """Map an input path to dist/stories/<story>/audio/<language>/.
 
@@ -582,16 +623,29 @@ def cmd_synth(args) -> int:
             f"Known: {', '.join(sorted(LANGUAGE_PROFILES))}"
         )
 
-    effective_model = args.model if args.model is not None else profile["model"]
-    effective_voice = args.voice if args.voice is not None else profile["voice_id"]
-    effective_max_chars = args.max_chars if args.max_chars is not None else profile["max_chars"]
+    paths = resolve_chapter_paths(args)
+    if not paths:
+        raise SystemExit("no chapters matched")
+
+    overrides = load_story_overrides(paths, args.language)
+
+    def resolve(cli_val, field, profile_default=None):
+        if cli_val is not None:
+            return cli_val
+        if field in overrides:
+            return overrides[field]
+        return profile.get(field, profile_default)
+
+    effective_model = resolve(args.model, "model")
+    effective_voice = resolve(args.voice, "voice_id")
+    effective_max_chars = resolve(args.max_chars, "max_chars")
     voice_settings = {
-        "stability": args.stability if args.stability is not None else profile["stability"],
-        "similarity_boost": (args.similarity_boost if args.similarity_boost is not None
-                             else profile["similarity_boost"]),
-        "style": args.style if args.style is not None else profile["style"],
-        "use_speaker_boost": False if args.no_speaker_boost else profile["use_speaker_boost"],
-        "speed": args.speed if args.speed is not None else profile.get("speed", 1.0),
+        "stability": resolve(args.stability, "stability"),
+        "similarity_boost": resolve(args.similarity_boost, "similarity_boost"),
+        "style": resolve(args.style, "style"),
+        "use_speaker_boost": (False if args.no_speaker_boost
+                              else resolve(None, "use_speaker_boost")),
+        "speed": resolve(args.speed, "speed", profile_default=1.0),
     }
 
     stitching_enabled = effective_model not in MODELS_WITHOUT_STITCHING
@@ -617,13 +671,13 @@ def cmd_synth(args) -> int:
             f"prosody reset at chunk boundaries."
         )
 
-    paths = resolve_chapter_paths(args)
-    if not paths:
-        raise SystemExit("no chapters matched")
-
     out_root = Path(args.out).resolve() if args.out else derive_out_dir(paths, args.language)
     out_root.mkdir(parents=True, exist_ok=True)
     print(f"out={out_root}")
+    if overrides:
+        story_root = _story_root_for(paths)
+        print(f"  story overrides ({story_root.name}/voice.json, lang={args.language}): "
+              f"{', '.join(f'{k}={v}' for k, v in overrides.items())}")
 
     total_chunks = 0
     total_bytes = 0
