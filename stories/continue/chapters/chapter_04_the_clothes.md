@@ -58,7 +58,7 @@ The light through the kitchen window has moved further. The rectangle is gone an
 
 At the end of the third cycle, the rack on the balcony is full of clothes and the balcony air is cool. Leave them to dry overnight.
 
-Take the list from the inside pocket of the coat at the kitchen counter. Read it. Cross off part of Item 3 — *Bedroom — clothes* — and leave the *to charity* part uncrossed. Fold the paper once and then once again and put it back in the inside pocket of the coat.
+Take the list from the inside pocket of the coat at the kitchen counter. Read it. Cross off part of Item 3 — *The bedroom — clothes* — and leave the *to charity* part uncrossed. Fold the paper once and then once again and put it back in the inside pocket of the coat.
 
 Walk through the hallway to the bedroom. The wardrobe doors stand open. The rail is empty. The shelves are bare.
 

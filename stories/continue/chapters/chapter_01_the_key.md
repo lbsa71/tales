@@ -34,7 +34,7 @@ Take paper from the drawer of the kitchen table and a pen from the jar on the co
 
 1. Kitchen — pack and clean
 2. Cancel utilities
-3. Bedroom — clothes to charity
+3. The bedroom — clothes to charity
 4. Find the will
 5. Living room — books
 6. Sort photographs

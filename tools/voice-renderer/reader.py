@@ -255,6 +255,7 @@ class Chunk:
     text: str
     section: int  # 0-based index into the chapter's --- separated sections
     part: int  # 0-based index inside the section (when a section had to be split)
+    standalone: bool = False  # numbered-list item: render with no stitching context
 
 
 def _strip_markdown(text: str) -> str:
@@ -276,22 +277,84 @@ def _strip_markdown(text: str) -> str:
     return "\n".join(out_lines)
 
 
-def _split_section_to_parts(section: str, max_chars: int) -> list[str]:
-    """Greedy paragraph packer. Never splits mid-paragraph."""
+LIST_LINE_RE = re.compile(r"^\s*\d+[.:)]\s+\S")
+
+
+def _expand_list_atoms(paragraph: str) -> list[tuple[str, bool]]:
+    """Split a paragraph into atoms, marking numbered-list lines as standalone.
+
+    A numbered list inside a single paragraph (no blank lines between items)
+    triggers TTS list-cadence detection — short items get rattled off in a
+    memo voice rather than read as prose. Splitting each item into its own
+    request defeats the pattern: each item is rendered with no neighbor
+    context, so the model has no list to recognise.
+
+    Returns [(text, is_standalone)]. Standalone atoms must NOT be packed
+    with siblings. Non-list runs are preserved as a single atom each.
+    """
+    lines = paragraph.split("\n")
+    list_mask = [bool(LIST_LINE_RE.match(line)) for line in lines]
+    if not any(list_mask):
+        return [(paragraph, False)]
+    atoms: list[tuple[str, bool]] = []
+    run: list[str] = []
+    for line, is_list in zip(lines, list_mask):
+        if is_list:
+            if run:
+                joined = "\n".join(run).strip()
+                if joined:
+                    atoms.append((joined, False))
+                run = []
+            atoms.append((line.strip(), True))
+        else:
+            run.append(line)
+    if run:
+        joined = "\n".join(run).strip()
+        if joined:
+            atoms.append((joined, False))
+    return atoms
+
+
+def _split_section_to_parts(
+    section: str, max_chars: int, split_lists: bool = True,
+) -> list[tuple[str, bool]]:
+    """Greedy paragraph packer. Never splits mid-paragraph.
+
+    Returns [(text, is_standalone)]. When split_lists=True (default),
+    numbered-list lines (matched by LIST_LINE_RE) are emitted as their
+    own standalone parts — never packed with siblings or surrounding
+    prose — so each item becomes its own TTS request. Standalone parts
+    are also bypassed when looking up stitching neighbors (see synth
+    loop) so the list pattern doesn't leak through previous_text/
+    next_text. When split_lists=False, paragraphs pack normally and
+    nothing is marked standalone.
+    """
     paragraphs = [p.strip() for p in re.split(r"\n\s*\n", section) if p.strip()]
-    parts: list[str] = []
+    atoms: list[tuple[str, bool]] = []
+    for p in paragraphs:
+        if split_lists:
+            atoms.extend(_expand_list_atoms(p))
+        else:
+            atoms.append((p, False))
+    parts: list[tuple[str, bool]] = []
     buf: list[str] = []
     buf_len = 0
-    for p in paragraphs:
-        extra = len(p) + (2 if buf else 0)
+    for text, standalone in atoms:
+        if standalone:
+            if buf:
+                parts.append(("\n\n".join(buf), False))
+                buf, buf_len = [], 0
+            parts.append((text, True))
+            continue
+        extra = len(text) + (2 if buf else 0)
         if buf and buf_len + extra > max_chars:
-            parts.append("\n\n".join(buf))
-            buf, buf_len = [p], len(p)
+            parts.append(("\n\n".join(buf), False))
+            buf, buf_len = [text], len(text)
         else:
-            buf.append(p)
+            buf.append(text)
             buf_len += extra
     if buf:
-        parts.append("\n\n".join(buf))
+        parts.append(("\n\n".join(buf), False))
     # Edge case: a single paragraph longer than max_chars. We keep it whole
     # rather than splitting mid-sentence; max_chars is a soft target.
     return parts
@@ -323,7 +386,9 @@ def _looks_like_heading_section(section: str) -> bool:
     return bool(s)
 
 
-def chunk_chapter(text: str, max_chars: int = 1500) -> list[Chunk]:
+def chunk_chapter(
+    text: str, max_chars: int = 1500, split_lists: bool = True,
+) -> list[Chunk]:
     flat = _strip_markdown(text)
     sections = [s.strip() for s in SECTION_SEP_RE.split(flat) if s.strip()]
 
@@ -344,9 +409,12 @@ def chunk_chapter(text: str, max_chars: int = 1500) -> list[Chunk]:
     chunks: list[Chunk] = []
     idx = 0
     for sec_i, section in enumerate(sections):
-        parts = _split_section_to_parts(section, max_chars)
-        for part_i, part in enumerate(parts):
-            chunks.append(Chunk(index=idx, text=part, section=sec_i, part=part_i))
+        parts = _split_section_to_parts(section, max_chars, split_lists=split_lists)
+        for part_i, (part, standalone) in enumerate(parts):
+            chunks.append(Chunk(
+                index=idx, text=part, section=sec_i, part=part_i,
+                standalone=standalone,
+            ))
             idx += 1
     return chunks
 
@@ -586,7 +654,7 @@ def cmd_chunks(args) -> int:
     paths = resolve_chapter_paths(args)
     for p in paths:
         text = p.read_text(encoding="utf-8")
-        chunks = chunk_chapter(text, max_chars=max_chars)
+        chunks = chunk_chapter(text, max_chars=max_chars, split_lists=args.split_lists)
         print(f"\n=== {p.name} — {len(chunks)} chunks (max_chars={max_chars}) ===")
         total = 0
         for c in chunks:
@@ -684,7 +752,9 @@ def cmd_synth(args) -> int:
     total_chars = 0
     for p in paths:
         text = p.read_text(encoding="utf-8")
-        chunks = chunk_chapter(text, max_chars=effective_max_chars)
+        chunks = chunk_chapter(
+            text, max_chars=effective_max_chars, split_lists=args.split_lists,
+        )
         stem = chapter_stem(p)
         chapter_out = out_root / stem
 
@@ -763,9 +833,24 @@ def cmd_synth(args) -> int:
             # Models in MODELS_WITHOUT_STITCHING (currently just
             # eleven_v3) reject these params server-side, so we zero
             # them out for those models.
+            # Stitching context always pulls from the nearest non-standalone
+            # neighbor, skipping past standalone chunks (numbered-list items)
+            # in both directions. This anchors prosody to surrounding prose
+            # while preventing standalone chunks from leaking the list
+            # pattern back into each other's context — the whole point of
+            # splitting them out is defeated if "1. Kitchen..." is fed as
+            # previous_text when rendering "2. Cancel utilities".
             if stitching_enabled:
-                prev_t = chunks[c.index - 1].text if c.index > 0 else None
-                next_t = chunks[c.index + 1].text if c.index + 1 < len(chunks) else None
+                prev_t = None
+                for j in range(c.index - 1, -1, -1):
+                    if not chunks[j].standalone:
+                        prev_t = chunks[j].text
+                        break
+                next_t = None
+                for j in range(c.index + 1, len(chunks)):
+                    if not chunks[j].standalone:
+                        next_t = chunks[j].text
+                        break
             else:
                 prev_t = None
                 next_t = None
@@ -963,6 +1048,14 @@ def build_parser() -> argparse.ArgumentParser:
     _add_language_flag(sp)
     sp.add_argument("--max-chars", type=int, default=None,
                     help="override the language profile's max_chars (soft cap per chunk)")
+    sp.add_argument("--no-split-lists", action="store_false", dest="split_lists",
+                    default=True,
+                    help="disable per-item splitting of numbered lists. Default "
+                         "behavior emits each numbered-list line (e.g. '1. Foo') "
+                         "as its own standalone chunk so it gets its own TTS "
+                         "request and bypasses adjacent list items in stitching "
+                         "context — defeats list-cadence prosody. Disable to "
+                         "pack list items with surrounding paragraphs as before.")
     sp.set_defaults(func=cmd_chunks)
 
     # synth
@@ -986,6 +1079,14 @@ def build_parser() -> argparse.ArgumentParser:
                     help="disable speaker_boost (otherwise use profile's value)")
     sp.add_argument("--max-chars", type=int, default=None,
                     help="override profile max_chars (soft per-chunk cap)")
+    sp.add_argument("--no-split-lists", action="store_false", dest="split_lists",
+                    default=True,
+                    help="disable per-item splitting of numbered lists. Default "
+                         "behavior emits each numbered-list line (e.g. '1. Foo') "
+                         "as its own standalone chunk so it gets its own TTS "
+                         "request and bypasses adjacent list items in stitching "
+                         "context — defeats list-cadence prosody. Disable to "
+                         "pack list items with surrounding paragraphs as before.")
     sp.add_argument("--out", type=str, default=None,
                     help="output dir; if omitted, derived from the input path "
                          "(stories/<name>/... -> dist/stories/<name>/audio/)")
