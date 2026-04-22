@@ -42,7 +42,7 @@ The sofa is not mother's sofa. It is a low grey three-seater with a glass-topped
 
 Sit down on the floor next to the sofa. The rug under the legs is thin and dark, not mother's rug.
 
-The apartment is legally the protagonist's now. Everything in the apartment belongs to the person sitting on the floor beside the glass-topped coffee table.
+Everything in the apartment belongs to the person sitting on the floor beside the glass-topped coffee table.
 
 Stay on the floor for a while. Do not open any boxes. Do not wrap anything.
 

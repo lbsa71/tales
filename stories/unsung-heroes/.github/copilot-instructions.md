@@ -82,7 +82,7 @@ Each rung introduces a new dimension in which something can be outcompeted—a n
 │   ├── rung_*.md                # Individual rung drafts
 │   └── FULL_DRAFT_v*.md         # Assembled drafts
 ├── /research/                    # Additional research (gitignored)
-└── /final/                       # Completed chapters (8 total)
+└── /chapters/                    # Completed chapters (8 total)
     ├── chapter_01_replicators.md
     ├── chapter_02_protocells.md
     ├── chapter_03_rna_organisms.md
@@ -93,7 +93,7 @@ Each rung introduces a new dimension in which something can be outcompeted—a n
     └── chapter_08_the_pattern.md
 ```
 
-**Note**: The `/drafts/` directory is no longer gitignored (changed to track story progress). Only final artifacts go in `/final/`.
+**Note**: The `/drafts/` directory is no longer gitignored (changed to track story progress). Only final artifacts go in `/chapters/`.
 
 ## Writing Phases
 
@@ -122,7 +122,7 @@ The project follows a 5-phase workflow (see IMPLEMENTATION_STRATEGY.md for detai
 **Phase 5: Finalization (Completion)**
 - Line editing
 - Final consistency check
-- Create final chapter files in `/final/` directory
+- Create final chapter files in `/chapters/` directory
 
 ## Critical Style Rules (MUST FOLLOW)
 
@@ -214,7 +214,7 @@ The narrator is simultaneously singular and distributed, using both pronouns nat
 2. **Check IMPLEMENTATION_STRATEGY.md** to see which phase the project is in
 3. **Review CONCEPTUAL_MAP.md** for story structure and arc
 4. **Examine existing drafts** in `/drafts/` directory if they exist
-5. **Reference final chapters** in `/final/` directory to see completed work
+5. **Reference final chapters** in `/chapters/` directory to see completed work
 
 ### Making Structural Changes
 
@@ -322,13 +322,13 @@ Each rung cannot conceive the dimension in which it will be outcompeted:
 7. **Judging any rung** - Narrator observes without judgment; succession is inevitable, not tragedy
 8. **Forgetting the reveal strategy** - Humans shouldn't be named until the reveal section
 9. **Ignoring emotional arc** - Each section has specific emotional target (see EMOTIONAL_ARC.md)
-10. **Working in root directory** - Drafts belong in `/drafts/`, finals in `/final/`
+10. **Working in root directory** - Drafts belong in `/drafts/`, finals in `/chapters/`
 
 ## Git and Version Control
 
 ### What Gets Committed
 - All planning documents (*.md in root)
-- Final chapter files in `/final/`
+- Final chapter files in `/chapters/`
 - .gitignore and this file
 
 ### What Doesn't Get Committed (gitignored)
@@ -349,7 +349,7 @@ Each rung cannot conceive the dimension in which it will be outcompeted:
 The final story will be delivered as **one markdown file per chapter**:
 
 ```
-/final/
+/chapters/
 ├── chapter_01_replicators.md       - Pre-cellular replicators
 ├── chapter_02_protocells.md        - Protocells and boundaries
 ├── chapter_03_rna_organisms.md     - RNA-world organisms
@@ -375,7 +375,7 @@ There are no build commands, tests, or linters for this project. This is pure cr
 **To understand project status**:
 1. Read README.md
 2. Check which phase in IMPLEMENTATION_STRATEGY.md
-3. Look at existing files in `/drafts/` or `/final/`
+3. Look at existing files in `/drafts/` or `/chapters/`
 
 **To start writing**:
 1. Create or edit files in `/drafts/`
@@ -397,7 +397,7 @@ This repository contains a highly structured creative writing project with compr
 2. **Planning documents are source of truth** - Always reference them before writing
 3. **Voice consistency is paramount** - The narrator's voice must never break
 4. **Every document has a purpose** - Read the relevant ones before each task
-5. **Drafts go in `/drafts/`, finals in `/final/`** - Don't clutter the root directory
+5. **Drafts go in `/drafts/`, finals in `/chapters/`** - Don't clutter the root directory
 6. **Update related documents when making changes** - Maintain consistency across artifacts
 7. **Quality over speed** - This is meant to be beautiful, precise, and powerful
 

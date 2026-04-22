@@ -29,7 +29,7 @@ Complete all remaining phases to deliver a publication-ready story.
 - "pools—all" → "pools. All"
 
 #### 3. Phase 5: Finalization ✓
-**Created Final Chapter Files** in `/final/` directory:
+**Created Final Chapter Files** in `/chapters/` directory:
 - chapter_01_replicators.md (~1,182 words)
 - chapter_02_protocells.md (~959 words)
 - chapter_03_rna_organisms.md (~347 words)
@@ -74,13 +74,13 @@ Complete all remaining phases to deliver a publication-ready story.
 - ✅ Phase 4 (Refinement): Style violations fixed
 - ✅ Phase 5 (Finalization): Final chapter files created
 
-**Story Location**: `/final/` directory (8 chapter files)
+**Story Location**: `/chapters/` directory (8 chapter files)
 
 **Publication Status**: Ready ✓
 
 ### Deliverables
 
-**Final Chapter Files** (in `/final/` directory):
+**Final Chapter Files** (in `/chapters/` directory):
 - chapter_01_replicators.md
 - chapter_02_protocells.md
 - chapter_03_rna_organisms.md
@@ -95,7 +95,7 @@ Complete all remaining phases to deliver a publication-ready story.
 - `/drafts/DRAFT_LOG.md` - Complete phase documentation
 - `README.md` - Updated to reflect completion
 - `PROGRESS_SUMMARY.md` - This document
-- `final/README.md` - Final directory documentation
+- `chapters/README.md` - Chapters directory documentation
 
 **All planning artifacts** preserved in repository root.
 

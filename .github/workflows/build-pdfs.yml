@@ -21,7 +21,7 @@ jobs:
         include:
           - story: unsung-heroes
             title: Unsung Heroes
-            chapters_glob: stories/unsung-heroes/final/chapter_*.md
+            chapters_glob: stories/unsung-heroes/chapters/chapter_*.md
             output: unsung-heroes.pdf
             lang: en
           - story: zelda

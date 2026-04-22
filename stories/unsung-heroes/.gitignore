@@ -20,9 +20,9 @@ Thumbs.db
 *.pdf
 *.epub
 *.mobi
-/final/*.pdf
-/final/*.epub
-/final/*.mobi
+/chapters/*.pdf
+/chapters/*.epub
+/chapters/*.mobi
 
 # Backup files
 *.bak
@@ -51,4 +51,4 @@ venv/
 env/
 
 # Keep final outputs but ignore intermediate builds
-!final/UNSUNG_HEROES_final.md
+!chapters/UNSUNG_HEROES_final.md

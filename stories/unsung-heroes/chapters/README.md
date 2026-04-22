@@ -1,4 +1,4 @@
-# Final Chapters Directory
+# Chapters
 
 This directory contains the final, polished chapter files for "Unsung Heroes".
 

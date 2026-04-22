@@ -18,11 +18,11 @@ The top shelf of the freezer holds six plastic containers, each with a masking-t
 
 The second shelf holds four small foil-wrapped packages, each with a strip of masking tape and a date written in biro.
 
-Take the packages out and look at the dates. *11/2*. *18/2*. *4/3*. *23/3*.
+Take the packages out and look at the dates. *Eleventh of February*. *Eighteenth of February*. *Fourth of March*. *Twenty-third of March*.
 
 Look at the date on the mobile taken from the inside pocket of the coat. The date on the mobile is the twentieth of March.
 
-The package dated *23/3* is in a hand. The foil is cold. The writing on the masking tape is mother's handwriting.
+The package dated *Twenty-third of March* is in a hand. The foil is cold. The writing on the masking tape is mother's handwriting.
 
 Put the package back in the freezer with the others.
 
@@ -30,7 +30,7 @@ Close the freezer.
 
 Take a black bin bag from under the sink. Open it on the floor beside the fridge.
 
-Open the freezer again. Take out the containers one at a time and put them in the bag. The containers are frozen solid. The bag fills slowly. Take out the foil packages one at a time and drop them into the bag. Leave the one dated *23/3* on the counter.
+Open the freezer again. Take out the containers one at a time and put them in the bag. The containers are frozen solid. The bag fills slowly. Take out the foil packages one at a time and drop them into the bag. Leave the one dated *Twenty-third of March* on the counter.
 
 The bag is heavy at the bottom.
 
@@ -38,7 +38,7 @@ Tie the bag. Carry it down the stairs, past the second-floor landing with its po
 
 Back up the stairs. The third-floor landing. The apartment door, standing open.
 
-Back to the kitchen. The freezer hums. The package dated *23/3* is on the counter. Put it back on the top shelf of the empty freezer. Close the freezer door.
+Back to the kitchen. The freezer hums. The package dated *Twenty-third of March* is on the counter. Put it back on the top shelf of the empty freezer. Close the freezer door.
 
 Walk to the counter and pick up the glass from the middle of the sheet of newspaper. Place the glass back on the sheet. Bring the corners of the paper up and over and press them around the edge of the glass with the side of a thumb. Pick up the tape from the counter. Pull an inch and cut it on the dispenser's blade. Press the tape across the seam.
 

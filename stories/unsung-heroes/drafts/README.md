@@ -107,7 +107,7 @@ Each template includes:
 Next phases:
 - Phase 3: Assembly (bring pieces together)
 - Phase 4: Refinement (polish voice, themes, emotion)
-- Phase 5: Finalization (final touches, create chapter files in /final/)
+- Phase 5: Finalization (final touches, create chapter files in /chapters/)
 
 ---
 

@@ -344,7 +344,7 @@ Based on any feedback:
 
 **Output Format**: One markdown file per chapter
 
-**Create final files in `/final/` directory** (8 chapters):
+**Create final files in `/chapters/` directory** (8 chapters):
 - `chapter_01_replicators.md` - Pre-cellular replicators
 - `chapter_02_protocells.md` - Protocells and boundaries
 - `chapter_03_rna_organisms.md` - RNA-world organisms
@@ -438,7 +438,7 @@ Each chapter file should:
 │   └── FULL_DRAFT_v1.md
 ├── /research/
 │   └── [Any additional research notes]
-└── /final/
+└── /chapters/
     ├── chapter_01_replicators.md
     ├── chapter_02_protocells.md
     ├── chapter_03_rna_organisms.md

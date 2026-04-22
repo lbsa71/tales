@@ -3,12 +3,12 @@ import react from '@vitejs/plugin-react'
 import { copyFileSync, mkdirSync, readFileSync, writeFileSync } from 'fs'
 import { resolve } from 'path'
 
-// Plugin to copy markdown files from /final to dist
+// Plugin to copy markdown files from /chapters to dist
 function copyMarkdownFiles() {
   return {
     name: 'copy-markdown-files',
     closeBundle() {
-      const finalDir = resolve(__dirname, '../final')
+      const chaptersDir = resolve(__dirname, '../chapters')
       const distDir = resolve(__dirname, 'dist/chapters')
       
       try {
@@ -31,7 +31,7 @@ function copyMarkdownFiles() {
 
         filesToCopy.forEach(filename => {
           copyFileSync(
-            resolve(finalDir, filename),
+            resolve(chaptersDir, filename),
             resolve(distDir, filename)
           )
         })
@@ -39,13 +39,13 @@ function copyMarkdownFiles() {
         const unsungHeroesPath = resolve(distDir, 'UNSUNG_HEROES.md')
         const combinedContent = [frontMatter, ...chapters, postscript]
           .map(filename =>
-            readFileSync(resolve(finalDir, filename), 'utf-8')
+            readFileSync(resolve(chaptersDir, filename), 'utf-8')
           )
           .join('\n\n')
 
         writeFileSync(unsungHeroesPath, combinedContent)
-        
-        console.log('✓ Copied markdown files from /final to dist/chapters and built UNSUNG_HEROES.md')
+
+        console.log('✓ Copied markdown files from /chapters to dist/chapters and built UNSUNG_HEROES.md')
       } catch (error) {
         console.warn('Warning: Could not copy markdown files:', error)
       }

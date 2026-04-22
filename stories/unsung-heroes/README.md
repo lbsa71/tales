@@ -81,7 +81,7 @@ The artifacts support a structured yet flexible writing process:
 - [x] Chapter 7 (Representation) - 548 words - Symbolic minds and abstraction
 - [x] Chapter 8 (The Pattern) - 683 words - Narrator reveal + successor
 
-**All final chapter files**: Available in `/final/` directory
+**All final chapter files**: Available in `/chapters/` directory
 
 ### Story Complete - All Phases Finished
 
@@ -97,7 +97,7 @@ The artifacts support a structured yet flexible writing process:
 - ✅ Phase 3 Assembly complete - full draft assembled
 - ✅ Phase 4 Refinement complete - style violations fixed
 - ✅ Phase 5 Finalization complete - final chapter files created
-- ✅ **Story published in `/final/` directory**
+- ✅ **Story published in `/chapters/` directory**
 
 ### Quality Metrics
 
