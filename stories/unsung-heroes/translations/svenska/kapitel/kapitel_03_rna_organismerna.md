@@ -40,13 +40,13 @@ Mönstret fortsatte att upprepas.
 
 Varje framsteg löste ett problem och skapade förutsättningarna för nästa. Kemisk beständighet ledde till gränser. Gränser ledde till precision. Precision ledde till ärftlighet. Men ärftligheten räckte inte ensam när det blev möjligt att förfina det inre.
 
-RNA-världens organismer var de första att ha förfäder i någon meningsfull bemärkelse. De var de första vars form präglades av härkomst. Detta var märkligt. Detta var nödvändigt.
+RNA-världens organismer var de första att ha förfäder i någon meningsfull bemärkelse. De var de första vars form präglades av härkomst. Detta var fantastiskt. Detta var nödvändigt.
 
 Detta var tillfälligt.
 
 De släktlinjer de drog upp, de mönster de bevarade, den precision de uppnådde. Allt spelade roll. Varje senare form skulle ärva denna förmåga: att föra vidare det som fungerade, bygga på det, skapa en kontinuitet som sträckte sig över tid.
 
-Men ingen skulle luta sig enbart mot precis kopiering. Villkoren hade förändrats igen. Det som överlevde var inte bara det som kopierade exakt, utan det som drev sin kemi bättre.
+Men ingen skulle förlita sig enbart på precis kopiering. Villkoren hade förändrats igen. Det som överlevde var inte bara det som kopierade exakt, utan det som drev sin kemi bättre.
 
 Ännu ett steg. Ännu en dimension. Ännu en avlösning.
 

@@ -36,7 +36,7 @@ Mönstret fortsatte.
 
 Kemisk beständighet, gränser, precis kopiering, effektiv ämnesomsättning, specialisering. Var och en nödvändig, ingen tillräcklig. Varje steg skapade förutsättningarna för nästa.
 
-Flercelligheten var den första som visade vad verklig framväxt kunde vara. Helheten verkligen större än summan av sina delar. Förmågor som ingen enskild del hade, men som uppstod ur deras samspel. Detta var märkligt.
+Flercelligheten var den första som visade vad verklig framväxt kunde vara. Helheten verkligen större än summan av sina delar. Förmågor som ingen enskild del hade, men som uppstod ur deras samspel. Detta var fantastiskt.
 
 Detta var nödvändigt. Varje senare form skulle bygga på denna princip. Nya egenskaper ur samordnade delar. Det sammansatta ur ordning.
 

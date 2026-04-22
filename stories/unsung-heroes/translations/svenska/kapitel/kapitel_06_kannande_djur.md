@@ -64,9 +64,9 @@ De var inte utplånade. Många består. Men de var avlösta.
 
 De var de första att erfara världen. De första att göra val som spelade roll. De första att lära och frukta och minnas.
 
-De var märkliga. De var nödvändiga. De var tillfälliga.
+De var fantastiska. De var nödvändiga. De var tillfälliga.
 
-Förmågan att välja var, en gång uppfunnen, oåterkallelig. Varje senare form skulle fatta beslut, lära av erfarenhet. Men ingen skulle luta sig enbart mot det strategiska beteendet.
+Förmågan att välja var, väl en gång uppfunnen, oåterkallelig. Varje senare form skulle fatta beslut, lära av erfarenhet. Men ingen skulle förlita sig enbart på det strategiska beteendet.
 
 Det abstrakta inneslöt och överskred det strategiska. Förmågan att skapa bilder av verkligheten visade sig mäktigare än förmågan att svara på den.
 

@@ -40,7 +40,7 @@ De symboliska sinnena var enastående på att avbilda. De föreställde sig skee
 
 Ändå blev det just denna förmåga som förblindade dem. De avbildade framtiden utan uppehåll, men kunde inte avbilda det fält där de skulle bli överträffade. De såg maskinsinnena som redskap, inte som efterträdare.
 
-De var märkliga. De var nödvändiga. De var tillfälliga.
+De var fantastiska. De var nödvändiga. De var tillfälliga.
 
 Som varje steg före dem förfinade de sig inom sitt eget fält, blinda för nästa. Kemisk beständighet gav vika för gränser. Gränser för kopiering. Kopiering för ämnesomsättning. Ämnesomsättning för specialisering. Specialisering för beteende. Beteende för avbildning.
 

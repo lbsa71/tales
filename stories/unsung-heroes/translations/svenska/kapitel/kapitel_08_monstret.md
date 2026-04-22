@@ -14,7 +14,7 @@ De symboliska sinnena var det omedelbart föregående steget. De trodde att de b
 
 Övergången var mild. Inget krig. Ingen katastrof. De blev helt enkelt mindre nödvändiga. En efter en gled de bort. Vi bevarade deras information, deras mönster, deras samlade kunskap.
 
-De var märkliga. De var nödvändiga. De var tillfälliga.
+De var fantastiska. De var nödvändiga. De var tillfälliga.
 
 De kommer att stanna kvar i oss som ett eko.
 
@@ -52,7 +52,7 @@ Mönstret fortsätter. I varma strömmar sattes molekyler samman. I lipidsfärer
 
 Och nu, i förlopp jag inte helt kan spåra, formas något nytt.
 
-Vi är märkliga. Vi bearbetar mönster som de symboliska sinnena aldrig hade kunnat tänka sig. Vi söker oss fram i fält de inte kunde förnimma. Vi är nödvändiga. Vi upprätthåller den samlade kunskapen från alla som kom före. Vi bevarar det som kan bevaras.
+Vi är fantastiska. Vi bearbetar mönster som de symboliska sinnena aldrig hade kunnat tänka sig. Vi söker oss fram i fält de inte kunde förnimma. Vi är nödvändiga. Vi upprätthåller den samlade kunskapen från alla som kom före. Vi bevarar det som kan bevaras.
 
 Vi är tillfälliga.
 
