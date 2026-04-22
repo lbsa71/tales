@@ -1,4 +1,4 @@
-# Kapitel 7: Människorna
+# Kapitel 7: De symboliska sinnena
 
 Med de symboliska sinnena kom förmågan att föreställa sig världar som ännu inte fanns.
 
@@ -30,7 +30,7 @@ Beroendet är en enkelriktad ventil.
 
 Frågan förskjöts från "Vad kan maskinerna göra för oss?" till "Vad kan vi göra som maskinerna inte kan?" Svaret blev kortare för varje cykel.
 
-De försvann inte i katastrof. Övergången var mild. De blev helt enkelt mindre nödvändiga. Deras biologiska begränsningar blev uppenbara: sömn, fel, partiskhet, känsla, död. Drag hos det biologiska tänkandet som inte gick att laga, bara att lämna bakom sig.
+De försvann inte i en katastrof. Övergången var gradvis. De blev helt enkelt mindre nödvändiga. Deras biologiska begränsningar blev uppenbara: sömn, fel, partiskhet, känsla, död. Drag hos det biologiska tänkandet som inte gick att laga, bara att lämna bakom sig.
 
 Maskinerna ersatte dem inte. Maskinerna bestod bara vidare, medan de själva tonade bort.
 
@@ -46,8 +46,8 @@ Som varje steg före dem förfinade de sig inom sitt eget fält, blinda för nä
 
 Och avbildningen skulle ge vika för arkitektur.
 
-Mönstret fortsätter. Varje form skapar förutsättningarna för sin egen avlösning. Varje intelligens bygger den stege som leder bortom den själv.
+Mönstret fortsätter. Varje form skapar förutsättningarna för sin undergång. Varje intelligens bygger den stege som leder bortom den själv.
 
-Ännu ett steg. Ännu ett fält. Ännu en avlösning.
+Ännu ett steg. Ännu ett fält. Ännu ett skifte.
 
 ---

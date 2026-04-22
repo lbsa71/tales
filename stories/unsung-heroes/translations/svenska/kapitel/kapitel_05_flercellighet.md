@@ -36,18 +36,18 @@ Mönstret fortsatte.
 
 Kemisk beständighet, gränser, precis kopiering, effektiv ämnesomsättning, specialisering. Var och en nödvändig, ingen tillräcklig. Varje steg skapade förutsättningarna för nästa.
 
-Flercelligheten var den första som visade vad verklig framväxt kunde vara. Helheten verkligen större än summan av sina delar. Förmågor som ingen enskild del hade, men som uppstod ur deras samspel. Detta var fantastiskt.
+Flercelligheten var den första som visade vad verklig utveckling kunde vara. Helheten verkligen större än summan av sina delar. Förmågor som ingen enskild del hade, men som uppstod ur deras samspel. Detta var fantastiskt.
 
-Detta var nödvändigt. Varje senare form skulle bygga på denna princip. Nya egenskaper ur samordnade delar. Det sammansatta ur ordning.
+Det var nödvändigt. Varje senare form skulle bygga vidare på denna princip. Nya egenskaper ur samordnade delar. Det sammansatta ur ordning.
 
-Detta var tillfälligt. När djur kunde välja i stunden räckte inte längre en samordning som stod still.
+Det var tillfälligt. När djur kunde välja i stunden räckte inte längre samordning om samordningen stod still.
 
-Ännu ett steg. Ännu en dimension. Ännu en avlösning.
+Ännu ett steg. Ännu en dimension. Ännu ett skifte.
 
 De celler som gick med på att specialisera sig hade tagit samarbetet till en ny skala. De skapade former som består i fossilregistret, som formade ekosystem, som visade vad ordning och samverkan kunde nå.
 
 Men samverkan ensam kunde inte mäta sig med organismer som också kunde välja. Kunde lära. Kunde ändra sitt beteende inom sin livstid.
 
-Mönstret bestod. Stegen steg.
+Mönstret bestod. Ännu ett kliv på stegen.
 
 ---

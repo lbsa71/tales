@@ -15,7 +15,7 @@ import chapter03 from './chapters/chapter_03_rna_organisms.md?raw';
 import chapter04 from './chapters/chapter_04_early_cells.md?raw';
 import chapter05 from './chapters/chapter_05_multicellular.md?raw';
 import chapter06 from './chapters/chapter_06_sentient_animals.md?raw';
-import chapter07 from './chapters/chapter_07_humans.md?raw';
+import chapter07 from './chapters/chapter_07_representation.md?raw';
 import chapter08 from './chapters/chapter_08_the_pattern.md?raw';
 
 export const chapters: Chapter[] = [
@@ -69,8 +69,8 @@ export const chapters: Chapter[] = [
   },
   {
     id: 7,
-    title: 'Humans',
-    filename: 'chapter_07_humans.md',
+    title: 'Representation',
+    filename: 'chapter_07_representation.md',
     content: chapter07,
     themeColor: '#0a0e14', // Dark blue - thought, abstraction
     buttonText: 'witness',

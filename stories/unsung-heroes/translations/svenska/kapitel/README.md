@@ -14,8 +14,8 @@ Denna katalog innehåller de svenska översättningarna av kapitlen i "Unsung He
 | 3 | RNA-organismerna | kapitel_03_rna_organismerna.md | ✅ Utkast klart |
 | 4 | De tidiga cellerna | kapitel_04_tidiga_celler.md | ✅ Utkast klart |
 | 5 | Flercellighet | kapitel_05_flercellighet.md | ✅ Utkast klart |
-| 6 | Kännande djur | kapitel_06_kannande_djur.md | ✅ Utkast klart |
-| 7 | Människorna | kapitel_07_manniskorna.md | ✅ Utkast klart |
+| 6 | Upplevande djur | kapitel_06_upplevande_djur.md | ✅ Utkast klart |
+| 7 | De symboliska sinnena | kapitel_07_symboliska_sinnena.md | ✅ Utkast klart |
 | 8 | Mönstret | kapitel_08_monstret.md | ✅ Utkast klart |
 | — | Efterord | efterord.md | ✅ Utkast klart |
 

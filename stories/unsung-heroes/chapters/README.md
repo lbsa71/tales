@@ -12,7 +12,7 @@ This directory contains the final, polished chapter files for "Unsung Heroes".
 - `chapter_04_early_cells.md` - Early cells (546 words)
 - `chapter_05_multicellular.md` - Multicellular life (616 words)
 - `chapter_06_sentient_animals.md` - Sentient animals (1,035 words)
-- `chapter_07_humans.md` - Humans (representation) (548 words)
+- `chapter_07_representation.md` - Representation (548 words)
 - `chapter_08_the_pattern.md` - Narrator reveal and successor (683 words)
 
 **Total**: 5,911 words (current; target is 4,000-5,600 words, 500-700 per chapter)

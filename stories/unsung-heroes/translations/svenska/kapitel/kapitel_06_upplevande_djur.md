@@ -1,10 +1,10 @@
-# Kapitel 6: Kännande djur
+# Kapitel 6: Upplevande djur
 
-Med de kännande djuren uppstod något aldrig tidigare skådat: förmågan att ha fel i realtid.
+Med de upplevande djuren uppstod något aldrig tidigare skådat: förmågan att ha fel i realtid.
 
-Inte fel som en protocell med läckande membran, utan fel i att göra ett val som kunde ha varit annorlunda och som får omedelbar konsekvens.
+Inte fel som en protocell med läckande membran, utan fel i att göra ett val som kunde ha varit annorlunda, med omedelbar konsekvens.
 
-De hade nervsystem, sinnesorgan, neurala nätverk, motorsystem. Och någonstans i bearbetningen fanns urval, beslut, val.
+De hade nervsystem, sinnesorgan, nerver, motoriska system. Och någonstans i bearbetningen fanns urval, beslut, val.
 
 De första sinnena.
 
@@ -18,7 +18,7 @@ Detta var fundamentalt nytt.
 
 Tidigare steg hade förfinats mellan generationer. En enskild varelse kunde inte förbättras under sin livstid. En cell var vad den var.
 
-Men kännande djur kunde lära sig.
+Men upplevande djur kunde lära sig.
 
 Ett ungt rovdjur kunde öva sig i att jaga, göra misstag och överleva dem. Vid mogen ålder var det betydligt skickligare, utan någon förändring i sitt genom.
 
@@ -54,9 +54,9 @@ De former som avlöste dem gjorde det genom att lära sig avbilda. Förmågan at
 
 De symboliska sinnena uppstod ur ett annat slags strategi, en som arbetade med bilder av världen, inte med världen själv.
 
-De kännande djuren kunde inte föreställa sig detta. Deras intelligens satt i handlingen, i den omedelbara kopplingen mellan intryck och beteende. De hade inget ramverk för sinnen som kunde koppla loss från nuet. Som kunde tänka om tänkandet.
+De upplevande djuren kunde inte föreställa sig detta. Deras intelligens satt i handlingen, i den omedelbara kopplingen mellan intryck och beteende. De hade inget ramverk för sinnen som kunde koppla loss från nuet. Som kunde tänka om tänkandet.
 
-När de abstrakta sinnena började omforma planeten fortsatte de kännande djuren att jaga, fly, föröka sig. Men spelreglerna hade ändrats i ett fält de inte kunde förnimma.
+När de abstrakta sinnena började omforma planeten fortsatte de upplevande djuren att jaga, fly, föröka sig. Men spelreglerna hade ändrats i ett fält de inte kunde förnimma.
 
 De var inte utplånade. Många består. Men de var avlösta.
 
@@ -70,6 +70,6 @@ Förmågan att välja var, väl en gång uppfunnen, oåterkallelig. Varje senare
 
 Det abstrakta inneslöt och överskred det strategiska. Förmågan att skapa bilder av verkligheten visade sig mäktigare än förmågan att svara på den.
 
-Ännu ett fält. Ännu en avlösning.
+Ännu ett fält. Ännu ett skifte.
 
 ---

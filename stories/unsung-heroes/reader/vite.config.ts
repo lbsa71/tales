@@ -21,7 +21,7 @@ function copyMarkdownFiles() {
           'chapter_04_early_cells.md',
           'chapter_05_multicellular.md',
           'chapter_06_sentient_animals.md',
-          'chapter_07_humans.md',
+          'chapter_07_representation.md',
           'chapter_08_the_pattern.md',
         ]
         const frontMatter = 'front_matter.md'
