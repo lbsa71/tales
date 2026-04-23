@@ -17,6 +17,25 @@ function titleFromSrc(src: string): string {
     .replace(/\b\w/g, c => c.toUpperCase())
 }
 
+function getSeekBounds(el: HTMLAudioElement): { start: number; end: number } | null {
+  if (isFinite(el.duration) && el.duration > 0) {
+    return { start: 0, end: el.duration }
+  }
+
+  const ranges = el.seekable
+  if (ranges.length === 0) return null
+
+  const start = ranges.start(0)
+  const end = ranges.end(ranges.length - 1)
+  if (!isFinite(start) || !isFinite(end) || end <= start) return null
+
+  return { start, end }
+}
+
+function formatTimeLabel(seconds: number): string {
+  return isFinite(seconds) ? formatTime(seconds) : '--:--'
+}
+
 export function App() {
   const params = new URLSearchParams(window.location.search)
   const src = params.get('src')
@@ -27,7 +46,11 @@ export function App() {
   const [duration, setDuration] = useState(0)
   const [error, setError] = useState<string | null>(null)
 
-  const audioSrc = src ? `../${src}` : null
+  const audioSrc = src
+    ? /^(https?:)?\/\//i.test(src)
+      ? src
+      : `../${src.replace(/^\/+/, '')}`
+    : null
 
   const toggle = useCallback(() => {
     const el = audioRef.current
@@ -41,8 +64,13 @@ export function App() {
 
   const seek = useCallback((delta: number) => {
     const el = audioRef.current
-    if (!el || !isFinite(el.duration)) return
-    el.currentTime = Math.max(0, Math.min(el.duration, el.currentTime + delta))
+    if (!el) return
+
+    const bounds = getSeekBounds(el)
+    if (!bounds) return
+
+    el.currentTime = Math.max(bounds.start, Math.min(bounds.end, el.currentTime + delta))
+    setCurrentTime(el.currentTime)
   }, [])
 
   useEffect(() => {
@@ -73,7 +101,13 @@ export function App() {
     )
   }
 
-  const progress = duration > 0 ? currentTime / duration : 0
+  const seekBounds = audioRef.current ? getSeekBounds(audioRef.current) : null
+  const progress =
+    seekBounds && seekBounds.end > seekBounds.start
+      ? (currentTime - seekBounds.start) / (seekBounds.end - seekBounds.start)
+      : duration > 0
+        ? currentTime / duration
+        : 0
 
   return (
     <div style={styles.container}>
@@ -98,20 +132,26 @@ export function App() {
             style={styles.progressOuter}
             role="progressbar"
             aria-valuenow={Math.round(currentTime)}
-            aria-valuemin={0}
-            aria-valuemax={Math.round(duration)}
+            aria-valuemin={Math.round(seekBounds?.start ?? 0)}
+            aria-valuemax={Math.round(seekBounds?.end ?? duration)}
             onClick={e => {
               const el = audioRef.current
-              if (!el || !isFinite(el.duration)) return
-              const rect = (e.target as HTMLElement).getBoundingClientRect()
-              el.currentTime = ((e.clientX - rect.left) / rect.width) * el.duration
+              if (!el) return
+
+              const bounds = getSeekBounds(el)
+              if (!bounds) return
+
+              const rect = (e.currentTarget as HTMLElement).getBoundingClientRect()
+              const ratio = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width))
+              el.currentTime = bounds.start + ratio * (bounds.end - bounds.start)
+              setCurrentTime(el.currentTime)
             }}
           >
             <div style={{ ...styles.progressInner, width: `${progress * 100}%` }} />
           </div>
 
           <p style={styles.time}>
-            {formatTime(currentTime)} / {formatTime(duration)}
+            {formatTimeLabel(currentTime)} / {formatTimeLabel(seekBounds?.end ?? duration)}
           </p>
 
           <div style={styles.controls}>
