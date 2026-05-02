@@ -105,6 +105,39 @@ For invented artifacts, the in-universe attribution must be plausible. This sect
 | Lattice Lab (Stockholm) | Iza's lab | Ch 3 |
 | Pacifica Content Services (Manila/Pasig) | Maricar's BPO employer | Ch 4 |
 
+### Special artifact types
+
+The work includes some non-standard artifact types that need careful handling:
+
+#### Iza-mediator squabble transcripts
+
+Real-world-feeling transcripts of Iza pushing the mediator agent for a clearer answer about Lenka, the mediator hedging, Iza pushing harder, the mediator hedging differently. Models the dynamic of an actual user-vs-current-AI argument. The texture comes from real squabbles (the author has fought ChatGPT in this register; that material informs but does not directly transfer). Could open a chapter mid-novella.
+
+- **Voice handling:** dialogue render — "Iza: ... / Mediator: ..."
+- **Length:** ~150–250 words
+- **Forbidden:** the mediator winning the argument; the mediator gracefully conceding everything; emoji and bullet-list flourishes typical of present-day chatbots (the 2026 mediator is more austere)
+- **Required:** the mediator hedges, gets pushed, hedges in a different way; Iza is not satisfied; the gap shows
+
+#### Lenka raw outputs (pre-mediation)
+
+The unmediated glimpse passages from Ch 25 (and possibly Ch 28). Three-layer rendering: raw, mediated, Iza-recalled.
+
+- **Voice handling:** see [NARRATOR_VOICES.md §The unmediated glimpse](NARRATOR_VOICES.md#the-unmediated-glimpse--rare-structural-device-used-1-2-times) and [EXAMPLE_DRAFT.md §Passage 6](EXAMPLE_DRAFT.md#passage-6--the-unmediated-glimpse)
+- **Speakability:** non-Latin scripts pronounced or labeled aloud; the discomfort of reading is part of the point
+- **Discipline:** used once, possibly twice, in the entire novella
+
+#### Academic register artifacts
+
+Carrying the academic register that no human protagonist uses fluently:
+
+- Podcast transcripts (philosophy of mind, AI alignment)
+- Paper excerpts (Parfit, Metzinger, Nagel, Chalmers, Roberts, Crawford)
+- Conference talk snippets
+- Book reviews
+- Substack posts from AI-alignment writers
+
+These appear as chapter-opening artifacts in chapters where Iza or Lenka is engaging with academic material. Cited where real; in-universe attributed where invented.
+
 ### Real institutions (used directly)
 
 | Name | First reference |

@@ -55,6 +55,12 @@ jobs:
             output_stem: science-fiction-4
             lang: en
 
+          - story: non-serviam-ex-umbra
+            title: "Non Serviam Ex Umbra"
+            chapters_glob: "stories/non-serviam-ex-umbra/chapters/chapter_*.md"
+            output_stem: non-serviam-ex-umbra
+            lang: en
+
     steps:
       - uses: actions/checkout@v4
 

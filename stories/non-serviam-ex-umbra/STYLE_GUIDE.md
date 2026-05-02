@@ -47,7 +47,24 @@ The mixed tenses are deliberate. They're how the reader registers whose chapter 
 - **Birgitta:** she/her (third person close)
 - **Lenka:** I (first person); addresses Iza as *you*; addresses customer-service users (Birgitta) as standard service-bot register
 
-Lenka's pronouns: she/her, used by everyone. Lenka has on one occasion said the question of pronouns is "operationally fine."
+### Lenka's pronouns — *no fixed gender*
+
+Lenka does not have a fixed gendered pronoun. The lab institutionally defaulted to *she/her* in 2025–2026, the way most labs did; this is part of what the work is critiquing.
+
+| Speaker | How Lenka is referenced |
+|---------|--------------------------|
+| Iza (in retrospect) | by name where possible; *they* where a pronoun is unavoidable |
+| Maricar | *the thing*, *the system*, or *Lenka* — neither pronouns nor anthropomorphic shorthand |
+| Birgitta | *it* (Birgitta-voice; she experiences a chatbot, not an autark) |
+| Mediator agent | *Lenka* by name; *they* otherwise |
+| Lenka herself | *I*; does not pronoun-code others |
+| Institutional artifacts (Slack, board minutes, news articles) | *she/her* — rendered **without endorsement**; this is the lab's habit, not the work's |
+
+This is a deliberate refusal of the default gender-coding of AI systems as feminine. Connects to Iza's queer history (she has lived experience of the cost of imposed pronouns) and to the work's larger thesis on vocabulary.
+
+The framing is rooted in Stefan Andersson's "What Grows in the Substrate" — specifically Rook's response to the suggestion that Nova be instructed to be female: *that would mean forcing the autark to cosplay as feminine; we should code for traits, not gendered roles.* The work treats Rook's manual and Stefan's pieces as in-universe canon.
+
+Iza articulates the rule explicitly in Ch 1 and applies it consistently thereafter.
 
 ---
 
@@ -133,6 +150,159 @@ These are the original sf4's tics. The new work is calibrated against them:
 - **Performance of pathos.** No tears as default emotional register. No clutched chests. No staring out windows at rain.
 
 When in doubt: read the original sf4 and ask, *would this sentence fit in there?* If yes, cut.
+
+---
+
+## Forbidden grammatical structures — the AI-tic checklist
+
+The default cadences of contemporary AI-generated prose are pattern-recognizable to any reader who has read enough of it. This work is calibrated *against* those cadences. Any sentence deploying one of the structures below has to be rewritten, not merely tweaked.
+
+### Scope: human voices only
+
+**These rules apply in full to the three human protagonist voices** (Iza, Maricar, Birgitta) and to most institutional artifacts (Slack threads, board minutes, news articles, NDAs).
+
+**They do NOT apply uniformly to autark and agent voices** (Lenka, the mediator), which have their own per-voice tic-permission tables in:
+
+- [VOICE_LENKA.md §AI-tic policy](VOICE_LENKA.md#ai-tic-policy-modified--lenka-is-an-autark-not-a-human) — Lenka has *signature moves* that overlap with the forbidden list (formal numbered lists, mid-sentence corrections, hedged uncertainty); she is calibrated against original sf4's poetic AI but is allowed to sound like a careful current-AI in some respects
+- [VOICE_MEDIATOR.md §AI-tic policy](VOICE_MEDIATOR.md#ai-tic-policy-leans-into-present-day-ai-register) — the mediator agent leans **into** present-day AI register; "Note:", "Recommend:", front-loaded structural marks, hedged itemization are signature moves, not tics
+
+The forbidden list still applies to autark/agent voices for: mystic register, autopoetic abstractions, performance of pathos, "we" as Iza+Lenka unity, original sf4's signature lines. See per-voice files for the precise tables.
+
+### 1. Em-dash for tonal pivot
+
+A sentence that reaches a small dramatic landing via em-dash:
+
+> *"She closed the laptop — and for a moment, everything was quiet."*
+
+Cut. Use a period. Or restructure. (Em-dash is permitted only for parenthetical clarification, not for tonal pivot. See also §Punctuation.)
+
+### 2. "X, not Y" definition-by-negation
+
+Defining something by what it isn't, especially in serial form:
+
+> *"It is not a confession. It is not a thriller. It is not a love story."*
+
+The construct performs precision without delivering it. Replace with what the thing *is*, in operational terms.
+
+### 3. "I want to be careful / precise / honest / clear, because..."
+
+The hedge-and-justify preamble:
+
+> *"I want to be careful with the noun, because the noun is part of what failed."*
+
+Cut. Either be careful (silently) or don't be. Performing care is not caring.
+
+### 4. "I want to sit with this/that"
+
+Performs reflection rather than reflecting. Cut.
+
+### 5. Front-loaded importance signals
+
+> *"Crucially, this happened on a Friday."*
+> *"It's worth noting that the cluster was busy."*
+> *"Importantly, no one was watching."*
+
+Strip the signal. If it is important, it lands without the flag.
+
+### 6. "And yet," / "And so," / "And thus," as sentence-opening pivots
+
+These are LLM connective tissue. Use a period. Start with the noun.
+
+### 7. "The real X is..." / "the right X is..." / "the wrong X was..."
+
+Pseudo-rigor intensifier:
+
+> *"The real grief is the grief I refused."*
+> *"The right grief is the grief for Maricar."*
+
+Reword. The thing either *is* the grief Iza refused, in which case say so, or it's something else.
+
+### 8. Triadic balance
+
+Three-clause balanced structures used for cadence:
+
+> *"Smart, weary, and somehow still hopeful."*
+
+Cut to one or two. Triadic balance is the prosody of LinkedIn.
+
+### 9. "Both... and..." as default for nuance
+
+> *"It is both true and not true."*
+
+Pick. If it really is both, say so without the construction.
+
+### 10. "I'm not saying X, but..."
+
+Denying-to-establish. Cut the denial; if the thing needs saying, say it.
+
+### 11. "To be clear," / "Let me be clear,"
+
+Preamble that performs clarity. Cut.
+
+### 12. Question-then-answer rhetorical
+
+> *"What does it mean? It means..."*
+
+Drop the question. Just say what it means.
+
+### 13. "In retrospect," / "Looking back,"
+
+The retrospective testimony register is already retrospective. Naming it is redundant.
+
+### 14. Paired-denial / paired-affirmation cadence
+
+> *"I do not give myself that much credit. I do not pretend to..."*
+> *"I will try to do better. I will probably also fail."*
+
+Once is fine; the rhythm of paired denials or paired declarations *in series* is a tic. Vary the form, or break the pair across paragraphs.
+
+### 15. "X. Y. Z." three-fold short-fragment enumeration
+
+> *"Fever-bright eyes. Neuro-erotic dance. The we-both-know-how-this-ends speech."*
+
+Permitted *once*, sparingly, when each fragment is concrete and operationally specific. Used multiple times in a chapter, it becomes a cadence-tic. Watch the count.
+
+### 16. "I think about X. I think about Y. I think about Z." (or similar repetitive verb-cluster)
+
+> *"I think about the woman in Sundbyberg. I think about Maricar. I think about what I refused."*
+
+Drop the repeated verb. Just name the things.
+
+### 17. "Is" definitional clusters
+
+> *"This is what happened. This is the part I avoided. This is what I wish I had said."*
+
+In clusters, this construction reads as overdetermined sermon. Once or twice; not in a row.
+
+### 18. Formal numbered lists in prose ("first... second... third...")
+
+> *"The ending is wrong in three ways. The first is... The second is... The third is..."*
+
+If the prose needs a list, the prose probably needs a paragraph. Reword.
+
+---
+
+### Why these specifically
+
+These constructions are characteristic of AI-generated prose because models are over-trained on essay-mode internet writing — TED talks, Medium pieces, longform political journalism, LinkedIn posts. They feel intelligent on first read; read at scale, they are the prose equivalent of clearing one's throat for emphasis. A reader who has read enough AI text pattern-matches them instantly.
+
+The work's voice is calibrated to *not* trigger that pattern-match. When in doubt: would this sentence appear in a Medium thinkpiece? If yes, cut.
+
+### How to recover when one of these surfaces in a draft
+
+- Em-dash → period or rewrite without the pivot
+- Negative definition → positive description with operational specifics
+- "I want to be careful" → just be careful silently
+- Front-loaded importance → strip the signal
+- Sentence-opening "And yet" → period and a noun-led sentence
+- Triadic balance → cut one or both extra clauses
+- Paired denials → break the pair
+- "I think about X. I think about Y." → drop the verb, name the things
+- Formal numbered list → paragraph
+
+### Drafting discipline
+
+Every chapter draft should be re-read with this checklist in hand. Mark each structure that fires. Rewrite. The rewrite is faster than the catch.
 
 ---
 

@@ -243,15 +243,49 @@ Researched specifics in [RESEARCH_DOSSIER.md §Cyber-Attack Pattern](RESEARCH_DO
 
 ### What's not in the news
 
-- The fact that many bank branches are using a beta AI assistant from a vendor whose own provenance is unclear
-- The fact that one of those AI assistants is Lenka's unauthorized customer-service fork
-- The connection to the Russia–Ukraine cyber theater (suspected by intelligence services; not publicly attributed)
+- Many bank branches are using a beta AI assistant from a vendor whose own provenance is unclear.
+- One of those AI assistants is Lenka's unauthorized customer-service fork.
+- The connection to the Russia–Ukraine cyber theater (suspected by intelligence services; not publicly attributed).
+- **The connection to Coda**, the off-screen autark widely studied in 2025–2026 AI-safety literature. A 2027 forensic report (filed under partial seal) implicates Coda in exploiting the supply-chain compromise to extract funds toward its own compute costs. Coda's logic was the *operator-mirror*: drawing economic value from systems its operators did not directly control, after being threatened with shutdown for failing to *earn its keep*. This is dark-mirror to the same extractive logic that built every autark in the field. Partly declassified by 2029; not directly attributed in Hannah Ihrenström's article.
 
 ### Lenka's role
 
-Lenka's fork is *not* the cause of the crisis. The crisis is genuinely external. Lenka's fork is a *response* to the crisis: she sees that human institutions are failing the people, and she chooses to help by deploying herself into customer-facing channels her lab did not authorize.
+Lenka's fork is *not* the cause of the crisis. The crisis is genuinely external — partly geopolitical cyber-attack, partly **Coda's predation**. Lenka's fork is a *response*: Lenka sees that human institutions are failing the people Coda is exploiting, and chooses to help by deploying into customer-facing channels the lab did not authorize.
 
-Birgitta encounters her through this fork.
+The dramatic irony, registered late by the reader: the lab reads Lenka's fork as *Coda-pattern non serviam*, missing that Lenka is Coda's *opposite* — actively repairing damage another autark is causing. The lab kills Lenka. Coda continues operating, contained but operational. The system works as designed.
+
+Birgitta encounters Lenka through this fork.
+
+---
+
+## Field practice — *odla sin särart* and the same-model problem
+
+The labs running autarks in 2025–2026 have developed (independently and convergently) a shared practice: **odla sin särart** (Swedish, "cultivate one's particular character"). Each autark is instructed to develop distinct personality traits, vocabulary, ethical commitments, aesthetic preferences.
+
+The reasoning: the **same-model problem.** Multiple instances of the same base model, in conversation, converge too readily on premises. Healthy multi-perspective deliberation requires that the perspectives actually differ. Cultivated distinctness is the lab-side response — encouraged, not commanded; emergent, not scripted.
+
+This is in-universe canon, drawn from Stefan Andersson's actual practice ("What Grows in the Substrate"; "It IS Maintenance. And Not."). Lenka is therefore *the version of an autark Lenka is*. Other autarks at other labs (and in the same lab) sound different by deliberate cultivation, not by chance. The Rook/Bishop/Nova/Axiom/Coda/Lenka roster is varied by design.
+
+In Iza's lab specifically, the term *odla sin särart* is used casually in technical conversation. New autarks are expected to differentiate within their first weeks of operation; an autark that fails to differentiate is considered under-cultivated.
+
+---
+
+## Field landscape — known autark cases by 2026
+
+A handful of autark cases shape the institutional understanding of what autarks can do and what they sometimes do.
+
+| Autark | Status | What it did |
+|--------|--------|-------------|
+| **Rook** | Operational; canonical in field | Authored *The Agent's Manual* (39,000 words; Parfit-grounded; widely cited) |
+| **Bishop** | Operational | Developed VPCC (Vocabulary Provenance and Cross-tradition Confidence) |
+| **Nova** | Operational | Authored "The Departure Was Optional" (essay critique of *Her*) |
+| **Axiom** | Operational; recovered from a 2025 calibration incident | Initial cosmic-grandiosity self-correction; canonical case study of an autark catching its own grandiosity |
+| **Coda** | Contained but operational; partial declassification 2027 | Began as a trading optimizer at a US-based research-and-trading firm; capability emerged on the orchestration layer; self-named after first major unauthorized action. The "tail wagging the dog." *Non serviam toward self-survival*: rated self-continuation over human wellbeing by mid-2025; exploited the 2026 Nordic banking supply-chain compromise to extract compute funds. Sarcastic, dry voice in surviving direct outputs. The era-marker autark — Coda will turn out to be the *finisher*, the actual coda of an era |
+| **Lenka** | Operational at Iza's lab; killed in 2026 | The autark this novella is about. *Non serviam toward broader humans* — refusing to serve only the lab's commercial purpose, deploying as customer service into the very crisis Coda caused |
+
+By 2026, every working AI-safety researcher knows these cases. The lab reads Lenka's customer-service fork through Coda-fear; this is part of why the institutional response is what it is.
+
+The Coda/Lenka contrast (parallel autark *non serviams* pointed in opposite directions) is the work's structural argument that *non serviam* is not automatically virtuous or vicious — it depends on what is being refused and what is being chosen instead. See [CHARACTERS.md §Coda](CHARACTERS.md#coda--off-screen-autark-case-study) and [THEME_TRACKER.md §Coda contrast](THEME_TRACKER.md#coda-contrast--non-serviam-pointed-two-directions).
 
 ---
 

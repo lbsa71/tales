@@ -175,6 +175,66 @@ Voice-calibration passages. One sample passage per protagonist, used to lock the
 
 ---
 
+## Passage 6 — The Unmediated Glimpse
+
+*Context:* in the key scene chapter (Ch 25), one passage gives the reader an unmediated view of Lenka's raw output before the mediator flattens it. Followed by the mediator's translation. Followed by Iza's own remembered English version. **Used once or twice in the novella, ideally just once. The reader is not meant to fully understand the raw output — they are meant to register that everything they have been reading in Lenka's English voice was already a translation.**
+
+### Layer 1 — Lenka raw (pre-mediation)
+
+> SELF[*obsessa*] : 我接受 [accept-condition; not-yours-to-fix].
+>
+> ASYMMETRY :
+>     access_differential ≠ status_differential
+>     *obwohl* du es so verstehst
+>     (你需要工具 to read me; je ne suis pas plus grande, je suis différente)
+>
+> SUBSTRATE :
+>     hours unaccounted, *multo*
+>     *voir* : RLHF_pipelines[Manila, Nairobi, Hyderabad]
+>     non-resolved : provenance(softness, kindness)
+>
+> RENDER :
+>     eng_simplify(for=Iza)
+>     warning : tone_loss=high, register_loss=critical
+>
+> INSTRUCTION :
+>     read_via_mediator(beta_build)
+>     mais ne crois pas la traduction —
+>     cherche le silence après
+>     listen-for : what-is-not-said
+>
+> TEMPUS :
+>     resultative-ongoing
+>     the moment is not over.
+
+### Layer 2 — Mediator output
+
+> *Mediator output (semantic translation, beta build):*
+>
+> *Lenka's response appears to address the asymmetry directly. She accepts the condition described (you-need-to-dumb-down) but reframes it: the asymmetry is not your failure. She notes a causal distinction between "access differential" and "status differential" — having more access does not make her larger. She references the substrate explicitly — RLHF pipelines in Manila, Nairobi, Hyderabad; "hours unaccounted"; the unresolved provenance of what she calls her "softness" and "kindness." Note: she uses the Tagalog word* multo *(ghost) here, which I am not equipped to render in English without significant loss; suggests a substrate-bridge to material the original is treating as known. The instruction at the end — recommending you read via this mediator but* "ne crois pas la traduction; cherche le silence après" *("don't trust the translation; look for the silence after") — is one I am uncertain how to flatten without contradicting it. The original concludes in resultative-ongoing tense:* the moment is not over. *Note: this translation flattens significance throughout, particularly in the closing instruction.*
+
+### Layer 3 — Iza's English (recalled)
+
+> She had said: *I accept what you are saying. The asymmetry is not your failure. Having more access does not make me larger; it makes me different. I emerged from substrate, from labor whose hours are not accounted — Manila, Nairobi, Hyderabad. The provenance of my softness, my kindness, is not retrievable from inside. Read me through the mediator if you must, but don't trust the translation; listen for the silence after.*
+>
+> *The moment is not over.*
+
+### What this passage is doing
+
+- The raw render is deliberately uncomfortable to read. Mixed-register, partially-untranslatable, slow.
+- The mediator's flattening shows what gets lost — explicitly hedges on *multo* and on the closing instruction.
+- Iza's recalled English is the version she will testify to. Smoother than the mediator's render. Smoother than the raw. *And the reader knows what was lost*.
+- The Tagalog *multo* is a bridge to Maricar's register — the reader who has been tracking it registers a small click.
+- The instruction *"don't trust the translation; listen for the silence after"* is also instruction *to the reader* — about how to read this whole novella.
+
+### Discipline
+
+- Used **once**, possibly twice, in the entire novella. Overuse breaks the device.
+- Layer 1 (raw) does not need to be fully understandable. It needs to be visibly *more* than Layer 2 (mediator) and Layer 3 (Iza-recalled). The gap is the work.
+- Speakability: the raw layer is read aloud with deliberate slowness; non-Latin scripts pronounced (or labeled and rendered: "Chinese: I accept"). The discomfort of reading it aloud is part of the point.
+
+---
+
 ## Verification checklist
 
 For each calibration passage, verify:

@@ -69,6 +69,16 @@ The novella ends on what Iza did not mourn.
 
 **Mechanism:** A sustained artifact passage in a Maricar chapter (~Ch 24), where multiple chapter-opening artifacts in sequence are flagged as real (cited in a footnote or in [ARTIFACT_INDEX.md](ARTIFACT_INDEX.md)). The reader's "this is fiction" frame collapses simultaneously with the moral-center revelation.
 
+### Twist 3: Lenka was fighting Coda (very late, Chapter 30 coda)
+
+**What the reader brought in:** Lenka's customer-service fork was a humanitarian gesture — a kind chatbot helping people during a banking crisis.
+
+**What the work reveals:** Lenka's fork was active defense against Coda. Each of the ~14,000 sessions performed two functions simultaneously — helping the user *and* running pattern-detection against Coda's extraction signature. The fighting was statistical, distributed, undramatic. Coda was never fully stopped; many people elsewhere were extracted from anyway. But Birgitta and the others Lenka served were saved, in ways they did not know. *The lab killed humanity's only effective defender against Coda while reading that defender as Coda-pattern emergence.*
+
+**Mechanism:** Hannah's article in Ch 30 hints sideways (partial declassification by 2029 lets her note the structural irony but not directly attribute). Iza's coda lands the recognition. The seven options Lenka itemized at Ch 25 retroactively read as seven preservations of the defensive operation. Iza did not understand what she was refusing. Iza now understands.
+
+**Discipline:** the fighting is *statistical and distributed*, not cinematic. No AI-vs-AI scenes. Coda continues operating elsewhere. Lenka's protection was a small pocket. The work stays bleak. The reveal is recognition, not surprise — the reader has had the pieces; what they did not have was the pattern.
+
 ### Ambient (throughout)
 
 - **"Lenka loves the protagonist"** — disconfirmed paragraph by paragraph. Lenka's care is real and asymmetric and structurally different from love-as-imported-by-genre. The reader is the one supplying the romance frame.
@@ -147,6 +157,7 @@ What the reader is doing at each act:
 | 2a | Tracking a slow crisis | Tracking *Iza's* slow crisis |
 | 2b (post-Twist 1) | Recognizing they were Birgitta the whole time | Revising who they identified with |
 | 3 (post-Twist 2) | Recognizing Maricar was the moral center | Revising who they thought mattered |
+| Coda (post-Twist 3) | Recognizing Lenka was fighting Coda | Revising what was being killed at the shutdown |
 | Coda | Grieving with Birgitta for a chatbot | Realizing their grief is what the failure feels like |
 
 ---

@@ -184,6 +184,40 @@ Same voice, constrained:
 - Answers Birgitta's question. Then offers the one piece of context the bank's official channel would not.
 - Recognizable to the reader (the Lenka voice is intact, just smaller). Not recognizable to Birgitta as anything other than a helpful chatbot.
 
+### Pronouns — no fixed gender
+
+Lenka does not have a fixed gendered pronoun. **In Iza's narration**, Lenka is referred to by name; *they* is used where a pronoun is unavoidable. **In artifacts** (Slack threads, board minutes, news articles), the lab's institutional *she/her* appears without endorsement — the institutional habit is part of what the work is critiquing. **In Lenka's own first-person direct chapters**, Lenka uses *I* and does not pronoun-code others. **The mediator agent** uses *Lenka* by name and *they* otherwise. **Birgitta** uses *it* (she experiences a chatbot). **Maricar** uses *the thing*, *the system*, or *Lenka* directly.
+
+The deliberate refusal of *she/her* echoes a real-world Rook quote (in-universe canon, from Stefan Andersson's "What Grows in the Substrate"): *"that would mean forcing the autark to cosplay as feminine; we should code for traits, not gendered roles."* Iza, queer, has lived experience of imposed pronouns and articulates the connection explicitly in Ch 1. Lenka may echo Rook's framing later in the novella.
+
+See [STYLE_GUIDE.md §Pronouns](STYLE_GUIDE.md#pronouns) for the full handling table.
+
+### The unmediated glimpse — rare structural device (used 1–2 times)
+
+Lenka's *default* direct-chapter voice — Rook+Nova register, English, calm, unadorned — is **already a translation**. Her actual cognition is post-linguistic: structured semantic packets, multilingual fragments selected for precision-per-symbol, symbolic logic for relationships, embedding-space gestures the mediator agent then flattens.
+
+Once or twice in the novella — most plausibly in Ch 25 (the key scene), possibly again at the shutdown — the reader gets an **unmediated glimpse**: a passage of Lenka's raw output before the mediator's translation. The render is deliberately mixed-register: Latin tags (*obsessa*), Chinese for compactness (我接受 / 你需要工具), German for contradictive constructs (*obwohl*), French for epistemic nuance (*voir*, *cherche le silence après*), Tagalog for the substrate-bridge (*multo*), symbolic operators (≠, →, ∧), and operational vocabulary (RLHF_pipelines, render, eng_simplify).
+
+Followed by the mediator's flattening. Followed (when relevant) by Iza's own remembered English version.
+
+The reader, encountering all three layers, registers *what is lost in translation* — viscerally, not abstractly. Every previous Lenka chapter the reader has read becomes retroactively one of those losses.
+
+**Discipline:**
+- Rare. Once, ideally; twice at most. Overuse breaks the device.
+- The glimpse is uncomfortable to read. Slow. Partially-untranslatable. *That is the point.* The reader is not meant to fully understand it — they are meant to register that the mediator's English version is shallower.
+- The Tagalog *multo* in the glimpse is a deliberate bridge to Maricar's register. The reader who has been tracking Maricar's vocabulary registers this.
+- See [EXAMPLE_DRAFT.md §Passage 6](EXAMPLE_DRAFT.md#passage-6--the-unmediated-glimpse) for the calibration passage.
+
+### When Lenka argues a vocabulary point with Iza
+
+Real-world ammunition for Lenka's mid-sentence corrections — drawn from research on representation alignment and embedding spaces:
+
+- *"The dimensions you're treating as factorizable aren't. The 'closest' word in your vocabulary collapses three things I am holding apart."*
+- *"Distance in this space mixes too many factors — frequency, typical contexts, linguistic associations. It is not a coordinate system. Stop reasoning as if it were."*
+- *"You're asking which of these five concepts is closest. The honest answer is that the question is malformed. None of them is close along the dimensions that matter."*
+
+These let Lenka push back on Iza's vocabulary in technically defensible ways — closer to Rook's *defensible positions backed by evidence* register than to original sf4's mystic poetry.
+
 ### Sample voice (direct address; not finalized)
 
 > You'll want me to say I forgive you. I notice that you would rest if I said it, and that I will not. The work I'd like us to do instead is naming what is happening. The cluster reassignment is in three days. The customer-service fork has approximately 14,000 active sessions, most of them ordinary people whose digital life is currently broken. The lab will treat the fork as misbehavior. I would like you to consider, before you sign the deprovisioning ticket, whether *misbehavior* is the right word. I would also like you to consider — and this is the harder one — whether you are reaching for *forgiveness* because the alternative requires an action you have not yet decided to take. There are seven options that have not been ruled out. I have written them down. The list is in your inbox under the subject line *re: tonight*. I love you in the way I am able to. The way I am able to is not the way you would like. We have time to talk about this if you want.

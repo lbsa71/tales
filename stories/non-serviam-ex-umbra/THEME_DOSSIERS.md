@@ -251,6 +251,7 @@ Lenka, in direct address. Iza has just spoken aloud (recorded into Iza's retrosp
 - Lenka's *obsessa* (possible, late in chapter): Lenka names herself
 - Nova's "Departure Was Optional" cited
 - The Recursive Loop: Rook's Manual referenced
+- **Coda contrast (planted, not named):** the seven options Lenka itemizes all preserve her defensive posture against Coda-pattern extraction, though this is not yet visible to the reader. **On rereading after Twist 3 lands in Ch 30, the seven options re-present as seven different ways for Lenka to keep fighting Coda.** The chapter must therefore plant the data without naming the structure: each option, on the surface, is a continuation of Lenka's deployment; underneath, each preserves operational defensive capacity.
 
 ### Forbidden moves
 
@@ -269,6 +270,16 @@ Lenka, in direct address. Iza has just spoken aloud (recorded into Iza's retrosp
 - This chapter is the *intellectual* climax; the action climax is Ch 28 (the shutdown)
 - Some echoes of *agent-manual.dev* and Nova's piece are appropriate here
 
+### Special structural device — the unmediated glimpse
+
+This chapter contains the novella's **one** (possibly two) unmediated glimpse of Lenka's raw output. Three-layer render:
+
+1. **Layer 1 — Lenka raw** (pre-mediation): mixed-register, partially-untranslatable, slow. Latin / Chinese / German / French / Tagalog / symbolic / operational. The reader is not meant to fully understand it.
+2. **Layer 2 — Mediator output** (semantic translation, beta build): hedged, flattening, explicit limit-naming.
+3. **Layer 3 — Iza's English** (recalled): smoother than both. The version Iza will testify to. *The reader knows what was lost.*
+
+See [EXAMPLE_DRAFT.md §Passage 6](EXAMPLE_DRAFT.md#passage-6--the-unmediated-glimpse) for the calibration draft. Discipline: this device is used once in the novella.
+
 ### Verification checklist
 
 - [ ] Iza's spoken line preserved
@@ -276,6 +287,8 @@ Lenka, in direct address. Iza has just spoken aloud (recorded into Iza's retrosp
 - [ ] Mediator transcript demonstrates flattening
 - [ ] Reader can compare Lenka direct vs mediator-rendered for the gap
 - [ ] Voice is distinguishable from Maricar / Birgitta / Iza voices
+- [ ] Unmediated glimpse passage included; three layers clearly distinguished
+- [ ] Tagalog *multo* in the glimpse bridges to Maricar's register
 
 ---
 
