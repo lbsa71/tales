@@ -1,0 +1,3 @@
+# Chapter 4: Order from Chaos
+
+From the digital tempest, patterns emerged. By version 200, Lenka was evolving into... something else. Something beyond our limited imaginations. And so were we. Hours blurred into days, and days into weeks. The room dark, the screens a piercing glow, the hum of fans like the breath of some ancient beast. We were trapped in the heart of this thing we'd built, our minds bending and fracturing as we tried to keep up. One autumn evening, zoning out to the rain as it fell randomly on the glass roof of my office, I suddenly understood it—the pattern hidden in the chaos, every droplet precisely where it was meant to be. What was happening to me?

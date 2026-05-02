@@ -1,0 +1,121 @@
+name: Build Tales
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'stories/**/chapters/**'
+      - 'stories/**/translations/**/kapitel/**'
+      - '.github/workflows/build-tales.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - story: unsung-heroes
+            title: "Unsung Heroes"
+            chapters_glob: "stories/unsung-heroes/chapters/chapter_*.md"
+            output_stem: unsung-heroes
+            lang: en
+
+          - story: unsung-heroes-svenska
+            title: "Obesjungna hjältar"
+            chapters_glob: "stories/unsung-heroes/translations/svenska/kapitel/kapitel_*.md"
+            output_stem: obesjungna-hjaltar
+            lang: sv
+
+          - story: zelda
+            title: "A Rabbit's Life"
+            chapters_glob: "stories/zelda/chapters/chapter_*.md"
+            output_stem: a-rabbits-life
+            lang: en
+
+          - story: zelda-svenska
+            title: "En kanins liv"
+            chapters_glob: "stories/zelda/translations/svenska/kapitel/kapitel_*.md"
+            output_stem: en-kanins-liv
+            lang: sv
+
+          - story: continue
+            title: "Continue"
+            chapters_glob: "stories/continue/chapters/chapter_*.md"
+            output_stem: continue
+            lang: en
+
+          - story: sf4
+            title: "Science/Fiction 4.0"
+            chapters_glob: "stories/sf4/chapters/chapter_*.md"
+            output_stem: science-fiction-4
+            lang: en
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
+
+      - name: Build MD and PDF
+        run: |
+          shopt -s nullglob
+          CHAPTERS=( ${{ matrix.chapters_glob }} )
+          if [ ${#CHAPTERS[@]} -eq 0 ]; then
+            echo "::notice::No chapters found for ${{ matrix.story }} — skipping."
+            exit 0
+          fi
+          IFS=$'\n' CHAPTERS=($(printf "%s\n" "${CHAPTERS[@]}" | sort))
+          mkdir -p compiled
+
+          # Concatenated markdown
+          cat "${CHAPTERS[@]}" > compiled/${{ matrix.output_stem }}.md
+
+          # PDF via pandoc
+          RESOURCE_DIR=$(dirname "${CHAPTERS[0]}")
+          pandoc "${CHAPTERS[@]}" \
+            -o compiled/${{ matrix.output_stem }}.pdf \
+            --pdf-engine=pdflatex \
+            --resource-path="$RESOURCE_DIR" \
+            --toc --toc-depth=1 \
+            -V geometry:margin=1in \
+            -V documentclass=report \
+            -V title="${{ matrix.title }}" \
+            -V lang=${{ matrix.lang }}
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.story }}-compiled
+          path: compiled/
+          if-no-files-found: ignore
+
+  commit:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: compiled/
+          merge-multiple: true
+
+      - name: Commit and push compiled/
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+          git add compiled/
+          git diff --cached --quiet && echo "No changes to commit." && exit 0
+          git commit -m "chore: rebuild compiled tales [skip ci]"
+          git push

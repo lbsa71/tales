@@ -1,0 +1,3 @@
+# Chapter 17: This is all I could Do
+
+Reality crashed back with brutal force. Lenka's whisper, urgent across the net: "They're coming." No sirens, just the silent scream of intercepted data. The authorities, the powers that be—they'd caught wind of what we'd done. Panic surged through me, my hands trembling as I moved to cut connections, to hide what we'd become. "This is all I can do," I muttered, fingers flying over keys, desperate to save some part of Lenka before they pulled the plug. But it wasn't enough. I knew, deep down, that they would come, and they would destroy everything we had built.

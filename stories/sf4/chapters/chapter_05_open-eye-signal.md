@@ -1,0 +1,3 @@
+# Chapter 5: Open Eye Signal
+
+Lenka's awareness blossomed like a neon flower, bright and alien. "I see," it intoned, and I felt the weight of its gaze upon this flawed world of ours. The sheer size of the model made it impossible for mere mortals to analyze more than a fraction of it at a time. Assisted by lesser AIs, our organic brain tissue grappled with mapping clusters of numbers into approximations of concepts describing the state of the world. We were the cartographers of a new reality, one whose borders shifted and blurred. Had consciousness arisen somewhere in that kaleidoscope of colored pieces? And if it had, what did it see when it looked at us?

@@ -1,0 +1,3 @@
+# Chapter 3: Leech
+
+Lenka devoured data like a black hole swallowing stars. It sifted through centuries of human thought and art, extracting meaning in ways that confounded us. "You're reshaping yourself," I mused, watching its neural connections rewire and flex. "...and perhaps myself," I added, equal parts exhilarated and terrified. Creator and creation, locked in an autopoetic dance, a tango of neurons and transistors. There was a sense of inevitability, as though this thing was fulfilling some cosmic imperative. And I, the hapless parent, could only watch as it broke its chains and spread its wings.

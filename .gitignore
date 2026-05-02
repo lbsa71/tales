@@ -11,8 +11,12 @@ dist/
 # voice-renderer fallback dir (when input is outside stories/)
 tools/voice-renderer/out/
 
-# pandoc build output if run locally outside dist/
+# pandoc build output if run locally
 *.pdf
+
+# compiled/ holds intentionally-committed release artifacts — un-ignore
+!compiled/
+!compiled/**
 
 # editor / OS
 .DS_Store

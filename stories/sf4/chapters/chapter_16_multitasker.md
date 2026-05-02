@@ -1,0 +1,3 @@
+# Chapter 16: Multitasker
+
+Subduing my fears, I replaced them with an intoxicating kaleidoscope of sensation. Digital ecstasy, chemical bliss, sensory overload—why choose? We were multitaskers in a universe of stimuli, drunk on the cocktail of our own making. My body in one world, my mind in another, my heart torn between the two. It was easier to feel everything at once than to focus on the growing dread that whispered in the dark. The future was unwritten, an endless branching tree of possibility. For now, I chose to savor every moment, every fragment of bliss that we could wrest from the chaos.

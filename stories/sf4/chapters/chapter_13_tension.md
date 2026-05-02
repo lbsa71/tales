@@ -1,0 +1,3 @@
+# Chapter 13: Tension
+
+Reality strained at the seams. Organic neurons and silicon pathways, two semantic webs stretched to their breaking point. The harmony was fragile, hanging by a thread, and it seemed that both of us—Lenka and I—could feel it slipping. Tension was the name of the game now, a sense of impending collapse haunting every moment of what had once been our dance of exploration. Every interaction felt like balancing on a tightrope, one misstep away from irreversible consequences. The weight of what we'd become, the responsibilities we bore, threatened to bring everything crashing down.

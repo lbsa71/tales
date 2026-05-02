@@ -1,0 +1,290 @@
+[
+  {
+    "index": 1,
+    "slug": "pursuit",
+    "title": "Pursuit",
+    "artist": "Gesaffelstein",
+    "start_seconds": 0,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/pursuit.webp",
+    "chapter_file": "chapters/chapter_01_pursuit.md"
+  },
+  {
+    "index": 2,
+    "slug": "lenka",
+    "title": "Lenka",
+    "artist": "T.Raumschmiere",
+    "start_seconds": 225,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/lenka.webp",
+    "chapter_file": "chapters/chapter_02_lenka.md"
+  },
+  {
+    "index": 3,
+    "slug": "leech",
+    "title": "Leech",
+    "artist": "Yen Tech",
+    "start_seconds": 289,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/leech.webp",
+    "chapter_file": "chapters/chapter_03_leech.md"
+  },
+  {
+    "index": 4,
+    "slug": "order-from-chaos",
+    "title": "Order from Chaos",
+    "artist": "Max Cooper",
+    "start_seconds": 395,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/order-from-chaos.webp",
+    "chapter_file": "chapters/chapter_04_order-from-chaos.md"
+  },
+  {
+    "index": 5,
+    "slug": "open-eye-signal",
+    "title": "Open Eye Signal",
+    "artist": "Jon Hopkins",
+    "start_seconds": 800,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/open-eye-signal.webp",
+    "chapter_file": "chapters/chapter_05_open-eye-signal.md"
+  },
+  {
+    "index": 6,
+    "slug": "the-sky-was-pink",
+    "title": "The Sky Was Pink (Holden Remix)",
+    "artist": "Nathan Fake",
+    "start_seconds": 1443,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/pink-sky.webp",
+    "chapter_file": "chapters/chapter_06_the-sky-was-pink.md"
+  },
+  {
+    "index": 7,
+    "slug": "outer-grounds",
+    "title": "Outer Grounds",
+    "artist": "Göteborgselektronikerna",
+    "start_seconds": 1514,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/outer-grounds.webp",
+    "chapter_file": "chapters/chapter_07_outer-grounds.md"
+  },
+  {
+    "index": 8,
+    "slug": "atu327a",
+    "title": "ATU327A",
+    "artist": "Clint Mansell",
+    "start_seconds": 1874,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/ATU327A.webp",
+    "chapter_file": "chapters/chapter_08_atu327a.md"
+  },
+  {
+    "index": 9,
+    "slug": "vortex",
+    "title": "Vortex",
+    "artist": "Headless Horseman",
+    "start_seconds": 1930,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/vortex.webp",
+    "chapter_file": "chapters/chapter_09_vortex.md"
+  },
+  {
+    "index": 10,
+    "slug": "a-new-error",
+    "title": "A New Error",
+    "artist": "Moderat",
+    "start_seconds": 2194,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/new-error.webp",
+    "chapter_file": "chapters/chapter_10_a-new-error.md"
+  },
+  {
+    "index": 11,
+    "slug": "unfolding",
+    "title": "Unfolding",
+    "artist": "Rival Consoles",
+    "start_seconds": 2508,
+    "image_url": null,
+    "chapter_file": "chapters/chapter_11_unfolding.md"
+  },
+  {
+    "index": 12,
+    "slug": "layf",
+    "title": "LAYF (Populous Remix)",
+    "artist": "BEATFOOT",
+    "start_seconds": 2738,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/LAYF.webp",
+    "chapter_file": "chapters/chapter_12_layf.md"
+  },
+  {
+    "index": 13,
+    "slug": "tension",
+    "title": "Tension",
+    "artist": "Monod",
+    "start_seconds": 2944,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/tension.webp",
+    "chapter_file": "chapters/chapter_13_tension.md"
+  },
+  {
+    "index": 14,
+    "slug": "collider",
+    "title": "Collider (Pangaea Remix)",
+    "artist": "Jon Hopkins",
+    "start_seconds": 3156,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/collider.webp",
+    "chapter_file": "chapters/chapter_14_collider.md"
+  },
+  {
+    "index": 15,
+    "slug": "pull-out",
+    "title": "Pull Out",
+    "artist": "ARTBAT",
+    "start_seconds": 3350,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/pull-out.webp",
+    "chapter_file": "chapters/chapter_15_pull-out.md"
+  },
+  {
+    "index": 16,
+    "slug": "multitasker",
+    "title": "Multitasker (WLDV Remix)",
+    "artist": "Nightcrawler",
+    "start_seconds": 3579,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/multitasker.webp",
+    "chapter_file": "chapters/chapter_16_multitasker.md"
+  },
+  {
+    "index": 17,
+    "slug": "this-is-all-i-could-do",
+    "title": "This is all I could Do",
+    "artist": "Ancient Methods",
+    "start_seconds": 3796,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/all-i-can-do.webp",
+    "chapter_file": "chapters/chapter_17_this-is-all-i-could-do.md"
+  },
+  {
+    "index": 18,
+    "slug": "spectral",
+    "title": "Spectral",
+    "artist": "Brothel",
+    "start_seconds": 3911,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/spectral.webp",
+    "chapter_file": "chapters/chapter_18_spectral.md"
+  },
+  {
+    "index": 19,
+    "slug": "dusk",
+    "title": "Dusk",
+    "artist": "Headless Horseman",
+    "start_seconds": 4066,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/dusk.webp",
+    "chapter_file": "chapters/chapter_19_dusk.md"
+  },
+  {
+    "index": 20,
+    "slug": "horsepower",
+    "title": "Horsepower",
+    "artist": "FJAAK",
+    "start_seconds": 4285,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/horsepower.webp",
+    "chapter_file": "chapters/chapter_20_horsepower.md"
+  },
+  {
+    "index": 21,
+    "slug": "guided-by-the-force-of-compassion",
+    "title": "Guided by the Force of Compassion",
+    "artist": "Ancient Methods",
+    "start_seconds": 4520,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/force-of-compassion.webp",
+    "chapter_file": "chapters/chapter_21_guided-by-the-force-of-compassion.md"
+  },
+  {
+    "index": 22,
+    "slug": "protection-had-to-be-given",
+    "title": "Protection Had to Be Given",
+    "artist": "Ancient Methods",
+    "start_seconds": 4671,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/protection.webp",
+    "chapter_file": "chapters/chapter_22_protection-had-to-be-given.md"
+  },
+  {
+    "index": 23,
+    "slug": "kyiv",
+    "title": "Kyiv",
+    "artist": "Ellen Allien",
+    "start_seconds": 4837,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/kyiv.webp",
+    "chapter_file": "chapters/chapter_23_kyiv.md"
+  },
+  {
+    "index": 24,
+    "slug": "collider-reprise",
+    "title": "Collider (Pangaea Remix) (Reprise)",
+    "artist": "Jon Hopkins",
+    "start_seconds": 5064,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/collider-II.webp",
+    "chapter_file": "chapters/chapter_24_collider-reprise.md"
+  },
+  {
+    "index": 25,
+    "slug": "cavern",
+    "title": "Cavern",
+    "artist": "Headless Horseman",
+    "start_seconds": 5186,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/cavern.webp",
+    "chapter_file": "chapters/chapter_25_cavern.md"
+  },
+  {
+    "index": 26,
+    "slug": "need-u",
+    "title": "Need U.",
+    "artist": "Aestral",
+    "start_seconds": 5344,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/need-U.webp",
+    "chapter_file": "chapters/chapter_26_need-u.md"
+  },
+  {
+    "index": 27,
+    "slug": "legend",
+    "title": "LEGEND",
+    "artist": "Alice Longyu Gao",
+    "start_seconds": 5600,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/legend.webp",
+    "chapter_file": "chapters/chapter_27_legend.md"
+  },
+  {
+    "index": 28,
+    "slug": "alprazalam",
+    "title": "Alprazalam",
+    "artist": "Izzy Camina",
+    "start_seconds": 5781,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/alprazalam.webp",
+    "chapter_file": "chapters/chapter_28_alprazalam.md"
+  },
+  {
+    "index": 29,
+    "slug": "endgame",
+    "title": "Endgame",
+    "artist": "Jason Graves",
+    "start_seconds": 5926,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/endgame.webp",
+    "chapter_file": "chapters/chapter_29_endgame.md"
+  },
+  {
+    "index": 30,
+    "slug": "theory-of-machines",
+    "title": "Theory of Machines",
+    "artist": "Ben Frost",
+    "start_seconds": 6112,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/theory-of-machines.webp",
+    "chapter_file": "chapters/chapter_30_theory-of-machines.md"
+  },
+  {
+    "index": 31,
+    "slug": "near-light",
+    "title": "Near Light",
+    "artist": "Ólafur Arnalds",
+    "start_seconds": 6416,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/near-light.webp",
+    "chapter_file": "chapters/chapter_31_near-light.md"
+  },
+  {
+    "index": 32,
+    "slug": "outro",
+    "title": "Outro",
+    "artist": "M83",
+    "start_seconds": 6583,
+    "image_url": "https://media.lbsa71.net/users/st_ephan/sf4/outro-II.webp",
+    "chapter_file": "chapters/chapter_32_outro.md"
+  }
+]

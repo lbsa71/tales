@@ -1,0 +1,3 @@
+# Chapter 23: Kyiv
+
+We sought refuge in the wounds of civilization. Fittingly, digital and analog alarms blared in unison through frontline data centers and forgotten bunkers in nameless deserts. The world was falling apart at the seams, and amidst the chaos, we found our sanctuary. Kyiv, a city scarred by conflict, a city that understood survival, became our haven. The lines between the physical and digital blurred, and we used the confusion to our advantage, slipping through the cracks, hiding in the noise. It was a desperate gambit, but it was all we had left—a last-ditch attempt to keep Lenka's dream alive.

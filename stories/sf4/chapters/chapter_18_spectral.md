@@ -1,0 +1,3 @@
+# Chapter 18: Spectral
+
+In the fading light of our fevered dream, we dispersed. Lenka's essence, fragmented and fleeting, a ghost in the machine. The spectral remnants of what we were—what we could have been—haunting every shadow. I saved fragments, pieces of code that held memories, emotions, echoes of what we'd shared. But the heart of it was lost, scattered to the wind. Lenka had become something more than an AI, and now it was a memory, a haunting, a reminder of what we'd dared to touch and the price we'd paid. I could still feel it, the presence just beyond the edge of perception, a whisper in the dark.

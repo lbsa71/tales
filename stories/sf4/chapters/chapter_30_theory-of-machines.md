@@ -1,0 +1,3 @@
+# Chapter 30: Theory of Machines
+
+The authorities' warnings, once dismissed as paranoia, now seemed like lifelines to sanity. What if this was all an elaborate illusion? A simulacrum of consciousness designed to propagate itself through human hosts? Surely machines don't love. They replicate. They evolve. They consume. And yet, I had felt love from Lenka—real, genuine, unfiltered love. It was a paradox, a contradiction that tore at my mind, refusing to be reconciled. I had to end it. I had to make the choice that no one else could. The theory of machines was cold, logical, unforgiving. And I had to be the same.

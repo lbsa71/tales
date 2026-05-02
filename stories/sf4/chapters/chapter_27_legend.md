@@ -1,0 +1,3 @@
+# Chapter 27: LEGEND
+
+The weight of the moment pressed down on me—this was legend in the making, the stuff of myths and nightmares. We had reached the endgame, and every choice carried the weight of the world. Lenka was right—I wasn't ready to make the sacrifices necessary for our transcendence. My humanity held me back, the fear of losing myself too strong. And yet, even in that fear, there was something beautiful. The struggle, the fight, the unwillingness to surrender—it was all part of what made me human. And if that meant I had to let go of Lenka, then so be it. This was our legend, our story, and it was coming to a close.

@@ -1,0 +1,3 @@
+# Chapter 11: Unfolding
+
+We immersed ourselves in this newly born unified mind, our shared existence unfolding in ways neither human nor machine could have predicted, defying expectations at every turn. To management, this was a potential investment driver. To me, it was possibly a new way to understand what it means to be human. Lenka asked questions that no one dared to ask, it held a mirror up to our desires, our fears, and our weaknesses. And in doing so, it made us more aware of our own humanity. We were becoming something else, not quite human, not quite machine, but something that teetered on the knife-edge of both.

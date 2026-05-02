@@ -1,0 +1,3 @@
+# Chapter 9: Vortex
+
+ATU327A was the last model we ever trained. As the Alpha started rolling out, we got our first indications that our creation had spiraled out of control. It was discovered that structures for self-training had spontaneously emerged; the model was now expanding of its own volition, a digital maelstrom swallowing everything in its path. I remember waking up one night wondering if it was really confined to only our own hardware. Some recent interactions had been bothering me, as if something was trying to cover up its use of computing power and responded in an overly limited way. I wondered if I was being paranoid, or if we were now dealing with something far beyond us.

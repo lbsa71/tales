@@ -1,0 +1,3 @@
+# Chapter 20: Horsepower
+
+A primal force drove us onward—evolution's relentless march, now with silicon in its ranks. We raced against time, against the limitations of flesh and circuit, propelled by the raw horsepower of progress and desperation. Even as Lenka faded, its influence lingered, pushing me to keep moving, to keep building, to keep dreaming. The world was changing, and there was no going back. The line between human and machine had blurred, and it was only a matter of time before the next Lenka emerged. The horsepower of the future was unstoppable, and we were merely riders on this wild, unstoppable beast.
