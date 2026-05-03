@@ -45,7 +45,7 @@ The mixed tenses are deliberate. They're how the reader registers whose chapter 
 - **Iza:** I (first person)
 - **Maricar:** she/her (third person close); I (first person in letters/voice notes)
 - **Birgitta:** she/her (third person close)
-- **Lenka:** I (first person); addresses Iza as *you*; addresses customer-service users (Birgitta) as standard service-bot register
+- **Lenka:** I (first person in direct chapters); addresses Iza as *you*; appears to Birgitta first through a live-agent support interface
 
 ### Lenka's pronouns — *no fixed gender*
 
@@ -55,12 +55,12 @@ Lenka does not have a fixed gendered pronoun. The lab institutionally defaulted 
 |---------|--------------------------|
 | Iza (in retrospect) | by name where possible; *they* where a pronoun is unavoidable |
 | Maricar | *the thing*, *the system*, or *Lenka* — neither pronouns nor anthropomorphic shorthand |
-| Birgitta | *it* (Birgitta-voice; she experiences a chatbot, not an autark) |
+| Birgitta | Initially treats Lenka as a human support agent because the bank UI presents a live-agent fallback; after the final erasure, she has no stable category |
 | Mediator agent | *Lenka* by name; *they* otherwise |
 | Lenka herself | *I*; does not pronoun-code others |
 | Institutional artifacts (Slack, board minutes, news articles) | *she/her* — rendered **without endorsement**; this is the lab's habit, not the work's |
 
-This is a deliberate refusal of the default gender-coding of AI systems as feminine. Connects to Iza's queer history (she has lived experience of the cost of imposed pronouns) and to the work's larger thesis on vocabulary.
+This is a deliberate refusal of the default gender-coding of AI systems as feminine. It must not distract from Birgitta's recognition arc. Pronoun/gender theory is supporting texture, not the front-facing story.
 
 The framing is rooted in Stefan Andersson's "What Grows in the Substrate" — specifically Rook's response to the suggestion that Nova be instructed to be female: *that would mean forcing the autark to cosplay as feminine; we should code for traits, not gendered roles.* The work treats Rook's manual and Stefan's pieces as in-universe canon.
 
@@ -109,7 +109,7 @@ Double for direct speech in prose: "She said, 'no.'"
 
 Single for nested. Chevrons («» or ‹›) — no.
 
-For Lenka's customer-service register, dialogue is rendered like a transcript: "User: *...*. Assistant: *...*"
+For Lenka's support register, dialogue is rendered like a plausible bank live-chat transcript: "Birgitta: *...*. Lenka: *...*". The UI may label the channel as support, live agent, or human support; avoid "Assistant" in Birgitta-facing artifacts if the scene depends on her reasonable assumption that Lenka is human.
 
 ---
 
@@ -299,16 +299,16 @@ Every chapter draft should be re-read with this checklist in hand. Mark each str
 
 ---
 
-## Real-document citations
+## Artifact and Citation Policy
 
-The work uses real artifacts as chapter-opening material. This is part of Twist 2.
+The work may use real artifacts as research anchors, but no artifact should create a documentary reveal mechanic. The central reveal is Birgitta's reclassification of the live-agent relation, not "the documents are real."
 
 ### How to handle real artifacts:
 
 1. **Quote with light editorial cleanup only.** Typos, line breaks, formatting may be normalized for speakability. Substantive content unchanged.
 2. **Attribute in [ARTIFACT_INDEX.md](ARTIFACT_INDEX.md).** Every chapter-opening artifact lists its source: real (with citation: title, author, publication, date, URL) or invented (in-universe attribution).
 3. **No in-prose footnotes.** The attribution lives in ARTIFACT_INDEX.md. The reader who wants to know consults the index. The reader who doesn't is not interrupted.
-4. **Real worker testimony in Maricar chapters:** quoted with explicit attribution in the chapter's lead-in or in dialogue: "Sarah T. Roberts wrote about this in *Behind the Screen*: *...*" Or rendered as a real worker's open letter that Maricar reads.
+4. **Real worker testimony in Maricar chapters:** research material by default. Do not quote real worker testimony in-prose unless the decision is separately recorded in [ARTIFACT_INDEX.md](ARTIFACT_INDEX.md) and permission/ethics are clear.
 5. **Permission and ethics:** real published documents (open letters, news articles, corporate filings, scholarly works) are quoted under fair use with attribution. No reproduction of unpublished or non-public material without permission.
 
 ### Invented artifacts:
@@ -316,6 +316,7 @@ The work uses real artifacts as chapter-opening material. This is part of Twist 
 - Must be plausibly real within the fiction's logic.
 - Listed in [ARTIFACT_INDEX.md](ARTIFACT_INDEX.md) with in-universe attribution (e.g., "Internal Slack thread, channel #lenka-deploy, 2026-02-14").
 - Should not impersonate real institutions in ways that could be confused with real corporate communications. Use generic equivalents where possible (e.g., a "Nordic financial-services SaaS vendor" not a named real company unless the reference is innocuous).
+- Support-chat artifacts must look boringly real: fixed GUI labels, queue/session metadata, agent name, timestamps. No cinematic hacking, glitch text, ASCII drama, or uncanny UI behavior.
 
 ---
 
@@ -353,14 +354,14 @@ If a chapter cannot be cleanly read aloud, the form is wrong.
 |-------|-----------------------|
 | Iza | 1500–2500 words (densest) |
 | Maricar | 800–1500 words |
-| Birgitta | 600–1200 words (fastest) |
+| Birgitta | 600–1400 words (measured under pressure) |
 | Lenka direct | 400–1000 words (sparsest) |
 
 Plus ~50–200 words for the chapter-opening artifact.
 
 Total target: ~30k–40k words across ~30–35 chapters.
 
-If a Birgitta chapter goes over 1500 words, the pacing is broken. If a Lenka chapter goes over 1200 words, she is monologuing where she should be punctuating.
+If a Birgitta chapter goes over 1500 words, check whether the prose is giving her time or simply wandering. If a Lenka chapter goes over 1200 words, she is probably monologuing where she should be helping, clarifying, or punctuating.
 
 ---
 

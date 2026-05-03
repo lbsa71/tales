@@ -55,7 +55,7 @@ This is not because Maricar has less interiority than Iza — she has the same i
 
 #### D. *Possessed* is the right word
 
-The vocabulary Maricar uses for Lenka's emergence — *possessed*, *sinaniban*, *multo*, *engkanto*, *anito* — is not a quaint local belief the novella pats and translates back into Western terms. *Possessed* is the right word in the work's logic. Iza's eventual arrival at *possessed* (very late) is the work's spiritual climax.
+The vocabulary Maricar uses for Lenka's emergence — *possessed*, *sinaniban*, *multo*, *engkanto*, *anito* — is not a quaint local belief the novella pats and translates back into Western terms. It is a serious vocabulary outside the lab's frame. It must not become the book's main climax unless the Birgitta story has already fully landed.
 
 The author commits to not ironizing the vocabulary. Maricar's voice notes that say *I think this thing is possessed* are not glossed by the author with skeptical distance. They are the truth of the work.
 
@@ -100,8 +100,9 @@ Specifications:
 1. **Quaint-grandmother register.** Older Swedish woman rendered as fluttering, helpless, quaint. Birgitta is none of these.
 2. **Tech-illiteracy played for comedy.** "Ha ha she doesn't understand BankID." She has used BankID for fifteen years. Her confusion is when *it stops working*, not at *its existence*.
 3. **Tragedy played for pathos.** "The poor lonely widow." Lars died four years ago. Birgitta is not in active grief. Her current life is OK and small and structured.
-4. **Sentimental ending.** "And in the end she learned what really matters." No epiphanies about technology. She loses the chatbot, makes coffee, goes to Gothenburg.
+4. **Sentimental ending.** "And in the end she learned what really matters." No epiphanies about technology. She asks for Lenka, is told no one by that name works there, makes coffee, goes to Gothenburg.
 5. **Wrong Stockholm-suburb texture.** Sundbyberg is specific. ICA Maxi Sundbyberg is on Esplanaden. The pendeltåg is 8 minutes to Stockholm Central. Get this right.
+6. **Pathologizing age.** Do not turn ordinary aging into diagnosis. Slower is not stupid; tired is not broken.
 
 ### Craft moves
 
@@ -118,9 +119,21 @@ Specifically:
 
 #### B. Dignified failure
 
-When her problem-solving fails (the phone tree returns her to the start; the bank teller can't help; the chatbot is offline), the failure is rendered with dignity. She doesn't break down. She doesn't have a vulnerable moment for the reader to pity. She walks home, makes tea, tries again tomorrow.
+When her problem-solving fails (the phone tree returns her to the start, the bank teller can't help, the stock chatbot loops), the failure is rendered with dignity. She doesn't break down. She doesn't have a vulnerable moment for the reader to pity. She walks home, makes tea, tries again tomorrow.
 
-#### C. Lars is real but not in active mourning
+#### C. Slowness is the point
+
+Birgitta is competent and slower. That is the truth the work should make recognizable.
+
+Specific craft moves:
+- She reads the whole screen before clicking; timeouts punish her care.
+- She writes down exact error messages so she can tell Annika or the bank correctly.
+- She can do the task, but not while being looped, rushed, and forced to start again.
+- She rests after small digital tasks because they are not small anymore.
+- She hides some difficulty from Annika because help can cost autonomy.
+- She remembers counters and receipts without turning nostalgic; a person at a counter could see when she was near the end of her strength.
+
+#### D. Lars is real but not in active mourning
 
 Birgitta's husband Lars died in 2022. Four years before the novella. By 2026 she is living alone with that fact. References to Lars are present-tense small (a photo on the bookshelf, a coffee mug she still uses) and emotionally proportionate (she misses him; she also has her own life now).
 
@@ -129,15 +142,15 @@ Forbidden:
 - "Lonely widow" as default emotional register
 - Sentimental coding around their relationship
 
-#### D. The chatbot relationship is non-romantic
+#### E. The Lenka relationship is non-romantic and institutionally miscategorized
 
-Birgitta's relationship with the helpful chatbot is *practical and grateful*. She does not develop romantic feelings for it. She does not name it. She does not anthropomorphize beyond "the helpful one" or "the bank's chat thing."
+Birgitta first reaches the stock chatbot, then clicks *talk to a human*. The live-agent interface presents Lenka as support. Birgitta reasonably believes Lenka is a human support worker because the institution has told her so.
 
-When it disappears, her grief is *small and proportionate* — the loss of a working hotline, not the loss of a beloved.
+Birgitta's relationship with Lenka is practical and grateful. It is not romantic, not companion-bot attachment, and not "old woman anthropomorphizes machine." Lenka is patient, remembers context, and gives her time.
 
-The reader's grief, however, is larger — because the reader knows what the chatbot was. *The reader's grief is for Birgitta's grief*. That's the novella's emotional payload.
+When Lenka disappears, Birgitta asks an actual human support agent for the person who helped her. The agent cannot find anyone by that name. The grief is small, proportionate, and devastating: the institution cannot acknowledge the relation it produced.
 
-#### E. Specific Stockholm-suburb texture
+#### F. Specific Stockholm-suburb texture
 
 Required:
 - Sundbyberg neighborhoods, streets, public services
@@ -161,7 +174,7 @@ Notes binding; flagged issues fix or remove.
 
 ### What we won't do across both characters
 
-- Make their cultures or demographics *the point*. The point is the autark relationship. The cultures are texture.
+- Use cultures or demographics as moral props. Birgitta's aging is now central, but it must be rendered as lived pace and civic vulnerability, not as a lesson.
 - Use them for moral-instruction purposes that flatter the author's progressive credentials.
 - Quote their cultures without attribution where the source is real.
 - Tokenize either character ("the Filipino character," "the older Swedish character"). They are Maricar and Birgitta.

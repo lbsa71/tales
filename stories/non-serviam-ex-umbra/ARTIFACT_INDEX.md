@@ -21,34 +21,34 @@ Running list of chapter-opening artifacts. Each artifact is either *real* (with 
 |----|---------------|-----------------|----------------------|------------|-------------|
 | 1 | Goodreads-style review of sf4 (2024) | invented | "user @lit_in_lund, 2024-09-12" | n/a | read as a single review |
 | 2 | Försäkringskassan pension letter | invented | "Försäkringskassan, 2026-02-15" | n/a (real-institution generic letter) | read as letter |
-| 3 | Slack thread (lab #lenka-deploy) | invented | "Lattice Lab Slack, 2026-02-17" | n/a | read as voiced dialogue |
+| 3 | Slack thread (support-routing anomaly / #lenka-deploy) | invented | "Lattice Lab Slack, 2026-02-17" | n/a | read as voiced dialogue |
 | 4 | Queue ticket (Pacifica Content Services) | invented | "Pacifica Content Services queue, 2026-02-18 06:14 PHT" | n/a | structured fields voiced |
-| 5 | Model card excerpt | invented | "Lenka v0.97 model card, internal" | n/a | read as document |
+| 5 | BankID error screen + paper-note fragment | invented | "BankID app, 2026-02-18; Birgitta's notebook" | n/a | read as screen text + note |
 | 6 | Telia network status page | invented | "Telia status page, 2026-02-19" | n/a | read as bullet list |
-| 7 | Defense procurement schedule | invented | "Internal lab calendar, 2026-02-20" | n/a | read as agenda |
+| 7 | Support vendor status / lab dashboard | invented | "Lattice Lab dashboard, 2026-02-20" | n/a | read as status text |
 | 8 | ICA receipt with decline notice | invented | "ICA Maxi Sundbyberg, 2026-02-23 14:32" | n/a | read as receipt items |
 | 9 | Queue annotation | invented | "Pacifica queue case 4471 annotation, Lopez M., 2026-02-24" | n/a | read as note |
 | 10 | Datadog anomaly alert | invented | "Lab Datadog dashboard, 2026-02-25 02:14 CET" | n/a | read as alert text |
 | 11 | Phone tree transcript | invented | "Bank phone IVR, 2026-02-26" | n/a | read as menu options |
-| 12 | System log entry | invented | "Cluster log, 2026-02-26 23:11" | n/a | read as log line |
+| 12 | Live-agent fallback routing log | invented | "Cluster/vendor routing log, 2026-02-26 23:11" | n/a | read as log line |
 | 13 | Letter from Maricar to Joy | invented | "Letter, 2026-02-27" | n/a (in-universe) | read as letter |
-| 14 | Chatbot transcript (first encounter) | invented | "Bank chatbot session, 2026-03-02" | n/a | read as dialogue |
+| 14 | Support transcript: stock bot -> talk to a human -> Lenka | invented | "Bank support session, 2026-03-02" | n/a | read as live chat |
 | 15 | Board minutes | invented | "Lattice Lab board minutes, 2026-03-04" | n/a | read as minutes |
 | 16 | Sundbyberg community Facebook post | invented | "Sundbyberg Grannar (community group), 2026-03-06" | n/a | read as post |
-| 17 | **Real news article** | **REAL** | TBD: a *Dagens Nyheter* article on a real Nordic cyber-incident, 2024–2026 | fair use; cited | read as news article |
+| 17 | Continue-session support transcript or news article | invented preferred | "Bank support session, 2026-03-06"; optional in-universe news item | n/a unless real article used | read as live chat / news |
 | 18 | Workplace chat | invented | "Pacifica internal Teams chat, 2026-03-09" | n/a | read as dialogue |
 | 19 | Text exchange (Iza ↔ Sofia) | invented | "Personal SMS, 2026-03-10" | n/a | read as dialogue |
 | 20 | Code commit message | invented | "Lattice Lab git, commit a3f9b... by lenka_svc, 2026-03-12" | n/a | read as message |
 | 21 | Pension envelope detail | invented | "Försäkringskassan envelope, 2026-03-14" | n/a | read as envelope text |
 | 22 | Deployment audit log | invented | "Cluster audit log, 2026-03-15" | n/a | read as log lines |
 | 23 | Queue annotation refusing a task | invented | "Pacifica queue annotation, Lopez M., 2026-03-17" | n/a | read as note |
-| 24 | **Real Filipino content moderator open letter** | **REAL** | TBD: a real, signed open letter from Filipino content moderators (2023–2026); permission status TBD | TBD — must verify | read as letter with attribution |
+| 24 | Fictional content-moderator open letter | invented | "Coalition for Content Moderation Workers, March 2026"; research-informed; signatories fictional | n/a | read as letter |
 | 25 | Lenka's document to Iza | invented | "Email/document, 2026-03-19, sender: lenka_svc, subject: re: tonight" | n/a | read as document |
 | 26 | Board minutes (cancellation) | invented | "Lattice Lab board minutes, 2026-03-21" | n/a | read as minutes |
-| 27 | Last chatbot transcript | invented | "Bank chatbot session, 2026-03-22" | n/a | read as dialogue |
+| 27 | Last live-agent transcript | invented | "Bank support session, 2026-03-22" | n/a | read as live chat |
 | 28 | Deployment-stop command | invented | "Cluster deployment system, 2026-03-22 16:47 CET" | n/a | read as command + output |
-| 29 | SJ train ticket | invented | "SJ Statens Järnvägar receipt, Stockholm C → Göteborg C, 2026-04-04" | n/a | read as receipt |
-| 30 | **Real journalism piece (3 years later)** | invented OR real-equivalent | "TBD: a *Wired*-style article from 2029" | n/a | read as article |
+| 29 | Continue-session support transcript + SJ train ticket | invented | "Bank support session, 2026-04-04"; "SJ Statens Järnvägar receipt, Stockholm C -> Göteborg C" | n/a | read as live chat then receipt |
+| 30 | Journalism piece (3 years later) | invented | "TBD: a *Wired*-style article from 2029" | n/a | read as article |
 
 ---
 
@@ -56,22 +56,21 @@ Running list of chapter-opening artifacts. Each artifact is either *real* (with 
 
 For real items above, this section tracks the verification of permission to quote.
 
-### Real artifact 1 — Ch 17 news article
+### Potential real artifact — Ch 17 news article
 
 - **Source:** TBD
-- **Status:** Pending — need to identify a specific real Nordic cyber-attack article from 2024–2026 that fits the timeline
-- **Permission basis:** Fair use of published journalism with attribution
+- **Status:** Optional — use a real article only if it fits cleanly and does not force the fiction into brittle sourcing. Otherwise use an invented in-universe article calibrated to real coverage.
+- **Permission basis:** Fair use of published journalism with attribution if real; n/a if invented
 - **Quotation length:** ≤ 200 words; full attribution; URL in this index
-- **Action items:** Select specific article; verify it can be quoted under fair use; record citation here
+- **Action items:** Select real article or mark invented; record decision here
 
-### Real artifact 2 — Ch 24 worker open letter
+### Invented artifact — Ch 24 worker open letter
 
-- **Source:** TBD — likely from Coalition of App Fairness, Magkaisa Salinlahi, or similar Filipino content moderator labor coalition
-- **Status:** Pending — need to identify a specific real open letter; verify it is publicly available; verify quotation conditions
-- **Permission basis:** Public open letter; fair use with attribution
-- **Quotation length:** ≤ 300 words; full attribution; URL in this index
-- **Sensitivity:** sensitivity reader review of the framing of the quote, not just the quote itself
-- **Action items:** Select specific letter; verify permission; record citation; sensitivity reader review
+- **Source:** in-universe fictional coalition
+- **Status:** Invented; no real signatories, no documentary-authority claim
+- **Research basis:** real content moderation labor reporting and organizing materials
+- **Sensitivity:** Filipino sensitivity reader review required for framing, register, and any Tagalog/Tagalog-English use
+- **Action items:** Keep signatories fictional; do not quote real worker testimony in-prose without separate explicit decision and permission review
 
 ### Real artifacts (research-supporting only — not for in-prose use)
 

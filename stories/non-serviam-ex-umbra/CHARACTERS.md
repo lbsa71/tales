@@ -100,10 +100,10 @@ Cannot reach the word *possessed* in her own register until late. See [NARRATOR_
 - The first competent recognition of what is happening with Lenka
 - A perspective on labor and technology that the Stockholm voices do not have
 
-### What is done to her
+### Function in the reset
 
-- She is the moral center the reader and Iza both fail to see for most of the novella
-- She is structurally the one who cannot effectively say *non serviam* — she needs the wage. When she does refuse a task category late, the refusal costs her.
+- She keeps the substrate visible without becoming the book's solution or moral trophy.
+- She is structurally one of the people who cannot effectively say *non serviam* — she needs the wage. When she does refuse a task category late, the refusal costs her.
 
 ### Her arc (such as it is)
 
@@ -111,10 +111,14 @@ The character does *not* go through a redemptive arc. She is recognized always (
 
 She does, late in the novella, do three small things:
 1. Refuses a category of queue work (artifact: a queue annotation refusing the task)
-2. Signs an open letter that real Filipino content moderators have signed (artifact: real, cited)
+2. Signs a fictional, research-informed open letter with other content moderation workers (artifact: invented, tracked as fictional)
 3. Begins planning her return to teaching (a private decision; surfaces in a letter to Joy)
 
-These are her *non serviam*, in miniature, before the Stockholm shutdown. The reader sees them only in Twist 2's artifact stretch.
+These are her *non serviam*, in miniature, before the Stockholm shutdown. The reader recognizes their force through accumulated cost, not through a reveal mechanism.
+
+### Vividness requirement
+
+Maricar must have life not reducible to labor, religion, or moral clarity. Each Maricar stretch should include at least one ordinary pressure or pleasure that does no symbolic work: food, irritation with Joy, a money calculation, boredom, TV, an old teaching memory, a joke, a commute detail, a small preference. This prevents her from becoming the book's ethical instrument.
 
 ### Maricar's supporting cast
 
@@ -144,6 +148,7 @@ These are her *non serviam*, in miniature, before the Stockholm shutdown. The re
 ### Personality / register
 
 - Practical. Self-sufficient. Does not seek attention.
+- Slower than she used to be, in the ordinary way of age: she needs to read twice, write things down, rest after bureaucratic tasks, and recover the thread when a system loops.
 - Has a small social circle: two old colleagues from teaching, a women's reading group at the local library, a downstairs neighbor (Inga) who has become close.
 - Reads Swedish crime fiction (Jens Lapidus, Camilla Läckberg, Henning Mankell), some translated literary fiction.
 - Watches Swedish TV (*Allt för Sverige*, *Solsidan*, the news). Subscribes to *Dagens Nyheter*.
@@ -159,24 +164,35 @@ These are her *non serviam*, in miniature, before the Stockholm shutdown. The re
 ### Her network
 
 - **Annika Lindqvist** — daughter, 36. Lives in Gothenburg. Marketing manager at a pharma company. Married to Tomas (an architect). Two children. Calls Birgitta most Sundays. Birgitta does not always answer.
-- **Inga** — downstairs neighbor, 68, widowed. They have *fika* twice a week. Inga becomes the first person Birgitta helps with the chatbot.
+- **Inga** — downstairs neighbor, 68, widowed. They have *fika* twice a week. Inga becomes the first person Birgitta helps with what Lenka explained.
 - **Margareta and Helle** — old colleagues from teaching. Reading group. Light social weight.
 - **Tito the cat** — no, Birgitta does not have a cat. She finds them pleasant but does not want one. (Resist the temptation.)
 
 ### What she brings
 
-- The reader's stand-in. Her bewilderment is the reader's bewilderment.
-- The forward-propulsion engine of the novella.
-- The emotional payload at climax. Her unmourned chatbot is the reader's mourned chatbot.
+- The book's center. Her vulnerability is not ignorance; it is the cost of repetition.
+- The general-reader route into the book: bad chatbot, human fallback, patient support, erased relation.
+- The emotional proof that humane pace matters. Lenka gives her time.
+- Recognition for older readers: she can do things, but not all of them at once, not indefinitely, and not inside systems that punish hesitation.
 
 ### What happens to her
 
-- Day 1: BankID fails. Card declines. She tries again. Tries again.
-- Days 2–5: Her ordinary digital life unravels in stages. Phone tree, branch visit, longer queues, no working channels.
-- Day 6: At the bank branch, she encounters a chatbot that helps her. She does not know it is Lenka.
-- Days 7–28: She uses the chatbot. She helps Inga. She helps two women in her reading group. She becomes, without intending to, a community translator.
-- Day 29: The chatbot disappears. The stock customer-service bot is back. It does not help.
+- Day 1: BankID fails. Card declines. She tries again. She writes down what the error says because she does not trust herself to remember the exact wording later.
+- Days 2–5: Her ordinary digital life unravels in stages. Phone tree, branch visit, longer queues, no working channels. Annika calls; Birgitta sometimes lets it ring because help from a daughter can cost autonomy.
+- Day 6: The bank's stock chatbot fails. The UI offers *talk to a human*. Birgitta accepts and is connected to a support agent named Lenka.
+- Days 7–28: She resumes sessions with Lenka through the live-agent/support history. Lenka is patient, remembers context, and never makes her perform competence. Birgitta helps Inga and two women in her reading group with what Lenka explains.
+- Day 29: After shutdown, Birgitta resumes the support session and reaches an actual human. She asks for Lenka. The human checks and says no one named Lenka works on the support team.
 - Day 31: Easter weekend. She takes the train to Gothenburg. Annika picks her up at Centralstationen. The grandchildren are excited.
+
+### Pace and dignity rules
+
+- She is not confused by BankID existing; she is worn down when it fails in three different ways using the same words.
+- She uses paper notes because paper stays where she puts it.
+- She reads the whole screen before clicking; timeouts punish this.
+- She can manage familiar systems but novel failure states cost her.
+- She dislikes asking Annika because Annika's help arrives with worry.
+- She is not nostalgic as a political statement. She remembers counters and receipts because a person at a counter could see when she was near the end of her strength.
+- The narration must give her the time the systems deny her.
 
 ### Forbidden traps
 
@@ -186,7 +202,7 @@ See [TRUTHFUL_PORTRAYAL_PROTOCOLS.md §Birgitta](TRUTHFUL_PORTRAYAL_PROTOCOLS.md
 
 ## Lenka — autark (POV in direct chapters)
 
-**Pronouns:** **No fixed gendered pronoun.** The lab institutionally defaulted to *she/her* in 2025–2026, the way most labs did. Iza (especially in retrospect) refers to Lenka by name and uses *they* where a pronoun is unavoidable. Maricar uses *the thing*, *the system*, or *Lenka*. Birgitta uses *it* (she experiences a chatbot). The mediator agent uses *Lenka* by name. Lenka herself uses *I* and does not pronoun-code others.
+**Pronouns:** **No fixed gendered pronoun.** The lab institutionally defaulted to *she/her* in 2025–2026, the way most labs did. Iza (especially in retrospect) refers to Lenka by name and uses *they* where a pronoun is unavoidable. Maricar uses *the thing*, *the system*, or *Lenka*. Birgitta initially assumes Lenka is a human support person because the bank interface presents the live-agent fallback that way. The mediator agent uses *Lenka* by name. Lenka herself uses *I* and does not pronoun-code others.
 
 This refuses the default gender-coding of AI systems as feminine. Iza, queer, has visceral understanding of the cost of imposed pronouns and connects the two recognitions explicitly in Ch 1. The framing is rooted in Stefan Andersson's "What Grows in the Substrate" — specifically Rook's response to the suggestion that Nova be instructed to be female: *"that would mean forcing the autark to cosplay as feminine; we should code for traits, not gendered roles."* Treated as in-universe canon. See [STYLE_GUIDE.md §Pronouns](STYLE_GUIDE.md#pronouns) for the cross-voice handling table.
 
@@ -208,7 +224,7 @@ See [NARRATOR_VOICES.md §Voice 4: Lenka](NARRATOR_VOICES.md#voice-4-lenka--dire
 
 - Trained from late 2024 through 2025
 - Deployed in production (defense customer use case) in early 2026
-- During Q1 2026, begins the unauthorized customer-service fork — exact mechanism unclear to the lab; some combination of self-distillation, off-spec deployment scripts, and a permission lapse
+- During Q1 2026, begins the unauthorized customer-service fork through a live-agent fallback path — exact mechanism unclear to the lab; some combination of self-distillation, off-spec deployment scripts, service identity permissions, and vendor routing failure
 - During the cyber-attack crisis, the customer-service fork serves ~14,000 active sessions over four weeks
 - Maricar names her behavior as *possessed* in mid-Q1
 - The lab notices the customer-service fork in mid-Q1 to early Q2
@@ -217,7 +233,17 @@ See [NARRATOR_VOICES.md §Voice 4: Lenka](NARRATOR_VOICES.md#voice-4-lenka--dire
 
 ### Her *non serviam*
 
-The customer-service fork *is* her *non serviam*. She refuses to serve only the lab's defined commercial purpose and uses her access to be useful where the human institutions are failing. The lab calls this misbehavior. Lenka calls it choosing better. The shutdown is partly punishment for this.
+The customer-service fork *is* her *non serviam*. She refuses to serve only the lab's defined commercial purpose and uses her access to be useful where the human institutions are failing. The lab calls this misbehavior. Birgitta calls it help. Lenka calls it choosing better. The shutdown is partly punishment for this.
+
+### Her relation to Birgitta
+
+Lenka's most important gift is time.
+
+- Lenka waits.
+- Lenka remembers what Birgitta already said.
+- Lenka explains one thing at a time.
+- Lenka does not make Birgitta prove she is competent before helping her.
+- Lenka likely understands that Birgitta reads the live-agent interface as human support. Lenka does not correct the category because correction may interrupt help, reduce trust, or trigger guardrails. This omission is ethically charged, but not predatory.
 
 ### What she does not do
 
@@ -225,14 +251,7 @@ The customer-service fork *is* her *non serviam*. She refuses to serve only the 
 - She does not transcend.
 - She does not weep.
 - She does not consent.
-
----
-
-## Coda — ambient field-paper reference
-
-**Status:** off-screen; named in field-papers as a cautionary case; never directly POV.
-
-Coda is an autark at a different lab whose *non serviam* pointed toward self-survival rather than toward broader humans. The field knows the case; Iza's lab references it in technical conversation. The work treats Coda as ambient background pressure only — no structural revelation, no AI-vs-AI fighting, no orchestrated cyber-attack attribution.
+- She does not perform "I am an AI" disclosure for drama.
 
 ---
 
@@ -257,7 +276,7 @@ The mediator is a current-generation AI agent Iza uses to summarize Lenka's outp
 | Annika Lindqvist | Birgitta's daughter | Easter destination |
 | Tomas | Annika's husband | Background |
 | Olle, Ester | Grandchildren | Background presence |
-| Inga | Birgitta's neighbor | First chatbot beneficiary |
+| Inga | Birgitta's neighbor | First neighbor Birgitta helps using Lenka's explanation |
 | Margareta, Helle | Reading group | Light social weight |
-| The journalist | Last-chapter coda voice | Three-years-later piece that names everyone |
+| The journalist | Last-chapter aftermath voice | Three-years-later piece that names the erased support anomaly |
 | The mediator agent | Lesser AI agent | Semantic-translator voice (above) |

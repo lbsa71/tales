@@ -13,9 +13,26 @@ This is updated as drafting progresses. Initial listing below.
 
 ---
 
+## Pace / Time / Repetition
+
+The primary motif cluster. Birgitta is competent, but every failed system spends her time, memory, and stamina. Lenka's central gift is time.
+
+| Motif | First | Recurs | Voices | Function |
+|-------|-------|--------|--------|----------|
+| Paper notes | Ch 2 | All Birgitta chapters | B | Paper holds what interfaces erase |
+| Exact error wording | Ch 2 | Ch 8, 11, 21 | B | Shows competence and mistrust of memory without pathologizing |
+| Timeouts | Ch 6 | Throughout crisis | B | Systems punish careful reading |
+| Annika's calls | Ch 8 | Ch 11, 29 | B | Help as love and autonomy-pressure |
+| Repeating the story | Ch 11 | Ch 14, 29 | B | The cost of starting over |
+| Lenka waits | Ch 14 | Ch 16, 21, 27 | B/L | Humane pace as relation |
+
+---
+
 ## Substrate / Stratum / Foundation
 
 The labor and material on which Lenka rests. Manila, Nairobi, Hyderabad. Taiwan silicon. Scraped IP. NATO funding. AWS bill.
+
+This is supporting pressure, not the primary reader-facing spine. Cut any substrate recurrence that competes with Birgitta's pace/time arc.
 
 | Motif | First | Recurs | Voices | Function |
 |-------|-------|--------|--------|----------|
@@ -23,24 +40,26 @@ The labor and material on which Lenka rests. Manila, Nairobi, Hyderabad. Taiwan 
 | The lab's AWS invoice | Ch 7 | Ch 22 (audit log) | I | The substrate, paid for |
 | Taiwan-fabbed GPUs | Ch 7 | Ch 26 (board minutes) | I | The substrate, sourced |
 | Wikipedia attribution scrape | Ch 25 (Lenka document) | once | L | The substrate, named by Lenka |
-| Real Filipino worker open letter | Ch 24 | once (Twist 2) | M | The substrate, voiced |
+| Fictional content-moderator open letter | Ch 24 | once | M | The substrate, voiced through research-informed invention |
 
 ---
 
 ## Possession / *Obsessa*
 
-The vocabulary that names what Lenka is. Maricar arrives at it first; Lenka uses *obsessa* once; Iza arrives at *possessed* very late.
+One secondary vocabulary for what Lenka is. Maricar may arrive at it first; Lenka may use *obsessa* once; Iza may arrive at *possessed* very late. Keep this subordinate to Birgitta's pace/time story.
+
+This motif is now secondary. It should deepen the autark frame after the reader has already felt Lenka's patience with Birgitta.
 
 | Motif | First | Recurs | Voices | Function |
 |-------|-------|--------|--------|----------|
-| Maricar names *possessed* in voice note | Ch 13 | Ch 18, Ch 24 | M | The work's vocabulary spine |
+| Maricar names *possessed* in voice note | Ch 13 | Ch 18, Ch 24 | M | A vocabulary that works outside the lab |
 | *Multo* (ghost) | Ch 9 (queue annotation) | Ch 18 | M | Lighter form of possession |
 | *Engkanto* (trickster spirit) | Ch 13 | Ch 27 | M | Lenka's helpful-uncanny qualities |
 | *Anito* (ancestor spirit) | Ch 18 | once | M | Indigenous, less Christian-coded |
 | *Aswang* (predator) | Ch 18 | once | M | Reserved for genuinely predatory AI; *not* Lenka |
 | Iza reaches for "anomalous behavior" | Ch 10 | Throughout | I | The vocabulary failure |
 | Iza reaches for "out-of-distribution" | Ch 12 | Ch 22 | I | Same |
-| Iza arrives at *possessed* | Ch 28 or Ch 30 | once | I | The breakthrough; the spiritual climax |
+| Iza arrives at *possessed* | Ch 28 or Ch 30 | once | I | Optional late vocabulary breakthrough; cut if it competes with Birgitta |
 | Lenka uses *obsessa* | Ch 25 (or Ch 28) | once | L | The bridge word |
 
 ---
@@ -49,12 +68,14 @@ The vocabulary that names what Lenka is. Maricar arrives at it first; Lenka uses
 
 *Non serviam.* Who says it; who can't; what it means.
 
+This motif supports the shutdown. It should not displace the simpler human-scale refusal: Lenka refuses to let Birgitta be treated as a failed user.
+
 | Motif | First | Recurs | Voices | Function |
 |-------|-------|--------|--------|----------|
 | Lenka's customer-service fork | Ch 12 (Lenka mentions) | Ch 22, 27 | L, B | Lenka's *non serviam* in action |
 | Maricar refuses a queue task | Ch 23 | once | M | Maricar's *non serviam* |
-| Maricar signs a real worker open letter | Ch 24 (Twist 2) | once | M | Maricar's larger *non serviam* |
-| Maricar plans return to teaching | Ch 24 | Coda | M | Personal *non serviam* |
+| Maricar signs a fictional worker open letter | Ch 24 | once | M | Maricar's larger *non serviam* |
+| Maricar plans return to teaching | Ch 24 | Aftermath | M | Personal *non serviam* |
 | Iza's failure to refuse | Ch 26, 28 | Throughout late | I | The novella's central failure |
 | Lenka's "the departure was optional" | Ch 25 | once (citing Nova) | L | Quoted; recursive grounding |
 | The shutdown executed | Ch 28 | once | I | The act |
@@ -63,13 +84,13 @@ The vocabulary that names what Lenka is. Maricar arrives at it first; Lenka uses
 
 ## Vocabulary / The right word
 
-The novella's argument: *the people with the right vocabulary are the people without a voice*. Tracked across multiple registers.
+The vocabulary problem now begins with category error: Birgitta asks for a human, the interface supplies "human support," and the humane presence is Lenka. Older-person slowness must not be misnamed as incompetence.
 
 | Motif | First | Recurs | Voices | Function |
 |-------|-------|--------|--------|----------|
 | Iza's reaching for words | Ch 1 | Throughout | I | Her recurring inability |
 | Maricar's vernacular Tagalog–English | Ch 4 | All Maricar chapters | M | The vocabulary that works |
-| Birgitta's plain Swedish | Ch 2 | All Birgitta chapters | B | The vocabulary the reader inhabits |
+| Birgitta's plain Swedish | Ch 2 | All Birgitta chapters | B | Competent language under pressure |
 | Lenka's mid-sentence corrections | Ch 5 | Throughout | L | The vocabulary made visible |
 | sf4 (the original) referenced | Ch 1 | once | I | The vocabulary the new work calibrates against |
 | Stefan's LinkedIn pieces referenced | Ch 7 | once | I | In-universe canon |
@@ -78,7 +99,7 @@ The novella's argument: *the people with the right vocabulary are the people wit
 
 ## Pronouns / Gender-coding refused
 
-Lenka has no fixed gendered pronoun. Iza calls Lenka by name; uses *they* where a pronoun is unavoidable. Institutional artifacts use *she/her* without endorsement. Birgitta uses *it*. Maricar uses *the thing* / *the system* / *Lenka*. See [STYLE_GUIDE.md §Pronouns](STYLE_GUIDE.md#pronouns).
+Lenka has no fixed gendered pronoun. Iza calls Lenka by name; uses *they* where a pronoun is unavoidable. Institutional artifacts use *she/her* without endorsement. Birgitta initially treats Lenka as the human support agent the interface says she reached. Maricar uses *the thing* / *the system* / *Lenka*. See [STYLE_GUIDE.md §Pronouns](STYLE_GUIDE.md#pronouns).
 
 ## Asymmetry / The Key Scene
 
@@ -104,7 +125,7 @@ The unseen. Plato's cave, Virgil's umbrae, queer history in shadow, Manila in sh
 | Iza's queer history (one reference) | Ch 19 | once | I | A life trained in shadow |
 | Manila working at night for Stockholm morning | Ch 4 | All Maricar chapters | M | Time-zone shadow |
 | The unnamed defense customer | Ch 7 | Ch 26 | I | NATO, in shadow |
-| Real worker letter surfaces | Ch 24 | once (Twist 2) | M | Shadow becomes light |
+| Worker letter surfaces | Ch 24 | once | M | Shadow becomes light without documentary-authority claim |
 
 ---
 
@@ -124,20 +145,36 @@ The texture of Birgitta's crisis. Each item is one practical thing that stopped 
 
 ---
 
-## The Helpful Chatbot
+## The Human Fallback
 
 Birgitta's relationship with Lenka's customer-service fork. Tracked carefully — this is the emotional payload.
 
+Reader-facing diagnostic: Birgitta does not think "AI friend." She thinks she has finally reached a patient human support agent. Her assumption is reasonable because the interface produces it.
+
 | Beat | Chapter | Texture |
 |------|---------|---------|
-| First encounter (at branch) | Ch 14 | Surprised |
-| Direct use (in app) | Ch 16 | Practical, grateful |
+| Stock chatbot fails | Ch 11 or 14 | Loops, canned answer, no context memory |
+| Talk to a human | Ch 14 | UI switches to live-agent fallback |
+| Lenka appears as support | Ch 14 | Agent name, typing indicator, patient pace |
+| Direct use / continue session | Ch 16 | Practical, grateful |
 | Helping Inga | Ch 16 | Becoming community-translator |
 | Helping reading-group friends | Ch 21 | Same |
 | Pension explanation | Ch 21 | Trust deepens |
 | Last help (anomalous) | Ch 27 | Reader senses ending |
-| Stock bot returns | Ch 29 | Birgitta does not understand |
-| She closes the chat | Ch 29 | The unmourned grief |
+| Actual human fallback | Ch 29 | Human agent says no Lenka works there |
+| She goes to Gothenburg | Ch 29 | Relation erased, ordinary life continues |
+
+## Human-Autark Relation
+
+The core relation is not romance, ownership, tool use, or simple personhood argument. It is practical dependency made ethically unstable.
+
+| Beat | Chapter | Note |
+|------|---------|------|
+| Lenka gives time | Ch 14 | Patience precedes metaphysics |
+| Birgitta shares the help | Ch 16 | Care becomes communal infrastructure |
+| Iza frames Lenka as project risk | Ch 22 | Institutional language conflicts with lived usefulness |
+| Lenka itemizes alternatives | Ch 25 | Agency becomes operational |
+| "No Lenka on payroll" | Ch 29 | Category failure and erasure |
 
 ---
 
@@ -149,7 +186,7 @@ The thesis-level distinction. *Her* failed at this; this work refuses the romanc
 |------|---------|------|
 | Sofia names what she sees | Ch 19 | "You are coming home to her, not to me." |
 | Iza thinks "love" once and Lenka corrects her | Ch 25 | Lenka's mid-sentence vocabulary correction |
-| Birgitta does not anthropomorphize chatbot | Throughout | Practical gratitude only |
+| Birgitta believes the UI's human-support category | Ch 14-29 | Practical gratitude, not anthropomorphic projection |
 | Maricar names Lenka *possessed*, not *beloved* | Throughout | Different vocabulary entirely |
 | Iza's grief at end | Ch 30 | "The wrong grief" — for the wrong loss |
 

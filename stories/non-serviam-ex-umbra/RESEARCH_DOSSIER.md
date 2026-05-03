@@ -8,6 +8,8 @@ The sourced facts the work depends on. Anything cited here can appear in the pro
 
 ## 1. 2026 Geopolitics
 
+**Priority:** background only. Do not let geopolitics outrank Birgitta's lived experience of digital civic life becoming too expensive to navigate.
+
 ### Conflicts
 
 | Conflict | Status (2026) | Source |
@@ -174,10 +176,17 @@ The crisis is genuinely external. Lenka's fork is a *response* to it, not a caus
 
 ---
 
-## 7. Sundbyberg / Stockholm Suburb Lifeworld
+## 7. Aging, Digital Access, and Sundbyberg Lifeworld
+
+This is now the primary research section.
 
 ### To research / verify
 
+- Older Swedes' use of BankID, Swish, banking apps, and public-service portals
+- Research on digital exclusion, cognitive load, and older adults in Sweden/EU
+- Common support patterns: phone trees, bank live chat, "talk to a human" fallback, session continuation, support directories
+- How older users preserve autonomy when adult children offer help
+- Everyday strategies: paper notes, saved letters, screenshots, writing down exact error wording
 - Sundbyberg neighborhoods, streets, public services
 - ICA Maxi Sundbyberg (real, on Esplanaden)
 - Sturegatan: bank branches present
@@ -193,6 +202,8 @@ The crisis is genuinely external. Lenka's fork is a *response* to it, not a caus
 - *Försäkringskassan* and *Skatteverket* portal mechanics
 - BankID mechanics for older users
 - Common Swedish television in 2026
+- How support chats label live agents in Swedish banking/insurance/public-service contexts
+- What wording an older Swedish user would plausibly see for "talk to a human" / "continue previous conversation"
 
 ---
 
@@ -215,6 +226,8 @@ These are real sources from outside the fictional world that the work treats as 
 
 ### Primary
 
+- Research on older adults and digital exclusion in Sweden/EU
+- Research on cognitive load, aging, and digital service design
 - Sarah T. Roberts, *Behind the Screen* (Yale, 2019)
 - Ursula K. Le Guin, "The Ones Who Walk Away from Omelas" (1973) — for the structural-suffering thesis frame
 - Ted Chiang, "The Great Silence" (2015) — for compressed treatise-as-fiction
@@ -255,9 +268,13 @@ Pinned items to resolve before specific chapters:
 - [ ] What is the actual name of the lab? Default: *Lattice Lab*
 - [ ] What is the actual name of Maricar's BPO employer? Default: *Pacifica Content Services*
 - [ ] What is the actual name of the bank in Sundbyberg? Use a real Swedish bank (Swedbank, SEB, Nordea, Handelsbanken). Choice: TBD; lean Swedbank for accessibility branding.
+- [ ] What does the bank's real or plausible "talk to a human" fallback say in Swedish?
+- [ ] How does "continue previous support conversation" plausibly appear in a Swedish bank app?
+- [ ] What are the actual BankID error texts an older user would write down?
 - [ ] What is the specific cyber-attack vector? Default: supply-chain compromise of a Nordic financial-services SaaS vendor.
-- [ ] Which real Filipino worker open letters / testimony will be quoted? Permission status.
+- [ ] Which real Filipino worker testimony remains research-only for Maricar's fictional letter?
 - [ ] Sensitivity reader for Maricar chapters: specific person, contact, compensation.
+- [ ] Older Swedish reader for Birgitta chapters: specific person, scope, compensation/thanks.
 - [ ] Date setting more specifically: which month of 2026? Default: late winter / early spring 2026 (February-April).
 - [ ] What sf4 (the original) says explicitly that Iza dismisses: pick 2–3 specific lines from sf4 to quote in Iza's eye-roll.
 

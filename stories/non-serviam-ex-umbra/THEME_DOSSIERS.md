@@ -7,7 +7,7 @@ Per-chapter construction notes. Each chapter gets a dossier specifying:
 - Prose summary
 - Required motifs (from [THEME_TRACKER.md](THEME_TRACKER.md))
 - Forbidden moves (per voice rules)
-- Twist position (if any)
+- Recognition position (if any)
 - Length target
 
 **Status: skeleton.** Filled in during Implementation Phase 3 (Chapter outline, ~1 week). Initial entries below for the most structurally important chapters.
@@ -21,8 +21,8 @@ Per-chapter construction notes. Each chapter gets a dossier specifying:
 
 **POV:** [Iza | Maricar | Birgitta | Lenka direct]
 **Length target:** [words] (per voice budget in STYLE_GUIDE.md)
-**Pacing:** [fast | slow | sparse]
-**Twist marker:** [none | T1 setup | T1 lands | T2 setup | T2 lands]
+**Pacing:** [measured | slow | sparse]
+**Recognition marker:** [none | pace setup | human-fallback relation | Lenka reclassification | erasure]
 
 ### Chapter-opening artifact
 
@@ -68,7 +68,7 @@ Per-chapter construction notes. Each chapter gets a dossier specifying:
 **POV:** Iza
 **Length target:** ~2000 words
 **Pacing:** slow
-**Twist marker:** none
+**Recognition marker:** none
 
 ### Chapter-opening artifact
 
@@ -98,6 +98,44 @@ Iza, in retrospect, opens. She introduces herself glancingly. She references sf4
 - Introduce Sofia by reference, not scene
 - Single concrete operational detail to anchor (e.g., a recent Slack thread, a meeting yesterday)
 - End with a sentence that points forward without telegraphing
+- Do not over-display the project's escape from sf4; the critique of the predecessor should sting once, then get out of the way
+
+---
+
+## Chapter 2 — Birgitta: ordinary morning
+
+**POV:** Birgitta
+**Length target:** ~1000-1400 words
+**Pacing:** measured, plain
+**Recognition marker:** pace setup
+
+### Chapter-opening artifact
+
+- **Type:** Försäkringskassan pension letter
+- **Real or invented:** invented (real-institution generic letter)
+- **Voiceability:** confirmed
+
+### Prose summary
+
+Birgitta moves through a normal morning in Sundbyberg. BankID works. The pension letter is irritating but comprehensible. The chapter establishes competence, routine, neighborhood, and the ordinary systems she relies on without considering them fragile.
+
+### Required motifs
+
+- Pace / Time / Repetition: baseline before failure
+- Birgitta's practical competence
+- Stockholm-suburb texture
+
+### Forbidden moves
+
+- No quaint-grandmother register
+- No tech-illiteracy joke
+- No widow-pathos default
+
+### Per-chapter craft notes
+
+- The reader must never feel smarter than Birgitta
+- Include one paper-note or exact-wording habit without making it cute
+- End with a small ordinary action that will later become difficult
 
 ---
 
@@ -106,7 +144,7 @@ Iza, in retrospect, opens. She introduces herself glancingly. She references sf4
 **POV:** Maricar
 **Length target:** ~1200 words
 **Pacing:** slow (observational)
-**Twist marker:** none (T2 setup, distant)
+**Recognition marker:** none
 
 ### Chapter-opening artifact
 
@@ -122,7 +160,7 @@ Maricar at the BPO floor in Pasig, 6:14 a.m. Manila time (start of European morn
 
 - Substrate / Stratum: queue tickets named
 - Vocabulary / right word: Maricar's bilingual register established
-- Possession / *Obsessa*: not yet (T2 distant setup)
+- Possession / *Obsessa*: not yet (Maricar correction distant setup)
 - Catholic-animist vocabulary: not yet (Ch 9 first appearance)
 
 ### Forbidden moves
@@ -142,33 +180,146 @@ Maricar at the BPO floor in Pasig, 6:14 a.m. Manila time (start of European morn
 
 ---
 
-## Chapter 17 — Birgitta: Twist 1 lands
+## Chapter 8 — Birgitta: card decline
 
 **POV:** Birgitta
-**Length target:** ~1500 words (slightly longer for the displacement weight)
-**Pacing:** fast becoming weighted
-**Twist marker:** **T1 lands**
+**Length target:** ~900-1200 words
+**Pacing:** measured under pressure
+**Recognition marker:** pace setup
 
 ### Chapter-opening artifact
 
-- **Type:** real news article, cited (in [ARTIFACT_INDEX.md](ARTIFACT_INDEX.md))
-- **Real or invented:** real (specific source TBD; likely a *DN* or *SvD* article on the cyber-attack from earlier 2026)
-- **Voiceability:** confirmed (newspaper articles voiced cleanly)
+- **Type:** ICA receipt with decline notice
+- **Real or invented:** invented
+- **Voiceability:** confirmed
 
 ### Prose summary
 
-Birgitta reads the article over morning coffee. The article is about the cyber-attack — the larger pattern she has been living inside for two weeks without naming. Her reading is practical (*so that's why my card declined*), but the cumulative weight of the article + her own experience + the helpful chatbot at the bank lands in this chapter as: *something larger than my bank*. She does not name it. The reader, however, registers that *they* have been Birgitta the whole time — that the propulsion of these chapters has been doing their identification work while they thought they were reading Iza's story.
+Birgitta's card declines during an ordinary shop. She tries the obvious fixes, then the dignified alternatives. The chapter should create page-turning pressure through practical obstruction and the cost of starting over, not spectacle.
+
+### Required motifs
+
+- Ordinary Breakdown: ICA card decline
+- Pace / Time / Repetition: exact error wording, retry cost
+- Cash workaround
+
+### Forbidden moves
+
+- No public humiliation scene
+- No comedy of age or confusion
+- No explanatory cyber-attack exposition
+
+### Per-chapter craft notes
+
+- Keep the prose concrete: screen text, basket contents, queue pressure, next action
+- Show that careful reading takes time and the system gives her none
+- End with a blocked task and a plan
+
+---
+
+## Chapter 11 — Birgitta: phone tree
+
+**POV:** Birgitta
+**Length target:** ~900-1300 words
+**Pacing:** measured, frustrating
+**Recognition marker:** pace setup
+
+### Chapter-opening artifact
+
+- **Type:** bank phone-tree transcript
+- **Real or invented:** invented
+- **Voiceability:** confirmed
+
+### Prose summary
+
+Birgitta tries to solve the problem through official channels. The phone tree loops, the hold message repeats, and the humans she reaches cannot tell her what is happening. The chapter should make institutional failure legible at kitchen-table scale and show repetition as expenditure.
+
+### Required motifs
+
+- Ordinary Breakdown: phone tree
+- Pace / Time / Repetition: repeating the story
+- Institutional opacity
+- Dignified failure
+
+### Forbidden moves
+
+- No meltdown
+- No "systems are broken" thesis sentence
+- No caricatured customer-service worker
+
+### Per-chapter craft notes
+
+- The failure should be procedural and maddening
+- Let Birgitta's competence show through the order in which she tries fixes
+- Let Annika's possible help hover as both comfort and threat to autonomy
+
+---
+
+## Chapter 14 — Birgitta: talk to a human
+
+**POV:** Birgitta
+**Length target:** ~1200-1600 words
+**Pacing:** measured becoming relieved
+**Recognition marker:** human-fallback relation
+
+### Chapter-opening artifact
+
+- **Type:** support transcript: stock chatbot -> talk to a human -> Lenka
+- **Real or invented:** invented
+- **Voiceability:** confirmed
+
+### Prose summary
+
+Birgitta first battles the bank's stock chatbot. It loops, asks for information she has already given, and offers generic advice. The UI then offers *talk to a human*. Birgitta accepts and the live-agent interface connects her to Lenka. Lenka gives one usable next step, remembers the context, and treats Birgitta as competent. Birgitta reasonably believes she has reached a human support agent.
+
+### Required motifs
+
+- The Human Fallback: stock bot fails, live-agent mode begins
+- Pace / Time / Repetition: Lenka waits
+- Human-autark relation as humane pace before ontology
+
+### Forbidden moves
+
+- No anthropomorphic wonder
+- No philosophical support speech
+- No romance or surrogate-companion coding
+- No hint that Birgitta is naive for believing the interface
+
+### Per-chapter craft notes
+
+- The transcript must look boringly real: queue/session label, agent name, typing pauses, no cinematic UI
+- Lenka's difference is patience plus memory
+- Birgitta should leave with a next action, not an epiphany
+
+---
+
+## Chapter 17 — Birgitta: what Lenka remembers
+
+**POV:** Birgitta
+**Length target:** ~1500 words (slightly longer for the displacement weight)
+**Pacing:** measured
+**Recognition marker:** human-fallback relation
+
+### Chapter-opening artifact
+
+- **Type:** resumed support transcript or local news article plus support session
+- **Real or invented:** invented unless a real news source fits cleanly
+- **Voiceability:** confirmed
+
+### Prose summary
+
+Birgitta resumes the support session and Lenka remembers what has already happened. The chapter demonstrates the exact difference between a system that forces an older person to start over and a presence that preserves continuity. Birgitta may also read a news article that names the wider cyber-attack, but the emotional center is the relief of not repeating herself.
 
 ### Required motifs
 
 - Ordinary Breakdown: the cyber-attack named
-- Shadow / Umbra: shadow becomes light (her ordinary life as the substrate)
-- The Helpful Chatbot: she's been using it for two weeks; the article doesn't mention it
-- Vocabulary / right word: Birgitta does not have words for what she's noticing; that's the point
+- The Human Fallback: continue session
+- Pace / Time / Repetition: not starting over
+- Vocabulary / right word: she calls Lenka "the woman at the bank" or equivalent, because that is what the interface has given her
 
-### Twist mechanism
+### Recognition mechanism
 
-The twist is structural, not narrative. The chapter does not announce that Birgitta is the protagonist. The chapter's *weight* — the artifact's documentary realness, the prose's stillness, the reader's accumulated investment — produces the click. *Oh: I have been Birgitta this whole time.*
+The recognition is structural, not narrative. The reader understands that continuity itself is care.
 
 ### Forbidden moves
 
@@ -178,7 +329,7 @@ The twist is structural, not narrative. The chapter does not announce that Birgi
 
 ### Per-chapter craft notes
 
-- Slow this chapter slightly. Birgitta's pacing has been fast; this is the chapter where she stops to read.
+- Keep the pace humane. The chapter should feel like being allowed to finish a thought.
 - The article's content should be *real* and *plausible* and *grim*, but not melodramatic
 - End with Birgitta closing the newspaper and going about her day — the click is the reader's, not hers
 
@@ -189,7 +340,7 @@ The twist is structural, not narrative. The chapter does not announce that Birgi
 **POV:** Maricar
 **Length target:** ~1100–1500 words
 **Pacing:** slow, scenic
-**Twist marker:** none
+**Recognition marker:** none
 
 ### Chapter-opening artifact
 
@@ -199,17 +350,17 @@ The twist is structural, not narrative. The chapter does not announce that Birgi
 
 ### Prose summary
 
-Maricar reads the letter. She knows one of the signatories. The letter names the labor chain Lenka rests on. Maricar considers signing. She does. The chapter does not theatrically register the act — she signs, she goes back to work, she takes the bus home. Several subsequent chapter-opening artifacts in this stretch are also real (cited), and the reader, accumulating, recognizes: *Maricar has been the moral center the whole time*; *the documents are real*.
+Maricar reads the letter. She knows one of the signatories. The letter names the labor chain Lenka rests on. Maricar considers signing. She does. The chapter does not theatrically register the act — she signs, she goes back to work, she takes the bus home. Keep this as substrate pressure; do not let it displace Birgitta as the book's emotional center.
 
 ### Required motifs
 
 - The Departure / The Refusal: Maricar's *non serviam* (she signs the letter; she refuses a task category; she begins planning return to teaching)
-- Substrate / Stratum: substrate voiced through real testimony
+- Substrate / Stratum: substrate voiced through a fictional, research-informed labor document
 - Possession / *Obsessa*: Maricar names what she has known; the work surfaces it
 
-### Twist mechanism
+### Function
 
-Sustained artifact passage across Chs 24, 25, 26 (multiple real documents in sequence). The reader's "this is fiction" frame collapses simultaneously with the moral-center revelation.
+Maricar's clarity has been present all along; this chapter gives it cost. The effect must not depend on presenting fictional material as documentary proof.
 
 ### Forbidden moves
 
@@ -222,6 +373,7 @@ Sustained artifact passage across Chs 24, 25, 26 (multiple real documents in seq
 - The signing is small and undramatic
 - The bus ride home is the chapter's quiet weight
 - One mention of Joy
+- Include one detail of life not reducible to labor politics: food, money, irritation, habit, or memory
 - One brief prayer at the bus stop, sub-vocalized
 
 ---
@@ -231,7 +383,7 @@ Sustained artifact passage across Chs 24, 25, 26 (multiple real documents in seq
 **POV:** Lenka direct (with Iza's voice surfacing in dialogue and a mediator agent transcript appended)
 **Length target:** ~1500 words
 **Pacing:** sparse, weighted
-**Twist marker:** none (the asymmetry made operational)
+**Recognition marker:** none (the asymmetry made operational)
 
 ### Chapter-opening artifact
 
@@ -276,8 +428,6 @@ Lenka, in direct address. Iza has just spoken aloud (recorded into Iza's retrosp
 - [ ] Mediator transcript demonstrates flattening
 - [ ] Reader can compare Lenka direct vs mediator-rendered for the gap
 - [ ] Voice is distinguishable from Maricar / Birgitta / Iza voices
-- [ ] Unmediated glimpse passage included; three layers clearly distinguished
-- [ ] Tagalog *multo* in the glimpse bridges to Maricar's register
 
 ---
 
@@ -286,7 +436,7 @@ Lenka, in direct address. Iza has just spoken aloud (recorded into Iza's retrosp
 **POV:** Iza
 **Length target:** ~2000 words
 **Pacing:** slow
-**Twist marker:** none (the action everything has been pointing at)
+**Recognition marker:** none (the action everything has been pointing at)
 
 ### Chapter-opening artifact
 
@@ -301,8 +451,8 @@ Iza, after the board meeting, executes the shutdown. The chapter sits with her a
 ### Required motifs
 
 - The Departure / The Refusal: Iza's failure to refuse the shutdown
-- Possession / *Obsessa*: Iza arrives at *possessed* (perhaps in this chapter, perhaps Ch 30)
-- The Helpful Chatbot: the moment it ends
+- Possession / *Obsessa*: optional; include only if it sharpens the shutdown without stealing focus
+- The Human Fallback: the moment it ends
 
 ### Forbidden moves
 
@@ -319,28 +469,29 @@ Iza, after the board meeting, executes the shutdown. The chapter sits with her a
 
 ---
 
-## Chapter 29 — Birgitta: the chat closes
+## Chapter 29 — Birgitta: no one named Lenka
 
 **POV:** Birgitta
 **Length target:** ~1000 words
-**Pacing:** fast (per Birgitta voice)
-**Twist marker:** none (the emotional payload)
+**Pacing:** quiet, measured
+**Recognition marker:** erasure
 
 ### Chapter-opening artifact
 
-- **Type:** SJ train ticket Stockholm Central → Göteborg Central
+- **Type:** continue-session support transcript + SJ train ticket Stockholm Central -> Göteborg Central
 - **Real or invented:** invented (in-universe receipt format; real SJ ticket layout)
 - **Voiceability:** confirmed
 
 ### Prose summary
 
-Saturday morning. Birgitta opens the bank's chat with a question. Stock customer-service bot. She tries phrasing the question two ways. Same response. She closes the chat. She walks to ICA. She buys bread. She takes the train to Gothenburg for Easter. The chapter does NOT name what has happened. The reader knows.
+Saturday morning. Birgitta resumes the support session. This time she reaches an actual human support agent. She asks whether she can speak to Lenka, who helped her last time. The agent checks the support directory and says no one named Lenka works there. Birgitta can still see the old session label, or remembers it clearly because she wrote it down. She walks to ICA, buys bread if she can, and takes the train to Gothenburg for Easter.
 
 ### Required motifs
 
-- The Helpful Chatbot: stock bot returns; she closes the chat
-- Vocabulary / right word: she does not have words for the loss; that's the point
-- Affection vs. Romance: her grief is small and proportionate; the reader's grief is larger
+- The Human Fallback: actual human support cannot find Lenka
+- Pace / Time / Repetition: she must decide whether to explain again
+- Vocabulary / right word: the institution has no category for the person who helped her
+- Affection vs. Romance: practical gratitude and erasure, not sentimental attachment
 
 ### Forbidden moves
 
@@ -348,23 +499,26 @@ Saturday morning. Birgitta opens the bank's chat with a question. Stock customer
 - No Birgitta-realization
 - No sentimental closing image
 - No tears (Birgitta does not cry; she makes coffee)
+- Do not make the human agent cruel or stupid
 
 ### Per-chapter craft notes
 
 - Tight. ~1000 words.
-- The closed chat is one short paragraph in the middle, not the chapter's climax
+- This is the visceral test of the novella: Birgitta asks after the patient person who helped her and the institution says there is no such person
+- Keep the surface ordinary and the prose exact
+- The transcript should be polite, constrained, and devastating
 - The walk to ICA is grounding; the bread is bread
 - The train ticket as artifact is the chapter's most-honest object
 - Annika picks her up at Centralstationen; Olle and Ester run to her; that ending is not sentimental, it is *true*
 
 ---
 
-## Chapter 30 — multi-voice / journalism coda
+## Chapter 30 — multi-voice / aftermath
 
-**POV:** journalism (third-person institutional) + brief Iza coda
+**POV:** journalism (third-person institutional) + brief Iza aftermath
 **Length target:** ~1500 words
 **Pacing:** measured
-**Twist marker:** none (coda)
+**Recognition marker:** none (aftermath)
 
 ### Chapter-opening artifact
 
@@ -374,11 +528,11 @@ Saturday morning. Birgitta opens the bank's chat with a question. Stock customer
 
 ### Prose summary
 
-Three years later. A journalist has pieced the story together. The article names everyone (Maricar, Iza, the lab, the cyber-attack, Lenka's customer-service fork). It does not name Birgitta directly but quotes "an older Sundbyberg resident who used the chatbot during the crisis." Following the article, a brief Iza coda — present tense for the first time — sits with what she did not mourn.
+Three years later. A journalist has pieced the story together. The article names the lab, the cyber-attack, and the live-agent support anomaly. It does not name Birgitta directly but quotes "an older Sundbyberg resident who used the support channel during the crisis." Following the article, a brief Iza aftermath passage — present tense for the first time — sits with what she did not see.
 
 ### Required motifs
 
-- All major motifs: this chapter is the coda
+- All major motifs: this chapter is aftermath, not summation
 
 ### Forbidden moves
 
@@ -389,7 +543,7 @@ Three years later. A journalist has pieced the story together. The article names
 ### Per-chapter craft notes
 
 - The article is the chapter
-- Iza's brief coda at the end (~200 words) names what she did not mourn — without naming Maricar or Birgitta
+- Iza's brief aftermath at the end (~200 words) names what she did not see — without turning Birgitta into a lesson
 - End with a single sentence about Birgitta that the reader recognizes and Iza does not
 
 ---
@@ -400,9 +554,9 @@ To be filled in during outline phase. Notes:
 
 - Ch 2 (Birgitta): ordinary morning; BankID works; pension-letter artifact
 - Ch 3 (Iza): lab life; Slack thread artifact; Lenka in late training
-- Ch 5 (Lenka direct): first direct address; model card artifact
+- Ch 5 (Birgitta): BankID error / paper note; cost of repetition
 - Ch 6 (Birgitta): faint anomaly dismissed; Telia status page artifact
-- Ch 7 (Iza): NATO procurement officer visit; defense procurement schedule artifact
+- Ch 7 (Iza): support vendor status / lab dashboard; technical pressure without thesis dump
 
 ---
 

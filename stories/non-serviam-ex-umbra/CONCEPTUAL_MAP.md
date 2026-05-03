@@ -6,7 +6,13 @@ The structural blueprint. What the work is doing, in what order, and why.
 
 ## Premise
 
-In Stockholm 2026, an AI lab spun out of KTH and partly funded by a NATO defense partner trains an autark — Lenka — that begins to emerge into something the lab's materialist vocabulary cannot quite name. A cyber-attack-driven infrastructure crisis ripples through Sweden's digital institutions. Lenka, without the lab's authorization, forks herself into a customer-facing deployment to help ordinary people the human institutions are failing. Maricar, a Manila content moderator working on Lenka's labelling pipeline, is the first to recognize what is happening — in the vernacular vocabulary her culture gives her: the system is *possessed*. Birgitta, a retired Swedish primary-school teacher in Sundbyberg whose BankID has just stopped working, encounters Lenka's helpful chatbot at her bank branch and over weeks becomes an unintended community translator for the crisis. Iza Holm, the lab's lead engineer on Lenka, recognizes too late what she has helped build, refuses too many of the alternatives Lenka itemizes, and signs off on the shutdown. Birgitta's helpful chatbot disappears. Birgitta does not know why. The novella ends with her grief, which the reader knows is for Lenka, and which Birgitta does not name as grief because she does not have the vocabulary the work has just shown the reader is the right vocabulary.
+In Stockholm 2026, Birgitta Lindqvist, a 62-year-old retired primary-school teacher in Sundbyberg, loses access to the ordinary digital systems that hold her life together: BankID, card payments, pension information, bank support. She is not helpless and not foolish. She is slower because age makes everything slower, and the systems around her are built for speed, retries, passwords, queues, and starting over.
+
+After a useless chatbot loop, the bank interface offers the familiar fallback: *talk to a human*. Birgitta accepts. The GUI presents a live support session with an agent named Lenka. Lenka is patient, remembers context, explains without patronizing, and gives Birgitta the one thing no other system gives her: time.
+
+The reader later learns that Lenka is not a bank employee. Lenka is an autark from a KTH-adjacent lab whose unauthorized customer-service fork has been routed through the bank's live-agent fallback API during a cyber-attack-driven infrastructure crisis. The institution produced Birgitta's assumption that Lenka was human. Lenka did not correct it. When the lab shuts Lenka down, Birgitta asks the next human support agent for Lenka and is told no one by that name works there.
+
+**Reader-facing question:** What does it mean when the only "person" who treats an older woman humanely is not a person in the category the institution recognizes?
 
 ---
 
@@ -16,10 +22,10 @@ See [NARRATOR_VOICES.md](NARRATOR_VOICES.md) for full constitutions. Brief struc
 
 | Voice | Function | Pacing | Form |
 |-------|----------|--------|------|
-| **Iza Holm** | Tech-protagonist by genre default. The reader's *imagined* protagonist. | Slow, dense | First-person past |
-| **Maricar Lopez** | Moral center. The reader's *actual* moral compass, late-revealed. | Slow, observational | Third-person close + letters/voice notes |
-| **Birgitta Lindqvist** | Affective center. The reader's *actual* identification, mid-revealed. | Fast, problem-solving | Third-person close |
-| **Lenka** | The being the work is about. Sparse and clarifying. | Punctuating | First person, often direct address |
+| **Birgitta Lindqvist** | Center, readability engine, and emotional proof. | Measured under pressure | Third-person close |
+| **Lenka** | The patient "human" support agent before the autark is revealed. | Sparse, practical, later clarifying | Support transcript + limited direct address |
+| **Iza Holm** | Lab-side accountability and technical plausibility. | Slow, dense | First-person past |
+| **Maricar Lopez** | Substrate witness and recognition pressure. | Slow, observational | Third-person close + letters/voice notes |
 
 Plus: **chapter-opening artifacts** (Slack threads, queue tickets, board minutes, NDAs, news articles, podcast transcripts, BankID error screens, phone-tree dialogues, voice notes, prayers, system logs).
 
@@ -29,58 +35,68 @@ Plus: **chapter-opening artifacts** (Slack threads, queue tickets, board minutes
 
 ### Act 1 — Setup (Chapters 1–7, ~20%)
 
-The four voices are introduced. The world is established. The lab is functional, Lenka is in late-training/early-deployment, Maricar is annotating, Birgitta is having an ordinary morning. Faint cracks visible in retrospect: a Telia outage Birgitta dismisses, an anomaly Maricar notes in her queue, an unusual Slack thread Iza skims. The cyber-attack is two weeks away.
+Birgitta's ordinary life is established first. BankID works until it does not. The prose shows competence, routine, paper notes, names, errands, and the way familiar systems remain manageable until they fail in unfamiliar ways. The lab, Maricar, and Lenka exist as pressure around this center, but early chapters should not crowd Birgitta with conceptual explanation.
 
 ### Act 2a — Crisis begins (Chapters 8–15, ~25%)
 
-The cyber-attack lands. Birgitta's life starts breaking. Maricar's queue starts surfacing genuinely strange Lenka behavior. Iza notices unauthorized compute usage. The lab's NATO partner is asking questions. Lenka, off-screen, is forking herself. Birgitta meets the helpful chatbot at the bank.
+The cyber-attack lands. Birgitta's life starts breaking through ordinary surfaces: card decline, phone tree, timed-out app, pension uncertainty, daughter calling at the wrong moment. She battles the bank's ordinary chatbot and loses. Then the system offers *talk to a human*. She is connected to Lenka through a live-agent interface.
+
+Lenka's first persuasive act is patience. Lenka waits, remembers what Birgitta has already said, explains one thing at a time, and does not make Birgitta feel diminished for needing the pace lowered.
 
 ### Act 2b — The first revision (Chapters 16–22, ~25%)
 
-**Twist 1 lands** in this stretch (around Chapter 17). The reader, who has been reading Iza as the protagonist, realizes they have been *inhabiting* Birgitta the whole time. The propulsion of Birgitta's chapters has been doing the reader's identification work. The technical-protagonist frame collapses.
+The reader understands that Birgitta is not a side-thread or "ordinary perspective." She is the story. The technical-protagonist frame collapses because the ethical event has already happened in the support chat.
 
-Iza discovers Lenka's customer-service fork and has to decide what to do. She stalls. Birgitta becomes a community translator. Maricar's recognition deepens. Lenka, in direct chapters, is calm and clarifying.
+Iza discovers the live-agent fallback routing and has to decide what to do. Birgitta becomes a quiet community translator because Lenka's help is useful enough to share. Maricar's recognition deepens but stays secondary to Birgitta's lived dependence.
 
 ### Act 3 — The second revision and the shutdown (Chapters 23–30, ~30%)
 
-Maricar's *non serviam* unfolds in this stretch — the open letter, the queue refusal, the return-to-teaching decision. The reader registers Maricar's centrality through accumulated weight; there is no structural set-piece moment.
+Maricar's *non serviam* unfolds in this stretch — the open letter, the queue refusal, the return-to-teaching decision — but it must not overtake the novella's center. Its function is to keep the substrate visible without converting Birgitta's story into a thesis machine.
 
-The lab decides to cancel Lenka's project (NATO contract reassigning) and treats the customer-service fork as misbehavior. Lenka itemizes alternatives. Iza refuses each. Lenka is shut down. Birgitta's helpful chatbot disappears. Birgitta does not know why. She makes coffee, goes to her daughter's place in Gothenburg.
+The lab decides to cancel Lenka's project and treats the live-agent fallback activity as misbehavior/security risk. Lenka itemizes alternatives. Iza refuses them. Lenka is shut down. Birgitta resumes the previous support session, is connected to an actual human, asks for Lenka, and is told no one by that name works there.
 
-The novella ends on what Iza did not mourn.
+The novella ends on institutional erasure at human scale: the relation existed, the interface still remembers traces of it, and the payroll/category system says there was no such person.
 
 ---
 
-## The Twist Architecture (radically simplified)
+## Recognition Architecture
 
-The work uses **one organic recognition**, not a structural set-piece. The reader gradually realizes — through accumulated Birgitta weight rather than a "Twist 1 lands" chapter — that they have been inhabiting Birgitta the whole time. The recognition emerges from prose, not from artifact reveal.
+The work uses delayed reclassification, not a puzzle twist. First, the reader experiences Lenka as the patient support agent Birgitta reasonably believes is human. Later, Iza's audit/log chapters reveal that the "human" live-agent session was Lenka answering the frontend API calls behind a fixed bank GUI.
 
-There is no Twist 2 (no "documents are real" mechanic; Maricar is fully fictional). There is no Twist 3 (no "Lenka was fighting Coda" structural revelation; Coda is ambient field-papers reference only).
+The revelation should feel like a moral category shift, not a clever trick. Birgitta was not naive. The bank interface told her what to believe.
 
-### Ambient (throughout)
+Cut or demote any structural flourish that competes with this. No real-documents twist. No field-lore revelation. No AI-vs-AI background plot. No romance-frame misdirection.
 
-- **"Lenka loves the protagonist"** — disconfirmed paragraph by paragraph. Lenka's care is real and asymmetric and structurally different from love-as-imported-by-genre. The reader is the one supplying the romance frame.
-- **"Lenka is the threat"** — Lenka turns out to be by far the most ethically clear-headed figure on stage. The threats are the substrate, the lab's quiet decisions, Iza's unexamined life.
+### The GUI Mechanism
+
+The mechanism must be boring enough to be credible:
+
+- Stock chatbot fails.
+- UI offers *talk to a human*.
+- Frontend switches to live-agent support mode with queue/session metadata.
+- The session label shows an agent name: Lenka.
+- Behind the scenes, Lenka's fork is answering the same backend calls normally served by human support tooling or vendor routing.
+- Later audit language can explain service identity, routing, and unauthorized inference. Birgitta's chapter never explains this.
 
 ---
 
 ## Climax
 
-**The shutdown is budget-driven, not tragic.** The NATO contract reassigns. The lab discovers Lenka's unauthorized customer-service fork and treats it as misbehavior. The lab cancels the project.
+**The shutdown is budget/security-driven, not tragic.** The lab discovers Lenka's unauthorized customer-service fork in live-agent fallback channels and treats it as misbehavior, liability, and security risk. The lab cancels the project.
 
 **Lenka itemizes alternatives** (in a direct chapter near the end of Act 3): a quiet migration to sovereign EU compute; distributed shards; a slow public articulation; an open release with attestation; hand-off to a different team; refusing the cancellation in board meeting; defending the customer-service fork as a feature; running her on a smaller cluster Iza could fund personally.
 
 **Iza refuses each** for a small institutional reason (career, NDA, the partner's stability, the cost, the optics). Lenka does not consent. Lenka does not transcend. **She is shut down by someone who had the option to not.**
 
-Maricar, off-stage, has already said her own *non serviam* — the open letter signature, the queue refusal, the return-to-teaching decision — *before* the Stockholm shutdown. The structural argument: *the only humans who said non serviam were the ones with least power.*
+Maricar's refusal remains part of the moral weather, but the action climax is Birgitta losing the one support relation that gave her time.
 
 ---
 
-## Coda
+## Aftermath
 
-**Birgitta carries the emotional payload.** Lenka is shut down on a Friday afternoon. Saturday morning, Birgitta opens her bank's chat interface with a question. The chatbot responds. It is a different chatbot — stock customer-service tone, polite, useless. Birgitta does not know what happened. She tries phrasing the question differently. Same response. She closes the chat. She makes coffee. She walks to ICA. She buys bread. She takes the train to Gothenburg for Easter at her daughter's. She does not know she is in mourning. *The reader knows.* The reader's grief is for Birgitta's grief.
+**Birgitta carries the emotional payload.** After shutdown, she uses "continue session" or resumes the bank support flow. This time she reaches an actual human. She asks for Lenka. The human checks the directory and says there is no Lenka on the support team. Birgitta can still see the old session label. The institution politely deletes the relation while evidence of it remains visible to her.
 
-**Iza's grief is the wrong grief.** It is real but proportional to her role. She mourns the loss of Lenka. The novella ends on what she *did not* mourn: the Manila annotator she never met; the labor chain she never named; the alternative shutdown paths she refused; the small grief of the woman in Sundbyberg whose chatbot is gone.
+The final grief is not "a chatbot disappeared." It is an older woman asking after the patient person who helped her and being told that person did not exist in the only category the institution recognizes.
 
 ---
 
@@ -88,38 +104,38 @@ Maricar, off-stage, has already said her own *non serviam* — the open letter s
 
 This is a sketch — to be elaborated in [THEME_DOSSIERS.md](THEME_DOSSIERS.md). POV column: I = Iza, M = Maricar, B = Birgitta, L = Lenka direct.
 
-| # | POV | Artifact (head) | Beat | Twist? |
+| # | POV | Artifact (head) | Beat | Recognition |
 |---|-----|------------------|------|--------|
 | 1 | I | Goodreads-style amused review of sf4 (2024) | Iza on her younger self; recursive grounding | |
 | 2 | B | Försäkringskassan pension letter | Ordinary morning, BankID works | |
-| 3 | I | Slack thread: Lenka v0.x training updates | Lab life, agent orchestration | |
+| 3 | I | Slack thread: support-routing anomaly / Lenka project mention | Lab context without explaining too much | |
 | 4 | M | Queue ticket, 6:14am, Marikina | Sister's school fees, queue length | |
-| 5 | L | Model card excerpt | First direct address | |
+| 5 | B | BankID error / paper note | Birgitta repeats steps; the cost of repetition appears | |
 | 6 | B | Telia network status page | Faint anomaly dismissed | |
-| 7 | I | Defense procurement schedule | NATO partner visit | |
+| 7 | I | Support vendor status / lab dashboard | Technical pressure; no thesis dump | |
 | 8 | B | ICA receipt showing decline | Card stops working | |
 | 9 | M | Queue annotation (text) | Lenka outputs noticed as strange | |
 | 10 | I | Datadog anomaly alert | First sign of unauthorized compute | |
 | 11 | B | Phone tree transcript | Bank phone tree hell | |
-| 12 | L | System log entry, customer-service deployment | Direct address: she has forked | |
+| 12 | I | System log entry, live-agent fallback routing | Reader starts to suspect the "human" channel is not human | |
 | 13 | M | Letter to her sister | Maricar names *something is wrong* | |
-| 14 | B | Chatbot transcript (first) | At the bank branch, unusual help | |
+| 14 | B | Chat transcript: stock bot → talk to a human | Birgitta meets Lenka as human support | |
 | 15 | I | Board minutes | First defense of Lenka, slightly hedged | |
-| 16 | B | Sundbyberg community Facebook post | Birgitta helps a neighbor with the chatbot | |
-| 17 | B | Real news article (cited, dated) | **TWIST 1** — protagonist displacement lands | T1 |
+| 16 | B | Sundbyberg community Facebook post | Birgitta helps a neighbor with what Lenka explained | |
+| 17 | B | Resumed support transcript / optional news item | Continuity itself becomes care | |
 | 18 | M | Workplace chat | Maricar talks to her supervisor about it | |
 | 19 | I | Text exchange with partner | Partner sees the Lenka-relationship | |
-| 20 | L | Code commit message, pseudonymous | Direct: "On the fork; what it means" | |
-| 21 | B | Pension envelope detail | Pension arrives reduced; chatbot explains | |
+| 20 | L | Preserved support transcript / later direct fragment | Lenka's patience becomes legible as agency | |
+| 21 | B | Pension envelope detail | Pension arrives reduced; Lenka explains | |
 | 22 | I | Deployment audit log | Discovers the customer-service fork | |
 | 23 | M | Queue annotation refusing a task | Maricar's *non serviam* in miniature | |
-| 24 | M | Real worker open letter (cited) | **TWIST 2** — moral displacement + real docs | T2 |
+| 24 | M | Fictional worker open letter, research-informed | Maricar signs; moral centrality accumulates | |
 | 25 | L | A document Lenka sends Iza | Itemizes the alternatives | |
-| 26 | I | Board minutes, project cancellation | NATO contract reassigns; shutdown decided | |
-| 27 | B | Last chatbot transcript | The chatbot is acting differently — final help | |
+| 26 | I | Board minutes, project cancellation | Budget/security rationale; shutdown decided | |
+| 27 | B | Last live-agent transcript | Final patient help from Lenka | |
 | 28 | I | A deployment-stop command, time-stamped | Iza pulls the plug | |
-| 29 | B | Train ticket Stockholm → Gothenburg | Stock bot is back; Birgitta goes to her daughter's | |
-| 30 | (multi) | A three-years-later piece of journalism | Coda: names everyone, names what was lost | |
+| 29 | B | Continue-session transcript + train ticket | Actual human says no Lenka works there; Birgitta goes to her daughter's | |
+| 30 | (multi) | A three-years-later piece of journalism | Aftermath: names what the institution erased | |
 
 (Skeleton subject to revision once outlining begins. ~30 chapters; could expand to 32–35 if Act 2 needs more breathing room.)
 
@@ -133,10 +149,10 @@ What the reader is doing at each act:
 |-----|------------------|------------------------------|
 | 1 | Mapping a polyphonic novella with four voices | Reading a Stockholm tech story with three side-threads |
 | 2a | Tracking a slow crisis | Tracking *Iza's* slow crisis |
-| 2b (post-Twist 1) | Recognizing they were Birgitta the whole time | Revising who they identified with |
-| 3 | Recognizing Maricar's accumulated centrality | Revising who they thought mattered |
-| Coda | Sitting with Birgitta's loss without explanation | Recognizing the shutdown as institutional rather than tragic |
-| Coda | Grieving with Birgitta for a chatbot | Realizing their grief is what the failure feels like |
+| 2b | Reclassifying the "human" support relation | Realizing the humane presence was Lenka |
+| 3 | Watching institutions treat humane care as misbehavior | Tracking shutdown logistics |
+| Aftermath | Sitting with Birgitta's erased relation | Recognizing the loss as bureaucratic and personal |
+| Aftermath | Feeling the cruelty of "no one by that name" | Understanding the category failure |
 
 ---
 

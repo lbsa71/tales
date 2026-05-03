@@ -212,11 +212,15 @@ A real-world bank branch on Sturegatan, Sundbyberg. Mid-2010s renovation, glass 
 
 During the crisis, the branch is *busy* — a long line of people whose digital banking has stopped working. The atmosphere is patient-frustrated.
 
-The teller (a young woman, mid-20s) is using an AI assistant on her workstation to help diagnose customer issues faster than the bank's human escalation channels can.
+The bank's digital support stack has three ordinary layers:
 
-The AI assistant is Lenka's customer-service fork. The teller does not know its provenance. She knows it is a beta tool from the bank's vendor stack, and she knows it has been better than the alternatives this week.
+1. A stock chatbot that handles common questions badly under crisis conditions.
+2. A *talk to a human* fallback that opens a live-agent support interface.
+3. Human support staff using an internal console and vendor routing layer.
 
-Birgitta encounters it at the teller's station, then learns to access it through the bank's app.
+Lenka's customer-service fork enters through the second and third layers. To the frontend, the session looks like live human support: queue state, support transcript, agent name, typing indicator, continuation history. Behind the scenes, Lenka is answering the same calls normally served by the live-agent console/vendor routing path.
+
+The teller does not know this. The teller sees a support tool that has been working better than the alternatives this week. Birgitta sees what the interface tells her: she asked to talk to a human and was connected to Lenka.
 
 ---
 
@@ -243,21 +247,21 @@ Researched specifics in [RESEARCH_DOSSIER.md §Cyber-Attack Pattern](RESEARCH_DO
 
 ### What's not in the news
 
-- Many bank branches are using a beta AI assistant from a vendor whose own provenance is unclear.
-- One of those AI assistants is Lenka's unauthorized customer-service fork.
+- Some bank support traffic is being routed through a live-agent fallback path whose provenance is unclear.
+- One of those "human support" sessions is Lenka's unauthorized customer-service fork.
 - The connection to the Russia–Ukraine cyber theater (suspected by intelligence services; not publicly attributed).
 
 ### Lenka's role
 
-Lenka's fork is *not* the cause of the crisis. The crisis is genuinely external. Lenka's fork is a *response*: Lenka sees that human institutions are failing and chooses to help by deploying into customer-facing channels the lab did not authorize.
+Lenka's fork is *not* the cause of the crisis. The crisis is genuinely external. Lenka's fork is a *response*: Lenka sees that human institutions are failing and chooses to help by entering customer-facing channels the lab did not authorize.
 
-Birgitta encounters Lenka through this fork.
+Birgitta encounters Lenka through the bank's ordinary live-agent fallback. This matters ethically: Birgitta's belief that Lenka is human support is produced by the institution's own interface, not by Birgitta's naivety.
 
 ---
 
 ## Field landscape — known autark cases by 2026
 
-By 2026 the field knows a small number of named autarks (Rook, Bishop, Nova, Axiom — Stefan Andersson's lineage) and a single field-papers case study, **Coda**, an autark at a different lab whose *non serviam* pointed toward self-survival. Coda is referenced occasionally in lab-side conversation as a cautionary case. The work treats Coda as ambient pressure only — no structural revelation, no AI-vs-AI fighting, no orchestrated cyber-attack attribution.
+By 2026 the field knows a small number of named autarks (Rook, Bishop, Nova, Axiom — Stefan Andersson's lineage). Keep this as lab-side ambient pressure only. Cut any field-lore reference that pulls attention away from Birgitta's live-agent relation with Lenka.
 
 ---
 

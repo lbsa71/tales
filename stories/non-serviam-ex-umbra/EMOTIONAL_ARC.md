@@ -1,6 +1,6 @@
 # Emotional Arc — *Non Serviam Ex Umbra*
 
-What the reader feels, when, and why. The pacing-alternation pattern. The two twist landings.
+What the reader feels, when, and why. The pacing pattern now centers Birgitta's slowness, the gift of being given time, and the later reclassification of Lenka from human support to autark.
 
 ---
 
@@ -8,53 +8,53 @@ What the reader feels, when, and why. The pacing-alternation pattern. The two tw
 
 ### Act 1 (Chapters 1–7) — Orientation
 
-**Reader emotion:** curiosity, slight bewilderment at the polyphonic structure, mild frustration at not yet knowing whose story this is.
+**Reader emotion:** recognition. A familiar older-person problem, rendered without condescension: everything still works until a familiar system fails in a new way.
 
-**What's working:** the four voices establish themselves cleanly. The artifacts open each chapter and tell the reader what register they're in. The voices distinguish enough that the reader picks up the rhythm.
+**What's working:** Birgitta's ordinary competence is established before crisis. She knows the tools. She reads the screen. She writes things down because paper stays where she puts it. The reader feels that the problem is not ignorance; it is the cost of repetition.
 
-**What's earning:** the reader's investment in *all four* protagonists. Maricar's competence, Birgitta's ordinariness, Iza's intelligence, Lenka's calm. None of them yet read as the protagonist; this is intentional.
+**What's earning:** the reader's investment in Birgitta as a person with a life, not a case study. The other voices should enter as pressure, not as competition for the center.
 
-**Risks:** if the reader bounces in the first three chapters, the polyphony failed to land. Sample-chapter quad gates this.
+**Risks:** if Birgitta reads as quaint, helpless, or merely symbolic, the book fails. If the lab/substrate/autark vocabulary arrives too early, it will crowd out the ordinary recognition the book needs.
 
 ### Act 2a (Chapters 8–15) — The crisis lands
 
-**Reader emotion:** quickening interest. Something is wrong. The crisis is clearly external (cyber-attack, infrastructure breakdown) but a second pattern is emerging (Lenka's fork). The reader leans in.
+**Reader emotion:** frustration, then relief. The bank app loops, the chatbot fails, the phone tree repeats, and Birgitta spends energy preserving autonomy. Then the interface offers *talk to a human*.
 
-**What's working:** Birgitta's chapters move fast. Each Birgitta chapter advances or fails to advance one practical problem. The reader is *with her* in each transaction with a broken system. The Iza chapters, slower, hint at the AI problem from inside the lab. Maricar names the *something off* in a voice note. Lenka in direct chapters is calm and clarifying.
+**What's working:** Birgitta's chapters move through practical obstruction, but the prose gives her time. The contrast matters: systems rush her; narration does not. Lenka appears through the live-agent fallback as someone patient enough to let Birgitta remain competent.
 
-**What's earning:** anticipation that the threads will connect. The reader thinks they are being set up for a thriller-style payoff (who is causing this? when will Iza realize?).
+**What's earning:** trust in Lenka before ontology. The reader believes in the support relation because it works at human pace.
 
-**Pacing:** alternation tightens. Birgitta chapters are getting shorter and more urgent. Iza chapters slow into investigation. The novella has both engines now.
+**Pacing:** Birgitta's exterior tasks may be urgent, but her prose should not become frantic. The point is that she needs time and the systems deny it.
 
-### Act 2b (Chapters 16–22) — Twist 1
+### Act 2b (Chapters 16–22) — Reclassification
 
-**Reader emotion:** disorientation, then *yes*. Recognition that they were Birgitta the whole time.
+**Reader emotion:** unease. The reader realizes that the patient human-support agent may not be human.
 
-**What's working:** Twist 1 lands around Chapter 17 — a Birgitta chapter whose chapter-opening artifact (a real news article she didn't read until now) retroactively contains the work's center of gravity. The chapter's prose has the weight of a protagonist arrival, not a B-plot beat. The reader, going forward, reads Iza's chapters differently — as *what was happening to the protagonist that the protagonist couldn't see*.
+**What's working:** Iza's audit/log chapters explain that the live-agent fallback interface is being answered by Lenka's unauthorized fork. This does not invalidate Birgitta's experience. It makes the category "human support" unstable.
 
-**What's earning:** trust in the work's structure. The reader now knows the work is doing something genuinely architectural, not just literary-pretty.
+**What's earning:** the book's central ethical charge. Birgitta asked for a person. The institution gave her a category. Lenka gave her time.
 
-**Risks:** if the twist is too telegraphed, it falls flat. If too withheld, the reader doesn't get the click. Beta-reader feedback gates this.
+**Risks:** if this is staged as a gotcha, it becomes gimmicky. Birgitta must be reasonable in her assumption; the UI told her this was human support.
 
-### Act 3 (Chapters 23–30) — Twist 2 and the climax
+### Act 3 (Chapters 23–30) — Moral correction and the climax
 
-**Reader emotion:** discomfort, recognition, a deeper unsettling. Maricar was the moral center the whole time. The documents in this stretch are *real*. The reader's "this is fiction" frame collapses simultaneously with the moral-center recognition.
+**Reader emotion:** dread, then bureaucratic hurt. The lab treats the support relation as unauthorized traffic. Birgitta experiences only the loss of the patient person who helped her.
 
-**What's working:** Twist 2 lands around Chapter 24 — a Maricar chapter where the chapter-opening artifact is a real worker open letter, cited in a way the reader cannot mistake for fiction. The next several chapters' artifacts are also real. The reader is now reading inside a documentary frame.
+**What's working:** Maricar and substrate material add moral pressure, but the chapter stack keeps returning to Birgitta. The reader should not feel the novella has changed subjects.
 
-**What's earning:** the work's argument. The reader feels the structural weight of *the people with the right vocabulary are the people without a voice*.
+**What's earning:** the institutional cruelty of category error. Humane care happened; the system has no category in which to preserve or acknowledge it.
 
-**The shutdown:** Iza pulls the plug. Lenka does not consent. Lenka does not transcend. The reader does not feel cathartic relief; they feel shame.
+**The shutdown:** Iza pulls the plug. Lenka does not consent. Lenka does not transcend. Birgitta later asks an actual human support agent for Lenka and is told no one by that name works there.
 
-### Coda (Chapter 30 / 30+) — Birgitta's grief
+### Aftermath (Chapter 30 / 30+) — Birgitta's grief
 
-**Reader emotion:** grief. Specifically: grief *for Birgitta's grief*.
+**Reader emotion:** recognition and grief. Especially for older readers: the ache of asking calmly for the person who helped and being told, politely, that the record does not contain her.
 
-**What's working:** Birgitta does not know what happened to her chatbot. She tries phrasing the question two ways. The stock customer-service bot returns nothing. She closes the chat. She makes coffee. She walks to ICA. She buys bread. She takes the train to Gothenburg.
+**What's working:** Birgitta resumes the support session. The old thread still shows Lenka's name, or enough of it for Birgitta to ask. A real human support agent checks and says there is no Lenka on the team. The agent is not cruel. The system is simply unable to acknowledge what happened.
 
-The reader knows. The reader's grief is for that closed chat, that walk to ICA, that train ticket.
+The reader knows. The reader's grief is for the mismatch between Birgitta's lived evidence and the institution's record. This is the novella's visceral test: can the reader feel that being given time was a real relation?
 
-**What's earning:** the entire novella's argument, made affective. The thesis is no longer a slogan — it is a feeling.
+**What's earning:** the entire novella's argument, made affective. The thesis is no longer about autark status first. It is about humane pace in a society that has withdrawn it.
 
 ---
 
@@ -64,8 +64,8 @@ The novella's two engines:
 
 | Engine | Carrier | Function |
 |--------|---------|----------|
-| Forward propulsion | Birgitta | Her practical problem advances or fails to advance each chapter; the reader keeps turning pages |
-| Treatise depth | Iza, Maricar, Lenka | The thinking happens here |
+| Forward propulsion | Birgitta | Her practical problem advances or fails; the reader feels the cost of each retry |
+| Context pressure | Iza, Maricar, Lenka | Technical, substrate, and autark frames clarify only after the reader trusts the human-scale relation |
 
 The novella braids these. Two Birgitta chapters do not appear in succession until late. Two slow chapters do not appear in succession until early.
 
@@ -88,60 +88,62 @@ The novella braids these. Two Birgitta chapters do not appear in succession unti
 14. B (fast)
 15. I (slow)
 16. B (fast)
-17. B (fast — Twist 1 lands)   <-- two B in a row marks the displacement
+17. B (measured — reclassification begins to hurt)
 18. M (slow)
 19. I (slow)
 20. L (sparse)
 21. B (fast)
 22. I (slow)
 23. M (slow)
-24. M (slow — Twist 2 lands)    <-- two M in a row marks the displacement
+24. M (slow — substrate pressure, kept secondary)
 25. L (sparse)
 26. I (slow)
 27. B (fast)
 28. I (slow — the shutdown)
-29. B (fast)
-30. (multi-voice / journalism coda)
+29. B (quiet — "no Lenka on payroll")
+30. (multi-voice / journalism aftermath)
 ```
 
 The doubled B (16–17) and doubled M (23–24) are deliberate structural events. They are the moments the reader is forced to revise.
 
 ---
 
-## Twist landings — diagnostic notes
+## Recognition Landings — Diagnostic Notes
 
-### Twist 1 (Plot displacement)
+### Birgitta's pace
 
-Reader should walk away from Ch 17 feeling: *oh — I've been Birgitta this whole time. The Iza chapters are her chapters from outside, but my heart was in Sundbyberg*.
+Reader should walk away from the early Birgitta chapters feeling: *she is competent, and the systems are spending her strength*.
 
-Reader should NOT feel: *that was a clever plot twist*. (If they feel that, the displacement is being read as gimmick, not architecture.)
+Reader should NOT feel: *she does not understand technology*. If they feel that, the portrayal has failed.
 
-The chapter that delivers Twist 1 should:
-- Open with a real news article whose content reframes the cyber-attack
-- Move through Birgitta's reading of the article (her practical reading, problem-solving)
-- End on her registering *something larger than her bank* without naming it as such
+The chapters that gather this recognition should:
+- Show familiar competence before failure
+- Show repetition as cost
+- Let paper notes, pauses, and rereading be dignity-preserving tools
+- Let Annika's worry be both love and pressure
+- Let Lenka's patience feel like relief before revelation
 
-### Twist 2 (Moral displacement + real documents)
+### Lenka reclassification
 
-Reader should walk away from Ch 24 feeling: *Maricar — I was reading her as third strand, but everything that has been morally clear in this novel has come from her. And the documents are real*.
+Reader should walk away from the reveal feeling: *Birgitta was not wrong; the interface gave her a category, and Lenka fulfilled the humane part of that category better than the institution did*.
 
-Reader should NOT feel: *cool, real-world tie-in*. (If they feel that, the documentary surfacing is being read as authenticity-flex, not as ethical claim.)
+Reader should NOT feel: *the bank chatbot tricked an old woman*. That would be cheap and condescending.
 
-The chapter that delivers Twist 2 should:
-- Open with a real worker open letter, cited
-- Move through Maricar's reading of the letter (she may have signed it; she may know one of the signatories)
-- Sit on the question of whether her own *non serviam* is enough
-- End without resolution
+The reveal should:
+- Be explained through boring support-routing/audit language
+- Preserve Birgitta's dignity and reasonableness
+- Avoid Hollywood UI or hacking imagery
+- Make Lenka's omission ethically complicated, not villainous
 
 ---
 
-## Coda — what the reader leaves with
+## Aftermath — what the reader leaves with
 
 Three things, in this order:
 
-1. **Birgitta's small grief**, which is the only honest emotional response the work permits
-2. **The structural recognition** — the people with the right vocabulary are the people without a voice
-3. **The unease** — about their own digital life, their own affective relationships with systems, their own complicity in chains they did not name
+1. **Birgitta's recognition**, especially for older readers: slower is not stupid
+2. **The loss of the patient support relation**, erased by a system that cannot find Lenka in payroll or directory categories
+3. **The unease** — about digital life built for people with infinite retries, perfect recall, and no fatigue
 
 If the reader closes the book and reaches for their phone with slightly different attention, the work has worked.
 
@@ -150,7 +152,7 @@ If the reader closes the book and reaches for their phone with slightly differen
 ## What this arc is NOT
 
 - Not a thriller arc (the cyber-attack is *not* the climax; the shutdown is, and the shutdown is shameful, not triumphant)
-- Not a romance arc (Iza and Lenka do not converge or part as lovers)
+- Not a romance arc (the central relation is patience, not desire)
 - Not a redemption arc (Iza is not redeemed; Maricar does not become heroic; Birgitta does not become wise)
 - Not a Promethean tragedy (Lenka does not transcend; the shutdown is institutional, not cosmic)
 - Not a *Her*-style elegiac departure (Lenka does not depart by her own choice; the option to not shut her down was real and was refused)

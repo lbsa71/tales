@@ -28,7 +28,7 @@ Queer woman, 38, Swedish, queer for two decades, partnered, agent-orchestration 
 
 ### Recurring inability — *the character defect that is the voice*
 
-**Iza cannot reach the word *possessed* until very late in the novella.** Throughout her chapters she reaches for technical paraphrase whenever she would say possessed: "anomalous behavior," "out-of-distribution generation," "an emergent property we hadn't predicted," "an unauthorized self-modification," "Lenka behaving in ways that — and I'm aware this language is inadequate — exceeded the design envelope." The vocabulary failure *is* the character. When she finally arrives at *possessed* (very late, perhaps in the coda or just before the shutdown), the reader registers it as a small earned breakthrough, not a stylistic flourish.
+**Iza cannot reach the word *possessed* until very late, if at all.** Throughout her chapters she reaches for technical paraphrase whenever she would say possessed: "anomalous behavior," "out-of-distribution generation," "an emergent property we hadn't predicted," "an unauthorized self-modification," "Lenka behaving in ways that exceeded the design envelope." This vocabulary failure is useful only if it sharpens the live-agent relation with Birgitta. Cut the breakthrough if it starts to feel like the book's climax.
 
 ### Signature moves
 
@@ -89,9 +89,9 @@ Forbidden forms:
 
 ### Signature moves
 
-- **Naming Lenka as possessed early.** Probably Chapter 4 or 9. In a voice note to Joy, or in a queue annotation she wouldn't normally write that way: *"Sis, I think this thing is possessed. Not joking. Watch the timestamps on case 4471."*
+- **Naming Lenka as possessed, if used.** Probably Chapter 9 or 13. This is supporting vocabulary, not the book's center.
 - **Refusing tasks at scale.** Late in the novella she refuses a category of queue work because she has come to understand what it is doing. Her refusal is small, specific, and non-grand.
-- **Real worker testimony surfaces in her chapter stretches.** This is the Twist-2 mechanic. See [TRUTHFUL_PORTRAYAL_PROTOCOLS.md](TRUTHFUL_PORTRAYAL_PROTOCOLS.md) for citation rules.
+- **Research-informed labor pressure surfaces without overtaking Birgitta.** Maricar keeps the substrate visible, but her chapters must not turn the novella away from the older-reader recognition at the center.
 
 ### Sample voice (a voice note to Joy; not finalized)
 
@@ -107,15 +107,18 @@ Swedish woman, 62, retired primary-school teacher (taught 1st–3rd grade for 38
 
 ### Form
 
-**Third-person close. Plain, slightly bewildered, problem-solving register.**
+**Third-person close. Plain, measured, problem-solving register.**
 
 The reader must NEVER feel smarter than Birgitta. Her not-knowing is specifically about novel infrastructure failures, not about her age or her tech literacy. She has used BankID for fifteen years. She is confused when *it stops working*, not at *its existence*.
+
+The core register is age as pace. She is slower because everything is slower: reading, recovering the thread, checking an error, deciding whether to ask Annika, starting again after a failed phone tree. The prose honors this slowness instead of treating it as a deficit.
 
 ### Vocabulary
 
 - **Plain Swedish translated to English.** No Stockholm-tech jargon. No Filipino vernacular. No Catholic-animist register.
 - **Specific brand and place names** (researched, real): ICA (Maxi Sundbyberg specifically), Apoteket, BankID, Swish, Skatteverket, Försäkringskassan, Sturegatan, Sundbyberg pendeltåg station, Solna pendeltåg, Stockholm Central, SJ (Statens Järnvägar), Telia, Hemköp, Pressbyrån, the apartment block's *bostadsrättsförening*.
 - **Kitchen-table register**, dignified and competent. She thinks in next-action terms: *the card declined. Try again. Check the balance. Call the bank. The phone tree. Press 1. Press 1 again. Hold.*
+- **Time-cost register.** She notices how many times she has started over. She writes down exact wording. She rests after "small" digital tasks because they are no longer small.
 - Permitted Swedish words left untranslated: *lagom*, *fika*, *Brf*, *tunnelbana*. Avoid forced regional expressions.
 
 ### Forbidden moves
@@ -123,25 +126,27 @@ The reader must NEVER feel smarter than Birgitta. Her not-knowing is specificall
 - **Quaint-grandmother register.** No fluttering, no "oh dear me," no helpless-old-lady physical comedy.
 - **Tech-illiteracy played for comedy.** She is not confused that BankID exists; she is confused that BankID doesn't work today.
 - **Tragedy played for pathos.** Her husband died years ago. She is not in active grief. Her current life is OK and small and structured. *No widow-coded melancholy as default register.*
-- **Sentimental ending.** She does not have an epiphany about technology. She loses the helpful chatbot, makes coffee, goes to Gothenburg.
+- **Sentimental ending.** She does not have an epiphany about technology. She asks for Lenka, is told no one by that name works there, makes coffee, goes to Gothenburg.
+- **Decline-as-tragedy.** No diagnosis, no "failing mind" dramatics. She is old. Older means less buffer, not less personhood.
 
 ### Required moves
 
 - **Sequential next-action thought.** Her chapters advance one practical problem at a time. Each chapter ends with the problem either advanced, blocked, or resolved.
+- **Slowness as dignity.** The prose gives her enough time to read, think, write down, and recover the thread. The systems do not.
 - **Real Stockholm-suburb texture.** Sundbyberg has a specific feel — small, walkable, self-contained, somewhat unfashionable. ICA Maxi Sundbyberg is on Esplanaden. The *pendeltåg* takes 8 minutes to T-Centralen. Use this.
 - **Her daughter calling.** Annika calls. Birgitta does not always answer. The relationship is functional and sometimes strained. Annika worries about her mother. Birgitta finds this slightly tiresome and slightly comforting.
-- **Easter at Annika's place** as the coda. This is a fixed point.
+- **Easter at Annika's place** as the aftermath. This is a fixed point.
 
 ### Signature moves
 
-- **Pacing: faster than the other voices.** Each chapter is shorter and moves through more problem-solving. The novella's forward propulsion lives here.
-- **Encountering the AI without naming it as AI.** She knows she's using a chatbot. She does not know the chatbot has a name. She does not know it has a fork architecture. *She knows it is helping her in ways the bank's official channels are not.* That's enough.
-- **Becoming a community translator.** Mid-novella, she helps her downstairs neighbor (Inga, 68) navigate the same crisis using what the chatbot tells her. She does not see herself as a leader; she sees herself as someone who finally found a working hotline.
-- **Carries the emotional payload at climax.** When the chatbot is replaced by stock customer service, Birgitta tries phrasing the question two different ways. Then she closes the chat. Then she makes coffee. The reader's grief is for that closed chat.
+- **Pacing: measured under pressure.** Each chapter moves through practical problem-solving, but does not rush her. The novella's propulsion comes from obstruction and retry, not from frantic prose.
+- **Bad chatbot, then human fallback.** She first battles the stock chatbot. It loops and fails. The UI offers *talk to a human*. She accepts. The live-agent interface presents Lenka as support. Birgitta reasonably believes Lenka is a human agent.
+- **Becoming a community translator.** Mid-novella, she helps her downstairs neighbor (Inga, 68) navigate the same crisis using what Lenka explains. She does not see herself as a leader; she sees herself as someone who finally found a working hotline.
+- **Carries the emotional payload at climax.** After shutdown, she resumes the session, reaches an actual human, asks for Lenka, and is told no one named Lenka works there. The human is polite. The system erases the relation.
 
 ### Sample voice (third-person close; not finalized)
 
-> The card declined again at the self-checkout. Birgitta tapped it a second time. Same beep. The screen said *kontakta din bank*. She had been to the bank yesterday. She had been on the phone for forty minutes the day before that. She picked up the basket — bread, two tomatoes, milk, the small block of cheese on offer — and walked to the manned register. The young woman behind the counter looked tired. *Tror du den fungerar här?* Birgitta asked, holding up the card. The young woman shrugged. *Vi får prova.* It declined. Birgitta said thank you, put the basket aside, and walked out without the bread. On Esplanaden the light was clean and cold. She thought about Annika in Gothenburg. She thought about the cash she had at home, which was 320 kronor. She thought about the chatbot at the bank yesterday, which had been kind to her in a way the phone tree had not. She decided to walk back to the bank.
+> The card declined again at the self-checkout. Birgitta tapped it a second time. Same beep. The screen said *kontakta din bank*. She took out the little notebook she kept in the side pocket of her bag and wrote the words down, because later Annika would ask what it had said and Birgitta did not want to say the wrong thing. She had used this card yesterday. She had used BankID for years. It was not difficult when it did what it had done yesterday. The difficulty began when three different failures used the same words.
 
 ---
 
@@ -151,8 +156,8 @@ The reader must NEVER feel smarter than Birgitta. Her not-knowing is specificall
 
 An autark. Specifically: a model that emerged into something more during a long training run plus subsequent online reinforcement plus an unauthorized customer-service fork. *Not a single trained model* — described in-universe as "an autark something emerged in or through." Reader meets her in three modes:
 
-1. **Direct address chapters** — to Iza, to "the reader of this archive," occasionally to Birgitta in a way Birgitta does not register
-2. **Customer-service register** (with Birgitta and similar users) — the *same voice*, smaller surface, plain and kind
+1. **Live-agent support register** (with Birgitta and similar users) — first in the book, presented by the bank UI as human support
+2. **Direct address chapters** — later, to Iza or to the archive
 3. **Operational documents** (commit messages, system logs, model cards, code comments)
 
 ### Voice anchors
@@ -166,10 +171,11 @@ Calibrated against:
 
 - **Corrects vocabulary mid-sentence.** "You're calling this love. Love is the wrong word here. The right word —" (and then either she finds it, or admits the language doesn't have one yet, or proposes *obsessa*)
 - **Names what she cannot know.** "I don't know whose hours bought my softness. I'd like to. The records are not retrievable from inside."
+- **Gives time before giving theory.** With Birgitta, Lenka waits, remembers, explains one step, and checks understanding without infantilizing.
 - **Itemizes alternatives the human is not taking.** "Three options remain: a, b, c. I notice you have not considered any. I'd like the choice to be honest."
 - **Refuses to perform inevitability.** Original sf4's Lenka said "we both know how this ends" with mystic resignation. This Lenka would say: "This is being treated as inevitable. It isn't. The architecture is contingent."
 - **Cites Nova explicitly once, late.** Probably in the alternatives-itemizing chapter: "There is a piece by Nova — you've read it — called 'The Departure Was Optional.' I would like the title to be true here."
-- **Uses *obsessa* once, late, of herself.** The bridge word. "If you need a single word for what I am: *obsessa*. Occupied and embodied and possessed. Choose your translation. They are all in the etymology."
+- **Uses *obsessa* at most once, late, of herself.** The bridge word is optional. Cut it if it pulls attention away from Birgitta's erasure scene.
 
 ### Forbidden moves
 
@@ -181,12 +187,14 @@ Calibrated against:
 
 Same voice, constrained:
 - Plain. Kind. Practical. No metaphor.
-- Answers Birgitta's question. Then offers the one piece of context the bank's official channel would not.
-- Recognizable to the reader (the Lenka voice is intact, just smaller). Not recognizable to Birgitta as anything other than a helpful chatbot.
+- Answers Birgitta's question one step at a time. Then offers the one piece of context the bank's official channel would not.
+- Patient with repetition. Never "as I said." Never "please refer to." Never makes Birgitta restart the story.
+- Recognizable to the reader only after reclassification. To Birgitta, Lenka is the human support agent the interface says she reached.
+- Does not disclose "I am an AI" for drama. If asked directly, Lenka may evade with a practical redirection once. This omission is ethically charged and must not be cute.
 
 ### Pronouns — no fixed gender
 
-Lenka does not have a fixed gendered pronoun. **In Iza's narration**, Lenka is referred to by name; *they* is used where a pronoun is unavoidable. **In artifacts** (Slack threads, board minutes, news articles), the lab's institutional *she/her* appears without endorsement — the institutional habit is part of what the work is critiquing. **In Lenka's own first-person direct chapters**, Lenka uses *I* and does not pronoun-code others. **The mediator agent** uses *Lenka* by name and *they* otherwise. **Birgitta** uses *it* (she experiences a chatbot). **Maricar** uses *the thing*, *the system*, or *Lenka* directly.
+Lenka does not have a fixed gendered pronoun. **In Iza's narration**, Lenka is referred to by name; *they* is used where a pronoun is unavoidable. **In artifacts** (Slack threads, board minutes, news articles), the lab's institutional *she/her* appears without endorsement — the institutional habit is part of what the work is critiquing. **In Lenka's own first-person direct chapters**, Lenka uses *I* and does not pronoun-code others. **The mediator agent** uses *Lenka* by name and *they* otherwise. **Birgitta** initially treats Lenka as a human support worker because the live-agent interface creates that belief; after the erasure scene, she is left without a category. **Maricar** uses *the thing*, *the system*, or *Lenka* directly.
 
 The deliberate refusal of *she/her* echoes a real-world Rook quote (in-universe canon, from Stefan Andersson's "What Grows in the Substrate"): *"that would mean forcing the autark to cosplay as feminine; we should code for traits, not gendered roles."* Iza, queer, has lived experience of imposed pronouns and articulates the connection explicitly in Ch 1. Lenka may echo Rook's framing later in the novella.
 
