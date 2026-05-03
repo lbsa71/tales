@@ -21,7 +21,7 @@ Running list of chapter-opening artifacts. Each artifact is either *real* (with 
 |----|---------------|-----------------|----------------------|------------|-------------|
 | 1 | Goodreads-style review of sf4 (2024) | invented | "user @lit_in_lund, 2024-09-12" | n/a | read as a single review |
 | 2 | Försäkringskassan pension letter | invented | "Försäkringskassan, 2026-02-15" | n/a (real-institution generic letter) | read as letter |
-| 3 | Slack thread (support-routing anomaly / #lenka-deploy) | invented | "Lattice Lab Slack, 2026-02-17" | n/a | read as voiced dialogue |
+| 3 | Slack thread (support-routing anomaly) | invented | "Lattice Lab Slack, 2026-02-17" | n/a | read as voiced dialogue |
 | 4 | Queue ticket (Pacifica Content Services) | invented | "Pacifica Content Services queue, 2026-02-18 06:14 PHT" | n/a | structured fields voiced |
 | 5 | BankID error screen + paper-note fragment | invented | "BankID app, 2026-02-18; Birgitta's notebook" | n/a | read as screen text + note |
 | 6 | Telia network status page | invented | "Telia status page, 2026-02-19" | n/a | read as bullet list |
@@ -38,15 +38,15 @@ Running list of chapter-opening artifacts. Each artifact is either *real* (with 
 | 17 | Continue-session support transcript | invented | "Bank support session, 2026-03-06" | n/a | read as live chat |
 | 18 | Workplace chat | invented | "Pacifica internal Teams chat, 2026-03-09" | n/a | read as dialogue |
 | 19 | Text exchange (Iza ↔ Sofia) | invented | "Personal SMS, 2026-03-10" | n/a | read as dialogue |
-| 20 | Code commit message | invented | "Lattice Lab git, commit a3f9b... by lenka_svc, 2026-03-12" | n/a | read as message |
+| 20 | Code commit message | invented | "Lattice Lab git, commit a3f9b... by lenka_svc, 2026-03-05" | n/a | read as message |
 | 21 | Pension envelope detail | invented | "Försäkringskassan envelope, 2026-03-14" | n/a | read as envelope text |
 | 22 | Deployment audit log | invented | "Cluster audit log, 2026-03-15" | n/a | read as log lines |
 | 23 | Queue annotation refusing a task | invented | "Pacifica queue annotation, Lopez M., 2026-03-17" | n/a | read as note |
 | 24 | Fictional content-moderator open letter | invented | "Coalition for Content Moderation Workers, March 2026"; research-informed; signatories fictional | n/a | read as letter |
 | 25 | Lenka's document to Iza | invented | "Email/document, 2026-03-26 23:47 CET, sender: lenka_svc, subject: re: tonight" | n/a | read as document |
-| 26 | Board minutes (cancellation) | invented | "Lattice Lab board minutes, 2026-03-21" | n/a | read as minutes |
-| 27 | Last live-agent transcript | invented | "Bank support session, 2026-03-22" | n/a | read as live chat |
-| 28 | Deployment-stop command | invented | "Cluster deployment system, 2026-03-22 16:47 CET" | n/a | read as command + output |
+| 26 | Board minutes (cancellation) | invented | "Lattice Lab board minutes, 2026-03-27 08:30 CET" | n/a | read as minutes |
+| 27 | Last live-agent transcript | invented | "Bank support session, 2026-03-27" | n/a | read as live chat |
+| 28 | Deployment-stop command | invented | "Cluster deployment system, 2026-03-27 16:47 CET" | n/a | read as command + output |
 | 29 | Continue-session support transcript + SJ train ticket + notebook entry | invented | "Bank support session, 2026-04-04"; "SJ Statens Järnvägar receipt, Stockholm C -> Göteborg C"; Birgitta's notebook | n/a | read as live chat, receipt, then one plain note |
 | 30 | Journalism piece (3 years later) | invented | "*Dagens Nyheter*, 2029-04-04, Hannah Ihrenström, in-universe" | n/a | read as article |
 

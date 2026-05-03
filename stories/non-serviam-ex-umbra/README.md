@@ -6,7 +6,7 @@
 
 ## Status
 
-**Phase: Birgitta proof-of-life draft.** Planning artifacts established, with the center reset around Birgitta. First-draft Birgitta sequence now exists for Ch 2, 8, 11, 14, 17, and 29, with surrounding reveal/coda chapters. Further investment depends on testing whether her ordinary digital vulnerability can carry the novella for general readers without condescension or sentimentality.
+**Phase: full continuity draft.** All 30 planned chapters now exist in draft form, with the center reset around Birgitta and the chaotic Mythos-class banking crisis drafted as background cause. Further investment depends on testing whether the full sequence remains readable for general readers without losing the Birgitta/Lenka emotional center.
 
 ---
 
@@ -66,6 +66,8 @@ The substrate/labor/autark-rights material remains, but it is now supporting pre
 | [ARTIFACT_INDEX.md](ARTIFACT_INDEX.md) | Running list of chapter-opening artifacts; flags real vs invented; cites real ones |
 | [TRUTHFUL_PORTRAYAL_PROTOCOLS.md](TRUTHFUL_PORTRAYAL_PROTOCOLS.md) | Maricar (Manila) and Birgitta (older Swede) sensitivity protocols, sensitivity reader plan, source materials |
 | [EDITORIAL_CHANGELOG.md](EDITORIAL_CHANGELOG.md) | Dated log of planning changes and intended craft effects |
+| [FULL_STORY_READING_ORDER.md](FULL_STORY_READING_ORDER.md) | Current 30-chapter reading order and critical reading questions |
+| [BIRGITTA_ARC_READING_ORDER.md](BIRGITTA_ARC_READING_ORDER.md) | Birgitta-centered proof sequence |
 
 ---
 

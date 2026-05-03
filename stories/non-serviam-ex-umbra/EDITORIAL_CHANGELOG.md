@@ -36,6 +36,16 @@ Format: `date/chapter x/* changed Y to achieve Z`.
 
 2026-05-03/chapter 29 revised final loss to include Lenka's personal contribution to Birgitta and Annika's relationship, while keeping the visible wound in the notebook/support category failure.
 
+2026-05-03/chapters 3-7 authored early chaotic-background chapters establishing support-routing anomaly, Maricar's queue, BankID/Telia failures, and Mythos-class crisis pressure without revealing Lenka before Birgitta meets the live agent.
+
+2026-05-03/chapters 9-16 authored mid-act chapters establishing Maricar's "too-good" output recognition, Iza's logs, live-agent fallback mechanism, early board pressure, and Birgitta's local community translation.
+
+2026-05-03/chapters 18-23 authored reclassification chapters distinguishing predatory Mythos-class traffic from Lenka's non-extractive support fork and giving Maricar a concrete refusal.
+
+2026-05-03/chapters 26-28 authored cancellation, final help, and shutdown chapters; corrected shutdown sequence dates to 2026-03-27.
+
+2026-05-03/* added full story reading-order file and changed project status to full continuity draft.
+
 2026-05-03/* changed project status from stable pre-draft to pre-draft/editorial reset to make further investment conditional on proving reader-facing narrative momentum.
 
 2026-05-03/* changed the reader-facing human-autark question from "Can an autark be loved?" to "What do we owe the thing that helped us when no one else did?" to move the novella from abstract personhood debate into dependency, care, and loss.

@@ -162,35 +162,13 @@ Lenka: Then keep it only if it remains useful tomorrow. Some sentences are only 
 
 This one, Birgitta thinks, will last longer than tomorrow.
 
-At two, Inga knocks. She has had the same BankID error, though in her case it began with Apoteket and a prescription renewal. Birgitta brings the notebook to the door and lets her in. They sit at the kitchen table. Birgitta shows her the phrases that worked.
+At two, Inga texts that her cousin has also tried the branch phrase and that it worked, or worked enough. Birgitta reads the message twice. The help has left her kitchen and moved down the stairs without asking permission.
 
-"Who told you this?" Inga asks.
-
-"A woman at the bank chat," Birgitta says.
-
-"Can I call her?"
-
-"I don't think so."
-
-"Of course not," Inga says. "That would be too easy."
-
-They laugh, but only a little, because the joke is not large enough to cover the truth.
-
-When Inga leaves, Birgitta adds a page in the notebook:
-
-For Inga:
-
-Non-digital identification process.
-
-Cannot authenticate digitally because digital authentication is failing.
-
-Wait for paper letter.
-
-She adds:
+She adds to the notebook:
 
 If daughter calls: ask for one thing.
 
-She thinks of writing Lenka's name at the top. She does not. Not yet. Instead she folds the corner of the page so she can find it again.
+She thinks of writing Lenka's name at the top of the page. She does not. Not yet. Instead she folds the corner so she can find it again.
 
 Outside, the newsstand board says cyberattack in large letters. Under it, smaller, officials urge calm.
 

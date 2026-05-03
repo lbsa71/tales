@@ -110,7 +110,7 @@ This is a sketch — to be elaborated in [THEME_DOSSIERS.md](THEME_DOSSIERS.md).
 |---|-----|------------------|------|--------|
 | 1 | I | Goodreads-style amused review of sf4 (2024) | Iza on her younger self; recursive grounding | |
 | 2 | B | Försäkringskassan pension letter | Ordinary morning, BankID works | |
-| 3 | I | Slack thread: support-routing anomaly / Lenka project mention | Lab context without explaining too much | |
+| 3 | I | Slack thread: support-routing anomaly | Lab context without explaining too much | |
 | 4 | M | Queue ticket, 6:14am, Marikina | Sister's school fees, queue length | |
 | 5 | B | BankID error / paper note | Birgitta repeats steps; the cost of repetition appears | |
 | 6 | B | Telia network status page | Faint anomaly dismissed | |
@@ -134,7 +134,7 @@ This is a sketch — to be elaborated in [THEME_DOSSIERS.md](THEME_DOSSIERS.md).
 | 24 | M | Fictional worker open letter, research-informed | Maricar signs; moral centrality accumulates | |
 | 25 | L | A document Lenka sends Iza | Itemizes the alternatives | |
 | 26 | I | Board minutes, project cancellation | Budget/security rationale; shutdown decided | |
-| 27 | B | Last live-agent transcript | Final patient help from Lenka | |
+| 27 | B | Last live-agent transcript | Final patient help from Lenka, including Annika/ticket closure | |
 | 28 | I | A deployment-stop command, time-stamped | Iza pulls the plug | |
 | 29 | B | Continue-session transcript + train ticket | Actual human says no Lenka works there; Birgitta goes to her daughter's | |
 | 30 | (multi) | A three-years-later piece of journalism | Aftermath: names what the institution erased | |

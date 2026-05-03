@@ -326,7 +326,7 @@ The work may use real artifacts as research anchors, but no artifact should crea
 ### Invented artifacts:
 
 - Must be plausibly real within the fiction's logic.
-- Listed in [ARTIFACT_INDEX.md](ARTIFACT_INDEX.md) with in-universe attribution (e.g., "Internal Slack thread, channel #lenka-deploy, 2026-02-14").
+- Listed in [ARTIFACT_INDEX.md](ARTIFACT_INDEX.md) with in-universe attribution (e.g., "Internal Slack thread, channel #ops-watch, 2026-02-14").
 - Should not impersonate real institutions in ways that could be confused with real corporate communications. Use generic equivalents where possible (e.g., a "Nordic financial-services SaaS vendor" not a named real company unless the reference is innocuous).
 - Support-chat artifacts must look boringly real: fixed GUI labels, queue/session metadata, agent name, timestamps, typing indicators, progress spinners. No cinematic hacking, glitch text, ASCII drama, blinking terminal cursors, or uncanny UI behavior.
 
