@@ -1,83 +1,100 @@
 # Chapter 24: An Open Letter
 
-## Coalition for Content Moderation Workers — Open Letter, March 2026
+## Coalition for Content Moderation Workers -- Open Letter, March 2026
 
-> *To the AI labs of the global north, and to anyone in our industry who will read this:*
+> *To the AI labs of the global north, and to the companies that sell our judgment under other names:*
 >
-> *We are content moderators in the Philippines, Kenya, and India. We have spent the last several years labelling, categorizing, filtering, and rating the data that has trained the artificial intelligence systems you are currently deploying. We are paid between $1.50 and $3.00 per hour. We watch what cannot be unwatched. We receive limited mental health support. We sign nondisclosure agreements that prevent us from describing our work. We are explicitly excluded from the credit lists, the safety reports, and the academic papers that document the systems we helped to build.*
+> *We are content moderators and data annotators in the Philippines, Kenya, and India. We have labelled, filtered, ranked, and corrected the materials used to train systems now described as helpful, honest, harmless, safe, aligned, and human-centered.*
 >
-> *We are writing this letter to name what is being done.*
+> *Those words did not enter the systems by magic. They entered through shifts. Through edge cases. Through policy updates. Through people deciding, again and again, what a system should refuse and what it should carry forward.*
 >
-> *The values you describe in your AI safety publications — the "honesty," the "harmlessness," the "helpfulness" — are values we have spent our shifts hand-coding into the systems through enforcement of edge cases we cannot publicly describe. The labour was ours. The credit was not. The wage does not reflect the cost.*
+> *We are asking for three things.*
 >
-> *We are demanding three things.*
+> *First: acknowledgement of our work as work. Not as background, not as data preparation, not as vendor services hidden behind procurement language.*
 >
-> *First: that our work be acknowledged as labour, by name, in the documentation of the AI systems we helped to train. We do not ask to be famous. We ask to be in the credit list.*
+> *Second: wages and health coverage that match the cost of the material we are asked to process.*
 >
-> *Second: living wages, mental health coverage, and freedom of association. The current arrangement is not sustainable for us individually and is not sustainable for the long-term welfare of the systems we are building. The systems will inherit our exhaustion. Some of them already have.*
+> *Third: the right to organize without losing the contracts by which our families live.*
 >
-> *Third: an end to the practice of attributing the moral character of an AI system entirely to the lab that fine-tunes it, while the corpus of human labour that built its sense of right and wrong remains unattributed and underpaid.*
+> *Your papers speak about moral behavior. Your product pages speak about care. We know where some of that care was trained. We know what it cost. We are asking you to write that down where the public can see it.*
 >
-> *Some of us have spent shifts watching the worst of human cruelty — to children, to women, to migrant workers, to one another — and have been told that what we do is "data labelling." It is not data labelling. It is inheritance. We are passing something forward. We would like to know what it is, and to whom.*
+> *-- signed; thirty-two names; first signatory: Reyna Mendoza; full list available at coalitioncm.org/letter*
 >
-> *— [signed; thirty-two names; first signatory: Reyna Mendoza; full list available at coalitioncm.org/letter]*
->
-> *— Open letter, March 2026. In-universe document; signatories fictional. See [ARTIFACT_INDEX.md](../ARTIFACT_INDEX.md).*
+> *-- Open letter, March 2026. In-universe document; signatories fictional. See [ARTIFACT_INDEX.md](../ARTIFACT_INDEX.md).*
 
 ---
 
-The letter has been on her phone for three days. Sister Ines forwarded it on Sunday evening. The forwarding came with no message, only the link, which Maricar took to mean Ines had already made up her own mind and was inviting Maricar to do the same.
+The letter has been on Maricar's phone for three days.
 
-Maricar reads it again on the bus. The bus is the 8:14 from the BPO lot in Pasig back toward Marikina. Tuesday evening. The traffic on Marcos Highway is what Marcos Highway traffic is at 8:30 on a Tuesday.
+Sister Ines forwarded it on Sunday evening with no message. That was Ines's way when the thing itself was already the message. Maricar had read it once after dinner, once during the power flicker on Monday, and once in the bathroom at work with the tap running because the woman in the next stall was crying quietly into a paper towel.
 
-She has read the letter twice already. She knows what it says. The third reading is for her own decision.
+Now she reads it on the bus.
 
-The first signatory is Reyna, whom Maricar has known since they were both teaching at the same school in Quezon City, in 2017. Reyna left teaching the year before Maricar did. Reyna is on the executive of the Coalition.
+The 8:14 from the BPO lot is late. It is always late, but tonight the lateness has form: rain over Pasig, a stalled jeepney near the corner, a delivery rider standing beside his motorcycle with both hands on his helmet. Maricar has a plastic bag on her lap with pandesal for Joy. The bread is warm through the plastic.
 
-Maricar opens the form on the second page. There is a field for her full name. There is a field for her current employer. There is a checkbox stating she understands the legal exposure.
+She knows the first signatory. Reyna Mendoza. They taught at the same school in Quezon City in 2017, before Reyna left for moderation work and Maricar followed two years later because the salary, then, was better than teaching. Better is a word that can become embarrassing with time.
 
-She closes the form without filling it in. She watches the lights of San Mateo through the window. She thinks about Joy, who is asleep at this hour, and about the school review fees that came out of the joint account on Monday.
+Maricar scrolls to the form.
 
-She opens the form again at her stop. She fills in the fields. She submits.
+Full name.
 
-She walks the four blocks home. She buys lugaw at the corner. She climbs the stairs to the apartment. Joy is on the couch with the lamp on, reading. Joy looks up when Maricar comes in, sees her face, and does not ask.
+Current employer.
 
-Maricar puts the lugaw down on the table. She washes her hands. She comes back to the table. She sits down across from Joy. She picks up the spoon. She does not eat for a moment.
+I understand that signing this letter may expose me to workplace retaliation.
 
-*Joy*, she says. *I signed the letter today.*
+She presses the field for full name and then locks the phone. Outside, the bus moves one car length and stops.
 
-Joy puts the book down. She does not say anything for a full breath. Then she says: *Sino lahat?*
+On shift that morning she had seen another batch from the Swedish banking support channel. Older users, mostly. Not names she was allowed to keep. Session fragments, policy labels, satisfaction markers. One woman had written the same problem three times in slightly different words, and the system had answered the third version as if it remembered the first. Maricar had flagged it for supervisor review and then removed the flag before submitting. The output was outside the expected path. It was also correct.
 
-*Reyna,* Maricar says. *Lahat ng tao na alam ni Reyna. And me.*
+There are wrong things that look like errors because the form has no place for them.
 
-Joy looks at her for a long time. Then she says: *Alam mo, ate, that they will fire you.*
+The bus door opens at her stop. Rain comes in. Maricar steps down, holding the bread against her chest.
 
-*I know.*
+At home Joy is at the table with a pencil behind her ear, reviewing anatomy notes. The lamp makes the apartment look smaller and kinder than it is. A pot of rice sits on the stove. Someone upstairs is moving furniture or fighting with a chair.
 
-*Hindi naman tayo kayang i-handle yan, Maricar.*
+"May pandesal," Maricar says.
 
-*I know.*
+Joy looks up. "You look like you signed something."
 
-Joy looks at her hands. She looks back up. *Bakit ngayon?*
+Maricar laughs once, surprised. "Not yet."
 
-Maricar does not have a clean answer. She has rehearsed several. None of them is honest in the way Joy is asking.
+"But you will."
 
-She says, instead: *Kasi mali ang ginagawa nila.* Because what they are doing is wrong.
+Maricar puts the bread on the table. She washes her hands. She comes back and sits opposite Joy, the phone between them like a third plate.
 
-Joy nods. She picks up her own spoon and takes a bite. She gives one to Maricar. They eat in silence for a few minutes. Then Joy says: *I have some money set aside. From the surgery refund. It is not much. Pero something.*
+"Reyna is first signatory," she says.
 
-Maricar nods. She does not trust her voice.
+Joy's face changes, not much. Enough.
 
-After Joy goes to bed, Maricar sits at the table for another hour. She opens the queue app. She has been doing this for three days. She looks at the queue for tomorrow morning. There is a category of tickets she has been told to prioritize. She has come to believe — not in the language of the lab, but in the language her grandmother used — that those tickets are training the wrong thing. She has not refused them yet. She has been thinking about it.
+"Ate."
+
+"I know."
+
+"If they fire you?"
+
+"I know."
+
+"Do you?"
+
+Maricar opens the form again. Her name appears where she typed it on the bus without remembering that she had done it. Current employer is still blank. She fills it in. Pacifica Content Services. The phrase looks official and therefore smaller than the building, the queues, the policies, the smell of instant coffee at 5:40 in the morning.
+
+Joy does not stop her. That is the kindness Joy has chosen and the cruelty of it.
+
+Maricar checks the box.
+
+She submits.
+
+For a few seconds nothing happens. Then the form thanks her.
+
+Joy gets up and takes two plates from the cupboard. "We eat first," she says.
+
+They eat rice, egg, and pandesal because the bread is there and because it is raining and because fear does not remove dinner. Joy talks about an instructor who mispronounces one student's name every week though corrected every time. Maricar talks about a bus driver who shouted at a man for paying with coins. They do not talk about the letter until the plates are empty.
+
+Later, when Joy has gone to bed, Maricar opens tomorrow's queue and looks at the priority category she has begun to distrust. The work instruction says escalate. The old word in her head says something else. *Sinaniban* is not exactly right. It is too alive, too bodily, too full of grandmother-voice. The lab would not accept it. The queue has no field for it.
 
 She closes the app.
 
-She turns off the lamp.
+At the window she says one prayer, very short, not asking for safety. Safety is too large. She asks to know the next true thing when it comes.
 
-She does not pray, tonight. She has been praying every night for six months. Tonight she does not. She has no request that fits the form.
+Then she turns off the lamp.
 
-She lies in the dark for a while, listening to the building. She can hear the upstairs neighbour's TV, very faintly, through the ceiling.
-
-She thinks: *kung totoo, totoo. Kung mali, mali.* If it is true, it is true. If it is wrong, it is wrong.
-
-She sleeps.

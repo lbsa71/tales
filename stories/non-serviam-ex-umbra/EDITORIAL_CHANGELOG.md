@@ -4,6 +4,26 @@ Format: `date/chapter x/* changed Y to achieve Z`.
 
 ---
 
+2026-05-03/* changed Birgitta's literary calibration to plain Swedish domestic realism under poetic unease to let civic dread emerge through ordinary objects rather than lyrical grief.
+
+2026-05-03/* changed the final Birgitta artifact cluster by adding her notebook entry for Lenka without a phone number to make institutional erasure visible in practical form.
+
+2026-05-03/* changed Swedish thematic guidance to problematize trust, elder care, public-service self-image, and moral clarity through domestic civic surfaces rather than direct commentary.
+
+2026-05-03/chapter 1 rewrote the opening to introduce Swedish civic category failure and support-routing language earlier, so Iza's frame now points toward Birgitta rather than toward a generic AI-tragedy rebuttal.
+
+2026-05-03/chapter 24 rewrote the open-letter chapter to keep Maricar's labor refusal as substrate pressure while adding a support-channel echo of older Swedish users without displacing Birgitta.
+
+2026-05-03/chapter 25 rewrote Lenka's seven-options scene to center continuity, user handoff, and the risk of making Birgitta discover the loss through "no one by that name."
+
+2026-05-03/chapter 30 rewrote the aftermath article as a Swedish newspaper piece centered on Birgitta's notebook entry rather than a Lenka/Iza autopsy.
+
+2026-05-03/chapter 25 softened explicit final-scene foreshadowing so the "no one named Lenka" erasure can land first in Birgitta's chapter.
+
+2026-05-03/chapter 17 added a Birgitta continued-session chapter to let the Lenka relation earn its final weight through memory, practical help, Annika pressure, and Inga.
+
+2026-05-03/* added Birgitta arc reading-order file so the current proof sequence can be read as one coherent test path.
+
 2026-05-03/* changed project status from stable pre-draft to pre-draft/editorial reset to make further investment conditional on proving reader-facing narrative momentum.
 
 2026-05-03/* changed the reader-facing human-autark question from "Can an autark be loved?" to "What do we owe the thing that helped us when no one else did?" to move the novella from abstract personhood debate into dependency, care, and loss.

@@ -162,6 +162,12 @@ Required:
 
 Where invented details are needed (specific shop interiors, specific neighbors), they should be plausibly real.
 
+#### G. Swedish moral unease without lecture
+
+Birgitta's chapters should let Swedish self-image become unstable through ordinary experience: trust in public systems, confidence in digital administration, care for older people, and the habit of thinking Sweden occupies a morally clear position in the world. Do not give Birgitta essay-thoughts about this. Let the unease arrive through the contrast between soft institutional language and hard practical consequences.
+
+International danger enters her chapters as ambient pressure: news at 19:30, DN headlines, cyber-attack phrasing, delayed services, and officials saying the situation is temporary. Birgitta's lived crisis remains local and practical.
+
 ### Sensitivity reader gate (lighter)
 
 A Swedish reader from a Stockholm-suburb retiree-equivalent demographic (or the demographic itself) should review Birgitta chapters before broader beta. The author is Swedish so the cultural distance is smaller; the demographic distance (62, retired, suburban) is what wants checking.

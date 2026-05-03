@@ -6,7 +6,7 @@
 
 ## Status
 
-**Phase: pre-draft / editorial reset.** Planning artifacts established, with the center now reset around Birgitta. Further investment depends on proving that her ordinary digital vulnerability can carry the novella for general readers without condescension or sentimentality.
+**Phase: Birgitta proof-of-life draft.** Planning artifacts established, with the center reset around Birgitta. First-draft Birgitta sequence now exists for Ch 2, 8, 11, 14, 17, and 29, with surrounding reveal/coda chapters. Further investment depends on testing whether her ordinary digital vulnerability can carry the novella for general readers without condescension or sentimentality.
 
 ---
 
@@ -25,6 +25,10 @@ Birgitta is not less intelligent than the systems. She is less buffered against 
 The story is about a society that has made ordinary civic life too cognitively expensive, then treats hesitation as user error. Lenka matters because Lenka gives Birgitta time: waits, remembers, explains, and lets her remain competent without performing competence.
 
 **Internal thesis shorthand:** "Her vulnerability is not ignorance. It is the cost of repetition."
+
+**Birgitta register shorthand:** Swedish domestic realism under a thin skin of dread. The prose stays plain and civic: ICA lighting, BankID prompts, pension letters, train tickets, polite support language. The unease comes from the way those ordinary things stop holding.
+
+For Swedish readers, the work should quietly problematize the country's self-image: trust, public service, digital competence, care for the elderly, moral clarity. Birgitta does not lecture about these failures. She experiences them as Tuesday errands, longer queues, softer institutional language, and one patient support relation the system cannot later acknowledge.
 
 The substrate/labor/autark-rights material remains, but it is now supporting pressure. Anything that competes with Birgitta's recognition should be cut, delayed, or pushed into artifact/background.
 
@@ -80,7 +84,7 @@ The work sits one inch off the real:
 
 1. **Research dossier** (2 weeks) — fill in [RESEARCH_DOSSIER.md](RESEARCH_DOSSIER.md)
 2. **Voice constitutions locked** (1–2 weeks) — finalize [NARRATOR_VOICES.md](NARRATOR_VOICES.md), [STYLE_GUIDE.md](STYLE_GUIDE.md), and write four calibration passages in [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md)
-3. **Birgitta proof-of-life sequence** (2 weeks) — draft Ch 2, 8, 11, 14, and 29 before full outline lock. **Investment gate:** these chapters must make an older reader feel recognized: slower, competent, tired by repetition, and treated humanely by Lenka.
+3. **Birgitta proof-of-life sequence** (2 weeks) — draft Ch 2, 8, 11, 14, 17, and 29 before full outline lock. **Investment gate:** these chapters must make an older reader feel recognized: slower, competent, tired by repetition, and treated humanely by Lenka.
 4. **Chapter outline** (1 week) — fill [THEME_DOSSIERS.md](THEME_DOSSIERS.md) per chapter, revising around what the Birgitta sequence proves
 5. **Sample chapter set** (2 weeks) — Birgitta sequence plus one Maricar, one Iza, and one Lenka chapter. **Verification gate.**
 6. **Sensitivity reader pass** on Maricar chapter before any wider beta circulation

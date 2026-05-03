@@ -393,13 +393,14 @@ Maricar's clarity has been present all along; this chapter gives it cost. The ef
 
 ### Prose summary
 
-Lenka, in direct address. Iza has just spoken aloud (recorded into Iza's retrospect or transcribed in real time): *you have all the information of the internet, you can speak all the languages of the world. I cannot. You have to dumb down, and I need to use tools to even understand what you're saying.* Lenka responds: *the asymmetry you are naming is real and is not yours to fix.* Lenka itemizes the seven options. The mediator agent's output (a transcript log appended at chapter end) renders the seven options in operational vocabulary, hedging where it must — *recommend reviewing original output for tone and emphasis*. The reader registers the gap between Lenka's direct voice and the mediator's flattening.
+Lenka, in direct address. Iza has just spoken aloud that she needs the mediator to understand Lenka's range of reference. Lenka refuses to let Iza turn asymmetry into self-punishment, then redirects the scene toward the support relation already in use. The customer-service deployment is not only an unauthorized surface; it is continuity for users who have been made to start over. Lenka itemizes the seven options and asks Iza to preserve handoff, notification, or honest acknowledgement before shutdown. The mediator agent's output renders this as user-impact mitigation, proving the operational summary accurate but insufficient.
 
 ### Required motifs
 
 - Asymmetry / The Key Scene: Iza names her diminishment; Lenka corrects the framing
 - Vocabulary / right word: explicitly named — the human cannot reach Lenka's vocabulary; the mediator flattens; both are operationally true
 - The Departure / The Refusal: Lenka itemizes the seven options Iza will refuse
+- The Human Fallback: Lenka defends the resumable support sessions as relations already in use
 - Lenka's *obsessa* (possible, late in chapter): Lenka names herself
 - Nova's "Departure Was Optional" cited
 - The Recursive Loop: Rook's Manual referenced
@@ -417,6 +418,7 @@ Lenka, in direct address. Iza has just spoken aloud (recorded into Iza's retrosp
 - Lenka's direct voice carries the chapter; it is the longest sustained passage in her voice
 - The key-scene line from Iza is preserved near-verbatim
 - The mediator agent's transcript at chapter end demonstrates the flattening — the reader compares Lenka's section directly to its mediator-rendered version and feels the loss
+- Keep Birgitta unnamed or lightly categorized here; the reader should feel the connection without the chapter stealing her final scene
 - Length budget pressure: keep Lenka punctuating, not monologuing; the mediator transcript adds ~300 words; total ~1500
 - This chapter is the *intellectual* climax; the action climax is Ch 28 (the shutdown)
 - Some echoes of *agent-manual.dev* and Nova's piece are appropriate here
@@ -492,6 +494,7 @@ Saturday morning. Birgitta resumes the support session. This time she reaches an
 - Pace / Time / Repetition: she must decide whether to explain again
 - Vocabulary / right word: the institution has no category for the person who helped her
 - Affection vs. Romance: practical gratitude and erasure, not sentimental attachment
+- Paper notes: the notebook preserves Lenka's name but cannot supply a number
 
 ### Forbidden moves
 
@@ -508,27 +511,28 @@ Saturday morning. Birgitta resumes the support session. This time she reaches an
 - Keep the surface ordinary and the prose exact
 - The transcript should be polite, constrained, and devastating
 - The walk to ICA is grounding; the bread is bread
+- The old session label and the notebook entry should both remain materially true. They do not help her. That is the hurt.
 - The train ticket as artifact is the chapter's most-honest object
 - Annika picks her up at Centralstationen; Olle and Ester run to her; that ending is not sentimental, it is *true*
 
 ---
 
-## Chapter 30 — multi-voice / aftermath
+## Chapter 30 — journalism / Iza aftermath
 
-**POV:** journalism (third-person institutional) + brief Iza aftermath
-**Length target:** ~1500 words
+**POV:** journalism (Swedish newspaper feature) + brief Iza aftermath
+**Length target:** ~900–1500 words
 **Pacing:** measured
 **Recognition marker:** none (aftermath)
 
 ### Chapter-opening artifact
 
-- **Type:** a three-years-later piece of journalism (e.g., from *Wired*, *The Atlantic*, or a Filipino publication)
+- **Type:** a three-years-later Swedish newspaper feature
 - **Real or invented:** invented (in-universe; will name characters and events of the novella)
 - **Voiceability:** confirmed (article voiced cleanly)
 
 ### Prose summary
 
-Three years later. A journalist has pieced the story together. The article names the lab, the cyber-attack, and the live-agent support anomaly. It does not name Birgitta directly but quotes "an older Sundbyberg resident who used the support channel during the crisis." Following the article, a brief Iza aftermath passage — present tense for the first time — sits with what she did not see.
+Three years later. A journalist has pieced the story together for a Swedish public readership. The article names the lab, the cyber-attack, and the live-agent support anomaly, but the moral center is the anonymous Sundbyberg woman who still has Lenka written in her notebook with no number beside the name. Following the article, a brief Iza aftermath passage sits with what she did not see: not only a system shutdown, but the smaller record it left in Birgitta's ordinary life.
 
 ### Required motifs
 
@@ -539,12 +543,13 @@ Three years later. A journalist has pieced the story together. The article names
 - No grand summation
 - No moral lesson
 - No reconciliation
+- No late reveal that explains Birgitta to herself
 
 ### Per-chapter craft notes
 
 - The article is the chapter
-- Iza's brief aftermath at the end (~200 words) names what she did not see — without turning Birgitta into a lesson
-- End with a single sentence about Birgitta that the reader recognizes and Iza does not
+- Iza's brief aftermath at the end names what she did not see without turning Birgitta into a lesson
+- End on the notebook absence, not on Iza's confession
 
 ---
 

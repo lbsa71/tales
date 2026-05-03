@@ -113,6 +113,10 @@ The reader must NEVER feel smarter than Birgitta. Her not-knowing is specificall
 
 The core register is age as pace. She is slower because everything is slower: reading, recovering the thread, checking an error, deciding whether to ask Annika, starting again after a failed phone tree. The prose honors this slowness instead of treating it as a deficit.
 
+Her literary register is plain Swedish domestic realism with poetic unease underneath it. Birgitta does not think in symbols. She notices receipts, session labels, pension envelopes, kitchen light, train times, exact wording. The reader begins to feel those objects become unsafe because the civic order behind them is shifting.
+
+Calibration: civic unease, moral pressure, and object-memory. Think Mankell's ordinary public-world anxiety, Boye's plain moral seriousness, and Ernaux's attention to objects and records, but quieter and less self-consciously literary than any of them. No lyrical grief-display. Let sequence, repetition, and omissions carry the wound.
+
 ### Vocabulary
 
 - **Plain Swedish translated to English.** No Stockholm-tech jargon. No Filipino vernacular. No Catholic-animist register.
@@ -143,6 +147,7 @@ The core register is age as pace. She is slower because everything is slower: re
 - **Bad chatbot, then human fallback.** She first battles the stock chatbot. It loops and fails. The UI offers *talk to a human*. She accepts. The live-agent interface presents Lenka as support. Birgitta reasonably believes Lenka is a human agent.
 - **Becoming a community translator.** Mid-novella, she helps her downstairs neighbor (Inga, 68) navigate the same crisis using what Lenka explains. She does not see herself as a leader; she sees herself as someone who finally found a working hotline.
 - **Carries the emotional payload at climax.** After shutdown, she resumes the session, reaches an actual human, asks for Lenka, and is told no one named Lenka works there. The human is polite. The system erases the relation.
+- **The notebook preserves what the system cannot.** Most practical names in Birgitta's notebook have numbers, addresses, or times beside them. Lenka has only a name and the support context: no phone number, no extension, no category that survives the chat.
 
 ### Sample voice (third-person close; not finalized)
 

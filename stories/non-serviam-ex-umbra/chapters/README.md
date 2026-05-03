@@ -1,6 +1,6 @@
 # Chapters — *Non Serviam Ex Umbra*
 
-This directory holds the novella's chapter files. Currently empty: drafting begins after Implementation Phases 1–3 are complete (research dossier, voice constitutions, chapter outline). See [../README.md](../README.md) for status.
+This directory holds the novella's chapter files. The Birgitta proof-of-life sequence is now in first draft, alongside existing calibration chapters for the other voices. See [../README.md](../README.md) for status.
 
 ---
 
@@ -18,11 +18,11 @@ Examples:
 - `chapter_01_period_piece.md` (Iza on sf4)
 - `chapter_02_pension_letter.md` (Birgitta's ordinary morning)
 - `chapter_04_queue_ticket_4471.md` (Maricar's first chapter)
-- `chapter_17_dn_article.md` (Twist 1)
+- `chapter_17_what_lenka_remembers.md` (Birgitta resumes the support session)
 - `chapter_24_open_letter.md` (Twist 2)
 - `chapter_28_deprovisioning.md` (the shutdown)
-- `chapter_29_train_ticket.md` (the closed chat)
-- `chapter_30_journalism.md` (coda)
+- `chapter_29_no_one_named_lenka.md` (the closed chat)
+- `chapter_30_quiet_deployment.md` (journalism coda; in-prose title may differ)
 
 The slug is mnemonic for the writer; the chapter title in-prose may differ.
 

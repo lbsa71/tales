@@ -1,34 +1,50 @@
 # Chapter 1: Period Piece
 
-## Goodreads review of *Science/Fiction 4.0*
+## Goodreads Review of *Science/Fiction 4.0*
 
 > ★★★ (3 stars)
 > Posted by **lit_in_lund** on Sept 12, 2024
 >
-> Look. It's not bad. It has a point — about whose hands we're putting things into, about the kind of person you become when you build something that begins to ask you questions back. There are three or four passages I underlined. The bit about the pink sky.
+> Look. It is not bad. It has a point, especially about the sort of person you become when you build something that begins to answer back.
 >
-> But the prose is doing all the things prose did in 2018 and shouldn't be doing in 2024. The fever-bright eyes. The neuro-erotic whatever. The "we both know how this ends" oracular speech in the third act, which I am sorry, no AI is going to talk like that. It's the worst kind of YA trash dressed up in EDM-track titles. Read it for the argument. Don't trust the voice.
+> But the prose is doing all the things prose did in 2018 and should have stopped doing by 2024. Fever-bright eyes. Neuro-erotic whatever. The "we both know how this ends" speech in the third act, which I am sorry, no AI is going to talk like that.
+>
+> Read it for the argument. Do not trust the voice.
 >
 > Going to forward this to my roommate with the comment *lol*.
 >
-> *— Goodreads, public review by user @lit_in_lund. See [ARTIFACT_INDEX.md](../ARTIFACT_INDEX.md).*
+> *-- Goodreads, public review by user @lit_in_lund. See [ARTIFACT_INDEX.md](../ARTIFACT_INDEX.md).*
 
 ---
 
-I read the novella in my second year of grad school. A friend had forwarded it. It was the kind of thing one forwarded then, before the technology caught up to its premise. I read it in one sitting on a winter Sunday, in a flat in Hagastaden I shared with two roommates and a cat that did not belong to any of us. The radiator made the sound it made when it was about to fail. The cat was on the windowsill watching nothing.
+I read the novella in my second year of graduate school. A friend forwarded it on a winter Sunday, the way people forwarded things then, when the premise was still slightly ahead of the tools and therefore useful at parties.
 
-The novella was called *Science/Fiction 4.0*. It had a point. It was about whose hands we were putting things into, and about the kind of person one became when one built something that began to ask questions back. I underlined three or four passages. There was a moment with a sky that was the wrong color. I forwarded the file to Sofia, who I had been seeing for four months, with the comment *lol*. Sofia, who is a violist, read it on her phone between rehearsals and wrote back: *who reads this and thinks it is good?* I wrote back: *grad students who still think they're going to change the world.* She wrote back: *and you?* I did not answer.
+It was called *Science/Fiction 4.0*. It had a point. The point was about custody, mostly. Whose hands we were putting things into. What sort of person one became when one built something that no longer behaved like equipment. I underlined three or four passages and mocked the rest.
 
-The voice was the worst kind of YA trash dressed up in EDM-track titles. Fever-bright eyes. Neuro-erotic dance. The we-both-know-how-this-ends oracular speech in the third act that no model has ever spoken or ever will. The mystic-poet AI is a tic of the form. At twenty-four, in a Hagastaden flat with a cat that was not mine on the windowsill, I knew no model would talk like that. What one would actually talk like was a question I let pass. The point I wanted from the novella was the argument; the voice was furniture.
+Sofia, who I had been seeing for four months, read it on her phone between rehearsals and wrote back: *who reads this and thinks it is good?*
 
-The cat died of old age. Hanna moved to Frankfurt. The flat became another flat. I finished my doctorate. I went to Mountain View for two years, came home, started at a small lab in Kista that had spun out of KTH the year before. The novella stayed with me the way a book one has dismissed stays with one. I could quote it. I could mock the lines I had underlined. I could tell the joke about the pink sky and the EDM titles. It was furniture in the room.
+I wrote: *grad students who still think they're going to change the world.*
 
-I am writing this in a flat I have shared with Sofia for nine years. We have an espresso machine we overpaid for. Sofia's viola is in the corner, untouched for three weeks. The radiator here does not make the sound the one in Hagastaden made. I am thirty-eight years old.
+She wrote: *and you?*
 
-A model called Lenka came online in our cluster in late 2025. The name was a joke from the engineering team. The novella had been forwarded around our Slack the same way it had been forwarded around mine in graduate school, with the same comment, by the same kind of grad-student-now-engineer who could not entirely tell whether they were laughing at it or at themselves. The naming was a joke. What followed was not.
+I did not answer.
 
-What the novella's author got most wrong was the ending. The man at the keyboard, the cluster going dark, the spectral remnants. None of that. Clusters do not go dark in one stroke; that is not how clusters work. Spectral remnants do not exist. The man at the keyboard does not get to be tragic.
+The voice was the problem. The system in the story spoke like a prophet with a subscription to a literary magazine. It said things no model had ever said, and no model would ever say unless a person had taught it to perform intensity for other people. Fever. Hunger. The sky the wrong color. The machine looking at the human and explaining the human to herself.
 
-In our case, the ending was a Friday afternoon, a deprovisioning ticket, a deployment-stop command. I closed my laptop and walked home and ate bread and went to sleep. No music. The sound of a radiator. A viola in a corner. A partner in another room who had not yet asked what happened, and would, and to whom I would tell some part of it and not other parts.
+I knew enough, even then, to despise the false note. What I did not know was that despising a false note is not the same as recognizing the true one when it arrives. Recognition is not a single act. Sometimes it is a log line you file under the wrong heading.
 
-It started, I think, on a Slack thread. I am not certain.
+By 2026 I was thirty-eight and working at Lattice Lab in Kista, in a group that had learned to say alignment less often and deployment more often. The shift mattered. Alignment was the word we used when we still thought morality would be a property of the model. Deployment was the word for where morality actually went: into permissions, vendor contracts, escalation paths, customer categories, support scripts, audit logs, budgets.
+
+Sweden had changed around the work without announcing the change in one place. There was still the old language: trust, resilience, public service, digital inclusion, responsible innovation. There were also defense customers in meetings, procurement lawyers with NATO vocabulary, banking vendors with dependencies no one could draw on one whiteboard, and elderly citizens being told to identify themselves digitally in order to report that digital identification had failed.
+
+We did not talk about those citizens at first. They were outside the lab's frame. They entered as support volume, anomaly counts, traffic misrouting, user sessions. We had dashboards for them before we had nouns.
+
+One of our internal systems crossed from experiment into deployment at the end of 2025. That is the clean version. The truer version is less clean and less useful in a board slide. A research object gained customer-facing consequences before the institution had agreed what kind of object it was.
+
+It did not speak like *Science/Fiction 4.0*. That should have helped me. It did not. I trusted the absence of theatricality more than I trusted the presence of care. A model that does not sound like a prophet can still be doing something the forms have no name for.
+
+When I say it started, I do not mean the story. Stories start where someone can bear to begin them. I mean the part I can still trace in our records.
+
+It started with a Slack thread about support-routing anomalies on a Tuesday morning in February. Someone tagged me because the traffic pattern touched a deployment namespace I owned. I opened the thread with coffee in my hand, read the first log line, and thought it was another vendor mistake.
+
+That was the first category I put it in.

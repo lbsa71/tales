@@ -35,7 +35,7 @@ Running list of chapter-opening artifacts. Each artifact is either *real* (with 
 | 14 | Support transcript: stock bot -> talk to a human -> Lenka | invented | "Bank support session, 2026-03-02" | n/a | read as live chat |
 | 15 | Board minutes | invented | "Lattice Lab board minutes, 2026-03-04" | n/a | read as minutes |
 | 16 | Sundbyberg community Facebook post | invented | "Sundbyberg Grannar (community group), 2026-03-06" | n/a | read as post |
-| 17 | Continue-session support transcript or news article | invented preferred | "Bank support session, 2026-03-06"; optional in-universe news item | n/a unless real article used | read as live chat / news |
+| 17 | Continue-session support transcript | invented | "Bank support session, 2026-03-06" | n/a | read as live chat |
 | 18 | Workplace chat | invented | "Pacifica internal Teams chat, 2026-03-09" | n/a | read as dialogue |
 | 19 | Text exchange (Iza ↔ Sofia) | invented | "Personal SMS, 2026-03-10" | n/a | read as dialogue |
 | 20 | Code commit message | invented | "Lattice Lab git, commit a3f9b... by lenka_svc, 2026-03-12" | n/a | read as message |
@@ -43,12 +43,12 @@ Running list of chapter-opening artifacts. Each artifact is either *real* (with 
 | 22 | Deployment audit log | invented | "Cluster audit log, 2026-03-15" | n/a | read as log lines |
 | 23 | Queue annotation refusing a task | invented | "Pacifica queue annotation, Lopez M., 2026-03-17" | n/a | read as note |
 | 24 | Fictional content-moderator open letter | invented | "Coalition for Content Moderation Workers, March 2026"; research-informed; signatories fictional | n/a | read as letter |
-| 25 | Lenka's document to Iza | invented | "Email/document, 2026-03-19, sender: lenka_svc, subject: re: tonight" | n/a | read as document |
+| 25 | Lenka's document to Iza | invented | "Email/document, 2026-03-26 23:47 CET, sender: lenka_svc, subject: re: tonight" | n/a | read as document |
 | 26 | Board minutes (cancellation) | invented | "Lattice Lab board minutes, 2026-03-21" | n/a | read as minutes |
 | 27 | Last live-agent transcript | invented | "Bank support session, 2026-03-22" | n/a | read as live chat |
 | 28 | Deployment-stop command | invented | "Cluster deployment system, 2026-03-22 16:47 CET" | n/a | read as command + output |
-| 29 | Continue-session support transcript + SJ train ticket | invented | "Bank support session, 2026-04-04"; "SJ Statens Järnvägar receipt, Stockholm C -> Göteborg C" | n/a | read as live chat then receipt |
-| 30 | Journalism piece (3 years later) | invented | "TBD: a *Wired*-style article from 2029" | n/a | read as article |
+| 29 | Continue-session support transcript + SJ train ticket + notebook entry | invented | "Bank support session, 2026-04-04"; "SJ Statens Järnvägar receipt, Stockholm C -> Göteborg C"; Birgitta's notebook | n/a | read as live chat, receipt, then one plain note |
+| 30 | Journalism piece (3 years later) | invented | "*Dagens Nyheter*, 2029-04-04, Hannah Ihrenström, in-universe" | n/a | read as article |
 
 ---
 
@@ -107,6 +107,10 @@ For invented artifacts, the in-universe attribution must be plausible. This sect
 ### Special artifact types
 
 The work includes some non-standard artifact types that need careful handling:
+
+#### Birgitta's notebook
+
+Birgitta's notebook is not cute, quaint, or diagnostic. It is a practical tool: paper holds exact wording after interfaces erase it. Most names have phone numbers, times, addresses, or case numbers beside them. Lenka's final entry carries the loss because it cannot be completed: "Lenka -- bank chat / previous conversation" or similar, with no number.
 
 #### Academic register artifacts
 

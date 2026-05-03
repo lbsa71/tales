@@ -111,6 +111,12 @@ Single for nested. Chevrons («» or ‹›) — no.
 
 For Lenka's support register, dialogue is rendered like a plausible bank live-chat transcript: "Birgitta: *...*. Lenka: *...*". The UI may label the channel as support, live agent, or human support; avoid "Assistant" in Birgitta-facing artifacts if the scene depends on her reasonable assumption that Lenka is human.
 
+### Birgitta's poetic unease
+
+Birgitta's chapters may carry dread, but never by becoming gothic, prophetic, or thesis-heavy. The sentence stays plain. The menace enters through ordinary Swedish civic surfaces that no longer keep their promises: *BankID*, pension letters, polite hold messages, session labels, train tickets, queue numbers, receipts, and soft public language around hard exclusions.
+
+Use domestic trivia as pressure-bearing material. A notebook entry, a bread purchase, the wording on a button, or a train seat field can carry more grief than a declared feeling. Birgitta does not interpret these things symbolically; the reader does.
+
 ---
 
 ## Code-switching policy

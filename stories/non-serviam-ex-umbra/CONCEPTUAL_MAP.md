@@ -98,6 +98,8 @@ Maricar's refusal remains part of the moral weather, but the action climax is Bi
 
 The final grief is not "a chatbot disappeared." It is an older woman asking after the patient person who helped her and being told that person did not exist in the only category the institution recognizes.
 
+The final object is Birgitta's notebook. Other names have phone numbers, times, or case numbers. Lenka has only a name and the support context, because the person who gave Birgitta time has no reachable address in the world the bank recognizes.
+
 ---
 
 ## Chapter-by-Chapter Skeleton

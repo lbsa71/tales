@@ -25,6 +25,7 @@ The primary motif cluster. Birgitta is competent, but every failed system spends
 | Annika's calls | Ch 8 | Ch 11, 29 | B | Help as love and autonomy-pressure |
 | Repeating the story | Ch 11 | Ch 14, 29 | B | The cost of starting over |
 | Lenka waits | Ch 14 | Ch 16, 21, 27 | B/L | Humane pace as relation |
+| Lenka without a number | Ch 29 | once | B | The relation remains in Birgitta's record but not in the institution's categories |
 
 ---
 
@@ -162,6 +163,7 @@ Reader-facing diagnostic: Birgitta does not think "AI friend." She thinks she ha
 | Pension explanation | Ch 21 | Trust deepens |
 | Last help (anomalous) | Ch 27 | Reader senses ending |
 | Actual human fallback | Ch 29 | Human agent says no Lenka works there |
+| Notebook entry remains | Ch 29 | Birgitta has Lenka's name but no number |
 | She goes to Gothenburg | Ch 29 | Relation erased, ordinary life continues |
 
 ## Human-Autark Relation
