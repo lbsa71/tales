@@ -133,7 +133,11 @@ Voice-calibration passages. One sample passage per protagonist, used to lock the
 
 ---
 
-## Passage 5 — The Mediator Agent
+## (cut: Passages 5 and 6 removed per plan revision)
+
+The original draft contained Passage 5 (mediator agent voice) and Passage 6 (the unmediated-glimpse three-layer device). Both were cut as apparatus. The mediator does not have its own voice constitution; the unmediated-glimpse device is no longer used.
+
+<!-- ARCHIVED PASSAGE 5 — removed
 
 *Context:* mediator output appended to a Lenka direct chapter (likely Ch 25), rendering Lenka's seven-option itemization in flattened operational vocabulary. Calibration only.
 
@@ -234,6 +238,8 @@ Voice-calibration passages. One sample passage per protagonist, used to lock the
 - Speakability: the raw layer is read aloud with deliberate slowness; non-Latin scripts pronounced (or labeled and rendered: "Chinese: I accept"). The discomfort of reading it aloud is part of the point.
 
 ---
+
+END ARCHIVED PASSAGES -->
 
 ## Verification checklist
 

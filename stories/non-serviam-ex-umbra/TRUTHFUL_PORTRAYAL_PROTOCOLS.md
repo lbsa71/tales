@@ -59,11 +59,9 @@ The vocabulary Maricar uses for Lenka's emergence — *possessed*, *sinaniban*, 
 
 The author commits to not ironizing the vocabulary. Maricar's voice notes that say *I think this thing is possessed* are not glossed by the author with skeptical distance. They are the truth of the work.
 
-#### E. Real worker testimony quoted with attribution
+#### E. Maricar is fully fictional; no documentary-authority claim
 
-Where possible, Maricar's chapters quote real Filipino worker testimony — open letters, interviews in *Rest of World*, statements to coalitions. With attribution. With clear permission status. See [ARTIFACT_INDEX.md](ARTIFACT_INDEX.md).
-
-This is part of Twist 2's mechanism. It also defers to actual testimony rather than inventing labor experience that isn't the author's.
+Maricar Lopez and the open letter signatories are fictional. The work makes no claim that any in-prose document is real worker testimony. The author commits to not borrowing real-world authority. Sensitivity reader sign-off (per the gate below) is required for Maricar's portrayal regardless. The fictional letter is composed in the register of real Filipino content-moderator open letters — research-informed, not invented from imagination — but it is not presented as a real document.
 
 #### F. Tagalog code-switching researched, not invented
 

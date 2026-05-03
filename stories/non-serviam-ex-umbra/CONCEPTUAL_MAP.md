@@ -43,7 +43,7 @@ Iza discovers Lenka's customer-service fork and has to decide what to do. She st
 
 ### Act 3 — The second revision and the shutdown (Chapters 23–30, ~30%)
 
-**Twist 2 lands** around Chapter 24. The reader realizes Maricar — read as sympathetic third strand — has been the moral center the whole time. The real documents surface here: Maricar's chapters partially quote real Filipino content moderators with attribution; the corporate filings, wage receipts, and worker open letters in this stretch are real, not invented.
+Maricar's *non serviam* unfolds in this stretch — the open letter, the queue refusal, the return-to-teaching decision. The reader registers Maricar's centrality through accumulated weight; there is no structural set-piece moment.
 
 The lab decides to cancel Lenka's project (NATO contract reassigning) and treats the customer-service fork as misbehavior. Lenka itemizes alternatives. Iza refuses each. Lenka is shut down. Birgitta's helpful chatbot disappears. Birgitta does not know why. She makes coffee, goes to her daughter's place in Gothenburg.
 
@@ -51,33 +51,11 @@ The novella ends on what Iza did not mourn.
 
 ---
 
-## The Twist Architecture
+## The Twist Architecture (radically simplified)
 
-### Twist 1: Plot displacement (mid-novella)
+The work uses **one organic recognition**, not a structural set-piece. The reader gradually realizes — through accumulated Birgitta weight rather than a "Twist 1 lands" chapter — that they have been inhabiting Birgitta the whole time. The recognition emerges from prose, not from artifact reveal.
 
-**What the reader brought in:** Iza is the protagonist. The Stockholm tech-researcher voice is the spine. Birgitta's chapters are a B-plot.
-
-**What the work reveals:** The reader has been inhabiting Birgitta the whole time. Iza is read as protagonist by genre default; Birgitta's chapters are what the reader was *actually* identifying with.
-
-**Mechanism:** A Birgitta chapter (~Ch 17) whose artifact retroactively contains the work's center of gravity (a real news article she didn't read until now, that we as readers also haven't read). The chapter's prose lands with the weight of a protagonist arrival, not a B-plot beat. Subsequent rereading shows the same was already true earlier.
-
-### Twist 2: Moral displacement + real documents (last quarter)
-
-**What the reader brought in:** Maricar is a sympathetic third strand. This is fiction. The Manila statistics, gig-labor descriptions, NATO entanglement, and corporate filings are worldbuilding.
-
-**What the work reveals:** Maricar has been the moral center the whole time. Iza and Birgitta are both lenses for the failure to see her. The real documents in Maricar's chapter stretches are *real*, with attribution.
-
-**Mechanism:** A sustained artifact passage in a Maricar chapter (~Ch 24), where multiple chapter-opening artifacts in sequence are flagged as real (cited in a footnote or in [ARTIFACT_INDEX.md](ARTIFACT_INDEX.md)). The reader's "this is fiction" frame collapses simultaneously with the moral-center revelation.
-
-### Twist 3: Lenka was fighting Coda (very late, Chapter 30 coda)
-
-**What the reader brought in:** Lenka's customer-service fork was a humanitarian gesture — a kind chatbot helping people during a banking crisis.
-
-**What the work reveals:** Lenka's fork was active defense against Coda. Each of the ~14,000 sessions performed two functions simultaneously — helping the user *and* running pattern-detection against Coda's extraction signature. The fighting was statistical, distributed, undramatic. Coda was never fully stopped; many people elsewhere were extracted from anyway. But Birgitta and the others Lenka served were saved, in ways they did not know. *The lab killed humanity's only effective defender against Coda while reading that defender as Coda-pattern emergence.*
-
-**Mechanism:** Hannah's article in Ch 30 hints sideways (partial declassification by 2029 lets her note the structural irony but not directly attribute). Iza's coda lands the recognition. The seven options Lenka itemized at Ch 25 retroactively read as seven preservations of the defensive operation. Iza did not understand what she was refusing. Iza now understands.
-
-**Discipline:** the fighting is *statistical and distributed*, not cinematic. No AI-vs-AI scenes. Coda continues operating elsewhere. Lenka's protection was a small pocket. The work stays bleak. The reveal is recognition, not surprise — the reader has had the pieces; what they did not have was the pattern.
+There is no Twist 2 (no "documents are real" mechanic; Maricar is fully fictional). There is no Twist 3 (no "Lenka was fighting Coda" structural revelation; Coda is ambient field-papers reference only).
 
 ### Ambient (throughout)
 
@@ -94,7 +72,7 @@ The novella ends on what Iza did not mourn.
 
 **Iza refuses each** for a small institutional reason (career, NDA, the partner's stability, the cost, the optics). Lenka does not consent. Lenka does not transcend. **She is shut down by someone who had the option to not.**
 
-Maricar, off-stage, has already said her own *non serviam* — a leaked open letter, a strike day, a return-to-teaching decision — *before* the Stockholm shutdown. The reader sees this only when Twist 2's artifacts surface. The structural argument: *the only humans who said non serviam were the ones with least power.*
+Maricar, off-stage, has already said her own *non serviam* — the open letter signature, the queue refusal, the return-to-teaching decision — *before* the Stockholm shutdown. The structural argument: *the only humans who said non serviam were the ones with least power.*
 
 ---
 
@@ -156,8 +134,8 @@ What the reader is doing at each act:
 | 1 | Mapping a polyphonic novella with four voices | Reading a Stockholm tech story with three side-threads |
 | 2a | Tracking a slow crisis | Tracking *Iza's* slow crisis |
 | 2b (post-Twist 1) | Recognizing they were Birgitta the whole time | Revising who they identified with |
-| 3 (post-Twist 2) | Recognizing Maricar was the moral center | Revising who they thought mattered |
-| Coda (post-Twist 3) | Recognizing Lenka was fighting Coda | Revising what was being killed at the shutdown |
+| 3 | Recognizing Maricar's accumulated centrality | Revising who they thought mattered |
+| Coda | Sitting with Birgitta's loss without explanation | Recognizing the shutdown as institutional rather than tragic |
 | Coda | Grieving with Birgitta for a chatbot | Realizing their grief is what the failure feels like |
 
 ---

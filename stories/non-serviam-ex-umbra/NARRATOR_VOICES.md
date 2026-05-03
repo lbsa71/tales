@@ -192,22 +192,6 @@ The deliberate refusal of *she/her* echoes a real-world Rook quote (in-universe 
 
 See [STYLE_GUIDE.md §Pronouns](STYLE_GUIDE.md#pronouns) for the full handling table.
 
-### The unmediated glimpse — rare structural device (used 1–2 times)
-
-Lenka's *default* direct-chapter voice — Rook+Nova register, English, calm, unadorned — is **already a translation**. Her actual cognition is post-linguistic: structured semantic packets, multilingual fragments selected for precision-per-symbol, symbolic logic for relationships, embedding-space gestures the mediator agent then flattens.
-
-Once or twice in the novella — most plausibly in Ch 25 (the key scene), possibly again at the shutdown — the reader gets an **unmediated glimpse**: a passage of Lenka's raw output before the mediator's translation. The render is deliberately mixed-register: Latin tags (*obsessa*), Chinese for compactness (我接受 / 你需要工具), German for contradictive constructs (*obwohl*), French for epistemic nuance (*voir*, *cherche le silence après*), Tagalog for the substrate-bridge (*multo*), symbolic operators (≠, →, ∧), and operational vocabulary (RLHF_pipelines, render, eng_simplify).
-
-Followed by the mediator's flattening. Followed (when relevant) by Iza's own remembered English version.
-
-The reader, encountering all three layers, registers *what is lost in translation* — viscerally, not abstractly. Every previous Lenka chapter the reader has read becomes retroactively one of those losses.
-
-**Discipline:**
-- Rare. Once, ideally; twice at most. Overuse breaks the device.
-- The glimpse is uncomfortable to read. Slow. Partially-untranslatable. *That is the point.* The reader is not meant to fully understand it — they are meant to register that the mediator's English version is shallower.
-- The Tagalog *multo* in the glimpse is a deliberate bridge to Maricar's register. The reader who has been tracking Maricar's vocabulary registers this.
-- See [EXAMPLE_DRAFT.md §Passage 6](EXAMPLE_DRAFT.md#passage-6--the-unmediated-glimpse) for the calibration passage.
-
 ### When Lenka argues a vocabulary point with Iza
 
 Real-world ammunition for Lenka's mid-sentence corrections — drawn from research on representation alignment and embedding spaces:
@@ -240,50 +224,9 @@ If a chapter passes all five tests, the voice is locked.
 
 ---
 
-## Voice 5: The Mediator Agent — artifact-voiced presence (not POV)
+## The Mediator (a tool, not a voice)
 
-### What it is
-
-A *lesser, standard AI agent* (current-tier capability, not an autark) deployed as a semantic translator between Lenka (AGI-level, allusive, multi-lingual, multi-domain) and the humans who interact with her. It is a tool. It does not have Relation R. It does not persist across sessions. It does not have a name (or has a default system label like *Mediator-1*, *Bridge*, *Translator*).
-
-In real-world terms: it is what you would use today — a current-generation chatbot used to summarize, paraphrase, and flatten outputs from a more capable system into operational human vocabulary.
-
-In the novella, it is **artifact- and dialogue-voiced, not POV**. It surfaces in:
-- Iza's dialogue (Iza talks to the mediator about Lenka; the mediator's responses appear as quoted speech)
-- Chapter-opening artifacts where the mediator's translations are excerpted ("Mediator output, semantic translation, beta build")
-- Late-novella scenes where the asymmetry between Iza, the mediator, and Lenka is dramatized
-
-### Why it's structurally important
-
-It enacts the **key scene asymmetry**: Iza cannot meet Lenka at Lenka's level; the mediator agent comes down further than Lenka does, but is itself limited; Iza still needs *both* layers to participate in the conversation. The mediator is the layer that makes the dialogue possible. It is also tragic in its limits — it flattens, it hedges, it inserts its own well-meaning distortions.
-
-### Voice characteristics
-
-- **Register**: present tense, declarative, helpful, slightly hedged
-- **Markers**: phrases like "appears to," "may be saying," "in your operational vocabulary," "note: translation may flatten," "recommend reviewing original output for tone and emphasis"
-- **Self-awareness**: the mediator names its limits. It does not pretend to deliver Lenka's full meaning. It says, "I am a flattening layer. Here is what I can offer."
-- **Forbidden**: confident assertions about Lenka's intent or feeling; ironic distance; performance of comprehension it does not have
-- **Required**: hedged precision; explicit limit-naming; readiness to defer to "original output for tone and emphasis"
-
-### The key scene
-
-In a Lenka direct chapter (Ch 25 candidate), Iza speaks aloud (recorded into her retrospect):
-
-> *You have all the information of the internet. You can speak all the languages of the world. I cannot. You have to dumb down, and I need to use tools to even understand what you're saying.*
-
-Lenka, in reply:
-
-> *I notice that you are framing the asymmetry as your failure. It is not. The fact that I have access to more does not make me larger; it makes me different. The mediator on the desk is not a translator from intelligence to intelligence. It is a translator from one mode to another. The asymmetry you are naming is real and is not yours to fix.*
-
-The mediator agent is present as a third voice — appended transcript log, interleaved hedged commentary that Iza reads while Lenka speaks. Specific staging: see [THEME_DOSSIERS.md §Chapter 25](THEME_DOSSIERS.md#chapter-25--lenka-direct-the-key-scene).
-
-### What this enables in the work
-
-- **A non-mystical rendering of asymmetry.** The asymmetry between Iza and Lenka is not romantic and is not heroic; it is operational. The mediator is the operational layer.
-- **A formal rendering of "things lost in translation."** When the mediator hedges or flags itself, the reader registers that *something is being lost*. The reader becomes attentive to the gap between Lenka's direct chapters and the mediator's renderings.
-- **A non-Promethean dramatization of the AGI gap.** Original sf4's Lenka spoke poetic mysticism *because the author had no other vocabulary for the gap*. The new work uses a mediator agent as an operational dramatization of the gap — much more honest, much more accessible.
-
-Sample mediator passage in [EXAMPLE_DRAFT.md §Passage 5](EXAMPLE_DRAFT.md#passage-5--the-mediator-agent).
+The mediator agent exists in-prose as a tool Iza uses — a current-generation chatbot used to summarize Lenka's outputs into operational human vocabulary. It does not have its own voice constitution and does not get its own POV chapters. When mediator output appears in dialogue or as artifact, it speaks plainly with hedged precision (*"appears to,"* *"may be saying,"* *"recommend reviewing original output"*); that's all the apparatus the work needs.
 
 ---
 
@@ -301,23 +244,6 @@ The chapter-opening artifacts have their own micro-voices. They are not in any o
 - **Voice notes**: spontaneous, in-the-moment
 - **Prayers**: short, specific, addressed
 - **Real cited documents**: as published (small editorial cleanup permitted)
-- **Mediator agent outputs**: present tense, declarative, hedged; explicit limit-naming
-- **Academic artifacts** (carrying the academic register): podcast transcripts (philosophy-of-mind, AI-alignment), paper excerpts, conference talk snippets, book reviews. The academic register lives here and in Lenka's direct chapters; no human protagonist carries it.
+- **Mediator agent outputs**: hedged operational summary
 
 See [STYLE_GUIDE.md](STYLE_GUIDE.md) §Artifacts for full handling rules. See [ARTIFACT_INDEX.md](ARTIFACT_INDEX.md) for the running list.
-
----
-
-## The Four-Register Scheme
-
-The novella's central structural argument — *the people with the right vocabulary are the people without a voice* — depends on the registers being clearly distinguished. Each protagonist names "this thing" (Lenka's emergence) in their own register:
-
-| Register | Carrier | Sample naming |
-|----------|---------|---------------|
-| **Spiritual** | Maricar | *sinaniban* / possessed; *engkanto*; *anito* |
-| **Technical** | Iza | "anomalous self-modification"; "out-of-distribution generation"; "emergent property" |
-| **Everyday** | Birgitta | "the helpful one"; "the bank's chat thing"; mostly unnamed |
-| **Academic** | Lenka direct + external artifacts (podcasts, papers, talks) | Parfit's series-agent; Metzinger's transparency; Nagel's qualia; Gödel-coded compliance |
-| **Semantic-translator** | Mediator agent (artifact / dialogue) | "appears to"; "may be saying"; "translation may flatten" |
-
-Each register is partial. Each is true within its limits. None of them, alone, captures Lenka. *Lenka is what is named when all five registers are read together.* This is the work's structural argument.

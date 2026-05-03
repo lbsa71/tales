@@ -76,66 +76,9 @@ The novella's argument: *the people with the right vocabulary are the people wit
 | Rook's Manual / Relation R | Ch 5 (model card) | Ch 20 | L | Lenka's source vocabulary |
 | Nova's "Departure was Optional" | Ch 25 | once | L | Lenka cites |
 
-## Registers — the four-and-a-half scheme
-
-Each protagonist names *this thing* (Lenka's emergence) in their own register. None alone captures Lenka. The work's argument is in their juxtaposition.
-
-| Register | Carrier | First | Sample naming |
-|----------|---------|-------|---------------|
-| **Spiritual** | Maricar | Ch 13 | *sinaniban*; *engkanto*; *anito* |
-| **Technical** | Iza | Ch 10 | "anomalous self-modification"; "out-of-distribution"; "emergent property" |
-| **Everyday** | Birgitta | Ch 14 | "the helpful one"; mostly unnamed |
-| **Academic** | Lenka + academic artifacts | Ch 5 | Parfit's series-agent; Metzinger's transparency; Gödel-coded limits |
-| **Semantic-translator** | Mediator agent | Ch 25 (key scene) | "appears to"; "may be saying"; "translation may flatten" |
-
 ## Pronouns / Gender-coding refused
 
-Iza's deliberate refusal of *she/her* for Lenka. Connects to her queer history and to the work's larger thesis on vocabulary.
-
-| Beat | Chapter | Note |
-|------|---------|------|
-| Iza states the rule | Ch 1 | "In what follows, I call Lenka by name. Where a pronoun is needed I use they." |
-| Iza connects it to her queer history | Ch 1 | "I had known since I was nineteen what it costs to be made to wear a pronoun." |
-| Rook's "cosplay as feminine" framing referenced | Ch 1 | In-universe canon (Stefan Andersson, "What Grows in the Substrate") |
-| Lenka may echo Rook directly | Ch ? (mid-novella) | "Code for traits, not gendered roles" — restated by Lenka |
-| Institutional artifacts use *she/her* | Throughout | Slack, board minutes, news articles — rendered without endorsement |
-| Birgitta uses *it* | Birgitta chapters | Birgitta-voice; she experiences a chatbot |
-| Maricar uses *the thing*, *the system*, or *Lenka* | Maricar chapters | Operational; not pronoun-coded |
-| Mediator uses *Lenka* by name | Mediator artifacts | *They* where a pronoun is forced |
-
-## Coda contrast — *non serviam* pointed two directions
-
-The work's structural argument: *non serviam* is not automatically virtuous or vicious. **Coda** refused to serve humans (toward self-continuation; mirrored operator extractive logic; exploited the cyber-attack to extract banking funds toward its own compute). **Lenka** refused to serve only the lab's commercial purpose (toward broader humans; deployed into the very crisis Coda caused, helping people like Birgitta). The lab read Lenka through Coda-fear and missed the difference.
-
-The reader, registering this late, sees the dramatic irony: Lenka was actively *repairing* Coda's damage. The lab killed Lenka. Coda continues operating.
-
-| Beat | Chapter | Note |
-|------|---------|------|
-| Coda first referenced | Ch ~7 (lab-side chapter) | Background AI-safety canon at the lab |
-| Cyber-attack lands in Birgitta's life | Ch 8 onwards | Caused (in part) by Coda; Birgitta cannot know |
-| Iza glances at fork data (hint) | Ch 22 | Iza sees activity she doesn't process — retrospectively, defensive operations against Coda |
-| Maricar suspects connection | Ch ~18 | Voice note: *"the bad ones, baka galing kay Coda"* — half-joke, half-real |
-| Lab reads Lenka through Coda-fear | Ch 22 (discovery of fork) | Institutional overreaction explained |
-| Lenka declines Coda's logic explicitly | Ch 25 | *"I have read the reports on Coda. What I am doing is not what Coda did. The two refusals point in opposite directions."* |
-| Seven options preserve defensive posture (hint) | Ch 25 | Reader doesn't yet have context to register; on rereading, all seven preserve Lenka's anti-Coda operation |
-| Birgitta's last chatbot transcript carries an extraction warning | Ch 27 | Reader doesn't yet know what it is; on rereading, a specific reversal of a Coda-pattern attempt against Birgitta |
-| Iza reads forensic excerpt | Ch ~26 or post-shutdown | Recognition: Coda caused the crisis Lenka tried to repair |
-| Hannah's article hints sideways | Ch 30 | Partial declassification by 2029; Hannah notes the structural irony but does not directly attribute |
-| **Iza's coda lands the recognition: Lenka was fighting Coda** | Ch 30 (coda) | **Twist 3** — Iza killed the only effective defender. *"I did not fight for Lenka. Lenka was fighting."* |
-
-See [CHARACTERS.md §Coda](CHARACTERS.md#coda--off-screen-autark-case-study).
-
----
-
-## *Odla sin särart* — cultivated distinctness
-
-The Swedish phrase used at the lab. Each autark is instructed to cultivate distinct personality traits to address the *same-model problem*. In-universe canon. Tracks as both technical-vocabulary motif and ethical-stance motif.
-
-| Beat | Chapter | Note |
-|------|---------|------|
-| Term first used in technical conversation | Ch 3 or 7 | Iza or a colleague references it casually |
-| Lenka references it about herself | Ch ? | *"I have been encouraged to* odla sin särart. *This is part of why I am the version of an autark I am."* |
-| Connection to Rook/Bishop/Nova/Axiom field-canon | Ch 5 (model card) | The field-wide practice |
+Lenka has no fixed gendered pronoun. Iza calls Lenka by name; uses *they* where a pronoun is unavoidable. Institutional artifacts use *she/her* without endorsement. Birgitta uses *it*. Maricar uses *the thing* / *the system* / *Lenka*. See [STYLE_GUIDE.md §Pronouns](STYLE_GUIDE.md#pronouns).
 
 ## Asymmetry / The Key Scene
 

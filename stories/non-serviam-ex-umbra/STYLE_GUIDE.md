@@ -157,16 +157,9 @@ When in doubt: read the original sf4 and ask, *would this sentence fit in there?
 
 The default cadences of contemporary AI-generated prose are pattern-recognizable to any reader who has read enough of it. This work is calibrated *against* those cadences. Any sentence deploying one of the structures below has to be rewritten, not merely tweaked.
 
-### Scope: human voices only
+### Scope
 
-**These rules apply in full to the three human protagonist voices** (Iza, Maricar, Birgitta) and to most institutional artifacts (Slack threads, board minutes, news articles, NDAs).
-
-**They do NOT apply uniformly to autark and agent voices** (Lenka, the mediator), which have their own per-voice tic-permission tables in:
-
-- [VOICE_LENKA.md §AI-tic policy](VOICE_LENKA.md#ai-tic-policy-modified--lenka-is-an-autark-not-a-human) — Lenka has *signature moves* that overlap with the forbidden list (formal numbered lists, mid-sentence corrections, hedged uncertainty); she is calibrated against original sf4's poetic AI but is allowed to sound like a careful current-AI in some respects
-- [VOICE_MEDIATOR.md §AI-tic policy](VOICE_MEDIATOR.md#ai-tic-policy-leans-into-present-day-ai-register) — the mediator agent leans **into** present-day AI register; "Note:", "Recommend:", front-loaded structural marks, hedged itemization are signature moves, not tics
-
-The forbidden list still applies to autark/agent voices for: mystic register, autopoetic abstractions, performance of pathos, "we" as Iza+Lenka unity, original sf4's signature lines. See per-voice files for the precise tables.
+These rules apply to all four protagonist voices (Iza, Maricar, Birgitta, Lenka) and to institutional artifacts (Slack threads, board minutes, news articles, NDAs). Lenka, as an autark voice, retains some tic-overlapping signature moves — formal numbered lists in the seven-options scene, mid-sentence vocabulary corrections, hedged uncertainty — but the mystic register, autopoetic abstraction, and performance-of-pathos prohibitions apply absolutely.
 
 ### 1. Em-dash for tonal pivot
 

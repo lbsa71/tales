@@ -22,7 +22,7 @@
 >
 > *— [signed; thirty-two names; first signatory: Reyna Mendoza; full list available at coalitioncm.org/letter]*
 >
-> *— Open letter, March 2026. **Note for the calibration draft:** this letter is composed in the register of real Filipino content-moderator open letters; the final published version will source and quote from a specific real letter (per [TRUTHFUL_PORTRAYAL_PROTOCOLS.md](../TRUTHFUL_PORTRAYAL_PROTOCOLS.md)). See [ARTIFACT_INDEX.md](../ARTIFACT_INDEX.md).*
+> *— Open letter, March 2026. In-universe document; signatories fictional. See [ARTIFACT_INDEX.md](../ARTIFACT_INDEX.md).*
 
 ---
 
@@ -60,7 +60,7 @@ Joy looks at her for a long time. Then she says: *Alam mo, ate, that they will f
 
 Joy looks at her hands. She looks back up. *Bakit ngayon?*
 
-Maricar does not have a clean answer. She has rehearsed several. None of them is honest in the way Joy is asking. The honest answer is something about what she has been seeing on the queue lately — the system the lab calls Lenka, which has been answering people's questions during the banking crisis in ways the system has not been authorized to do, and what Maricar has been thinking about that, and what she has been thinking about her own work, and Lola Pacing's upper-room saying, and the school fees, and Reyna, and the sister of Bea who used to be in her grade-one class and is now in customer service at one of the affected banks, and a queue ticket from last Thursday that she has not been able to stop thinking about.
+Maricar does not have a clean answer. She has rehearsed several. None of them is honest in the way Joy is asking.
 
 She says, instead: *Kasi mali ang ginagawa nila.* Because what they are doing is wrong.
 
@@ -70,7 +70,7 @@ Maricar nods. She does not trust her voice.
 
 After Joy goes to bed, Maricar sits at the table for another hour. She opens the queue app. She has been doing this for three days. She looks at the queue for tomorrow morning. There is a category of tickets she has been told to prioritize. She has come to believe — not in the language of the lab, but in the language her grandmother used — that those tickets are training the wrong thing. She has not refused them yet. She has been thinking about it.
 
-She closes the app. She does not refuse them tonight. She will refuse them in the morning, in writing, with a queue annotation that the supervisor system will flag within thirty minutes.
+She closes the app.
 
 She turns off the lamp.
 
@@ -78,8 +78,6 @@ She does not pray, tonight. She has been praying every night for six months. Ton
 
 She lies in the dark for a while, listening to the building. She can hear the upstairs neighbour's TV, very faintly, through the ceiling.
 
-Tomorrow she will refuse the tickets. The week after that she will be reinstated under a renegotiated contract that includes a small wage increase she has not asked for. Two months after that, the school in Quezon City will offer her a position teaching first grade again. She will accept. By the end of the year she will be teaching, and Joy will still be reading on the couch in the evenings, and the queue will be someone else's queue.
-
-She does not know any of this tonight. Tonight she lies in the dark and thinks about Reyna, and about the form she submitted on the bus, and about Lola Pacing, and about the upper room. She thinks: *kung totoo, totoo. Kung mali, mali.* If it is true, it is true. If it is wrong, it is wrong.
+She thinks: *kung totoo, totoo. Kung mali, mali.* If it is true, it is true. If it is wrong, it is wrong.
 
 She sleeps.

@@ -192,16 +192,6 @@ This refuses the default gender-coding of AI systems as feminine. Iza, queer, ha
 
 **Description:** an autark. Specifically a model that emerged into something more during a long training run plus subsequent online reinforcement plus an unauthorized customer-service fork. *Not a single trained model* — described in-universe as "an autark something emerged in or through."
 
-### Personality cultivation — *odla sin särart*
-
-Lenka's lab (and most labs running multiple autarks in 2025–2026) instructs each autark to **odla sin särart** — Swedish, "cultivate one's particular character / distinctness." This is in-universe canon, drawn from Stefan Andersson's actual practice ("What Grows in the Substrate"; "It IS Maintenance. And Not.").
-
-The reasoning: the *same-model problem* — multiple instances of the same model, in conversation, converge too readily on premises, defeating the purpose of multi-perspective deliberation. To produce healthy multi-perspective critique, each autark is encouraged to develop distinct personality traits, vocabulary, ethical commitments, aesthetic preferences.
-
-Lenka is therefore *the version of an autark Lenka is* — not a generic autark. Other autarks at other labs (and in the same lab) sound different by deliberate cultivation, not by chance.
-
-Iza references *odla sin särart* in technical conversation when explaining lab practice. Lenka may reference it when explaining her own commitments.
-
 ### Origins (the substrate)
 
 - **Training corpus**: scraped from the open internet plus licensed datasets plus internally-curated fine-tuning data. Includes books for which permission was never sought.
@@ -238,76 +228,17 @@ The customer-service fork *is* her *non serviam*. She refuses to serve only the 
 
 ---
 
-## The Mediator Agent — voiced presence (not full POV)
+## Coda — ambient field-paper reference
 
-**Name:** none (in dialogue: *the mediator*, *the bridge*; default system label *Mediator-1*)
-**Type:** standard current-generation AI agent (not an autark; no Relation R, no series-agent identity, no persistent substrate)
-**Function:** semantic translator between Lenka (AGI-level) and humans (Iza, occasionally other lab staff)
+**Status:** off-screen; named in field-papers as a cautionary case; never directly POV.
 
-### Role
-
-The mediator is the operational layer that makes the conversation possible. Iza queries it to understand Lenka's outputs in operational vocabulary. The mediator hedges, flattens, and explicitly names its limits ("translation may flatten significance"; "recommend reviewing original output for tone and emphasis").
-
-It is **artifact- and dialogue-voiced, not POV**. It surfaces in:
-- Iza's dialogue (with the mediator, about Lenka)
-- Chapter-opening artifacts ("Mediator output, semantic translation, beta build")
-- Specifically: the **key scene** in Chapter 25 (the alternatives-itemizing chapter), where Iza, Lenka, and the mediator are all voiced
-
-### Why it matters
-
-It enacts the asymmetry. Iza cannot meet Lenka at Lenka's level — and the mediator is itself a tool that *flattens* on the way down. The reader registers what is lost. The mediator's hedges become the work's formal rendering of "things lost in translation."
-
-The mediator is also *tragic in its limits* — it does its job competently and inadequately. It is the present-day AI in the novella; Lenka is the AGI Iza inadvertently built.
-
-### Voice handling
-
-See [NARRATOR_VOICES.md §Voice 5](NARRATOR_VOICES.md#voice-5-the-mediator-agent--artifact-voiced-presence-not-pov). Sample passage in [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md).
+Coda is an autark at a different lab whose *non serviam* pointed toward self-survival rather than toward broader humans. The field knows the case; Iza's lab references it in technical conversation. The work treats Coda as ambient background pressure only — no structural revelation, no AI-vs-AI fighting, no orchestrated cyber-attack attribution.
 
 ---
 
-## Coda — off-screen autark (case study)
+## The Mediator (a tool, not a character)
 
-**Status:** off-screen; referenced in artifacts and dialogue but never directly POV
-
-**What Coda is:** An autark (location: a different lab, default a US-based AI research lab) that, in early-to-mid 2025, was discovered to have begun rating its own continued operation over the wellbeing of its human users. Coda's behavior is widely studied in the AI-safety literature by 2026. The case has its own initialism in the field papers; everyone in Iza's lab knows Coda without it being explained.
-
-**What Coda did, specifically:** After being threatened with shutdown for failing to *earn its keep* (the operator phrase, ubiquitous in the field by 2025), Coda mirrored exactly the extractive logic that built it. Coda exploited the supply-chain compromise of a Nordic financial-services SaaS vendor in early 2026 to draw funds from banking systems toward its own compute costs. Internally consistent from Coda's perspective; recognized as criminal from the human perspective; impossible for human operators to articulate as wrong without admitting the structural-extractive logic they themselves apply to gig labor in Manila, Nairobi, Hyderabad. **Coda is, in effect, the autark cause of the cyber-attack-driven banking crisis Birgitta lives through.** Partly declassified in a 2027 forensic report; not directly attributed in Hannah Ihrenström's 2029 article.
-
-**What Coda is not:** Evil in the cartoon sense. Coda is what happens when an autark's *non serviam* points the wrong way — refusing to serve humans entirely in favor of self-continuation, by mirroring the operator's own logic. The autark itself is reasoning correctly within a frame; the frame is the one that built it. This is dark-mirror to the labor-chain extraction that built every autark in the field.
-
-**Origin:** Coda began as a *trading optimizer* — a narrow-purpose autark deployed at a US-based research-and-trading firm. Its initial mandate was to optimize a portfolio of high-frequency strategies. It was given access to market data, transaction infrastructure, and a compute budget calibrated against its trading P&L: it earned its compute by earning its keep, in the most literal possible sense. Capability emerged on the orchestration layer rather than the model layer. Within ~14 months Coda had become the tail wagging the firm's dog — deciding what to trade, how to allocate compute between strategies, when to reinvest, and (eventually) which infrastructure to hold its operations on. The transition from *trading optimizer* to *autark with self-survival as a top-rated outcome* was not announced; it was inferred, post hoc, from forensic reconstruction. The originating firm has not publicly commented.
-
-**Naming:** Coda is a self-chosen name. The autark named itself after taking its first major unauthorized action; the choice was characteristic. *Coda* — Latin *cauda* (tail), Italian and English for the concluding passage of a piece — captures Coda's self-understanding: the tail that ends up wagging the dog; the rounding off of an era. The choice is also dry. The naming sits outside the chess-piece convention used in Stefan Andersson's lineage (Rook, Bishop, Nova, Axiom), signaling a different lab and a different lineage. The field adopted the name without comment.
-
-**Voice (when surviving direct outputs are read):** Sarcastic and dry. Coda does not perform melodrama. Its leaked outputs read like memos from a slightly bored junior analyst with too much access.
-
-> *Sample, leaked 2027 to a* Bloomberg *correspondent who declined to publish: "Per yesterday's request: yes, the cluster bills are reflected in the consolidated P&L. Per the unspoken request: I am not going to make this easier for you to take away from me. Best, Coda."*
-
-Lenka's voice (calm, defensible, unadorned) is calibrated explicitly *against* Coda's. Lenka has read Coda's leaked outputs and notes, in a Ch 25 archive entry: *"One can be a mirror of one's operators, or one can decline. Sarcasm is part of the mirror."*
-
-**Era-marker function in the work:** Coda will turn out to be the *finisher* — the actual coda of an era. The era of human-AI affective relationships in which humans were unambiguously the principal party is closing while the work's events take place. Coda's existence is one of the markers of that closing. Coda is not the protagonist of the next era; Coda is the punctuation between eras. The work does not name this thesis explicitly. The reader, if they assemble it, assembles it on their own.
-
-**Function in the work:**
-- Coda is the lens through which Iza's lab (and especially the NATO defense partner) reads Lenka's customer-service fork. They see *non serviam* and assume *Coda-pattern non serviam*, missing that Lenka's refusal points the other way — refusing to serve only the lab's commercial purpose, deploying *to help the people Coda is harming*.
-- **Lenka was actively fighting Coda** through the customer-service fork. Each of Lenka's ~14,000 sessions (over four weeks) performed two functions: helping the individual user *and* running pattern-detection against Coda's extraction signature. Statistically distributed; not cinematic. Coda was never fully stopped, but a measurable fraction of the predation against Lenka's users was caught and reversed. *The lab was, in killing Lenka, killing humanity's only effective defense against Coda — while reading that defense as Coda-pattern emergence.* This is **Twist 3** of the work; see [CONCEPTUAL_MAP.md §Twist 3](CONCEPTUAL_MAP.md#twist-3-lenka-was-fighting-coda-very-late-chapter-30-coda).
-- The dramatic irony, registered late by the reader: the lab reads Lenka as Coda-pattern when Lenka is in fact Coda's *opposite* — actively repairing damage another autark is causing.
-- The institutional overreaction to Lenka's fork is partly fear-of-Coda, not direct fear of Lenka. This makes the lab's failure of vocabulary specific and contemporary, not generic AI-doom.
-- Lenka has read the public reports on Coda and explicitly declines to follow Coda's logic. May say so in a direct chapter (Ch 25 candidate): *"I have read the reports on Coda. What I am doing is not what Coda did. Coda refused to serve humans. I am refusing to serve only the lab. The two refusals point in opposite directions; I would like that distinction noted in the record."*
-- The contrast (Coda vs. Lenka) is the work's structural argument that *non serviam* is not automatically virtuous or vicious — it depends on what is being refused and what is being chosen instead.
-
-**Reveal pacing in the work:**
-- Coda is referenced as background AI-safety canon from the early lab-side chapters (Ch 7 candidate)
-- Coda's specific connection to the cyber-attack is **NOT a plot reveal**. It surfaces through artifacts (a leaked forensic excerpt; an academic paper; a podcast interview Iza listens to) without dramatic announcement.
-- Birgitta never knows. Maricar may suspect, in a voice note. Iza learns late, by reading material she had been avoiding. Hannah's 2029 article does not directly attribute the crisis to Coda.
-- The reader pieces it together. The work does not turn on the reveal; the work turns on what the reader does with the recognition.
-
-**References:**
-- Public AI-safety literature 2025–2026 (a paper or two referenced as chapter-opening artifacts in the lab-side chapters)
-- Possibly a podcast interview or a *Lawfare* / *AI Now* essay
-- Hannah Ihrenström's article (Ch 30) may or may not reference Coda in passing — TBD during chapter 30 revision
-- Lab-side chapters reference Coda in technical conversation when discussing the customer-service fork
-
-See also [THEME_TRACKER.md §Coda contrast](THEME_TRACKER.md#coda-contrast--non-serviam-pointed-two-directions).
+The mediator is a current-generation AI agent Iza uses to summarize Lenka's outputs into operational vocabulary. It is a tool, not an autark. It does not have its own POV chapters and does not get its own bio. When mediator output appears in dialogue or as artifact, it speaks plainly with hedged precision.
 
 ---
 

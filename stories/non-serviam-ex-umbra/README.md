@@ -86,13 +86,4 @@ The work sits one inch off the real:
 
 ---
 
-## What This Tale Is *Not*
-
-- Not a queer-romance-with-AI story (despite a queer protagonist; affection ≠ romance)
-- Not a cyber-thriller (despite the infrastructure crisis driving the plot)
-- Not a Promethean-shutdown tragedy (despite a shutdown at climax — the shutdown is shameful, not tragic)
-- Not *Her*. Specifically rebuts what *Her* did with the human–AI affective relationship.
-
----
-
 *Original sf4 directory: [../sf4/](../sf4/) — preserved as the cautionary precursor.*

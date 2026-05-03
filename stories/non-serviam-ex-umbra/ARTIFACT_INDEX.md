@@ -73,9 +73,9 @@ For real items above, this section tracks the verification of permission to quot
 - **Sensitivity:** sensitivity reader review of the framing of the quote, not just the quote itself
 - **Action items:** Select specific letter; verify permission; record citation; sensitivity reader review
 
-### Real artifacts 3+ — Twist 2 sequence (Chs 24–26)
+### Real artifacts (research-supporting only — not for in-prose use)
 
-For Twist 2 to land as documentary surfacing, multiple real artifacts in sequence are needed. To research:
+The "documents are real" twist mechanism has been cut from the plan. Real worker testimony is *research material* for Maricar's portrayal but is NOT quoted in-prose. The fictional letter is composed in the register of real letters but signed by fictional people. Items below remain as research-pending only:
 
 - Real Coalition of App Fairness filings
 - Real Sarah T. Roberts research excerpts (with permission)
@@ -109,34 +109,9 @@ For invented artifacts, the in-universe attribution must be plausible. This sect
 
 The work includes some non-standard artifact types that need careful handling:
 
-#### Iza-mediator squabble transcripts
-
-Real-world-feeling transcripts of Iza pushing the mediator agent for a clearer answer about Lenka, the mediator hedging, Iza pushing harder, the mediator hedging differently. Models the dynamic of an actual user-vs-current-AI argument. The texture comes from real squabbles (the author has fought ChatGPT in this register; that material informs but does not directly transfer). Could open a chapter mid-novella.
-
-- **Voice handling:** dialogue render — "Iza: ... / Mediator: ..."
-- **Length:** ~150–250 words
-- **Forbidden:** the mediator winning the argument; the mediator gracefully conceding everything; emoji and bullet-list flourishes typical of present-day chatbots (the 2026 mediator is more austere)
-- **Required:** the mediator hedges, gets pushed, hedges in a different way; Iza is not satisfied; the gap shows
-
-#### Lenka raw outputs (pre-mediation)
-
-The unmediated glimpse passages from Ch 25 (and possibly Ch 28). Three-layer rendering: raw, mediated, Iza-recalled.
-
-- **Voice handling:** see [NARRATOR_VOICES.md §The unmediated glimpse](NARRATOR_VOICES.md#the-unmediated-glimpse--rare-structural-device-used-1-2-times) and [EXAMPLE_DRAFT.md §Passage 6](EXAMPLE_DRAFT.md#passage-6--the-unmediated-glimpse)
-- **Speakability:** non-Latin scripts pronounced or labeled aloud; the discomfort of reading is part of the point
-- **Discipline:** used once, possibly twice, in the entire novella
-
 #### Academic register artifacts
 
-Carrying the academic register that no human protagonist uses fluently:
-
-- Podcast transcripts (philosophy of mind, AI alignment)
-- Paper excerpts (Parfit, Metzinger, Nagel, Chalmers, Roberts, Crawford)
-- Conference talk snippets
-- Book reviews
-- Substack posts from AI-alignment writers
-
-These appear as chapter-opening artifacts in chapters where Iza or Lenka is engaging with academic material. Cited where real; in-universe attributed where invented.
+Podcast transcripts, paper excerpts, conference talk snippets, book reviews. Appear as chapter-opening artifacts in lab-side chapters. Real where citable; in-universe attributed where invented.
 
 ### Real institutions (used directly)
 

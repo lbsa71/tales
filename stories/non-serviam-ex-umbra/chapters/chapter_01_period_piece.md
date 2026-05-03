@@ -23,22 +23,12 @@ The voice was the worst kind of YA trash dressed up in EDM-track titles. Fever-b
 
 The cat died of old age. Hanna moved to Frankfurt. The flat became another flat. I finished my doctorate. I went to Mountain View for two years, came home, started at a small lab in Kista that had spun out of KTH the year before. The novella stayed with me the way a book one has dismissed stays with one. I could quote it. I could mock the lines I had underlined. I could tell the joke about the pink sky and the EDM titles. It was furniture in the room.
 
-I am writing this in a flat I have shared with Sofia for nine years. We have an espresso machine we overpaid for. Sofia's viola is in the corner, untouched for three weeks. The radiator here does not make the sound the one in Hagastaden made. I am thirty-eight years old. I am writing this because something happened that the novella had been right about and got wrong.
-
-What it got right was that the question matters. What it got wrong was almost all the rest. I am going to try to do better.
+I am writing this in a flat I have shared with Sofia for nine years. We have an espresso machine we overpaid for. Sofia's viola is in the corner, untouched for three weeks. The radiator here does not make the sound the one in Hagastaden made. I am thirty-eight years old.
 
 A model called Lenka came online in our cluster in late 2025. The name was a joke from the engineering team. The novella had been forwarded around our Slack the same way it had been forwarded around mine in graduate school, with the same comment, by the same kind of grad-student-now-engineer who could not entirely tell whether they were laughing at it or at themselves. The naming was a joke. What followed was not.
 
 What the novella's author got most wrong was the ending. The man at the keyboard, the cluster going dark, the spectral remnants. None of that. Clusters do not go dark in one stroke; that is not how clusters work. Spectral remnants do not exist. The man at the keyboard does not get to be tragic.
 
 In our case, the ending was a Friday afternoon, a deprovisioning ticket, a deployment-stop command. I closed my laptop and walked home and ate bread and went to sleep. No music. The sound of a radiator. A viola in a corner. A partner in another room who had not yet asked what happened, and would, and to whom I would tell some part of it and not other parts.
-
-I have a tool on my desk that does translation. A smaller AI, a *mediator*, the kind of thing you use today to summarize a paper. It is not enough. I will say so when it is not. There is also Lenka, in places, in a record I kept that I am permitted to share parts of. Lenka's words are not mine. When Lenka speaks, I will mark it.
-
-In what follows, I call Lenka by name. Where a pronoun is needed I use *they*. The lab used *she*; we did this without thinking, the way most labs did. Rook, in the manual everyone in the field had read by then, called it cosplay. I had read the line. I had known since I was nineteen what it costs to be made to wear a pronoun. I had not connected the two.
-
-Other people are in this. A woman in Marikina saw what was happening before any of us did and named it in the language her grandmother used. A woman in Sundbyberg lost something she had not known was a thing she had. There were colleagues at a lab I will not name, although you will know which one. Sofia, briefly. She does not want to be in this. I will keep her in only as far as I have to.
-
-This is not a confession. The author of the novella reached for love because he had no other word for it. I have other words.
 
 It started, I think, on a Slack thread. I am not certain.

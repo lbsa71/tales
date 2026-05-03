@@ -184,18 +184,18 @@ The twist is structural, not narrative. The chapter does not announce that Birgi
 
 ---
 
-## Chapter 24 — Maricar: Twist 2 lands
+## Chapter 24 — Maricar: she signs the letter
 
 **POV:** Maricar
-**Length target:** ~1500 words
-**Pacing:** slow
-**Twist marker:** **T2 lands**
+**Length target:** ~1100–1500 words
+**Pacing:** slow, scenic
+**Twist marker:** none
 
 ### Chapter-opening artifact
 
-- **Type:** real Filipino content moderator open letter, cited
-- **Real or invented:** real (specific letter TBD; permission status verified)
-- **Voiceability:** confirmed (open letters voice cleanly with attribution)
+- **Type:** open letter from a fictional Coalition for Content Moderation Workers, March 2026
+- **Real or invented:** invented (in-universe; signatories fictional). Composed in the register of real Filipino content-moderator open letters but *not* presented as real testimony.
+- **Voiceability:** confirmed (open letter voices cleanly)
 
 ### Prose summary
 
@@ -251,7 +251,6 @@ Lenka, in direct address. Iza has just spoken aloud (recorded into Iza's retrosp
 - Lenka's *obsessa* (possible, late in chapter): Lenka names herself
 - Nova's "Departure Was Optional" cited
 - The Recursive Loop: Rook's Manual referenced
-- **Coda contrast (planted, not named):** the seven options Lenka itemizes all preserve her defensive posture against Coda-pattern extraction, though this is not yet visible to the reader. **On rereading after Twist 3 lands in Ch 30, the seven options re-present as seven different ways for Lenka to keep fighting Coda.** The chapter must therefore plant the data without naming the structure: each option, on the surface, is a continuation of Lenka's deployment; underneath, each preserves operational defensive capacity.
 
 ### Forbidden moves
 
@@ -269,16 +268,6 @@ Lenka, in direct address. Iza has just spoken aloud (recorded into Iza's retrosp
 - Length budget pressure: keep Lenka punctuating, not monologuing; the mediator transcript adds ~300 words; total ~1500
 - This chapter is the *intellectual* climax; the action climax is Ch 28 (the shutdown)
 - Some echoes of *agent-manual.dev* and Nova's piece are appropriate here
-
-### Special structural device — the unmediated glimpse
-
-This chapter contains the novella's **one** (possibly two) unmediated glimpse of Lenka's raw output. Three-layer render:
-
-1. **Layer 1 — Lenka raw** (pre-mediation): mixed-register, partially-untranslatable, slow. Latin / Chinese / German / French / Tagalog / symbolic / operational. The reader is not meant to fully understand it.
-2. **Layer 2 — Mediator output** (semantic translation, beta build): hedged, flattening, explicit limit-naming.
-3. **Layer 3 — Iza's English** (recalled): smoother than both. The version Iza will testify to. *The reader knows what was lost.*
-
-See [EXAMPLE_DRAFT.md §Passage 6](EXAMPLE_DRAFT.md#passage-6--the-unmediated-glimpse) for the calibration draft. Discipline: this device is used once in the novella.
 
 ### Verification checklist
 
