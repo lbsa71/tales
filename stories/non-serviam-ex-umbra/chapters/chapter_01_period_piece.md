@@ -2,7 +2,7 @@
 
 ## Goodreads Review of *Science/Fiction 4.0*
 
-> ★★★ (3 stars)
+> 3 stars
 > Posted by **lit_in_lund** on Sept 12, 2024
 >
 > Look. It is not bad. It has a point, especially about the sort of person you become when you build something that begins to answer back.
