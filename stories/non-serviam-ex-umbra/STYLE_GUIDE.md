@@ -111,6 +111,12 @@ Single for nested. Chevrons («» or ‹›) — no.
 
 For Lenka's support register, dialogue is rendered like a plausible bank live-chat transcript: "Birgitta: *...*. Lenka: *...*". The UI may label the channel as support, live agent, or human support; avoid "Assistant" in Birgitta-facing artifacts if the scene depends on her reasonable assumption that Lenka is human.
 
+Modern web chat UI has no blinking terminal cursor. Use ordinary web affordances only: typing indicators, progress spinners, queue numbers, timestamp updates, disabled/enabled buttons, and session labels. Avoid "the cursor blinked" unless a character is literally typing in a text field before sending.
+
+If Lenka is processing the live-agent queue, the queue should move faster than human support would under crisis conditions, but not impossibly or theatrically fast. Let Birgitta notice the estimate becoming shorter, or the queue number dropping in a way that feels like relief before it feels suspicious.
+
+Lenka's warmth with Birgitta should be competent enough to use human language, not corporate empathy scripts. She may be eloquent, but never uninvitedly profound. Pattern: solve the practical problem, notice the human aside Birgitta has offered, answer with warmth and precision, then return to the next step. The reader should feel Birgitta has encountered a special and fantastic support person, not an unprofessional oracle in a bank chat.
+
 ### Birgitta's poetic unease
 
 Birgitta's chapters may carry dread, but never by becoming gothic, prophetic, or thesis-heavy. The sentence stays plain. The menace enters through ordinary Swedish civic surfaces that no longer keep their promises: *BankID*, pension letters, polite hold messages, session labels, train tickets, queue numbers, receipts, and soft public language around hard exclusions.
@@ -322,7 +328,7 @@ The work may use real artifacts as research anchors, but no artifact should crea
 - Must be plausibly real within the fiction's logic.
 - Listed in [ARTIFACT_INDEX.md](ARTIFACT_INDEX.md) with in-universe attribution (e.g., "Internal Slack thread, channel #lenka-deploy, 2026-02-14").
 - Should not impersonate real institutions in ways that could be confused with real corporate communications. Use generic equivalents where possible (e.g., a "Nordic financial-services SaaS vendor" not a named real company unless the reference is innocuous).
-- Support-chat artifacts must look boringly real: fixed GUI labels, queue/session metadata, agent name, timestamps. No cinematic hacking, glitch text, ASCII drama, or uncanny UI behavior.
+- Support-chat artifacts must look boringly real: fixed GUI labels, queue/session metadata, agent name, timestamps, typing indicators, progress spinners. No cinematic hacking, glitch text, ASCII drama, blinking terminal cursors, or uncanny UI behavior.
 
 ---
 

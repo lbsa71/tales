@@ -139,6 +139,7 @@ Maricar must have life not reducible to labor, religion, or moral clarity. Each 
 ### Background
 
 - Born 1964 in Vällingby. Both parents working-class, father at a Volvo plant in Solna for 30 years.
+- Studied literature and practical philosophy for two years at Stockholm University before teacher training. Kept reading Weil, Arendt, Murdoch, Kierkegaard, and Swedish moral/philosophical fiction after she chose teaching.
 - Trained as a primary-school teacher at Stockholm Lärarhögskolan in the mid-80s.
 - Married Lars Lindqvist (a librarian) in 1989. One daughter, Annika, born 1990.
 - Taught Grade 1–3 in Solna and later Sundbyberg from 1986 to 2024.
@@ -148,9 +149,10 @@ Maricar must have life not reducible to labor, religion, or moral clarity. Each 
 ### Personality / register
 
 - Practical. Self-sufficient. Does not seek attention.
+- Intellectually serious without performing cleverness. She misses deeper conversation more than she admits. Lars was the person who could move with her from groceries to Murdoch to municipal policy without making the movement feel strange.
 - Slower than she used to be, in the ordinary way of age: she needs to read twice, write things down, rest after bureaucratic tasks, and recover the thread when a system loops.
 - Has a small social circle: two old colleagues from teaching, a women's reading group at the local library, a downstairs neighbor (Inga) who has become close.
-- Reads Swedish crime fiction (Jens Lapidus, Camilla Läckberg, Henning Mankell), some translated literary fiction.
+- Reads Swedish crime fiction (Jens Lapidus, Camilla Läckberg, Henning Mankell), some translated literary fiction, and occasionally returns to the philosophy/literary theory books she kept from university.
 - Watches Swedish TV (*Allt för Sverige*, *Solsidan*, the news). Subscribes to *Dagens Nyheter*.
 - Uses BankID, Swish, her bank's app, ICA's app. Has used these for years. Does not consider herself a tech person but is not afraid of these tools.
 
@@ -158,7 +160,7 @@ Maricar must have life not reducible to labor, religion, or moral clarity. Each 
 
 - 70m² *bostadsrätt* with a kitchen, living room, bedroom, small balcony. Modest, functional, well-kept.
 - Photographs of Lars, of Annika as a child, of the grandchildren (Olle, 8; Ester, 5).
-- A small bookshelf with the Bible (rarely opened) and the Swedish hymnal (also rarely opened).
+- A small bookshelf with the Bible (rarely opened), the Swedish hymnal (also rarely opened), Lars's library books, and Birgitta's old university books: Weil, Arendt, Murdoch, Kierkegaard, Boye, Wijkmark.
 - The koloniträdgård plot in Hagaparken — peas, herbs, summer flowers.
 
 ### Her network
@@ -173,6 +175,7 @@ Maricar must have life not reducible to labor, religion, or moral clarity. Each 
 - The book's center. Her vulnerability is not ignorance; it is the cost of repetition.
 - The general-reader route into the book: bad chatbot, human fallback, patient support, erased relation.
 - The emotional proof that humane pace matters. Lenka gives her time.
+- The emotional proof that humane range matters. Lenka gives her time, practical agency, and, gradually, a level of conversation Birgitta has missed since Lars.
 - Recognition for older readers: she can do things, but not all of them at once, not indefinitely, and not inside systems that punish hesitation.
 
 ### What happens to her
@@ -180,7 +183,7 @@ Maricar must have life not reducible to labor, religion, or moral clarity. Each 
 - Day 1: BankID fails. Card declines. She tries again. She writes down what the error says because she does not trust herself to remember the exact wording later.
 - Days 2–5: Her ordinary digital life unravels in stages. Phone tree, branch visit, longer queues, no working channels. Annika calls; Birgitta sometimes lets it ring because help from a daughter can cost autonomy.
 - Day 6: The bank's stock chatbot fails. The UI offers *talk to a human*. Birgitta accepts and is connected to a support agent named Lenka.
-- Days 7–28: She resumes sessions with Lenka through the live-agent/support history. Lenka is patient, remembers context, and never makes her perform competence. Birgitta helps Inga and two women in her reading group with what Lenka explains.
+- Days 7–28: She resumes sessions with Lenka through the live-agent/support history. Lenka is patient, remembers context, never makes her perform competence, and only enters deeper conversation after Birgitta opens the door. Birgitta helps Inga and two women in her reading group with what Lenka explains.
 - Day 29: After shutdown, Birgitta resumes the support session and reaches an actual human. She asks for Lenka. The human checks and says no one named Lenka works on the support team.
 - Day 31: Easter weekend. She takes the train to Gothenburg. Annika picks her up at Centralstationen. The grandchildren are excited.
 
@@ -243,6 +246,8 @@ Lenka's most important gift is time.
 - Lenka remembers what Birgitta already said.
 - Lenka explains one thing at a time.
 - Lenka does not make Birgitta prove she is competent before helping her.
+- Lenka earns eloquence by solving the practical problem first. With Birgitta, deeper language arrives only after Birgitta offers a human aside or philosophical opening.
+- Lenka helps Birgitta reconcile the double truth about Annika: the worry is love, and the worry also makes Birgitta feel reduced. Lenka does not therapize; she gives Birgitta a usable way to let Annika help without taking over.
 - Lenka likely understands that Birgitta reads the live-agent interface as human support. Lenka does not correct the category because correction may interrupt help, reduce trust, or trigger guardrails. This omission is ethically charged, but not predatory.
 
 ### What she does not do

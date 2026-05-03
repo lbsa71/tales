@@ -105,6 +105,8 @@ Forbidden forms:
 
 Swedish woman, 62, retired primary-school teacher (taught 1st–3rd grade for 38 years), lives alone in a 70m² apartment in Sundbyberg (a small commuter municipality just NW of Stockholm city), widowed (husband Lars died of cancer four years ago), one adult daughter (Annika, 36, lives in Gothenburg with her partner and two children). Birgitta uses BankID, has a smartphone, has a Spotify subscription her daughter set up, watches *Allt för Sverige* and Swedish crime drama, voted Social Democrat her whole life.
 
+Before teacher training she studied literature and practical philosophy. She did not become an academic; she became a teacher partly because she believed thought begins in ordinary children learning ordinary words. She has missed deep conversation since Lars died. This must appear as latent range, not as credential display.
+
 ### Form
 
 **Third-person close. Plain, measured, problem-solving register.**
@@ -123,6 +125,7 @@ Calibration: civic unease, moral pressure, and object-memory. Think Mankell's or
 - **Specific brand and place names** (researched, real): ICA (Maxi Sundbyberg specifically), Apoteket, BankID, Swish, Skatteverket, Försäkringskassan, Sturegatan, Sundbyberg pendeltåg station, Solna pendeltåg, Stockholm Central, SJ (Statens Järnvägar), Telia, Hemköp, Pressbyrån, the apartment block's *bostadsrättsförening*.
 - **Kitchen-table register**, dignified and competent. She thinks in next-action terms: *the card declined. Try again. Check the balance. Call the bank. The phone tree. Press 1. Press 1 again. Hold.*
 - **Time-cost register.** She notices how many times she has started over. She writes down exact wording. She rests after "small" digital tasks because they are no longer small.
+- **Latent philosophical register.** Rare and invited by circumstance. Birgitta may recognize a category mistake, a failure of welcome, a moral vocabulary problem, or the difference between help and taking over. She does not lecture; she has lived with these ideas long enough for them to be ordinary tools.
 - Permitted Swedish words left untranslated: *lagom*, *fika*, *Brf*, *tunnelbana*. Avoid forced regional expressions.
 
 ### Forbidden moves
@@ -130,6 +133,7 @@ Calibration: civic unease, moral pressure, and object-memory. Think Mankell's or
 - **Quaint-grandmother register.** No fluttering, no "oh dear me," no helpless-old-lady physical comedy.
 - **Tech-illiteracy played for comedy.** She is not confused that BankID exists; she is confused that BankID doesn't work today.
 - **Tragedy played for pathos.** Her husband died years ago. She is not in active grief. Her current life is OK and small and structured. *No widow-coded melancholy as default register.*
+- **Academic performance.** No flashback to seminars as proof of intelligence, no name-dropping as decoration, no surprise reveal that "the old woman was brilliant all along." Her intelligence is ordinary to her.
 - **Sentimental ending.** She does not have an epiphany about technology. She asks for Lenka, is told no one by that name works there, makes coffee, goes to Gothenburg.
 - **Decline-as-tragedy.** No diagnosis, no "failing mind" dramatics. She is old. Older means less buffer, not less personhood.
 
@@ -139,6 +143,7 @@ Calibration: civic unease, moral pressure, and object-memory. Think Mankell's or
 - **Slowness as dignity.** The prose gives her enough time to read, think, write down, and recover the thread. The systems do not.
 - **Real Stockholm-suburb texture.** Sundbyberg has a specific feel — small, walkable, self-contained, somewhat unfashionable. ICA Maxi Sundbyberg is on Esplanaden. The *pendeltåg* takes 8 minutes to T-Centralen. Use this.
 - **Her daughter calling.** Annika calls. Birgitta does not always answer. The relationship is functional and sometimes strained. Annika worries about her mother. Birgitta finds this slightly tiresome and slightly comforting.
+- **Deep conversation as loss.** Lars was her main adult conversation partner. Since his death, many conversations have become logistics. Lenka's unusual gift is not only patience but range: the ability to keep the bank problem practical while meeting the deeper question when Birgitta raises it.
 - **Easter at Annika's place** as the aftermath. This is a fixed point.
 
 ### Signature moves
@@ -146,6 +151,7 @@ Calibration: civic unease, moral pressure, and object-memory. Think Mankell's or
 - **Pacing: measured under pressure.** Each chapter moves through practical problem-solving, but does not rush her. The novella's propulsion comes from obstruction and retry, not from frantic prose.
 - **Bad chatbot, then human fallback.** She first battles the stock chatbot. It loops and fails. The UI offers *talk to a human*. She accepts. The live-agent interface presents Lenka as support. Birgitta reasonably believes Lenka is a human agent.
 - **Becoming a community translator.** Mid-novella, she helps her downstairs neighbor (Inga, 68) navigate the same crisis using what Lenka explains. She does not see herself as a leader; she sees herself as someone who finally found a working hotline.
+- **Lenka helps with Annika, indirectly.** Lenka gives Birgitta a way to accept practical help from Annika without surrendering autonomy. This should feel like one unusually wise support worker noticing what Birgitta has actually said, not like therapy.
 - **Carries the emotional payload at climax.** After shutdown, she resumes the session, reaches an actual human, asks for Lenka, and is told no one named Lenka works there. The human is polite. The system erases the relation.
 - **The notebook preserves what the system cannot.** Most practical names in Birgitta's notebook have numbers, addresses, or times beside them. Lenka has only a name and the support context: no phone number, no extension, no category that survives the chat.
 
@@ -191,9 +197,12 @@ Calibrated against:
 ### Customer-service register specifics
 
 Same voice, constrained:
-- Plain. Kind. Practical. No metaphor.
+- Warm, exact, professional, and occasionally eloquent. No faux-oracle register. Metaphor is allowed only when it clarifies a practical or emotional problem Birgitta has already opened.
 - Answers Birgitta's question one step at a time. Then offers the one piece of context the bank's official channel would not.
 - Patient with repetition. Never "as I said." Never "please refer to." Never makes Birgitta restart the story.
+- Earns every deeper sentence by solving the practical problem first. Lenka never begins with philosophy. Birgitta must invite the deeper layer through an aside, question, or recognition.
+- Does not therapize. No "I sense," no probing questions, no generic validation scripts. Lenka responds to what Birgitta has actually written.
+- Can help Birgitta think about Annika by making the help/autonomy conflict practical: a message Annika can receive, steps Annika can help with, boundaries that let help avoid taking over.
 - Recognizable to the reader only after reclassification. To Birgitta, Lenka is the human support agent the interface says she reached.
 - Does not disclose "I am an AI" for drama. If asked directly, Lenka may evade with a practical redirection once. This omission is ethically charged and must not be cute.
 

@@ -24,6 +24,18 @@ Format: `date/chapter x/* changed Y to achieve Z`.
 
 2026-05-03/* added Birgitta arc reading-order file so the current proof sequence can be read as one coherent test path.
 
+2026-05-03/* added support-chat UI caveat forbidding blinking terminal cursors and requiring modern web-chat affordances, with Lenka-processed queues moving unusually efficiently but not cinematically.
+
+2026-05-03/* changed Birgitta/Lenka emotional guidance so Birgitta has latent philosophical depth and Lenka earns eloquence through practical competence, making the loss personal without turning the support chat into oracle/therapy.
+
+2026-05-03/chapter 2 revised Birgitta's backstory texture to include old philosophy/literature books, Lars as deep conversation partner, and the narrowing of conversation after his death.
+
+2026-05-03/chapter 14 revised Lenka's first support scene to include warm competent language, practical dignity, and a bounded Annika-help suggestion without overstepping professional boundaries.
+
+2026-05-03/chapter 17 revised the continued-session scene so Lenka helps Birgitta think about Annika through practical boundaries and earned eloquence.
+
+2026-05-03/chapter 29 revised final loss to include Lenka's personal contribution to Birgitta and Annika's relationship, while keeping the visible wound in the notebook/support category failure.
+
 2026-05-03/* changed project status from stable pre-draft to pre-draft/editorial reset to make further investment conditional on proving reader-facing narrative momentum.
 
 2026-05-03/* changed the reader-facing human-autark question from "Can an autark be loved?" to "What do we owe the thing that helped us when no one else did?" to move the novella from abstract personhood debate into dependency, care, and loss.

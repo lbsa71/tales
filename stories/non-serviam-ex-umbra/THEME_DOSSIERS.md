@@ -287,7 +287,8 @@ Birgitta first battles the bank's stock chatbot. It loops, asks for information 
 
 ### Per-chapter craft notes
 
-- The transcript must look boringly real: queue/session label, agent name, typing pauses, no cinematic UI
+- The transcript must look boringly real: queue/session label, agent name, typing indicator/progress state, no cinematic UI and no blinking cursor
+- The queue can drain faster than expected because Lenka is processing sessions, but Birgitta reads this first as ordinary relief
 - Lenka's difference is patience plus memory
 - Birgitta should leave with a next action, not an epiphany
 
