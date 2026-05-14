@@ -1,0 +1,68 @@
+# 13. After Gautam
+
+_Dag 59. Kolkata. 29 november 2003._
+
+## Pytt-i-panna paa gaardagens rester
+
+Resan till Stockholm var ett enda laangt farvael till Sverige. Jag satt baklaenges paa taaget, tittade tankfullt ut paa det foersvinnande landskapet, foersjoenk i telekablarnas gracioesa dans mot himlen.
+
+Idag ser vi tiden som naagot vi faerdas fram igenom, vi har blicken riktad mot framtiden och historien aer naagot vi har bakom oss, gloemd. Grekerna saag det tvaertom. Deras bild var att tiden var naagot vi faerdas baklaenges igenom, framtiden naagot vi inte kan se som smyger sig paa oss bakifraan, i ryggen - historien naagot vi aer doemda att alltid ha i vaart blickfaang om aen paa stoerre och stoerre avstaand.
+
+Det var raakall tidig hoestmorgon naer jag tog mig med tunnelbana och buss till Arlanda. Jag var kraek-raedd hela tiden, fick kaempa foer att inte taenka paa naagot annat aen naesta steg, naesta steg, naesta steg hela vaegen till ombordstigningen paa planet. Sedan slaeppte det.
+
+I min vaerld blir smaa saker stora, betydelsebaerande. En morgon ser jag en skylt som proklamerar ’24-hour ATM’ (dygnetrunt-oeppen bankomat) och gaar dit foer att ta ut pengar. Den aer staengd. Indien i ett noetskal.
+
+Saana saker. Eller, som plastkassar. Plastkassarna aer av riktigt usel kvalitet haer i Indien, prassliga sma paasar som bara gaar soender. Jag hade med mig tre plastkassar fraan Sverige av seg taalig PVC med riktiga handtag som haaller. Konsumkassar kallar ni dem. Riktiga kassar, saeger jag. Jag hann bli av med tvaa av dem genom att laemna in tvaett i dem (och faa tillbaka tvaetten utan paasarna) innan jag insaag foerlusten. Jag soerjde de kassarna. Kassen jag har kvar, aer en graa sopsaeck. "Good bag!" utbrast receptionisten som tog emot min tvaett i Varanasi. Saag jag en lysten glimt i hans oega? "Yes, and I want it back!" specifierade jag tydligt. Han foersoekte aendaa laemna tillbaka tvaetten utan min paase saa jag fick gaa ner till receptionen och faa dem att leta reda paa den. Saa laett lurar man inte Stefan Andersson paa en plastkasse.
+
+Faa truckar och bussar har handbroms saa codrivern maaste springa ut och laegga en sten bakom daecket i med- eller motlut.
+
+Tidningar staengs och papperslappar flyger ivaeg foer det aer flaektar oeverallt.
+
+Budgethotellens badrum aer allt-i-ett i ett kaklat rum: dusch, handfat och WC. Det innebaer att naer man tar en dusch, saa blir toaletten genombloet. ’Hot’/’Cold’/Roed prick/Blaa prick har ingen mening. Oftast aer det bara kallt vatten aendaa. Handfaten aer felmonterade, saa de daer smarta avrinningskanalerna paa sidorna av kranen tappar sin funktion. Dessutom rinner handfatets avlopp aendaa rakt ut paa golvet och ner i duschens golvbrunn, saa du kunde lika gaerna anvaent duschens kranar. De baettre budgethotellens avrinning fungerar tillfredsstaellande, de andra... sandaler rekommenderas.
+
+Taket paa husbaaten i Srinegar var gistet, slaget och murket. Det fanns inte tvaa bitar trae av samma laengd och tjocklek. Mana beraettade att baaten gaatt i arv i sex generationer. Kanske var naagra av braedorna oever hundra aar gamla. Det foersta jag gjorde naer jag kom upp paa taket var att trampa igenom en braeda. Jag aelskade det taket.
+
+I Leh myntade jag uttrycket ’Lobotany: The art and science of blowing your mind thru use of herbs.’
+
+Utefter vaegen till den foerlorade staden Fatephur Sikri i Agra ser jag flera taemjda bjoernar i koppel och munkorg. Deras aegare staar dagarna ut och vaentar paa att faa visa upp sina bjoernars konster foer naagon foerbipasserande turist. De aer skabbiga och ser hjaelploest olyckliga ut.
+
+En frukost sitter jag djupt foersjunken i en bok, naer plaetsligt ett huvud dyker upp oever bokens kant. Jag bokstavligen hoppar baklaenges, huvudet blir en apa som snor mina jam toasts och saetter av. En ur hotellpersonalen kastar sten efter apan och hoetter med en paak. Jag faar en kaensla av att ha bevittnat ett slag i ett evigt krig.
+
+Jag vandrar kring i templet paa Benares Hindu Universitys omraade, laeser citat ur vedorna och upanishaderna: "There is no fire like lust; there is no grip like hatred; there is no net like delusion; there is no river like craving," Jag tittar oever axeln paa Loi. Hon beundrar en maalning, noterar inte min blick.
+
+De traanga praangen i Varanasi far fyllda av kor, getter, hundar och taeckta av koskit och urinpoelar. "I’m like, please God don’t let me slip," saeger jag. "Yeah, I was thinking the same thing," svarar hon.
+
+Korna kaenner vi ju alla till. Mindre kaent aer det att aeven hundarna och getterna i praktiken aatnjuter samma status av oroerbarhet, om aen inte samma grad av helighet. Varken korna, getterna eller hundarna verkar dock bry sig om det senare.
+
+I Pokara laeser jag Zen and the Art of Motorcycle Maintenance och taenker paa Robert: "Peace of mind is the whole thing. That which produces it is good maintenance. That which disturbs it is poor maintenance. What we call workability of the machine is just an objectification of this peace of mind. The ultimate test’s always your own serenity. If you don’t have this when you start and maintain it while you’re working you’re likely to build your personal problem right into the machine itself." "The test of the machine is the satisfaction it gives you. There isn’t any other test. If the machine produces tranquility it’s right. If it disturbs you it’s wrong until either the machine or your mind is changed. There isn’t any other test."
+
+Det var den boken jag gav Aili.
+
+Gudinnan som svarade paa min boen daer paa trappen upp till five storey temple i Bhaktapur heter ’Shidde Laxmi’. Enligt Gautam staar hon foer ’prosperity thru correct conduct.’ It figures.
+
+Han ville foerresten inte ha naagra pengar. Han hade gaatt back paa mig eftersom han envisades med att betala foer allt under vaara vandringar. Vid ett tillfaelle tog han mig till en ’shop’ daer de saalde chayng;ett sorts mellanting mellan vin och oel, gjort paa ris. Den skyltloesa shopen var egentligen bara ett hus bland andra hus i en liten by. Aegaren satt avdomnad i ett foenstersmyg, pratade slaepigt och kort med laag roest och haengande underlaepp. Hans fru serverade. Det var ingen stoerre ide att foersoeka vifta undan flugorna. "He crazy," konstaterar Gautam, "he sells one and drinks one. He’s like my father. You see his foot?" Jag nickar. Shop-keeperns fot aer uppsvaelld. "Diabetes. Alcohol no good." Gautam skaeller paa shop-keepern, beraettar senare att han foersoekt faa ivaeg honom till en riktig doktor, att doktorn i den lilla byn bara blaaser paa foten, att keepern behoever medicin, riktig medicin, ayurvedisk medicin.
+
+Han ville som sagt inte ha naagra pengar, saa jag laemnade 600 rupier paa hans disk efter att ha sagt adjoe. Sedan gick jag till five storey temple och tackade Shidde Laxmi foer att hon saent mig mod att lita paa honom.
+
+Saa, varfoer goera saa mycket vaesen av en fattig silversmed naer jag inte skrivit naagot om de hemloesa tiggarna i New Delhi? Det handlar om att kunna relatera. Jag kan inte relatera till en hemloes tiggares situation, den aer mig foer fraemmande. Gautam beroerde mig foer att jag kunde saetta mig in i hans situation. Han var av fattig medelklass, hade en affaer, ett hem, en gravid hustru med komplikationer jag kaende igen. Det var inte en hopploes situation, bara svaar. Och daer ligger nyckeln. Det kaenns mer meningsfullt att att hjaelpa en kaempande familjefar att klara sig oever en knaggel aen att hjaelpa en hemloes tiggare i en fast situation aeven om tiggaren behoever det saa ofantligt mycket mer. Cyniskt, javisst. Guilty as charged.
+
+I chai-shopen daer jag brukade aeta min tidiga frukost jobbar en pojke och hans far. Pojken har axlarna uppdragna, huvudet saenkt och gaar med en vaggande gaang, som om han baer en tung boerda. Med smutsiga, foer stora jeans och en bylsig troeja kokar han koncentrerat mitt te med allvarlig min. Jag faar det, blaaser och soerplar paa det i vaentan paa mitt nyfriterade broed naer tre pojkar i skoluniform kommer in och bestaeller frukost. Pojken sjunker ihop ytterligare, hans panna faaras och han vaggar aen mer anklikt fram och tillbaka mellan bordet och gasolbraennaren daer han kokar teet. Skolungarna aer ivriga, provar sin engelska paa mig, jag svarar vaenligt, beroemmer dem naer de visar att de kan skriva enkla meningar paa engelska. Pojken koncentrerar sig demonstrativt paa att koka te, vaexlar inte mer aen en tvaa-tree ord med skolpojkarna. Jag anar en klassbarriaer. Pojken hjaelper sin pappa i affaeren, han kommer aldrig gaa i skolan. Paa saett och vis aer han redan vuxen. Jag gaar daerifraan, betalar 10 rupier foer frukosten och ger mannen 5 extra, saeger, "this is for the kid, he seems like a good kid."
+
+Det aer naagot rastloest oroande med en vaeggklocka som stannat. Den paa mitt rum hade stannat paa 9:36:45.
+
+De har buffel haer, den aer helt ok att slakta. Foer segt och traadigt koett bara. ’Buf’ kallar de det, bara foer att foervirra det med ’Beef’, I’m sure.
+
+Jag kom till enaeggstvillingstaden Birganj/Raxaul efter solens nedgaang. Jag formulerade genast tanken att "om Garakhpur var ett skitstaelle saa aer det haer roevhaalet." Det var moerkt, dammigt och rickshas surrade kring mig som flugor medans jag foersoekte packa mina vaeskor och reorientera mig i en ny stad. Att ta sig igenom passkontrollerna var ett elaende paa baade den Nepalesiska och den Indiska sidan. Raxaul var skraepigt och det laag en tjock doft av dieselroek och braenda sopor i den dammdimmiga luften. Att det laag hoegar av maenniskobajs med jaemna mellanrum utefter vaegkanten kompletterades suveraent av att det inte fanns naagon som helst vaegbelysning. Men jag boerjade verkligen bara hata hata hata staden foerst naer olika rickshas ville dra mig till olika staellen och dessutom boerjade skacka skit om varandra, "You go there, you have trouble. Things happen." Till slut fraeste jag "Go away! You’re all cheaters! I don’t trust anyone of you!" och puttrade in paa taagstationens turistinformation. Daer rekommenderade de staellet jag varit paa vaeg till fraan boerjan.
+
+Dagen efter letar jag upp frukost. I ett staand, eller snarare taelt; en presenning paa fyra pinnar, saeljer en flicka chai och broed, hon aer kanske 5-6 aar. Medan hon kokar mitt te med samma allvarsamma min som pojken i Bhaktapur kommer en annan flicka fram, lite aeldre, kanske 12-13. Efter standardfraserna fraagar hon blygt; "What you like Raxaul?" och jag ljuger ur mig "Oh, I haven’t seen much of Raxaul. I came yesterday, so I thought I’d see it today." Foer det slog mig att det haer aer hennes hem, hon har antagligen aldrig varit utanfoer Raxaul, och det haer aer Bihar, en av de fattigaste staterna i Indien. Det haer aer hennes hem.
+
+En av de mest framtraedande dragen med ett utvecklingsland aer att inget aer ’fixed’ - allt aer en fraaga om foerhandling och vad man kan faa. En chai kan kosta mellan 1 och 10 rupier beroende paa var man koeper den.
+
+Innan taaget till Kolkata koeper jag aepplen och clementiner foer en 50-rupier-sedel. Fruktfoersaeljaren kysser sedeln, foer den till pannan, trycker den foerst mot en bild av apguden hanuman, sedan mot en av elefantguden ganesh. Jag fraagar,
+"Was I the first customer?"
+"Yes," svarar han. Dagens foersta kund betyder tur. Muntert reflekterar jag oever om man kanske skulle boerja goera saa med dagens foersta faktura daerhemma?
+
+Annars aer allt bara bra. Jag aer strandad i Kolkata, the city formerly known as Calcutta, insuper stadens atmosfaer och snyter foeljdaktligen ur mig svart snor. C’est tres Londonesque. Jag foersoeker faa aendrat min reseplan, men det har visat sig inte fullt saa enkelt och flexibelt som de lovade paa Kilroy. Surprise, surprise. Saa jag stannar haer till maandag sedan baer det av soederoever. Kerala och Goa haegrar!
+
+Kram,
+Stefan

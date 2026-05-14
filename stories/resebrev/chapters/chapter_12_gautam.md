@@ -1,0 +1,266 @@
+# 12. Gautam
+
+_Dag 53. Bhaktapur. 23 november 2003._
+
+Explosionerna kommer med sex-sju sekunders mellanrum, precis så man tror att varje är den sista.
+
+"I’ve heard that before," säger jag, "what is it, an exercise?"
+"No," svarar Gautam, "I don’t think so. Maoists."
+"Look! Look, over there, is that a smoke cloud?"
+
+Vi kisar båda med pannorna i spända veck över dalen till andra sidan. Det är disigt, kanske är det bara höga träd?
+
+"No," säger Gautam igen, efter att ha sett efter en andra gång, "it’s only forest."
+"Forest, yeah," svarar jag, och vi börjar promenera igen. Inte länge dock, för nästa gång jag tittar ut över dalen lägger jag handen på Gautams axel, säger
+"No, look! It’s smoke. What’s that over there?"
+"Nagarkot."
+"Jesus. I was there three days ago."
+
+Sedan börjar skriken.
+
+Jag köpte en tumring på mitt första Roskilde efter skilsmässan. Den blev en symbol för mitt singelskap, en solipsistens vigselring.
+
+Någonstans längs vägen krympte jag. Ringen blev för stor men jag behöll den, den låg alltid framme. Av någon anledning tog jag med den på resan; jag kommer ihåg att jag tänkte "varför i hela friden skulle jag ta med mig den för" och slängde ner den i väskan.
+
+Ringen hade ett maskinfräst mönster längs två tredjedelar av längden, resten var helt slät.
+
+För två dagar sedan gick jag förbi en smidesbutik precis utanför mitt gästhus, såg mannen därinne sitta och arbeta, kom ihåg ringen, steg in.
+
+"Namaste. I have a ring, it’s too big, how much to make it smaller?"
+"50 rupees."
+"Okay, I’ll just get it."
+
+När jag kommer tillbaka inspekterar han ringen, börjar såga i den. Jag tittar runt i butiken, ser att hans ringar har fina mönster, frågar,
+
+"Do you make these?"
+"Yes."
+"Could you make a pattern on the blank part of the ring?"
+"Not like this. This is machine-made. No man can do."
+"But another pattern like it?"
+"Yes. But not me. I’m not a craftsman. I can take you to craftsman tomorrow."
+"Yes, please. When?"
+"Eight o’clock tomorrow morning."
+"Ok."
+
+Så, åtta morgonen efter promenerade vi ut ur gamla staden till ett kyffe i ett gammalt hus, det fanns inte ens dörrar mellan lägenheterna, bara draperier.
+
+"Old houses," sa smeden,"very bad."
+"Yes," svarade jag eftertänksamt, "but we want it like that. Is very beautiful to look at, but not to live in. We want it like that. We don’t want you to have new houses."
+
+I kyffet hade hantverkaren sin studio. Rena plåtar, verktyg och utsökta konsthantverk huller om buller.
+
+Jag försöker förklara för hantverkaren att jag vill ha hans tolkning av maskinmönstret i egenskap av konstnär, att jag vill att mönstret ska fortsätta, men att det ska vara en människas svar på det hårda, maskinella mönstret, gärna med snirklar och blad, något som ingen maskin skulle klara.
+
+"I can make a dragon," svarar han kort.
+
+Tankfull tystnad, mental regruppering.
+
+"Ok."
+
+Medan han knackar fram en drake ur mitt silver går jag och smeden ner och tar en kopp chai.
+
+"I’m Stefan."
+"Gautam."
+"Nice to meet you. I have trouble with Nepali names."
+"But you will remember mine."
+"Yes, because it sounds like ’Gotham’, you know, where Batman lives."
+
+Han nickar.
+
+"Do you have any children," frågar jag.
+"No. But my wife is pregnant."
+"Oh. Congratulations!"
+"Thank you. We are very worried. She has lost two babies before. Stomach trouble."
+"I have a friend who lost a baby recently, her man ran away. I was so angry I wanted to kill him. But I am here, so I can do nothing."
+"My wife is very sick all the time. She keeps vomiting. We went to the doctors, they said she shouldn’t do any housework so I do all the cooking and cleaning."
+"My best friend's wife’s pregnancy is also like that."
+"But everything seems ok now. We had an ultrasound a couple of days ago. And I have to buy medicine, many medicines. But I don’t like."
+"No," instämmer jag, efter en stunds chai-sörplande tar jag upp tråden igen;
+"But you know, when you have your child you will love it more because of this."
+Han missförstår, svarar,
+"I have loved my wife for two years before we married."
+"Oh," hakar jag på, "so it’s a love marriage?"
+"Yes. It’s very unusual. All my sisters and brothers have arranged marriages. It was a secret. Everybody was saying, why don’t you marry, why don’t you find a girl. They didn’t know."
+"So, what did your parents say when you came home saying, I want to marry this girl?"
+"For them it was ok. She was the same caste. I’m bajracharya."
+"Oh, what’s that caste?"
+"It’s a religious caste. Bajra is the Buddha. We are like monks."
+"But you’re a silversmith?"
+"Yes. There is a silver and goldsmith caste within the religious caste."
+"So you’re like, a merchant monk?"
+"Yes."
+"That’s so cool," med betoning på ’so’.
+
+Han ler lite.
+
+"But my father-in-law doesn’t like me."
+
+Jag flinar hundflinet, erkänner
+
+"Yeah, my father-in-law didn’t like me either to begin with, but after five or six years, he kind of got over it."
+"When I came to ask for his daughter... it was bad," börjar han,
+"and when I visit them, he won’t talk to me. He just sits quiet."
+"But why? You seem like a nice man, honest?"
+"Yes. But he is very rich."
+"Ahh," inser jag, "and you’re only a simple silversmith?"
+"Yes. But her mother likes me."
+
+Vi avslutar teet, återvänder till hantverkaren. Jag är inte helt övertygad, kommer med några förslag, tittar på tv medan de utförs.
+
+Vi återvänder till gamla staden. Vi pratar hela vägen tillbaka, om livet i Nepal, hans butik, hans fru och hennes graviditet. Jag börjar förstå exakt hur illa deras situation är och sympatiserar grymt. Tillbaka i hans butik tittar jag igenom hans utbud, det är skralt, men jag hittar två ringar jag gillar, säger;
+
+"How much for these?"
+Han tittar på dem, tittar på mig, säger
+"For two? 300 rupees."
+Jag höjer ögonbrynen. Det är misstänkt billigt.
+"300 rupees? That’s tourist price?"
+"No. Nepali price. I don’t want to cheat you."
+"So, what’s tourist price?"
+"300 rupees each."
+"So. I buy these for 600 rupees. And I give you 50 rupees extra for showing me to the craftsman."
+
+Han tittar på mig, konstaterar snabbt,
+
+"Thank you. But then I take you to Telankoth."
+"But I don’t want a guide, I don’t want to go to Telankoth today," försöker jag lamt, men det är inte lönt.
+"You pack your bag and come back here, we have lunch at my place and then we go to Telankoth."
+
+Jag stretar emot; jag var ju i Nagarkot förrgår, vill inte ha en guide, inte betala extra, men ger med mig;
+
+"Okay."
+
+Vem vet, det kan ju bli riktigt bra?
+
+Så vi äter lunch hemma hos familjen Bajracharya. De bor torftigt i ett rum med uppspikade pappkartonger i taket, gasolkök och vattenbehållare, men det ligger en omisskännligt doft av kärlek i rummet. Namila, Gautams fru, är rund, ler och skrattar mycket. Trots att de gnabbas om vem som ska göra vad och de uppenbarligen lever under pressade förhållanden känns deras relation harmonisk. Han visar mig ultraljudsbilderna och jag undrar i mitt stilla sinne hur mycket undersökningen kostade. För mycket, antagligen.
+
+Vi äter på kuddar på golvet i deras kombinerade kök och vardagsrum. Efter att ha spillt ut mitt ris över golvet får jag en snabblektion i hur man äter med höger hand; skapa en skopa med tre fingrar, blanda ris och kokta grönsaker, doppa i den goda röda tomatsåsen, använd sedan tummen för att skrap-slurpa risklumpen in i munnen. De skrattar gott åt mina försök, ger mig vantrogna blickar; en vuxen man som inte kan äta ordentligt? Jag gör bort mig totalt när jag tar upp fatet med tomatsåsen med vänster hand; så gör man bara inte! Stor kabalik, jag måste omedelbart tvätta vänsterhanden. Så. Nu kan jag äta igen.
+
+Jag låtsas upprörd, fräser "Is hard for me! I’m like a child! I have to learn!" men ler.
+
+Det är faktiskt himla trevligt. Så enkel måltiden är, är det den bästa jag haft på mycket länge - restaurangmat är för fet och salt.
+
+Tomatsåsen är deliciös.
+
+Efter lunchen åker vi till Telankoth med buss och vandrar tillbaka över bergen. Det är en lång och bitvis ganska tuff väg; vi stannar, beundrar utsikten, ramlar in i en musikvideoproduktion, pratar mer om livet, kvinnor, resor.
+
+Jag upptäcker att jag gillar att hänga med Gautam. Jag börjar tro att han, faktiskt, gillar att hänga med mig.
+
+När vi börjar närma oss Bhaktapur driver gråa åskmoln in över mitt annars så soliga sinne - Gautam pratar om att han vill ta mig någonstans dagen efter, jag inser att jag faktiskt har fått en guide på halsen. Detta kommer kosta. Jag blir tystlåten, känner mig bokig, kan inte riktigt hantera mina känslor, rädslor och förväntningar.
+
+När vi kommer tillbaka till Bhaktapur ser Gautam oroligt på mig, frågar rakt ut:
+"Did I do something wrong? Did we go to the wrong places? I’m sorry."
+"No, no," svarar jag sanningsenligt, "I’ve had a wonderful time!"
+"You want to come to my home, I make you dinner?"
+"No," svarar jag, inte lika sanningsfullt, "I’m very tired, I’ll just go to my guesthouse and have a rest."
+
+Sanningen är att jag inte vill sylta in mig mer i något som kan komma att bli en jobbig situation.
+
+Så jag drar till gästhuset, duschar, vilar en halvtimme, känner en fruktansvärd rastlöshet. Jag måste kolla internet. Jag vet inte varför; jag brukar bara kolla internet när jag har något att skriva, men känslan växer sig starkare och starkare.
+
+Till slut stormar jag ut ur gästhuset iväg till cybercaféet runt hörnet, loggar på, upptäcker att hon har skrivit en av sina vackraste texter någonsin, den är om en man på andra sidan jorden vid Himalayas fot som inte kan ta av sig sina cyniska glasögon och sin splittrande bitterhet.
+
+"Jag önskar du kunde gå naken i Nepal," avslutar hon.
+
+Fan ta henne tänker jag och flyr, flyr upp för trapporna till ’five storey temple’, sitter där, tittar ut över det vidsträckta människohavet och gråter hjälplöst.
+
+Jag gråter för att jag har blivit så instängd, att jag inte längre vågar lita på någon, på att det finns en plan, en mening. Jag gråter för att jag varit så oförskämd mot Gautam, gjort honom illa. Återblickar som vita blixtar;
+
+När vi gick över bergen, genom farmlandskapet, berättade han att hans högsta dröm är att en gång kunna köpa land och bygga ett hus. För det behöver han 100 000 rupier för att kunna köpa land, som han sedan kan sätta som pant för ett lån på ytterligare 200 000 för att kunna bygga ett hus. En snabb huvudräkning ger vid handen att det är många smycken han måste sälja. It ain’t gonna happen, helt enkelt.
+
+"1 lakh ruppees? That’s roughly what unemployed people in Sweden get from the government for being unemployed. Per month."
+
+Snyggt jobbat, Stefan. Rub it in.
+
+Hans näst högsta dröm är att äga en motorcykel. Han älskar motorcyklar.
+
+"Do you have a motorbike?" frågar han.
+"No. Or, yes. But it’s not a real motorbike, it’s only a 250 cc."
+"Here we only have 100 or 150 cc."
+"Wow. I think a 750 is a real motorbike."
+
+Finfint. Now add insult to injury:
+
+"But you know, we have to have real protective clothing to be able to ride that fast. I have a BMW helmet that cost me 50 000 rupees." "For that, I could buy a motorcycle in Nepal."
+
+Du kunde också haft halva din dröm om ett hem Gautam, för en MC-hjälm i Sverige.
+
+"You know, for a tourist it’s very hard with all these people who goes Namaste, and it always ends up with them begging or wanting you to be your guide!"
+
+Hans min och tystnad talade om skam över både sig själv och sitt folk.
+
+Och hur jag bara smet iväg, flydde, inte ville vara med, delta, längre.
+
+Så där satt jag längst uppe på den långa trappan till ’five storey temple’.
+
+Jag är så ledsen, Gautam, så fruktansvärt ledsen.
+
+Med tårarna torkande på kinderna lutar jag mig bakåt mot tempelväggen, tittar upp i taket, upp i de vackra sniderierna, frågar förtvivlat guden eller gudarna som bebor templet,
+
+"Så snälla, tala om för mig, vad kan jag göra för ett av era barn?"
+
+Det är inte min gud som bor i templet, jag vet inget om deras ritualer men jag vet att alla gudar svarar, alla böner hörs, så jag frågar igen,
+
+"Vad ska jag göra?"
+
+Och får svar.
+
+Över mig kommer ett lugn; jag vet vad jag ska göra.
+
+Jag ska gå till Gautams shop nästa morgon, låtsas som ingenting, be om ursäkt för att jag lämnade honom så abrupt, slå mig ner och se vad som händer.
+
+Sedan ska jag ta mig fan låta honom visa mig sitt Bhaktapur, ta hand om mig, ge mig mat bättre än restaurangmat, hänga med mig, berätta om hur det är att vara fattig silversmed i Nepal och sedan vackert betala honom för att han ägnat timmar av sitt liv för att göra detta om det är det han vill. Och jag ska ta mig fan lita på att han när han sätter priset sätter det hederligt, för jag ska ta mig fan lita på min känsla att han är en hederlig man. Och om det så handlar om 1000 rupier per dag, så är det fortfarande inte mer än 200 kronor - en sketen t-shirt på H&M.
+
+Fylld av tacksamhet rör jag vid templet, sedan vid pannan, som jag sett Nepaleserna göra.
+
+Så; i morse slog jag mig ner hos Gautam i hans affär, bad om ursäkt, åt lunch i hans hem, lika god den här gången, lät honom ta mig till Assarpur, en lika lång och underbar trek som den kring Telankoth.
+
+På vägen frågar jag honom om hans ’business’. Den är låg, han har problem, har fått pantsätta sin frus smycken och skäms för det. Han är inte affärsskolad på något sätt så jag ger honom en crash course; längs vindlande fotstigar och i branta uppförsbackar förklarar jag för honom varför en ’budget’ är ett kraftfullt verktyg, varför han bör föra bok över vilken sorts smycken han säljer mest av samt en diskussion kring materialkostnad, timpris, marginal och profit. Jag toppar av med att beskriva exakt hur mycket pengar turister har att svänga sig med, eftersom han tveksamt invänt att han inte vill ta ut omoraliskt hög profit.
+
+My god, I’ve created a monster.
+
+Hela tiden ser han frånvarande, nästan skrämd, ut men lyssnar hungrigt på vad jag har att säga. Jag inser att det är mycket att smälta, det har bara forsat ur mig över loppet av ett par timmar, konstaterar:
+
+"Gautam. People study this for two or three years, and here I’m trying to tell you everything in one day. But it’s because I like you, I like your wife and I want your baby to have a better future. Don’t be afraid, Just think about it, if you think they seem like good ideas, just start doing it step by step."
+
+"Thank you," svarar han med ett oroligt leende, "Yes, I think they are good ideas."
+
+Och då inser jag lika klart som om jag hört någon säga det i örat att det var det här jag kunde göra för ett av Nepals barn.
+
+Hela tiden har vi vandrat i uppförsbacke i gassande sol, min gröna ’farmen’-t-shirt klibbig av svett. När vi rundar bergstoppen och vänder tillbaka från Assarpur äntrar vi bergets skuggsida. Plötsligt blir det kallt, riktigt kallt. Min svettvåta tröja klibbar kall mot kroppen. Solen går i moln, det blir mörkare, kallare. Jag är trött, Gautam likaså.
+
+Då kommer första explosionen som ett stum duns i fjärran. Den känns lika mycket som hörs. Vi tittar på varann men innan vi hinner börja prata kommer den andra dunsen. Efter ett par sekunder säger jag "What was that?" men Gautam hinner inte svara förrän den tredje bomben briserar. Någon sorts övning, tänker jag. Efter den fjärde och sista frågar jag
+
+"I’ve heard that before," säger jag, "what is it, an exercise?"
+
+Han svarar nej, han tror det är Maoister. På andra sidan Kathmandu-dalen tycker jag mig se en röksvamp, Gautam tror att det bara är höga trän men efter ytterligare någon minut ser vi att det visst är rök från en explosion.
+
+Jag frågar var det är, han svarar "Nagarkot" och jag börjar skaka av kylan och något annat, en spänning i magen, ett illamående.
+
+"Jesus", säger jag, "I was there three days ago."
+
+Han svarar inte, tittar bara ut över dalen.
+
+Sedan börjar skriken. Paniken ekar både från området kring rökmolnet på andra sidan och från staden i dalen. Bergen måste vara ypperliga ledare och förstärkare av ljud för jag kan höra enskilda människors skrin.
+
+Och nu får jag mig en lektion i vad det är att vara Nepales i Nepal idag för Gautam inte ens rycker på axlarna, säger bara "There’s lots of military in Nagarkot" och fortsätter gå.
+
+Jag är fortfarande skakad men biter ihop och följer efter, inte längre särskilt pratglad.
+
+Skriken från andra sidan fortsätter, jag börjar undra vad som egentligen hänt.
+
+Vi möter gott om folk på väg åt andra hållet på stigen. De verkar inte bry sig nämnvärt om tumultet på andra sidan dalen. Detta verkar vara om inte vardagsmat så söndagsmiddag för dem.
+
+Vi hör militärfordon i fjärran, en helikopter kommer surrande inom en kvart, skriken fortsätter, kanske något svagare.
+
+Bussen tillbaka till Bhaktapur stannas i en säkerhetskontroll. Den här gången är det inget ’kvinnor och turister sitter kvar’ utan alla körs ut ur bussen.
+
+Militärer och militärpolis svärmar runt Bhaktapur som myror kring en stack någon rört om i med en pinne.
+
+På hotellet frågar jag om de vet vad som hänt i Nagarkot. De tittar frågande på mig;
+"Anything happen in Nagarkot?"
+"Yeah," säger jag, upprymd, "bomb blasts, four of them."
+"No," säger receptionisten,"we haven’t heard anything,"
+
+avslutar,
+
+"Maybe we’ll read about it in the paper tomorrow."

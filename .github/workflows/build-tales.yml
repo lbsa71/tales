@@ -61,6 +61,12 @@ jobs:
             output_stem: non-serviam-ex-umbra
             lang: en
 
+          - story: resebrev
+            title: "Resebrev"
+            chapters_glob: "stories/resebrev/chapters/chapter_*.md"
+            output_stem: resebrev
+            lang: sv
+
     steps:
       - uses: actions/checkout@v4
 

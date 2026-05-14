@@ -1,0 +1,153 @@
+# 03. Nobody Listens To Poor People
+
+_Dag 15. Srinagar, Kashmir och Leh. 16 oktober 2003._
+
+Fraan Jaipur var det egentligen meningen att jag skulle resa till Agra, men biljetterna var slut, saa jag beslutade mig daer och daa att aaka till New Delhi istaellet.
+
+Hotellet jag faatt rekommenderat var fullt, men de visade mig till ett annat.
+
+Paa taket till det hotellet moette jag James. Han var ocksaa paa vaeg till Leh, saa vi pratade om att eventuellt slaa foelje.
+
+Paa gatan foersoekte flera Kashmirier erbjuda mig att bo paa en husbaat i den Kashmiriska staden Srinegar, jag lyssnade paa dem, tog priser, tittade paa bilder, men avboejde alla.
+
+Oever en lunch paa hotellets tak, beraettade James att han hade hoert sig foer om situationen, och hade bestaemt sig foer att aaka till Srinegar, foer det verkade tryggt nog. Jag sa att jag taenkte aaka till Leh. Vi slog foelje till reseagenten.
+
+Hos reseagenten fick James ett riktigt bra pris paa en husbaat, USD 10 (SKR 80) per dag, all mat inkluderad. Daa blandade jag mig in i konversationen och sa "USD 10 for the both of us." Han accepterade, och jag beslutade mig foer att foelja med till Srinegar, trots varningarna. Jag koepte bussbiljett och James flyg.
+
+Srinegar ligger i staten Kashmir. Jammu, Kashmir och Ladakh omfattas alla av konflikten med Pakistan. Laenderna aer i krig, men foer naervarande raader vapenstillestaand. I Kasmir och Ladakh har man dels den officiella graensdragningen, dels "line of actual control" som skaer genom staterna. Srinegar ligger mycket naera denna graens. Leh ligger mycket laangt ifraan den.
+
+Resan till Srinegar tog 26 timmar. Det tog 12 timmar att naa Kashmir, och 12 timmar att ta sig de sista 300 kilometrarna genom bergen. De resterande tvaa timmarna gick aat till att fixa en punktering, och till de saekerhetskontroller som vi fick gaa igenom.
+
+Att komma fram till Srinegar var lite av en chock. Militaerens naervaro aer total.
+
+"You are now entering a military zone" staar det paa en skylt, inte laangt fraan den hamn fraan var vi tog en taxibaat ut till husbaaten.
+
+Husbaaten var en slaaende kontrast. I en stilla, lummig kanal, naera sjoen Dal flyter den fjaettrad till en konstgjord oe, daer vaerdfamiljen och vaar tjaenare bor. De aer tre familjer som bor i ett hus med tre rum. Bergen runt omkring. Oerhoert vackert. Stilla.
+
+Vaar tjaenare Faroukh kommer fraan en fattig bergsfamilj. Han har tvaa broeder. Familjen hade bara raad att utbilda den aeldsta sonen, saa baada de andra soenerna arbetar som tjaenare paa husbaatarna.
+
+Alla soenernas inkomster gaar rakt till fadern, som foerdelar resurserna inom familjen. Det verkade vara normen, och ett ganska sjaelvklart system givet deras situation.
+
+Den foersta morgonen vaknar jag av att det aer kallt - roeken staar som en strut ur munnen och jag har inte tillraeckligt maanga filtar paa mig.
+
+Jag gaar upp paa taket. Dimman ligger oever kanalen. Husbaatarna liger stilla, en ensam maenniska roer sig. Solen har brecis boerjat stiga oever de hoega bergen i bakgrunden. Det aer saa stilla, saa naagon annanstans.
+
+Vi tillbringar dagen paa husbaatens tak. Laeser, solar. Faroukh haemtar mat och shai. Paa kvaellen sitter vi och pratar med Mana, mellansonen i familjen. Han aer mycket intresserad av vaestkultur. Elektriciteten har gaatt igen.
+
+Ett speciellt oegonblick ser jag hela scenen, jag sitter och diskuterar aektenskapsproblem med en Kashmirisk muslim i en valnoetsinredd salong, Tracy Chapman i bakgrunden. James ligger och laeser i gaslampans sken, vi aer paa en stor husbaat paa en flod i en stad i en provins daer kriget bara aer bakom bergstopparna jag ser paa morgonen.
+
+Mitt i natten boerjar boenerna. Fraan alla hall stroemmar muslimska boener foerstaerkta av hoegtalare. Det aer vackert, magiskt och spoeklikt, eftersom de ekar varandra. Hela natten paagaar det, jag vaknar daa och daa, lyssnar, somnar om.
+
+Paa morgonen fraagar jag fadern om boenerna. Han svarar, "Today is very important day. Today we begin preparations for Ramadan. We pray all night. Today I will eat nothing until six tonight."
+
+Vi ger oss ut paa sjoen Dal i en baat. Mana tar oss till den centrala moskeen i Srinegar. Vi glider stilla mot den guldplaeterade moskeen naer ploetsligt en boen slaar ut mot oss oever vattnet. Laanga klagande vokaler kommer fraan alla haall, ekande distorterad rundgaang ur tiotals spruckna hoegtalare, och det aer saa vackert. Mana sager "Do you want me to translate it for you?" jag faar bara ur mig ett "After", trollbunden.
+
+Mina oegon floedar oever, jag torkar dem diskret. Boenen paagar i kanske fem minuter. Vi naar land precis naer den slutar.
+
+Mana beraettar att boenen aer en kallan till Ramadan, den heliga fastemaanaden. Han saeger "Shopkeeper, close your shop. Come to me, and you will be given. This is not the time for commerce. This is the time for prayer and spiritual growth."
+
+Naer vi kommer tillbaka aer klockan strax efter 18. Muslimerna foersvinner skyndsamt in i huset.
+
+Paa kvaellen vaender sig Faroukh till mig; saeger "You are Akhtab. Means sun," och till James, "You are Tarikh. Star. You now have Kashmiri names." Han ler stolt.
+
+"Then we’ll call you Freddy," saeger jag.
+
+Naesta morgon boerjar boenerna tidigt paa morgonen, och fortsaetter tills solen gaatt upp. Jag sitter paa taket. En kvinna glider foerbi. Hennes sari aer faergad i den mustigaste groena jag naagonsin sett, och baaten aer blaa som kungsfiskarens vingar.
+
+Vi diskuterar med Mana om hur vi ska ta oss till Leh. Han studerar oss allvarligt, och saeger sedan "Yes. There is some danger, but I think you will be all right."
+
+Vi bestaemmer oss foer att ta bussen till Leh. En tredjedel av resan kommer att ske precis parallellt med "line of actual control".
+
+Paa vaegen till Leh finns en laang mur, en stad och en by. Muren aer till foer att skydda trafiken mot raketangrepp paa saerskilt utsatta staellen, staden heter Kargil och utsaetts foer granatatacker fraan Pakistan. Byn aer fattig.
+
+Mellan Srinegar och Kargil faar vi genomgaa sex saekerhetskontroller. De noterar alla vaara uppgifter. "It’s for our own safety. If anything happens to us, they could track us," saeger James. "Yeah," svarar jag.
+
+Halvvaegs till Srinegar stoppas bussen av en militaer. Han saeger naagot till busschauffoeren paa hindi, och haaller upp fyra fingrar. Chauffoeren svara naagot uppbragt, och hela bussen lyssnar. Utom James, jag och ett ungt brittiskt par; Ali och Ruth.
+
+Vid naesta saekerhetskontroll staar vi fyra runt en granatgrop och skrattar nervoest aat osmakliga skaemt sagda med laag roest. Chauffoeren kommer gaaende med raska steg, siktet instaellt paa toaletterna. "Excuse me, can I ask you something," saeger jag, taenker paa de fyra fingrarna. "No," saeger han och gaar foerbi. "He’s a man on a mission," konstaterar James.
+
+Ploetsligt hoer vi hoegljudd skottlossning fraan bergen. Ingen av Indierna roer en min. James, Ruth och Ali blir nervoesa. "It’s probably a shooting range nearby," saeger jag. Det verkar lugna dem. Lite.
+
+Moerkret faller, och chauffoeren taender innerbelysningen. Det innebaer att man inte kan se naagonting utanfoer. James sitter vid foenstret. efter ett tag vaender han sig mot mig, pekar ut genom foenstret och saeger
+
+"Look. There’s a wall here." "Yeah," svara jag, "It’s probably the wall they’ve built to protect the traffic from attack." "I would have preferred not knowing that. Oh, now it stopped." "Well, just as well you can’t see anything outside with the inner lights on." "There’s plenty of traffic on this road. Why pick on us?" "Because we have the inner lights on, so you could easily see the people inside? Especially two westerners." "..."
+
+Bussen aer skraltig. Rutor har ersatts med tejp och kartong, i gupp smaeller det till fraan ena stoetdaemparen och foeraren har stora svaarigheter att faa in raett vaexel, vilket blir extra akut naer bussen vid ett tillfaelle helt enkelt doer mitt i en skarp klaettringssvaeng i bergen, saa chauffoeren faar backa tills bussen staar med rumpan ut oever stupet foer att ta ny sats.
+
+Kargil aer inte mycket att orda om. Vi erbjoeds fyra baeddar foer 50 rupier (SKR 8) var. De var stenhaarda, toaletten var aecklig, det var kallt, och bussen skulle fortsaetta klockan sex naesta morgon.
+
+Klockan sex var vi daer. Daa hade foerarna precis boerjat byta daeck.
+
+Vid sjutiden kom vi ivaeg. Vi hinner inte laengre aen 45 minuter upp i bergen foerren bussen ger upp helt. Kopplingen laegger ner helt och haallet.
+
+Saa vi gaar av. Sitter i solen, pratar, skaemtar. James foersoeker kommunicera med tvaa av vaara medpassagerar med hjaelp av en frasbok foer Urdu. Han faar reda paa att de aer fraan Nepal. Vi har just faatt hoera om de 25 doedade daer. Han vaender sig till mig och saeger "Too bad the really useful stuff isn’t in the dictionary. I can’t find ’Will I be shot in Kathmandu’ anywhere in it."
+
+Han pekar paa sig sjaelv och goer en pistol med fingrarna samtidigt som han saeger "Katmandu? Poff!" De bara skrattar och nickar.
+
+James ritar upp ett luffarschackbraede i sanden framfoer den ena. Han saeger "Universal game." och ritar ett kryss i en ruta. Medpassageraren stirrar bara ofoerstaande paa det.
+
+Jag jonglerar lite med stenar, och sedan bestaemmer sig James foer att vi ska bestiga ett berg. Jag haenger paa, skrapar upp haenderna, och upptaecker hur fort jag blir andfaadd. Vi aer paa 3000 meter hoejd.
+
+Sedan gaar jag och James ut paa en liten trek till den naermaste byn, foer att proviantera. Det kaenns underligt att gaa paa saedesfaelt, utanfoer vaegens legitimitet. Vi gaar ner till floden i botten av ravinen vaegen foeljer.
+
+Snart kommer vi till en stad. Vi traeffar paa en man som kan ordet "shop". Han visar oss till vad som verkar vara den enda affaeren i byn.
+
+Efter att ha provianterat kex och laesk, vaender vi aater. Laengs vaegen traeffar vi en pojke. Han pratar foervaanansvart bra engelska.
+
+"Have you had any trouble here?" fraagar James.
+
+"Yes. Everytime. You see that up there on the top of the mountain? That’s a Indian fort. Pakistani militia fires at traffic, and than the Indian fort up there has to fire at them to make them stop. Then the Pakistani military responds by firing at the fort. Often the missiles miss and go over. Then they land here, in our village. Three days ago, we had four grenades exploding here."
+
+Ah, taenker jag. Fyra.
+
+"And one week ago, a missile explode in the air over a little girl, and the splinters ripped her to pieces."
+
+"Does this hapen often?"
+
+"Yes, every week. The Indian army mostly starts firing in the morning, they fire 50-60 bombs. Then, by lunchtime, the Pakistani respond."
+
+Jag tittar paa klockan. Hon aer snart lunch.
+
+"Do you have shelters?"
+
+"No, we are poor people. We asked the military to move their fort, but they don’t listen. Nobody listens to poor people. We asked for shelters, but they don’t listen. So we hide in our homes."
+
+"Are you afraid?"
+
+Pojken, han aer vael kanske 16-17 aar, ser besvaerad ut och rycker paa axlarna.
+
+"No. But it’s dangerous. But once you are beyond that small mountain there, you will be safe."
+
+Han paapekar att buss aer det farligaste saettet att faerdas, eftersom militian foerst och fraemst aer ute efter att goera ’maximum damage’. De smaa jeeparna vi sett vaegarna krylla av, aer de saekraste.
+
+Vi laemnar honom. Bussen har blivit reparerad, den haemtar upp oss.
+
+Vi ligger och sloear under ett trae i vaentan paa en konvoj. James konstaterar, "Think about when the west deploys troops in other countries, like Iraq. We don’t put our own people on the line, and when we do, we whine like hell about it."
+
+Historien beraettar vi foer britterna foerst naer vi passerat det lilla berget.
+
+Resan tar allt i allt, fraan Srinegar till Leh, 37 timmar med ett uppehaall paa 10 timmar. Min rumpa oemmar.
+
+I Leh tar vi in paa ’Old Ladakhi Guest House’, aeter och sover. Jag har problem med omstaellning till hoeg hoejd. Det verkar som om jag hela tiden andas foer lite, saa ploetsligt flaemtar jag till och faar andnoed. Men det aer saa det brukar vara foersta gaangen paa hoeg hoejd. Det finns heller inget varmvatten eller vaerme paa rummen. Det aer sovsaeck, filtar och schal som gaeller.
+
+Leh aer annars vackert och stilla, mycket tibetanskt. Jag ska leta upp SECMOL imorgon, idag aer en acklimatiseringens dag.
+
+Och ja, nu aer jag utom all fara, och kommer saa foerbli tills jag eventuellt drar till Kathmandu/Nepal om ett par veckor.
+
+Det finns praktiskt taget inget internet haer, saa detta aer det enda ni kommer hoera av mig paa en vecka eller tvaa. Jag kan inte heller svara paa e-mail, men jag laeser dem.
+
+Jag saknar er.
+
+Kram, Akhtab
+
+[Epilog]
+
+Paa gaesthusets tak pratar jag med en belgare och en amerikan om resan till Leh. Belgaren fraagar
+
+"If you knew then what you know now, would you still had made the journey?"
+
+Jag funderar ett tag, och svarar sedan
+
+"Yeah."
+
+Nobody listens to poor people.

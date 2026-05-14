@@ -1,0 +1,146 @@
+# 11. Bhaktapur
+
+_Dag 51. Bhaktapur. 21 november 2003._
+
+På bussen från Pokara till Kathmandu insåg jag hur mycket jag kommit att sky andra turister. Som ni kanske kommer ihåg, så har de en tight vägsäkerhet här i Nepal. Det finns speciella bussar med gröna nummerskyltar som bara fraktar turister och därför smiter igenom alla kontroller. Detta var en sådan; fan vad jag led. Jag gick i autist-modus, satt bara och blängde ut genom fönstret på de underbara vyerna med skön ambient på hög volym i hörlurarna, försökte ignorera mina medpassagerare så gott jag kunde.
+
+Det enda intrycket Kathmandu hann göra på mig, var en restaurang med grymt god sötsur kyckling. Den stackars servitrisen kunde ingen engelska, kom in med pepsi i stället för 7-up, spillde sötsur sås på bordet, torkade planlöst i sörjan och täckte till sist över fläcken som var kvar med menyn.
+
+Sedan fick jag spendera resten av tiden med att övertyga ägaren om att det var helt ok, att jag förstod att de hade öppnat för en vecka sedan och inte var riktigt intrimmade och att jodå, jag tänkte komma tillbaka.
+
+Vilket jag ju inte gjorde, för nästa morgon vaknade jag med den där obestämbara känslan i magen att det var dags att dra vidare, jag visste ju bara inte var eftersom jag inte har någon guide för Nepal. Men i magen finns också känslan att det kommer ordna sig bara jag får lite frukost i mig.
+
+Ett kvarter nedför gatan ser jag en man i shorts precis stiga av en cykel framför ett café, så jag frågar;
+
+"Are you having breakfast?"
+"Yes."
+"Is this a good place?"
+"Yes. They got real coffee."
+"Great! Do you mind if I join you?"
+"No, please do."
+
+Det visar sig att han heter Robert, är invandrad amerikan, har bott tretton år i Nepal och jobbar som engelsklärare på en skola i närheten.
+
+Jag förklarar mitt predikament, att jag inte vet något om Nepal, men vill vidare, han säger; "Well, you could go to Bhaktapur. It’s a lovely place, clean and quiet."
+
+Så, Bhaktapur it is. Jag återvänder till hotellet, packar mina saker, checkar ut.
+
+På bussen läser jag dagstidningen "The Himalayan" jag norpat med mig från caféet; kan bara nicka instämmande när jag i en artikel om frivilligorganisationen Human Rights and Peace Society läser ordföranden stolt deklamera: "We believe HURPES can make a difference!"
+
+Bhaktapur är fantastiskt. En riktigt gammal liten stad späckad med tempel, gårdar av olika storlekar och trånga gränder. Jag knakar min ryggsäck längs huvudgatan, det är så vackert, cd-affärerna spelar ’om mani padme om’-spåret man hör överallt i Nepal på rimlig volym och för en gångs skull kan inte ens försäljarna av billigt krimskrams dra ner intrycket. Lovely!
+
+Jag tar in på gästhuset Robert rekommenderade, det är grymt lågt i tak i hela huset, så jag får gå halvböjd hela tiden. Jag förhandlar ner priset till 250 rupees om dagen mot att jag betalar en vecka i förväg. Det är samtidigt en intern säkerhetsåtgärd mot att jag ska få för mig att sticka innan jag fått vila ut ordentligt.
+
+Efter att ha ätit slocknar jag, sover som en lång stock.
+
+På morgonen går jag ner i receptionen, pratar med receptionisten, en man sitter i en stol, han har blomblad och bös i håret. Jag tänker plocka bort det åt honom, men sväljer i sista stund impulsen och går istället ut för att fixa frukost.
+
+En snorig smutsig pojke, kanske 4-5 år gammal, skriker till när han ser mig och följer efter mig in i restaurangen och upp på andra våningen.
+
+Jag sätter mig tittar ut genom ett fönster utan glas med gröna fönsterluckor.
+
+Pojken sätter sig mittemot. Jag ignorerar honom så gott det går, inte på humör för sånt idag. Jag beställer chow mein och plain lassi till frukost och servitören undrar om jag vill beställa något åt pojken.
+
+"Well, should I?" frågar jag. Servitören ser osäker ut.
+
+"He just followed me here. I have no idea who he is."
+
+Servitören noterar ner min beställning, försvinner. Efter ett tag kommer han tillbaka med min lassi och kör bort pojken.
+
+Det är höstkallt, rök står ur mun och näsa. Utanför sorlar torget, handlarna lägger ut sina varor på filtar längs torgkanterna, som de antagligen gjort i tusentals år. Till vänster ’five storey temple’ vars långa trappa på båda sidor flankeras av statyer av i tur och ordning, apor, getter, lejon, elefanter och till sist två människofigurer; en alternativ evolutionsteori.
+
+Ett dimdammigt morgondis ligger som ett mjukt täcke över torget, solens första strålar bildar horisontella Jakobsstegar kring hörn och tak.
+
+Mittemot ytterligare en tempelbyggnad. Färgerna är rostrött, valnöt, smutsat och nött trä.
+
+Utsökta sniderier täcker templens framsidor och linjer. På undersidan av taken stora figurer; gudar och demoner resta över kopulerande par. Inga nya uppslag, dock.
+
+Traktorer, egentligen bara motorer på två hjul med tillkopplade släp, stånkar förbi med sin last av grödor och frukt.
+
+Ljudet av folkmassornas sorl, interpunkterat av försäljarnas lockrop och böneklockornas klingkluckande, är stilla och meditativt.
+
+Jag noterar att ett av hörnen vid templets bas är fläckat av rött och gult, något jag sett på flera ställen runt om i staden.
+
+En gammal kvinna går fram till hörnet, öppnar ett skrin hon haft med sig, nyper upp en röd massa och gnider in den i hörnet, tar upp en nypa frön och gula blad och kastar mot väggen, några fastnar i det röda.
+
+Hon avslutar med att tända en tändsticka och lägga den på en utskjutande sten, lutar sig sedan försiktigt mot väggen som om hon lyssnade på den, nickar för sig själv och går sin väg.
+
+Vid ett tempel ser jag en man offra på samma sätt, men han avslutar med att lägga fröna och bladen i sin hatt. Jag inser att det nog inte var en tillfällighet att mannen i hotellets reception hade böss i håret.
+
+Det ser jag sedan överallt varje morgon, män med blommor, kvistar och frön i håret -det är helt surrealistiskt för mig, men helt naturligt för alla andra. Det får en att fundera på hur låst man är till och med i detaljer.
+
+En skylt får mig tankspritt fundera på vad företaget "Eros Home Video" pysslar med.
+
+Jag gjorde min första trek, mini-trek snarare, igår. Jag tog bussen till Narangkot och gick tillbaka, halva vägen på fotstigar och halva vägen på landsväg.
+
+På busstationen i Bhaktapur frågar jag en flicka var bussen till Narangkot går men hon förstår ingen engelska så jag slår mig ner och väntar.
+
+En annan flicka, mycket söt, kanske 17-18 år, frågar mig om jag ska till Narangkot, det ska hon med, så hon lovar att tala om för mig när och var bussen går.
+
+Hon har en liten pojke, kanske 10-12 år, med sig - han verkar inte må särskilt bra -hon frågar om jag har något vatten så hon kan ge honom hans medicin. Jag räcker henne mitt vatten, frågar vad som felas honom, och erbjuder henne raskt att behålla flaskan när hon säger att han är magsjuk.
+
+Det är sött att se en annan äldre kille cirkla runt henne. Han är uppenbart intresserad av henne, kastar svartsjuka blickar på mig när hon pratar med mig.
+
+När bussen kommer är jag bland de första på, men eftersom jag är så förvirrad hinner jag inte ta någon sittplats. Bussen är grymt låg i tak, så jag får stå nästan helt framåtböjd. Jag börjar förtvivla när flickan säger något till pojken och han ger motvilligt upp sin sittplats åt mig.
+
+Bussresan kostade 20 rupier, vilket jag misstänker var ’tourist price’, inte ’nepali price’. Nåja, två kronor, det kan jag leva med.
+
+När vi kommer till Narangkot förbereder jag mig för att återvända, när hon frågar om jag vill följa med och hälsa på i hennes skola. Jag tackar glatt ja. Som tur är, för annars hade jag missat hela poängen med Narangkot. Man måste nämligen gå genom hela samhället och ut på andra sidan för att få se vyn: Himalayakedjan på avstånd.
+
+Grandiöst.
+
+Vi går nerför en sluttning till hennes skola. Hon heter Bhumika, det visar sig att hon inte är en student där utan lärarinna. Hon studerar på universitetet i Bhaktapur på förmiddagarna och arbetar som lärarinna i en småskola i Narangkot på eftermiddagarna, hon var uppenbart inte riktigt så ung som jag trodde. Flickan som inte pratade engelska är hennes syster.
+
+Jag säger ’Namaste’ till skolklassen, hälsar på rektorn, en kvinna i 25-års-åldern, Bhumikas svägerska.
+
+De vill att jag stannar för lunch, till och med stannar över natten. Det är när jag tackar nej och istället börjar röra på mig det blir uppenbart var all denna gästfrihet kommer ifrån. De söker ’sponsorer’ till skolan vilket jag ju faktiskt redan listat ut. Jag trotsar mina hundinstinkter och ursäktar mig med att jag måste börja gå tillbaka till staden. Hon frågar om hon kan få min adress för att ’skicka ett vykort’ och jag ger henne den trots att jag vet att det är för att fiska pengar.
+
+Jag jobbar fortfarande med att förhålla mig till det där.
+
+Istället promenerar jag längs stigar tillbaka, följer en fors, får mig till livs lite äkta ensamhet och naturlig storslagenhet. Jag går genom byar, blir påbråkt av ursöta mini-get-ungar på darriga ben, utskrattad av höns och jagad av rabiata hundar, får glada ’namaste’ från folk som vill bli min guide och lika glada tillrop från folk som inte vill det.
+
+En getherde böjer ner ett träd för att förse sina getter med frodiga löv. Jag frågar honom om jag får ge en get resten av mitt äpple. Han ler tandlöst och nickar.
+
+Jag stannar vid ett skjul och får mig nepalesisk lunch och autentiskt småprat till livs. Vi pratar om Sverige; "No. Not Switzerland. Different countries. No, not close. Yes, both in Europe." och alla blir extra intresserade när jag nämner att jag varit i Indien.
+
+Det verkar nämligen finnas någon sorts rivalitet mellan Nepal och Indien. Nepaleserna vill väldigt gärna höra att det är en skillnad mellan Nepaleser och Indier; de blir ställda, missnöjda, när jag inte håller med.
+
+Jag tycker nämligen de är i grunden ungefär likadana. Det finns lika många ’bra’ och ’dåliga’ Nepaleser som Indier - Nepaleserna är bara inte lika många och inte riktigt lika fattiga.
+
+Nepaleserna poängterar att Indierna fuskar och stjäl mer, men jag kan inte hålla med. Som turist råkar man ändå mest ut för de som vill dra nytta av en på det ena eller andra sättet.
+
+Byt ut rickshaw-walas mot guider, kläder och tyger mot sniderier och tänkas; tiggande ungar och falsk vänlighet har de gemensamt.
+
+Jag börjar bli grymt trött på drillen:
+
+"Hello!" eller "Namaste!" (Ge mig uppmärksamhet!)
+
+"Where are you from?" (Hur mycket kan jag tjäna på dig och var ska jag lägga ingångsbudet? Israeler prutar som om livet berodde på det, européer är mer sansade, tyskar och amerikaner betalar vilket pris som helst.)
+
+Följt av en kommentar om ditt land, "I have a friend in Sweden!", "Cold country, you live in Stockholm?" eller, om de inte vet något om ditt land, "Nice country!" (Indierna är betydligt mer professionella och drillade på den här biten. En höjdpunkt var när en kanske 10-årig Indisk pojke kavat försökte sig på drillen, inte hade hört talas om mitt land och helt sonika vände på klacken och gick sin väg - sur som ett litet pH-stinnt åskmoln.)
+
+"What is your name? Nice to meet you! {skaka hand}" (Ge mig mer av din uppmärksamhet!)
+
+"How long have you been here?" (Hur stor risk är det att du har hunnit lära dig hantera drillen här?)
+
+"Where do you stay?" (Så jag vet var jag kan få tag på dig om du verkar lovande.)
+
+"Have you been to the {insert local tourist trap here}?" (För om du inte har det, så visar jag dig det gärna mot en mindre slant. Eller min vän som jag får kommission av.)
+
+Kanske vart femte människa du stöter på kör drillen. Och det är ganska många på en dag.
+
+Min kurva börjar bli bra brant nu. Buffelkurvan, alltså. Jag har börjat med ’go away’ som Svar Direkt. Bara ignorera funkar inte.
+
+Försäljare, civilklädda eller i full uniform, är som affischer på väggen; kasta en blick på dem och du får ta del av deras budskap.
+
+Det är ganska jobbigt att känna så inför riktiga människor av kött och blod.
+
+Annars är Bhaktapur precis vad jag längtade efter. Här kan jag vila ut, jag sover säkert 11 timmar varje natt och spenderar obscent mycket tid på caféer och internet - som här kostar 3 kronor i timmen, 2 kronor offline.
+
+Men det är så skönt, så skönt. Och jag har börjat få långtråkigt; längtar tillbaka till Indien.
+
+Perfekt.
+
+Förresten har jag bestämt mig för att i viss mån dumpa sydost-asien-ambitionerna till förmån för att göra Indien ordentligt. Jag menar, Thailand, Malaysia, Vietnam, Laos, Kambodja kan man göra vilken semester som helst men Indien kräver exceptionellt med tid.
+
+Love, Stefan
