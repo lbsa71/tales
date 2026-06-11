@@ -6,7 +6,6 @@ RESEBREV
 _Del 1: Nedslag_
 
 
-
 Jag reste för att bli friare och öppnare.
 
 Det första Indien lärde mig var att säga nej.
@@ -19,15 +18,12 @@ Den börjar i Bombay, i värmen, oljudet och leendet från flygplatsen.
 
 Den slutar med Serge, en fransman utan språk, utan kvitto, utan skydd, och med en tystnad jag inte riktigt förstod då.
 
-
-
 lbsa71
 
 2003 och 2026
 
-
 ========
-# 01. Bombay
+# 1. Bombay
 
 _Dag 1. Bombay. 2 oktober 2003._
 
@@ -37,7 +33,7 @@ Jag skriver det här mest för att tala om för er att jag har kommit fram till 
 
 Jag undvek min första scam, tror jag. Jag köpte taxi-biljett till Frälsningsarméns vandrarhem. Halvvägs från flygplatsen gick taxin ’sönder’ och chauffören ville få mig att gå ur bilen och vänta på en annan taxi. Jag stod på mig och fick den andra taxin att köra mig gratis. Det var en del gruffande och kommunikation mellan chaufförerna. När jag åkte iväg började mirakulöst nog den första taxin fungera igen.
 
-Kulturchocken är total. Vandrarhemmet är ett ruckel. Det ligger folk, säckar och skräp överallt. Vi ligger i bunk-beds och svettas kopios. Men alla jag träffat så här långt verkar vara bra människor.
+Kulturchocken är total. Vandrarhemmet är ett ruckel. Det ligger folk, säckar och skräp överallt. Vi ligger i bunk-beds och svettas kopiöst. Men alla jag träffat så här långt verkar vara bra människor.
 
 Dofterna, färgerna, folket. Söte Jesus. Kulturchock. Alla hoppar på en hela tiden, antingen för att tigga eller bara för att säga ’hej’ och fråga vad man letar efter. Svårt att avgöra vilka som är tiggare och vilka som är hjälpsamma. Trafiken är, som Lonely Planet riktigt påpekade, kaos. Aldrig, säger ALDRIG, att jag skulle ge mig ut i den här vänstertrafiksröran.
 
@@ -51,15 +47,15 @@ Ja jävlar.
 
 Kärlek,
 Stefan
-# 02. Learning To Say No
+# 2. Att lära sig säga nej
 
 _Dag 6-7. Jaipur och New Delhi. 7-9 oktober 2003._
 
 Hallåj!
 
-Well, jag kom inte mycket längre än till Jaipur, Rajasthan - jag och Marc träffade en Fransk Kanadier vid namn Guillaume (han kallar sig själv ’Bob’ för enkelhetens skull...) på tåget, och vi tog in på Jaipur Inn tillsammans. Marc åkte igår, och jag åker till Delhi om ett par timmar. Guillaume åker ikväll, tillsammans med två Brittiskor vi fick till grannar på hotellet. Jag antar att alla historier om hur man träffar massa trevliga människor är sanna...
+Well, jag kom inte mycket längre än till Jaipur, Rajasthan - jag och Marc träffade en Fransk Kanadick vid namn Guillaume (han kallar sig själv ’Bob’ för enkelhetens skull...) på tåget, och vi tog in på Jaipur Inn tillsammans. Marc åkte igår, och jag åker till Delhi om ett par timmar. Guillaume åker ikväll, tillsammans med två Brittiskor vi fick till grannar på hotellet. Jag antar att alla historier om hur man träffar massa trevliga människor är sanna...
 
-Jaipur Inn var en skön slående kontrast till Salvation Army - ett riktigt hotell, städat och med målade väggar, till nästan samma pris. Men jag uppskattade Salvation Army - om jag kan ta det, vilket jag ju faktiskt kunde, så kan jag nog ta allt. Dessutom har jag fått höra att Indien är typ det ruffaste stället att resa i om man ska resa i den här delen av världen, så jag började med det ruffigaste stället i det ruffigaste stället. Precis som vanligt, m a o.
+Jaipur Inn var en skön slående kontrast till Salvation Army - ett riktigt hotell, städat och med målade väggar, till nästan samma pris. Men jag uppskattade Salvation Army - om jag kan ta det, vilket jag ju faktiskt kunde, så kan jag nog ta allt. Dessutom har jag fått höra att Indien är typ det ruffaste stället att resa i om man ska resa i den här delen av världen, så jag började med det ruffigaste stället i det ruffigaste stället. Precis som vanligt, med andra ord.
 
 Dessutom har jag snabbt fått lära mig handskas med rickshaw-förare och deras tekniker - jag är lite pre-season här, så jag får ALL uppmärksamhet från dem. - att ALLTID kräva pris i förväg, ALDRIG köpa ett ’friend, you pay me what you think is worth’, och ladda upp med tålamod; ’no, I don’t want to buy good silverware cheap. No, I don’t want to come and visit your home and see your children. Please just take me where I want to go. NO, I don’t WANT to buy good silverware! No, I don’t want to translate a letter of recommendation a ’friend’ of yours in Europe has written. NO, NO SILVERWARE!!!’
 
@@ -75,7 +71,7 @@ Maten här är svinbillig och helgrym - om än lite oberäknelig i styrka. Mer �
 
 Annars har jag stött på fler folk som tagit PADI dykarcertifikat på Koh-Tan, Thailand. Det sitter nu på ’att göra’-listan. Marc pratade sig varm om att flyta i en tub nerför en flod i Laos, så det är också på att-göra...
 
-’Bob’ hade gjort Nepal och visade mig bilder därifrån, och plötsligt högg det till i hjärtat, för där var pagoden som visas i början av ’Baraka’ - hjärtat bara fylldes av en längtan efter att få se den i verkligheten. Så Kathmandu är definitivt också på listan...
+’Bob’ hade gjort Nepal och visade mig bilder därifrån, och plötsligt högg det till i hjärtat, för där var pagodan som visas i början av ’Baraka’ - hjärtat bara fylldes av en längtan efter att få se den i verkligheten. Så Kathmandu är definitivt också på listan...
 
 Vet ni, leendet sitter kvar, trots att det är varmt och fötterna är sönderbitna av mygg (eller något annat...). Det är så förbannat roligt att brottas med rickshas och försäljare, och schasa bort ungjävlar. Det är liksom livet utan persienner.
 
@@ -99,14 +95,14 @@ Efter en del bök, chaffisarna pratar nästan ingen engelska, börjar det med at
 
 Så stannar han, pekar på ett hotell. Jag frågar 'hotell Namaskar?' Han nickar och säger 'good hotel, 300 rupees'. Jag säger 'hotell Namaskar!' - han rycker på axlarna och fortsätter. Ett par minuter senare pekar han nerför en gränd och säger 'Namaskar'. Jag ser nerför gränden, men hittar ingen skylt med hotellets namn.
 
-"Where is it," frågar jag. Han viftar otåligt inåt gränden.
-"I don’t know where it is. You follow?" frågar jag.
-Han tittar länge på mig, säger "wait" och sätter sig i rickshaw igen.
+"Var ligger det," frågar jag. Han viftar otåligt inåt gränden.
+"Jag vet inte var det ligger. Följer du med?" frågar jag.
+Han tittar länge på mig, säger "vänta" och sätter sig i rickshaw igen.
 
 Han kör två kvarter, och lutar sig sedan ut och frågar en fotgängare om vägen till Namaskar. Fotgängaren vinkar längre neråt gatan vi åker på.
 
 Efter ett par kvarter, stannar han utanför ytterligare en gränd och viftar inåt. Jag säger återigen
-"You follow?", men då ropar han på en fotgängare som också viftar inåt gränden.
+"Följer du med?", men då ropar han på en fotgängare som också viftar inåt gränden.
 
 Då beslutar jag mig för att tro på det, men tänker i mitt stilla sinne att det likaväl kunde varit en kumpan. Och gränden är så mörk, så mörk...
 
@@ -116,15 +112,15 @@ Två anekdoter:
 
 1) En tysk vid namn Kristofer berättade för mig att det tekniskt inte är stöld att 'flytta' på saker, så om man blivit av med något lönar det sig att leta runt efter det. Någon kan ha 'flyttat' på saken. Och när du lämnar platsen, så är det inte stöld att ta hem saken...
 
-2) De två brittiskorna råkade ut för en riktigt hemsk händelse under festivalen. De gick själva på festivalen, blev omringade av en trettio män som skrek åt dem, klädde på privata ställen, jagade dem och kastade sten efter dem. Kvinnor har en tuff tid att resa i Indien, särskilt de muslimska ställena. De tänkte från början rest var och en för sig, men håller sig nu tillsammans.
+2) De två brittiskorna råkade ut för en riktigt hemsk händelse under festivalen. De gick själva på festivalen, blev omringade av ett trettiotal män som skrek åt dem, kladdade på privata ställen, jagade dem och kastade sten efter dem. Kvinnor har det tufft att resa i Indien, särskilt de muslimska ställena. De tänkte från början rest var och en för sig, men håller sig nu tillsammans.
 
-Så, det är kanske en bra idé att undvika att resa inte som ensam kvinna i Indien i allmänhet, och de muslimska områdena i synnerhet.
+Så, det är kanske en bra idé att undvika att resa som ensam kvinna i Indien i allmänhet, och de muslimska områdena i synnerhet.
 
 Så. Nu är det norra Indien som gäller. Leh/Ladakh, Daramsala, Himachal Pradesh... därifrån vidare till Kathmandu/Nepal och sedan Varanasi och österöver.
 
 Love,
 Stefan
-# 03. Nobody Listens To Poor People
+# 3. Ingen lyssnar på fattiga människor
 
 _Dag 15. Srinagar, Kashmir och Leh. 16 oktober 2003._
 
@@ -138,7 +134,7 @@ På gatan försökte flera Kashmirier erbjuda mig att bo på en husbåt i den Ka
 
 Över en lunch på hotellets tak, berättade James att han hade hört sig för om situationen, och hade bestämt sig för att åka till Srinagar, för det verkade tryggt nog. Jag sa att jag tänkte åka till Leh. Vi slog följe till reseagenten.
 
-Hos reseagenten fick James ett riktigt bra pris på en husbåt, USD 10 (SKR 80) per dag, all mat inkluderad. Då blandade jag mig in i konversationen och sa "USD 10 for the both of us." Han accepterade, och jag beslutade mig för att följa med till Srinagar, trots varningarna. Jag köpte bussbiljett och James flyg.
+Hos reseagenten fick James ett riktigt bra pris på en husbåt, tio dollar per dag, all mat inkluderad. Då blandade jag mig in i konversationen och sa "tio dollar för oss båda." Han accepterade, och jag beslutade mig för att följa med till Srinagar, trots varningarna. Jag köpte bussbiljett och James flyg.
 
 Srinagar ligger i staten Kashmir. Jammu, Kashmir och Ladakh omfattas alla av konflikten med Pakistan. Länderna är i krig, men för närvarande råder vapenstillestånd. I Kashmir och Ladakh har man dels den officiella gränsdragningen, dels "line of actual control" som skär genom staterna. Srinagar ligger mycket nära denna gräns. Leh ligger mycket långt ifrån den.
 
@@ -146,7 +142,7 @@ Resan till Srinagar tog 26 timmar. Det tog 12 timmar att nå Kashmir, och 12 tim
 
 Att komma fram till Srinagar var lite av en chock. Militärens närvaro är total.
 
-"You are now entering a military zone" står det på en skylt, inte långt från den hamn från var vi tog en taxibåt ut till husbåten.
+"Ni kör nu in i en militär zon" står det på en skylt, inte långt från den hamn från var vi tog en taxibåt ut till husbåten.
 
 Husbåten var en slående kontrast. I en stilla, lummig kanal, nära sjön Dal flyter den fjättrad till en konstgjord ö, där värdfamiljen och vår tjänare bor. De är tre familjer som bor i ett hus med tre rum. Bergen runt omkring. Örhört vackert. Stilla.
 
@@ -164,39 +160,39 @@ Ett speciellt ögonblick ser jag hela scenen, jag sitter och diskuterar äktensk
 
 Mitt i natten börjar bönerna. Från alla hall strömmar muslimska böner förstärkta av högtalare. Det är vackert, magiskt och spöklikt, eftersom de ekar varandra. Hela natten pågår det, jag vaknar då och då, lyssnar, somnar om.
 
-På morgonen frågar jag fadern om bönerna. Han svarar, "Today is very important day. Today we begin preparations for Ramadan. We pray all night. Today I will eat nothing until six tonight."
+På morgonen frågar jag fadern om bönerna. Han svarar, "Idag är en mycket viktig dag. Idag börjar vi förbereda oss för Ramadan. Vi ber hela natten. Idag kommer jag inte äta något förrän klockan sex ikväll."
 
-Vi ger oss ut på sjön Dal i en båt. Mana tar oss till den centrala moskén i Srinagar. Vi glider stilla mot den guldpläterade moskén när plötsligt en bön slår ut mot oss över vattnet. Långa klagande vokaler kommer från alla håll, ekande distorterad rundgång ur tiotals spruckna högtalare, och det är så vackert. Mana säger "Do you want me to translate it for you?" jag får bara ur mig ett "After", trollbunden.
+Vi ger oss ut på sjön Dal i en båt. Mana tar oss till den centrala moskén i Srinagar. Vi glider stilla mot den guldpläterade moskén när plötsligt en bön slår ut mot oss över vattnet. Långa klagande vokaler kommer från alla håll, ekande distorterad rundgång ur tiotals spruckna högtalare, och det är så vackert. Mana säger "Vill du att jag ska översätta den åt dig?" jag får bara ur mig ett "Efteråt", trollbunden.
 
 Mina ögon flödar över, jag torkar dem diskret. Bönen pågår i kanske fem minuter. Vi når land precis när den slutar.
 
-Mana berättar att bönen är en kallelse till Ramadan, den heliga fastemånaden. Han säger "Shopkeeper, close your shop. Come to me, and you will be given. This is not the time for commerce. This is the time for prayer and spiritual growth."
+Mana berättar att bönen är en kallelse till Ramadan, den heliga fastemånaden. Han säger "Butiksägare, stäng din butik. Kom till mig, och du ska få. Detta är inte tid för handel. Detta är tid för bön och andlig tillväxt."
 
 När vi kommer tillbaka är klockan strax efter 18. Muslimerna försvinner skyndsamt in i huset.
 
-På kvällen vänder sig Faroukh till mig; säger "You are Akhtab. Means sun," och till James, "You are Tarikh. Star. You now have Kashmiri names." Han ler stolt.
+På kvällen vänder sig Faroukh till mig; säger "Du är Akhtab. Det betyder sol," och till James, "Du är Tarikh. Stjärna. Nu har ni kashmiriska namn." Han ler stolt.
 
-"Then we’ll call you Freddy," säger jag.
+"Då kallar vi dig Freddy," säger jag.
 
 Nästa morgon börjar bönerna tidigt på morgonen, och fortsätter tills solen gått upp. Jag sitter på taket. En kvinna glider förbi. Hennes sari är färgad i den mustigaste gröna jag någonsin sett, och båten är blå som kungsfiskarens vingar.
 
-Vi diskuterar med Mana om hur vi ska ta oss till Leh. Han studerar oss allvarligt, och säger sedan "Yes. There is some danger, but I think you will be all right."
+Vi diskuterar med Mana om hur vi ska ta oss till Leh. Han studerar oss allvarligt, och säger sedan "Ja. Det finns en viss fara, men jag tror att ni kommer klara er."
 
 Vi bestämmer oss för att ta bussen till Leh. En tredjedel av resan kommer att ske precis parallellt med "line of actual control".
 
 På vägen till Leh finns en lång mur, en stad och en by. Muren är till för att skydda trafiken mot raketangrepp på särskilt utsatta ställen, staden heter Kargil och utsätts för granatatacker från Pakistan. Byn är fattig.
 
-Mellan Srinagar och Kargil får vi genomgå sex säkerhetskontroller. De noterar alla våra uppgifter. "It’s for our own safety. If anything happens to us, they could track us," säger James. "Yeah," svarar jag.
+Mellan Srinagar och Kargil får vi genomgå sex säkerhetskontroller. De noterar alla våra uppgifter. "Det är för vår egen säkerhet. Om något händer oss kan de spåra oss," säger James. "Ja," svarar jag.
 
 Halvvägs till Srinagar stoppas bussen av en militär. Han säger något till busschauffören på hindi, och håller upp fyra fingrar. Chauffören svarar något uppbragt, och hela bussen lyssnar. Utom James, jag och ett ungt brittiskt par; Ali och Ruth.
 
-Vid nästa säkerhetskontroll står vi fyra runt en granatgrop och skrattar nervöst åt osmakliga skämt sagda med låg röst. Chauffören kommer gående med raska steg, siktet inställt på toaletterna. "Excuse me, can I ask you something," säger jag, tänker på de fyra fingrarna. "No," säger han och går förbi. "He’s a man on a mission," konstaterar James.
+Vid nästa säkerhetskontroll står vi fyra runt en granatgrop och skrattar nervöst åt osmakliga skämt sagda med låg röst. Chauffören kommer gående med raska steg, siktet inställt på toaletterna. "Ursäkta, kan jag fråga dig något," säger jag, tänker på de fyra fingrarna. "Nej," säger han och går förbi. "Han är en man med ett uppdrag," konstaterar James.
 
-Plötsligt hör vi högljudd skottlossning från bergen. Ingen av Indierna rör en min. James, Ruth och Ali blir nervösa. "It’s probably a shooting range nearby," säger jag. Det verkar lugna dem. Lite.
+Plötsligt hör vi högljudd skottlossning från bergen. Ingen av Indierna rör en min. James, Ruth och Ali blir nervösa. "Det är säkert en skjutbana i närheten," säger jag. Det verkar lugna dem. Lite.
 
 Mörkret faller, och chauffören tänder innerbelysningen. Det innebär att man inte kan se någonting utanför. James sitter vid fönstret. efter ett tag vänder han sig mot mig, pekar ut genom fönstret och säger
 
-"Look. There’s a wall here." "Yeah," svara jag, "It’s probably the wall they’ve built to protect the traffic from attack." "I would have preferred not knowing that. Oh, now it stopped." "Well, just as well you can’t see anything outside with the inner lights on." "There’s plenty of traffic on this road. Why pick on us?" "Because we have the inner lights on, so you could easily see the people inside? Especially two westerners." "..."
+"Titta. Det är en mur här." "Ja," svarar jag, "det är säkert muren de byggt för att skydda trafiken från anfall." "Jag hade föredragit att inte veta det. Åh, nu tog den slut." "Tja, lika bra att man inte ser något utanför med innerbelysningen tänd." "Det är gott om trafik på den här vägen. Varför skulle de ge sig på oss?" "För att vi har innerbelysningen tänd, så man lätt kan se människorna där inne? Särskilt två västerlänningar." "..."
 
 Bussen är skraltig. Rutor har ersatts med tejp och kartong, i gupp smäller det till från ena stötdämparen och föraren har stora svårigheter att få in rätt växel, vilket blir extra akut när bussen vid ett tillfälle helt enkelt dör mitt i en skarp klättringssväng i bergen, så chauffören får backa tills bussen står med rumpan ut över stupet för att ta ny sats.
 
@@ -206,49 +202,49 @@ Klockan sex var vi där. Då hade förarna precis börjat byta däck.
 
 Vid sjutiden kom vi iväg. Vi hinner inte längre än 45 minuter upp i bergen förrän bussen ger upp helt. Kopplingen lägger ner helt och hållet.
 
-Så vi går av. Sitter i solen, pratar, skämtar. James försöker kommunicera med två av våra medpassagerar med hjälp av en frasbok för Urdu. Han får reda på att de är från Nepal. Vi har just fått höra om de 25 dödade där. Han vänder sig till mig och säger "Too bad the really useful stuff isn’t in the dictionary. I can’t find ’Will I be shot in Kathmandu’ anywhere in it."
+Så vi går av. Sitter i solen, pratar, skämtar. James försöker kommunicera med två av våra medpassagerar med hjälp av en frasbok för Urdu. Han får reda på att de är från Nepal. Vi har just fått höra om de 25 dödade där. Han vänder sig till mig och säger "Synd att de riktigt användbara sakerna inte finns i ordboken. Jag hittar inte ’kommer jag bli skjuten i Kathmandu’ någonstans."
 
 Han pekar på sig själv och gör en pistol med fingrarna samtidigt som han säger "Kathmandu? Poff!" De bara skrattar och nickar.
 
-James ritar upp ett luffarschackbräde i sanden framför den ena. Han säger "Universal game." och ritar ett kryss i en ruta. Medpassageraren stirrar bara oförstående på det.
+James ritar upp ett luffarschackbräde i sanden framför den ena. Han säger "Universellt spel." och ritar ett kryss i en ruta. Medpassageraren stirrar bara oförstående på det.
 
-Jag jonglerar lite med stenar, och sedan bestämmer sig James för att vi ska bestiga ett berg. Jag hänger på, skrapar upp händerna, och upptäcker hur fort jag blir andfådd. Vi är på 3000 meter höjd.
+Jag jonglerar lite med stenar, och sedan bestämmer sig James för att vi ska bestiga ett berg. Jag hänger på, skrapar upp händerna, och upptäcker hur fort jag blir andfådd. Vi är på 3000 meters höjd.
 
-Sedan går jag och James ut på en liten trek till den närmaste byn, för att proviantera. Det känns underligt att gå på sädesfält, utanför vägens legitimitet. Vi går ner till floden i botten av ravinen vägen följer.
+Sedan går jag och James ut på en liten trek till den närmaste byn, för att proviantera. Det känns underligt att gå på sädesfält, utanför vägens legitimitet. Vi går ner till floden i botten av ravinen som vägen följer.
 
 Snart kommer vi till en stad. Vi träffar på en man som kan ordet "shop". Han visar oss till vad som verkar vara den enda affären i byn.
 
 Efter att ha provianterat kex och läsk, vänder vi åter. Längs vägen träffar vi en pojke. Han pratar förvånansvärt bra engelska.
 
-"Have you had any trouble here?" frågar James.
+"Har ni haft några problem här?" frågar James.
 
-"Yes. Everytime. You see that up there on the top of the mountain? That’s a Indian fort. Pakistani militia fires at traffic, and than the Indian fort up there has to fire at them to make them stop. Then the Pakistani military responds by firing at the fort. Often the missiles miss and go over. Then they land here, in our village. Three days ago, we had four grenades exploding here."
+"Ja. Hela tiden. Ser ni det där uppe på bergets topp? Det är ett indiskt fort. Pakistansk milis skjuter mot trafiken, och då måste det indiska fortet där uppe skjuta mot dem för att få dem att sluta. Sedan svarar den pakistanska militären genom att skjuta mot fortet. Ofta missar missilerna och går över. Då landar de här, i vår by. För tre dagar sedan hade vi fyra granater som exploderade här."
 
 Ah, tänker jag. Fyra.
 
-"And one week ago, a missile explode in the air over a little girl, and the splinters ripped her to pieces."
+"Och för en vecka sedan exploderade en missil i luften ovanför en liten flicka, och splitter slet henne i stycken."
 
-"Does this happen often?"
+"Händer det här ofta?"
 
-"Yes, every week. The Indian army mostly starts firing in the morning, they fire 50-60 bombs. Then, by lunchtime, the Pakistani respond."
+"Ja, varje vecka. Den indiska armén börjar oftast skjuta på morgonen, de skjuter 50-60 bomber. Sedan, vid lunchtid, svarar pakistanierna."
 
 Jag tittar på klockan. Hon är snart lunch.
 
-"Do you have shelters?"
+"Har ni skyddsrum?"
 
-"No, we are poor people. We asked the military to move their fort, but they don’t listen. Nobody listens to poor people. We asked for shelters, but they don’t listen. So we hide in our homes."
+"Nej, vi är fattiga människor. Vi bad militären flytta sitt fort, men de lyssnar inte. Ingen lyssnar på fattiga människor. Vi bad om skyddsrum, men de lyssnar inte. Så vi gömmer oss i våra hem."
 
-"Are you afraid?"
+"Är du rädd?"
 
 Pojken, han är väl kanske 16-17 år, ser besvärad ut och rycker på axlarna.
 
-"No. But it’s dangerous. But once you are beyond that small mountain there, you will be safe."
+"Nej. Men det är farligt. Men när ni väl är bortom det där lilla berget kommer ni vara säkra."
 
 Han påpekar att buss är det farligaste sättet att färdas, eftersom militian först och främst är ute efter att göra ’maximum damage’. De små jeeparna vi sett vägarna krylla av, är de säkraste.
 
 Vi lämnar honom. Bussen har blivit reparerad, den hämtar upp oss.
 
-Vi ligger och slöar under ett trä i väntan på en konvoj. James konstaterar, "Think about when the west deploys troops in other countries, like Iraq. We don’t put our own people on the line, and when we do, we whine like hell about it."
+Vi ligger och slöar under ett trä i väntan på en konvoj. James konstaterar, "Tänk på när väst skickar trupper till andra länder, som Irak. Vi sätter inte våra egna människor på spel, och när vi gör det gnäller vi som fan om det."
 
 Historien berättar vi för britterna först när vi passerat det lilla berget.
 
@@ -266,18 +262,18 @@ Jag saknar er.
 
 Kram, Akhtab
 
-[Epilog]
+- Epilog -
 
 På gästhusets tak pratar jag med en belgare och en amerikan om resan till Leh. Belgaren frågar
 
-"If you knew then what you know now, would you still had made the journey?"
+"Om du då hade vetat vad du vet nu, hade du ändå gjort resan?"
 
 Jag funderar ett tag, och svarar sedan
 
-"Yeah."
+"Ja."
 
-Nobody listens to poor people.
-# 04. The Last Bus Out
+Ingen lyssnar på fattiga människor.
+# 4. Sista bussen ut
 
 _Dag 21. Leh till Vashisht. 22 oktober 2003._
 
@@ -303,53 +299,14 @@ Jag var tvungen att sätta mig ner. Turligt nog fanns det ett litet stånd med d
 
 Han verkade grymt bister. Jag sträckte fram handen och presenterade mig, han svarade med sitt namn men det försvann snabbt i yrseldimman.
 
-"Where are you from?"
+"Varifrån kommer du?"
 "France."
-"Ah, I’m from Sweden. Je suis Suédois."
+"Ah, jag kommer från Sverige. Je suis Suédois."
 "Très bien," muttrade han halvförvirrat.
 
 Oli dyker upp, han har fixat biljetter till en privat buss. Jag knäpper iväg en geting från Fantan, och får sedan fly därifrån när den kommer tillbaka för hämnd.
 
 Efter att ha avslutat drycken stående lämnar jag tillbaka glaset till shop-ägaren.
-
-Säger "Au revoir" till fransmannen. Han tittar bara upp lite snabbt och muttrar något.
-
-Sista kvällen i Leh. Fyra dagar har jag bara legat höjdsjuk i sängen, läst ut boken jag fick av mamma, ätit tibetansk mat samt suttit på taket och avnjutit utsikten. Påtvingad vila.
-
-Från taket ser jag en flock mörka fåglar. I flocken flyger en vit som deras like.
-
-Mot den mörka marken syns bara den ljusa, men mot himlen är de alla svarta.
-
-På kvällen kommer James, Pete och Gi tillbaka. Pete är en trevlig, snuskigt rik law-school-brat-amerikan och Gi en grymt skön belgare.
-
-Vi går ut för att dricka farväl-öl. Vi får sällskap av en sjunde, en holländare killarna mött på sin trek.
-
-Jag var att jag redan på vägen till Leh hade börjat få en känsla om att jag kanske inte skulle till SECMOL ändå, att det inte var menat. Att det var meningen att jag skulle tro att jag skulle till Leh och att det skulle leda mig till Srinagar - och att Leh sedan hade spelat ut sin roll. Jag tror faktiskt att det var så. Hjärtats vägar är ibland outgrundliga.
-
-Så jag skulle lämna Leh. Jag kom på det för sent för att köpa en biljett, så jag fick vänta till dagen efter. Höjdsjuk släpade jag mig de 15 minuterna i nedförsbacke till busstationen. Där fick jag reda på att det inte gick någon buss förrän två dagar senare och att jag skulle komma tillbaka imorgon för att köpa biljetten. De säljs nämligen bara dagen innan eftersom man aldrig vara säker på att det blir någon buss förrän den anlänt till stationen.
-
-Helt ok tyckte jag dock, eftersom det skulle låta mig säga hejdå till James som var ute på en tre-dagars-trek med en belgare och en amerikan vi mött på hotellet.
-
-På kvällen kom Oli och Ruth fram till att de också ville till Manali, så morgonen efter så följde Oli med mig ner till busstationen för att köpa biljett.
-
-Där fick vi reda på att jag köpt den sista biljetten till den sista reguljära bussen ut ur Manali. Trafiken stängs för vintern, människan retirerar.
-
-Jag började gå tillbaka till hotellet, Oli skulle försöka ordna någon annan transport.
-
-Återtaget var ett helvete. Höjdsjukan gjorde att jag inte kunde gå mer än 3 minuter i taget, det flimrade framför ögonen.
-
-Jag var tvungen att sätta mig ner. Turligt nog fanns det ett litet stånd med drickor, ett bord utanför, där satt en man. Jag köpte en Fanta och frågade om jag kunde slå mig ner. Mannen gestikulerade halvhjärtat att jovisst kunde jag det.
-
-Han verkade grymt bister. Jag sträckte fram handen och presenterade mig, han svarade med sitt namn men det försvann snabbt i yrseldimman.
-
-"Where are you from?"
-"France."
-"Ah, I’m from Sweden. Je suis Suédois."
-"Très bien," muttrade han halvförvirrat.
-
-Oli dyker upp, han har fixat biljetter till en privat buss. Jag knäpper iväg en geting från Fantan, och får sedan fly därifrån när den kommer tillbaka för hämnd.
-
-Efter att ha avslutat drickan stående lämnar jag tillbaka glaset till shop-ägaren.
 
 Säger "Au revoir" till fransmannen. Han tittar bara upp lite snabbt och muttrar något.
 
@@ -370,6 +327,8 @@ Det behövs inte mycket ’Godfather Extra Super Strong Beer’ (alkoholhalt ’
 Jag trumlar i säng, sätter klockan på 03.00 eftersom bussen skulle gå 03.30.
 
 03.30 vaknar jag, det var kolsvart, så jag tog på min fantastiskt användbara pannlampa och packade mig iväg till bussen.
+
+Vid bussen skulle packningen upp på taket. Det fanns ingen annan praktisk lösning, så jag klättrade efter i mörkret för att se till att ryggsäcken kom på plats.
 
 Jag vacklar till och håller ett ögonblick på att trilla ner men greppar i sista stund tag i den låga rälingen på bussens tak. Det är fortfarande becksvart, och jag trängs med fem andra om att få plats med min packning.
 
@@ -425,12 +384,12 @@ Jag är så nära molnen att jag kunde göra berget svartsjukt.
 
 Bussen går bara till Keylong. 18 timmar från Leh. Därifrån får vi försöka ta oss till Manali med lokala bussar. Jag och Denis tar in på samma gästhus och käkar middag tillsammans.
 
-"You have the air of a seasoned traveller," säger jag.
-"What?" svarar Denis.
-"Well, you look like you have travelled a lot. Your aura."
-"Yes. I’ve travelled a lot. 51 countries. This is my fifth time in India."
-"When did you start travelling?"
-"When I was 17. I’m 47 now, so that makes this my 30th anniversary."
+"Du har aura av en erfaren resenär," säger jag.
+"Vad?" svarar Denis.
+"Tja, du ser ut som om du har rest mycket. Din aura."
+"Ja. Jag har rest mycket. 51 länder. Det här är min femte gång i Indien."
+"När började du resa?"
+"När jag var 17. Jag är 47 nu, så det här är mitt 30-årsjubileum."
 
 Denis är en före detta IT-entreprenör som sålde sitt bolag när han var 30 och svor på att aldrig arbeta mer och speciellt inte med IT. Han påminner mig av någon anledning om Jim. Och mig själv. I någon underlig mix.
 
@@ -444,7 +403,7 @@ Busschauffören visar sin rastlöshet med passagerarna som försöker tränga si
 
 Bussen är ännu mer knökad än igår. Denis sitter på en väska med en armbåge i ansiktet men snor en sittplats som blir ledig efter tjugo minuter.
 
-Insh’Allah betyder ’om gud vill’. 15 minuter efter att bussen lämnat Keylong, går det ett ’OOH!’ genom bussen bakifrån och fram och några börjar skrocka. Vi har tappat baggage.
+Insh’Allah betyder ’om gud vill’. 15 minuter efter att bussen lämnat Keylong, går det ett ’OOH!’ genom bussen bakifrån och fram och några börjar skrocka. Vi har tappat bagage.
 
 Bussen stannar, några hoppar av för att hämta det tappade bagaget.
 
@@ -454,7 +413,7 @@ Vi fortsätter. Jag får ett tillfälle att meditera över min egen hjälplöshe
 
 En halvtimme senare blir den bästa platsen ledig, den bredvid chauffören. Jag erbjuder en indier den, men han säger ’take it’. Lyx!
 
-Vägen är om möjligt ännu värre än den förra. Detta är som en uppkörd skogsväg högt uppklastrad på en bergssida. Jag bara skrattar, det är helt surrealistiskt.
+Vägen är om möjligt ännu värre än den förra. Detta är som en uppkörd skogsväg högt uppklistrad på en bergssida. Jag bara skrattar, det är helt surrealistiskt.
 
 Det finns tre sorters bussbolag. ’State Road Corporations’ sköter den reguljära långfärdstrafiken. Deras förare kör lugnt och stabilt och bussarna överfylls inte.
 
@@ -464,7 +423,7 @@ Det är som real life Liseberg hela vägen. I fem timmar.
 
 Då och då sneglar jag på honom. Han ser inte ens koncentrerad ut, ansiktsuttrycket pendlar mellan otålighet och irritation.
 
-Hur ’Private’-förarna kör vill jag inte veta.
+Hur ’Private Transport’-förarna kör vill jag inte veta.
 
 När vi kommer in i Lahol ser jag de första riktigt vackra kvinnorna - i Kashmir bara grova arabiskor och i Leh bara runda tibetanskor. Här är de slanka, med lätt mongoliska drag.
 
@@ -506,15 +465,15 @@ En liten flicka med brunt skinn och svarta flätor springer leende nerför en up
 
 Vi kommer in i Manali, tar oss direkt till Vashisht och tar in på ett gästhus vars ägare visar sig odla och tillverkar egen ’cream’, den lokala hash-varianten. Den är så mjuk att man kan knåda den som grädde.
 
-"Good cream," konstaterar Denis efter att ha pressat ut massan för att kontrollera färgen och att det bildats kristaller, "you know, they do it by rubbing it between their hands for hours and hours."
+"Bra cream," konstaterar Denis efter att ha pressat ut massan för att kontrollera färgen och att det bildats kristaller, "du vet, de gör den genom att gnugga den mellan händerna i timmar och timmar."
 
 "Two grams per hour," inflikar ägaren. Han tar ett bloss, höjer jointen till pannan och mumlar "Boom". "Boom Shankar" är ett tack till Shankar, rökandets skyddshelgon i Hinduismen.
 
-Tydligen är Manali hash-staten i Indien. Nästan varenda bonde odlar hampa och processar den. En tola, tio gram, av bästa cream kostar här åttahundra rupier - SEK 120.
+Tydligen är Manali hash-staten i Indien. Nästan varenda bonde odlar hampa och processar den. En tola, tio gram, av bästa cream kostar här åttahundra rupier - 120 kronor.
 
 Polisen har börjat ta i med hårdhandskarna mot bönderna efter påtryckningar från USA.
 
-"Bad ambiance," konstaterar fransmannen.
+"Dålig stämning," konstaterar fransmannen.
 
 Utmattad efter resan går jag och lägger mig brutalt tidigt, redan klockan sju. Följdaktligen vaknar jag tidigt. Klockan är 5.30 och allt är så mörkt att jag ett ögonblick förvirrat undrar om mina ögonlock slutat fungera.
 
@@ -526,7 +485,7 @@ Utanför ser jag ett par hundar rota i skräpet nedanför huset, nyskördade maj
 
 I luften ett mäktigt brus. Det måste vara ett högt vattenfall här i omgivningen, eller kanske en damm - jag måste dit, tänker jag.
 
-Himachal Pradesh och Manali verkar helt underbart. Jag pratade med en kompis till Denis, Roseanne, och hon bedyrade "I can’t leave!"
+Himachal Pradesh och Manali verkar helt underbart. Jag pratade med en kompis till Denis, Roseanne, och hon bedyrade "Jag kan inte åka härifrån!"
 
 Jag förstår henne. Klimatet är svensk sommar, det är kor, bete och gröna träd överallt, alla verkar lugna och tillfreds.
 
@@ -536,7 +495,7 @@ Tänker på er.
 
 Kram,
 Stefan
-# 05. Ten Rupees
+# 5. Tio rupier
 
 _Dag 24. Vashisht. 25 oktober 2003._
 
@@ -564,7 +523,7 @@ Jag undviker kor. Inte för att jag har koskräck, men... försiktighet är en d
 
 Halvvägs ner till vägen stöter jag på en kvinna som bär majsblast från fälten. De buntar ihop blasten till stora buntar, kanske 3 meter i diameter och konkar dem på ryggen halvbugande. Bakifrån ser de ut som mobila släktingar till de låga klotformade träden.
 
-Jag hjälper henne upp för en stenbrant, puffar på henne. "Thanks," säger hon, och jag kommer på att det nog är första gången jag haft ett ett-till-ett möte med en kvinna i Indien.
+Jag hjälper henne upp för en stenbrant, puffar på henne. "Tack," säger hon, och jag kommer på att det nog är första gången jag haft ett ett-till-ett möte med en kvinna i Indien.
 
 Man ser nämligen ytterligt få kvinnor på gatorna i städerna.
 
@@ -574,13 +533,13 @@ Väl nere på vägen följer jag forsen. En varningsskylt varnar mig för att g�
 
 En rickshaw är på väg mot Manali city, den stannar ner, frågande, ska jag med?
 
-Jag viftar neråt med handen, jo jag vill med, och kastar mig in i rickshawn. Den är inte tom. Det sitter en tant i den.
+Jag viftar neråt med handen, jo jag vill med, och kastar mig in i rickshan. Den är inte tom. Det sitter en tant i den.
 
-Hon presenterar sig som Gabi, från Tyskland och hon har bott här i tjugo år. Uppföstrat två barn här, gjorde sin doktorsgrad i Geologi här, fann en Indisk man och gifte sig. "Stuck" kallar hon det. Det är visst väldigt vanligt här i Manali med blandäktenskap, "Less trouble with foreign man," säger hon, "not so easy with foreign woman."
+Hon presenterar sig som Gabi, från Tyskland och hon har bott här i tjugo år. Uppfostrat två barn här, gjorde sin doktorsgrad i Geologi här, fann en Indisk man och gifte sig. "Fast" kallar hon det. Det är visst väldigt vanligt här i Manali med blandäktenskap, "Mindre problem med utländsk man," säger hon, "inte så lätt med utländsk kvinna."
 
 Hon är klädd som en engelsk matrona. Blommig nylonblus och mörkblå byxor och kavaj. Inget hindi-wannabe här inte. Hon inger respekt.
 
-Hon kastar ur sig något på hindi till chauffören. "Give him five rupees," säger hon när vi stannar vid busstationen, "I’ll give him eight."
+Hon kastar ur sig något på hindi till chauffören. "Ge honom fem rupier," säger hon när vi stannar vid busstationen, "jag ger honom åtta."
 
 Jag gör så, går ur rickshawn, och vi skakar hand.
 
@@ -588,21 +547,21 @@ Jag gör så, går ur rickshawn, och vi skakar hand.
 
 Jag sätter mig på en ganska fin restaurang. När maten kommer, passar jag på att fråga om det finns en bra skräddare i närheten. Jag vill ha ett par resebyxor. Jodå, säger servitören, försöker förklara vägen. Det går inte så bra. Jag nickar och ler, vill bara äta.
 
-Efter maten gör jag ett nytt försök. Han börjar förklara, men säger sedan "Wait, you go outside, to backside, and I meet you there."
+Efter maten gör jag ett nytt försök. Han börjar förklara, men säger sedan "Vänta, gå ut, till baksidan, så möter jag dig där."
 
 Jag gör så, förväntar mig att han ska förklara från baksidan, men han drar iväg med mig en ganska bra bit till en skräddare. Den är stängd, antagligen för Diwali.
 
 Då joggar han iväg till ett annat ställe, frågar en man något på hindi, viftar åt mig att följa med, och efter ett tag hittar vi en öppen skräddare.
 
-Servitören pratar med skräddaren. Sedan vänder han sig mot mig, säger "Do you have clothes?"
+Servitören pratar med skräddaren. Sedan vänder han sig mot mig, säger något som jag uppfattar som "Har du kläder?"
 
-Jag står bara frågande. "No, what do you mean?"
+Jag står bara frågande. "Nej, vad menar du?"
 
-"Clothes, you must have clothes, like this," säger han och drar i sina byxor. "What?" säger jag.
+"Kläder, du måste ha kläder, sådana här," säger han och drar i sina byxor. "Vadå?" säger jag.
 
-"Come."
+"Kom."
 
-Och så drar han iväg med mig igen, till en tyg-affär. Ah. "Cloth" - tyg. Man kommer med eget tyg till skräddaren. Såklart.
+Och så drar han iväg med mig igen, till en tyg-affär. Ah. "Cloth", inte "clothes" - tyg, inte kläder. Man kommer med eget tyg till skräddaren. Såklart.
 
 I tygaffären agerar servitören tolk och smakråd. Vi bestämmer oss för ett mörkbrunt tyg, som inte blir fläckigt lätt. 280 rupier.
 
@@ -626,15 +585,15 @@ Det är brant uppförsbacke hela vägen. Jag ångrar mig när jag kommer ihåg h
 
 I stan träffade jag gästhusägarens son dennes kusin, som driver tvätterian jag använder, och en liten jävel vaknar i mig.
 
-Jag hugger tag i kusinen, fräser "What’s this bullshit with 10 rupees extra?"
+Jag hugger tag i kusinen, fräser "Vad är det här för skitsnack med 10 rupier extra?"
 
 De ser oförstående ut.
 
-"Yeah, I paid the rickshaw 30 rupees to take me to Vashisht and he stops by the rope and they want me to pay 10 rupees extra!"
+"Ja, jag betalade rickshawn 30 rupier för att ta mig till Vashisht och han stannar vid repet och de vill att jag ska betala 10 rupier extra!"
 
-De tittar på varandra. "That’s cheating," säger kusinen.
+De tittar på varandra. "Det är fusk," säger kusinen.
 
-"Yeah, I know it’s cheating," säger jag, "I think Vashisht is wonderful but this is bad!" slår ut med händerna och går min väg.
+"Ja, jag vet att det är fusk," säger jag, "jag tycker Vashisht är fantastiskt men det här är dåligt!" slår ut med händerna och går min väg.
 
 Det är äckligt roligt att spela ut olika intressen mot varandra.
 
@@ -644,7 +603,7 @@ Efter Chandigarh blir det Dehradun, sedan vidare längs Ganges till Varanasi.
 
 Puss på er!
 Stefan
-# 06. Manu
+# 6. Manu
 
 _Dag 29. Delhi och Agra. 30 oktober 2003._
 
@@ -665,51 +624,51 @@ Han överraskar mig med att, efter att jag förklarat min plan, ge mig ett högs
 
 Vi rullar, börjar småprata, han heter 'Manu', har bott hela sitt liv på samma gata här i Delhi.
 
-"Do you have a wife?" frågar jag.
+"Har du en fru?" frågar jag.
 
-"No." svarar han kort.
+"Nej." svarar han kort.
 
-"But you’re handsome. A handsome man like you should have a wife."
+"Men du är stilig. En stilig man som du borde ha en fru."
 
-"Here, look," svarar han, fiskar fram plånboken och sträcker den till mig. En mager glåmig figur stirrar tomt ur ID-kortet.
+"Här, titta," svarar han, fiskar fram plånboken och sträcker den till mig. En mager glåmig figur stirrar tomt ur ID-kortet.
 
-"More handsome now. Too skinny then!" säger jag hurtfriskt.
+"Stiligare nu. För mager då!" säger jag hurtfriskt.
 
-"Drugs. I did drugs then. Lots of it. Heroin, cocaine," listan dränks av trafikbruset, "shooting up. Everything!"
+"Droger. Jag tog droger då. Massor. Heroin, kokain," listan dränks av trafikbruset, "injicerade. Allt!"
 
-"That's bad!" säger jag med eftertryck.
+"Det är dåligt!" säger jag med eftertryck.
 
-"Yes. Lots of drugs. But now, clean for six years. No drugs. Nothing! Except for this," tillägger han kort och drar i cigarettpaketet i bröstfickan.
+"Ja. Massor av droger. Men nu, ren i sex år. Inga droger. Ingenting! Förutom det här," tillägger han kort och drar i cigarettpaketet i bröstfickan.
 
-"Now I pray to the gods every night. Twenty years drugs, but now clean."
+"Nu ber jag till gudarna varje natt. Tjugo år droger, men nu ren."
 
-"That’s good!" svarar jag.
+"Det är bra!" svarar jag.
 
-"You know, I was taking drugs, fighting, go to jail three times."
+"Du vet, jag tog droger, slogs, satt i fängelse tre gånger."
 
-"That’s bad!"
+"Det är dåligt!"
 
 Mina responser börjar kännas imbecilla.
 
 Vi kör vidare ett tag under tystnad. Jag frågar honom om han har några bröder.
 
-"Yes, two."
+"Ja, två."
 
-"Older?"
+"Äldre?"
 
-"Yes, older."
+"Ja, äldre."
 
-"You have a father?"
+"Har du en far?"
 
-"No, father dead."
+"Nej, far död."
 
-"Only mother?"
+"Bara mor?"
 
-"Only mother."
+"Bara mor."
 
-"Oh, too bad. Sorry."
+"Åh, vad tråkigt. Jag beklagar."
 
-Vi kommer till Connaught place. Min plan är att köpa resecheckar på VISA-kortet, så jag går till en bank vars ATM jag vet tar VISA. En dam där säger att de tyvärr inte kan ta betalt från VISA-kortet, men att jag kan köpa för rupier, men tyvärr kan jag bara ta ut 15.000 rupier per dag från deras ATM, så hon ger mig en lista över ATM:er, och råder mig att åka runt i staden och göra max-uttag. Jag behöver 93 000 rupier för att få köpa USD 2 000 i resecheckar. Nästan en lakh rupier.
+Vi kommer till Connaught place. Min plan är att köpa resecheckar på VISA-kortet, så jag går till en bank vars ATM jag vet tar VISA. En dam där säger att de tyvärr inte kan ta betalt från VISA-kortet, men att jag kan köpa för rupier, men tyvärr kan jag bara ta ut 15.000 rupier per dag från deras ATM, så hon ger mig en lista över ATM:er, och råder mig att åka runt i staden och göra max-uttag. Jag behöver 93 000 rupier för att få köpa 2000 dollar i resecheckar. Nästan en lakh rupier.
 
 De räknar nämligen i lakh och crore här. 100 000 respektive 10 miljoner.
 
@@ -717,63 +676,63 @@ Så. Tillbaka till Manu, runt på en snurrfärd över hela Connaught Place, ta u
 
 Jag blir mer och mer nervös över att åka omkring med 100 000 rupier på mig i en ricksha vars förare visserligen verkar hederlig men icke desto mindre är en nyligen omvänd kriminell drogmissbrukare.
 
-"Manu, have you drive ricksha for long time?"
+"Manu, har du kört rickshaw länge?"
 
-"Twenty years."
+"Tjugo år."
 
-"You know, you are the first ricksha-driver that gave me an honest price. You seem honest," säger jag full av baktankar.
+"Du vet, du är den första rickshaw-föraren som gett mig ett ärligt pris. Du verkar ärlig," säger jag full av baktankar.
 
-"Yes, now. But not then. Then it was money money money, you know. Five rupies, fifty rupies."
+"Ja, nu. Men inte då. Då var det pengar pengar pengar, du vet. Fem rupier, femtio rupier."
 
-"Yeah."
+"Ja."
 
 På vägen tillbaka till banken frågar jag honom hur han firade Diwali, familjehögtiden. Han svarar med en oväntad gest, han gnider sig i ena ögat med näven och svarar
 
-"Sad. Diwali bad. Alone."
+"Ledsamt. Diwali dåligt. Ensam."
 
-"Alone? You weren’t with your mother?"
+"Ensam? Var du inte med din mor?"
 
-"Yes. My mother and my sister. Two or three years old. But no wife."
+"Jo. Min mor och min syster. Två eller tre år gammal. Men ingen fru."
 
-"Oh," säger jag, "but why don’t you have a wife?"
+"Åh," säger jag, "men varför har du ingen fru?"
 
 Han stannar rickshan, vänder sig om och säger
 
-"Look. I am Punjabi hindu. When I find woman I want to marry, parents come to my street to have quotation. You know, quotation."
+"Titta. Jag är Punjabi-hindu. När jag hittar kvinna jag vill gifta mig med, kommer föräldrarna till min gata för att få omdöme. Du vet, omdöme."
 
 Jag tror jag förstår. Omdömen.
 
 Han fortsätter,
 
-"They ask the people on my street - ’how is he’, ’what he done?’ They say ’He a drug addict for twenty years. He fight, he go to prison.’ Nobody will let their daughter be my wife."
+"De frågar människorna på min gata - ’hur är han’, ’vad har han gjort?’ De säger ’Han är en drogmissbrukare i tjugo år. Han slåss, han hamnar i fängelse.’ Ingen låter sin dotter bli min fru."
 
-"Man, that’s hard!"
+"Fy fan. Det är hårt."
 
-"But I’ve been clean now for six years! And everynight I pray to the gods."
+"Men jag har varit ren i sex år nu! Och varje natt ber jag till gudarna."
 
 Jag skakar bara på huvudet. Vi fortsätter färden.
 
 Att fixa resecheckar var ett litet helvete, komplett med utsikten att kanske få konka runt på en lakh rupier genom hela resan eftersom utlänningar enligt en annan banktjänsteman inte fick köpa resecheckar i Indien, men det gick till slut. Trägen vinner.
 
-Manu förvånar mig med att säga "Now we do something for my benefit? I take you to shirt store. You have a look, buy or no buy, doesn’t matter."
+Manu förvånar mig med att säga "Nu gör vi något för min skull? Jag tar dig till skjortaffär. Du tittar, köpa eller inte köpa, spelar ingen roll."
 
 För första gången känner jag att det är helt ok att bli meddragen mot kommission, och jag behöver en skjorta. Jag säger "Ok" och vi drar dit.
 
 Jag köper en skjorta. Kashmirier är bra försäljare. I rickshan frågar jag Manu vad han får i kommission.
 
-"No, not here, no commission. I get this," säger han och drar i den svarta skjortan han bär.
+"Nej, inte här, ingen kommission. Jag får det här," säger han och drar i den svarta skjortan han bär.
 
-"Oh. Ok. But what do you normally get from a place like this?"
+"Åh. Okej. Men vad brukar du få från ett sådant här ställe?"
 
-"Depends. Now is Dewali time. Maybe 50 rupies. Yes. 50 rupies. Sell or no sell."
+"Beror på. Nu är det Dewali-tid. Kanske 50 rupier. Ja. 50 rupier. Sälja eller inte sälja."
 
 50 rupier. Big business för en fattig ricksha-wallah. Särskilt om en snål turist fått ner priset från 40 till 30 rupier för en resa.
 
 Han kör mig till mitt hotell, jag kliver ur och betalar.
 
-"Manu, you’re a good man. I hope you get what you pray for."
+"Manu, du är en god man. Jag hoppas att du får det du ber om."
 
-"Yes," säger han,"a wife."
+"Ja," säger han,"en fru."
 
 ## CATRINES’ STORY
 Jag äter frukost andra dagen av mitt andra besök i Indien. Stekt potatis, omelett, toast.
@@ -800,19 +759,19 @@ Efter att ha accepterat omeletten och chokladen och ratat potatisen och brödet,
 
 Ah, en hona, tänker jag. Har du fött ungar lilla katt? Legat i en gränd och jamat i extatisk smärta lilla katt? Inget svar.
 
-Jag frågar den anställda, "Does the cat have a name?" Han ler i oförstånd. "Yes, the cat, do you call it anything?"
+Jag frågar den anställda, "Har katten något namn?" Han ler i oförstånd. "Ja, katten, kallar ni den något?"
 
-"No, just 'cat'."
+"Nej, bara 'katt'."
 
-"Must be short for 'Catrine'," konstaterar jag och ler. Han ler svagt tillbaka.
+"Måste vara kort för 'Catrine'," konstaterar jag och ler. Han ler svagt tillbaka.
 
-"Do you know what happened to it? The paw?"
+"Vet du vad som hände med den? Tassen?"
 
-"Yes. It was another cat. Big cat, crazy cat. Bite it off."
+"Ja. Det var en annan katt. Stor katt, galen katt. Bet av den."
 
 Han illustrerar med blottade tänder och kattljud.
 
-"Thanks," säger jag. Han går.
+"Tack," säger jag. Han går.
 
 Cat studerar mig med ljusgröna kattögon, inga hemligheter yppar de.
 
@@ -837,9 +796,9 @@ Tre män vaktades av två poliser. Två av dem, den yngsta och den äldsta var h
 
 Den yngsta mannen var täckt med blod från hals till midja. Alla hade de skärsår över huvud, ansikte och överkropp. Gud vet vad som hänt.
 
-Doktorn kom fram till mig klädd i tröja och slitna jeans. Jag fick förklarat mitt ärende, han tittade på mig och frågar; "This is emergency. Can you wait five minutes?"
+Doktorn kom fram till mig klädd i tröja och slitna jeans. Jag fick förklarat mitt ärende, han tittade på mig och frågar; "Det här är akuten. Kan du vänta fem minuter?"
 
-"Yes, yes, of course," svarar jag och sätter mig ner. De börjar ta hand om de andra männen.
+"Ja, ja, självklart," svarar jag och sätter mig ner. De börjar ta hand om de andra männen.
 
 Den äldre handbojade mannen har en ungefär åtta gånger åtta centimeter stor hudflik halvt avskalad ur pannan. Han sätter sig ner på en stol.
 
@@ -851,19 +810,19 @@ En äldre kvinna har ett skärsår tvärs över undersidan av handleden, hon gå
 
 Sedan är det jag. Doktorn tar ett grepp om mitt huvud, tvingar upp munnen, kastar en blick och konstaterar
 
-"Yes. Severely infected."
+"Ja. Kraftigt infekterat."
 
 Han börjar skriva en lista över medikamenter. Halvvägs igenom säger han
 
-"Can you buy these drugs from outside? We are required by law to give you these drugs, but is it ok if you buy them from outside?"
+"Kan du köpa de här medicinerna utanför? Enligt lag måste vi ge dig medicinerna, men är det okej om du köper dem utanför?"
 
-"Yes, of course," säger jag, undrar i mitt stilla sinne hur mycket medicin kostar - listan blir bara längre och längre.
+"Ja, självklart," säger jag, undrar i mitt stilla sinne hur mycket medicin kostar - listan blir bara längre och längre.
 
 Efter att ha ritat riktigt söta prickar och grafer för att förklara för mig när jag ska ta de olika medicinerna, skickar han iväg mig till "medicine shop".
 
-Apotekaren frågar mig "How much do you want" och jag bara tittar på honom. "Well, I don’t know? Five, ten days?"
+Apotekaren frågar mig "Hur mycket vill du ha" och jag bara tittar på honom. "Tja, jag vet inte? Fem, tio dagar?"
 
-"Five days," konstaterar han, drar ut lådor, plockar ut pillerkartor och börjar klippa ut det exakta antalet ur dem. Behöver jag verkligen allt det här, tänker jag, jag borde skaffa en andra åsikt.
+"Fem dagar," konstaterar han, drar ut lådor, plockar ut pillerkartor och börjar klippa ut det exakta antalet ur dem. Behöver jag verkligen allt det här, tänker jag, jag borde skaffa en andra åsikt.
 
 Medikamenterna går på 100 rupier - SEK 16.
 
@@ -883,7 +842,7 @@ Well, hoppas ni mår bra, jag börjar må bättre...
 
 Love,
 Stefan
-# 07. Taj Aftertaste
+# 7. Taj, eftersmaken
 
 _Dag 33. Agra. 3 november 2003._
 
@@ -893,20 +852,20 @@ Klockan är strax före sex på morgonen, solen har inte gått upp, så det är 
 
 Jag har inte ätit frukost, så jag funderar på om jag har tid att ta en kvick masala chai med toast. Mot mig i mörkret kommer en man leddes en cykel.
 
-"Excuse me, do you have the time?" frågar jag. Han säger, utan att titta på klockan, "Six o’clock."
+"Ursäkta, vet du vad klockan är?" frågar jag. Han säger, utan att titta på klockan, "Sex."
 
-Well, det visste jag ju faktiskt tänker jag, lite mer exakt än så ville jag nog veta, men vill inte besvära honom mer, så jag säger "Thanks."
+Well, det visste jag ju faktiskt tänker jag, lite mer exakt än så ville jag nog veta, men vill inte besvära honom mer, så jag säger "Tack."
 
 "Six o’clock," upprepar han angeläget, så jag tar upp min ficklampa och lyser på hans klocka. Den är 5.54. Jag har alltså inte tid att äta frukost.
 
-"Thanks," säger jag. "Ten rupees," säger han.
+"Tack," säger jag. "Tio rupier," säger han.
 
-"What?"
+"Va?"
 "Ten rupees!"
 
-You wouldn’t even give me the time of day susar det genom huvudet, jag rycker till, skrattar bara, säger
+"You wouldn’t even give me the time of day?" susar det genom huvudet, jag rycker till, skrattar bara, säger
 
-"No thanks," och går därifrån.
+"Nej tack," och går därifrån.
 
 Biljetten kostar 750 rupier för utländska turister och 20 rupier för indier. Färre och färre utländska turister kommer till Taj, så de ska sänka priset till 500 rupier.
 
@@ -914,9 +873,9 @@ Med tanke på att det går 20 indiska turister på varje utlänning, höj priset
 
 Jag passerar två säkerhetskontroller. I den inre fastnar jag, för jag får inte ha med spelkort, tändare och fickkniv med mig in.
 
-"You can deposit them in a locker in there, free of charge," säger vakten.
+"Du kan lämna dem i ett skåp där inne, gratis," säger vakten.
 
-Yeah right, tänker jag, nothing is free of charge in India. Men jag lägger undan mina grejer där.
+Yeah right, tänker jag, inget är gratis i Indien. Men jag lägger undan mina grejer där.
 
 Taj Mahal var magnifikt i gryningens disiga stillhet.
 
@@ -930,21 +889,21 @@ Taj Mahals skönhet är som bortblåst ur mitt sinne.
 
 Igår åkte jag och en holländsk kille vid namn Jesper till Fatephur Sikri, Den övergivna staden. Mogulen Akhbar lät bygga staden som ett center för filosofiska och religiösa diskussioner. Tyvärr förlades staden för långt från vatten så när Akhbar dog lades hela projektet ner.
 
-När vi stiger av bussen, säger en okänd man "When you want to go back, this is where the bus leaves for Agra," och pekar på en plätt en bit bort, framför ett par grindar. "Thanks," säger jag.
+När vi stiger av bussen, säger en okänd man "När ni vill åka tillbaka, är det här bussen till Agra går," och pekar på en plätt en bit bort, framför ett par grindar. "Tack," säger jag.
 
 När vi köpt vår biljett och går in, kommer genast den första guiden fram. Vill vi ha en guide? Vi diskuterar saken, kommer fram till att vi inte behöver det.
 
-"No, thanks," säger vi.
+"Nej tack," säger vi.
 
-"Big palace, 46 places, you need guide to understand place."
+"Stort palats, 46 platser, ni behöver guide för att förstå platsen."
 
-"Yeah, but we don’t want to understand the place," säger jag, "we just want to stroll around."
+"Ja, men vi vill inte förstå platsen," säger jag, "vi vill bara strosa runt."
 
-"But you pay much money to get in, guide is very cheap, only 100 rupees!"
+"Men ni betalar mycket pengar för att komma in, guide är väldigt billigt, bara 100 rupier!"
 
-"NO, thank you," säger jag, vi börjar gå.
+"NEJ, tack," säger jag, vi börjar gå.
 
-"46 places, you need guide to understand..."
+"46 platser, ni behöver guide för att förstå..."
 
 "NO!"
 
@@ -952,17 +911,17 @@ Han ger sig.
 
 En bit in i fortet kommer en yngre man fram och börjar förklara fortet för oss.
 
-"We don’t want a guide," säger jag.
+"Vi vill inte ha någon guide," säger jag.
 
-"But there is 46 palaces, you need a guide to understand them all."
+"Men det finns 46 palats, ni behöver en guide för att förstå dem alla."
 
-"NO," säger jag, viftar åt honom, "Please go."
+"NEJ," säger jag, viftar åt honom, "gå nu."
 
-"But why you don’t want guide when you paid 520 rupees?"
+"Men varför vill ni inte ha guide när ni betalat 520 rupier?"
 
 Jag börjar fundera på saken själv men mer i termer av varför vi överhuvud taget betalat pengar för att få komma in i ett tråkigt gammalt fort och bli hasslade av guider.
 
-"Just go, will you? There’s plenty of other tourists. Find someone else. GO!"
+"Gå bara, kan du göra det? Det finns massor av andra turister. Hitta någon annan. GÅ!"
 
 Han ger sig inte. Han följer efter oss, trots att vi demonstrativt går vår väg och småpratar sinsemellan.
 
@@ -970,23 +929,23 @@ Till slut blir vi riktigt otrevliga. Då går han.
 
 I fortet finns en moské. Vi tar av oss på fötterna och går in. En bit in, kommer en ung man emot oss. Han börjar förklara om moskén.
 
-"We don’t want any guide. Please go," säger jag.
+"Vi vill inte ha någon guide. Gå nu," säger jag.
 
-"But I’m not a guide. I work here!" säger han, och fortsätter förklara.
+"Men jag är ingen guide. Jag arbetar här!" säger han, och fortsätter förklara.
 
-"But I will pay you no money," säger jag.
+"Men jag tänker inte betala dig några pengar," säger jag.
 
-"No, I don’t want your money. I work here!"
+"Nej, jag vill inte ha dina pengar. Jag arbetar här!"
 
 Yeah, right.
 
-"No. Please go."
+"Nej. Gå nu."
 
 Han ger sig inte utan börjar förklara för Jesper, som låter honom. Jag säger till Jesper
 
-"I tell you, he’s after something."
+"Jag säger dig, han är ute efter något."
 
-"Well, he says he don’t want any money..." säger Jesper, "I will take the blame."
+"Tja, han säger att han inte vill ha några pengar..." säger Jesper, "jag tar skulden."
 
 "Ok, säger jag.
 
@@ -1006,42 +965,42 @@ Vi sliter oss därifrån. En liten pojke springer fram till oss, viftar med ett 
 
 Jag säger "30 rupees," eftersom jag vet att jag kunnat fått ett sådant för det priset i New Delhi.
 
-Pojken säger "No. Ten dollars." Vi går därifrån. Han följer efter.
+Pojken säger "Nej. Tio dollar." Vi går därifrån. Han följer efter.
 
 "30 rupees," hojtar jag.
 
-När han är nere i 200 rupier, säger Jesper "I would want one of those as a gift. I paid 150 for mine."
+När han är nere i 200 rupier, säger Jesper "Jag skulle vilja ha ett sådant som present. Jag betalade 150 för mitt."
 
 Så jag tänker att jag hagglar ner priset åt honom, säger "30 rupees." Han kontrar med 200, 180, 150, sedan
 
-"100, that’s 10 over my price. I pay 90. But you my friend. You come to my village. 100 rupees!"
+"100, det är 10 över mitt pris. Jag betalar 90. Men du min vän. Du kommer till min by. 100 rupier!"
 
-"If you pay 90 then you are a bad businessman," säger jag.
+"Om du betalar 90 är du en dålig affärsman," säger jag.
 
-"I’ll have one," säger Jesper och tittar på mig, "100 rupees is a good price."
+"Jag tar en," säger Jesper och tittar på mig, "100 rupier är ett bra pris."
 
-Jag rycker på axlarna, säger "Well, in New Delhi, I got one of these guys to haggle himself down to 30 rupees. I just didn’t want the board no matter the price but he kept running after me, lowering his price from 200 rupees to 30. I was just haggling for your sake."
+Jag rycker på axlarna, säger "Tja, i New Delhi fick jag en av de där killarna att pruta ner sig själv till 30 rupier. Jag ville bara inte ha brädet oavsett pris men han fortsatte springa efter mig, sänkte sitt pris från 200 rupier till 30. Jag prutade bara för din skull."
 
-Jesper köper sitt schackbräde, jag säger "80" till pojken. Han lyser upp. Säger "Wait, I’ll get another for you. 80 rupees!"
+Jesper köper sitt schackbräde, jag säger "80" till pojken. Han lyser upp. Säger "Vänta, jag hämtar ett till dig. 80 rupier!"
 
-Jag tittar på Jesper. Han ser återigen lite skamsen ut. "I pay 90."
+Jag tittar på Jesper. Han ser återigen lite skamsen ut. "Jag betalar 90."
 
 Yeah, right.
 
-När vi kommer tillbaka ner till vägen, säger jag "A guy told me the bus leaves from over there," så vi går dit.
+När vi kommer tillbaka ner till vägen, säger jag "En kille sa att bussen går därifrån," så vi går dit.
 
 Väl där kommer samma man fram till oss, erbjuder oss att äta lunch på hans restaurang, som är stället bakom grindarna. Jag frågar,
 
-"Is this where the bus stops?"
-"Yes. It stops here. The bus stand is 100 meters that direction."
-"Then we’ll go there to get our tickets."
-"But you must be hungry. Please come in. Thali for 40 rupees."
-"Well, we don’t know when the bus comes here."
-"Oh, You have time. Your bus just passed five minutes ago."
+"Är det här bussen stannar?"
+"Ja. Den stannar här. Busshållplatsen ligger 100 meter åt det hållet."
+"Då går vi dit och köper biljetter."
+"Men ni måste vara hungriga. Kom in. Thali för 40 rupier."
+"Tja, vi vet inte när bussen kommer hit."
+"Åh, ni har tid. Er buss passerade precis för fem minuter sedan."
 
 Yeah, right.
 
-"Well, we’ll just have to check out the time. Bye."
+"Tja, vi får helt enkelt kolla tiden. Hej då."
 
 Så vi går de 100 metrarna. Där står bussen. Jag frågar chauffören när han åker, om vi har tid att äta?
 
@@ -1055,41 +1014,41 @@ Tillbaka i Agra skulle vi ta en cykel-ricksha från busstationen. Vi försökte 
 
 Efter ett tag stöter vi på en ricksha-förare. Jag säger "Kamal hotel for 10?"
 
-Till min förvåning skiner föraren upp, säger "Yes, Kamal hotel, yes! 10 rupees!"
+Till min förvåning skiner föraren upp, säger "Ja, Kamal hotel, ja! 10 rupier!"
 
-Jesper skiner upp, kollar in cykeln, säger "Appears fine. Let’s do this."
+Jesper skiner upp, kollar in cykeln, säger "Verkar fint. Vi kör."
 
-"No. He’s too eager," svarar jag. Spindelkänslan tinglar.
+"Nej. Han är för ivrig," svarar jag. Spindelkänslan tinglar.
 
 Jesper står på sig. Vi cyklar iväg. Efter ett tag börjar jag undra varför rickshaföraren cyklar så långsamt.
 
 Efter ytterligare några minuter dyker en annan ricksha upp. De ber oss ta var sin.
 
-"Same price," frågar James, "five rupees each?"
+"Samma pris," frågar James, "fem rupier var?"
 
-"Yes. Five rupees each," svarar den äldre av dem.
+"Ja. Fem rupier var," svarar den äldre av dem.
 
-"Do you like Marijuana?" frågar den yngre mig. Jag svarar inte.
+"Gillar du marijuana?" frågar den yngre mig. Jag svarar inte.
 
-"Now we go to shop, ok," säger den äldre.
+"Nu går vi till butik, okej," säger den äldre.
 
-"No, NO SHOP!" säger jag.
+"Nej, INGEN BUTIK!" säger jag.
 
-"Buy or no buy, no matter. Just look!"
+"Köpa eller inte köpa, spelar ingen roll. Bara titta!"
 
-"No, NO SHOP, just take us to the hotel Kamal!"
+"Nej, INGEN BUTIK, ta oss bara till hotell Kamal!"
 
-"But why you don’t want to make us money?" klagar den äldre mannen.
+"Men varför vill ni inte låta oss tjäna pengar?" klagar den äldre mannen.
 
-"Why won’t you take us to the Hotel Kamal for ten rupees as you said?" svarar jag.
+"Varför tar du oss inte till hotell Kamal för tio rupier som du sa?" svarar jag.
 
-"I can’t be having with this shit! Let’s go! Come on!" ryter jag och sliter ut Jesper ur hans ricksha. Vi går, ser oss inte om.
+"Jag orkar inte med den här skiten! Nu går vi! Kom igen!" ryter jag och sliter ut Jesper ur hans ricksha. Vi går, ser oss inte om.
 
-En bit längre ner, förklarar jag, "I hope you understand that I’m not really that upset. I knew this was gonna happen, I just had to play angry, otherwise he would still try to charge us the ten rupees."
+En bit längre ner, förklarar jag, "Jag hoppas du förstår att jag egentligen inte är så upprörd. Jag visste att det här skulle hända, jag var bara tvungen att spela arg, annars hade han fortfarande försökt ta de där tio rupierna av oss."
 
-"Well, we got a bit on the way..." konstaterar Jesper.
+"Tja, vi kom en bit på väg..." konstaterar Jesper.
 
-"Yeah," svarar jag,"I’m quite happy. And besides, we’re on an AD-VEN-TURE, aren’t we?"
+"Ja," svarar jag,"jag är ganska nöjd. Och dessutom är vi på ett ÄVEN-TYR, eller hur?"
 
 Och ler glatt.
 
@@ -1099,9 +1058,9 @@ Innan jag reste hit hade jag hört från vänner om hur varma och öppna indier 
 
 Det är sant i viss mån. De har en enkelhet, en grundläggande vänlighet och en direkthet som är tilltalande. Man ser sällan en stressad indier.
 
-"They are like children," som Guillaume sa.
+"De är som barn," som Guillaume sa.
 
-Men över det denna tunna hinna av beräknan. Allt är business. Inte alltid uppenbart som i rupier men alltid i någon form. Vad kan man utnyttja den här kontakten till.
+Men över det den tunna hinnan av beräkning. Allt är business. Inte alltid uppenbart som i rupier men alltid i någon form. Vad kan man utnyttja den här kontakten till.
 
 Och vem är jag att förebrå dem?
 
@@ -1119,7 +1078,7 @@ Indien är verkligen som ett syrabad. Jag måste verkligen få klart för mig ve
 
 Annars kommer jag att bli tokig.
 
-För en vecka sedan sa jag "I would like a week or twos vacation from India, then come back."
+För en vecka sedan sa jag "Jag skulle vilja ha en eller två veckors semester från Indien, och sedan komma tillbaka."
 
 Idag träffade jag en tyska vid namn Claudia som berättade för mig om Pokara, Nepal. Det verkar vara min semester.
 
@@ -1129,101 +1088,103 @@ Kanske kan jag komma underfund med ett och annat där.
 
 Kram,
 Stefan
-# 07b. Serge
+# Mellanspel: Serge
 
 _Dag 39. Varanasi. 9 november 2003._
 
-"So, tell us about Serge," säger Richard. Jag hinner inte börja förrän kyparen kommer med maten och alla får hjälpas åt att reda ut vem som beställt vad. Tumultet ger mig ett par dyrbara minuter att samla tankarna. Jag halvt om halvt hoppas att de ska hinna glömma bort att jag lovat att berätta.
+"Så, berätta om Serge," säger Richard. Jag hinner inte börja förrän kyparen kommer med maten och alla får hjälpas åt att reda ut vem som beställt vad. Tumultet ger mig ett par dyrbara minuter att samla tankarna. Jag halvt om halvt hoppas att de ska hinna glömma bort att jag lovat att berätta.
 
-När alla fått sin mat kräver så Richard åter, "So Stefan, what’s up with Serge?"
+När alla fått sin mat kräver Richard på nytt:
 
-"Well, I met him on the train, actually. He was trying to get off at the station before Varanasi, and the conductor stopped him. He spoke very little English, but I speak a little French, I’ve studied French in school, so we started talking."
+"Så Stefan, vad var grejen med Serge?"
+
+"Jag träffade honom på tåget, faktiskt. Han försökte gå av på stationen före Varanasi, och konduktören stoppade honom. Han pratade väldigt lite engelska, men jag pratar lite franska. Jag läste franska i skolan, så vi började prata."
 
 Jag rör runt i mina makaroner.
 
-"I mean... I’m kind of a sucker for stories, you know. Sometimes I hang around just to see how it all will end."
+"Jag menar... jag är ju lite svag för historier. Ibland hänger jag kvar bara för att få se hur allt ska sluta."
 
-"You’re attracted to lunatics," konstaterar Richard torrt. Han är en ruff kille, Nya Zeelandare.
+"Du dras till galningar," konstaterar Richard torrt. Han är en ruff kille, nyzeeländare.
 
-Jag suger på hans ord ett ögonblick, fortsätter sedan,
+Jag suger på hans ord ett ögonblick, fortsätter sedan:
 
-"Yeah... anyway. Dig this: the guy is 42 years old, he comes from Bretagne, a part of France, has never spoken a word of English and this is his first trip out of France. And he goes to India!"
+"Ja... i alla fall. Fatta det här: killen är fyrtiotvå år gammal, kommer från Bretagne, har aldrig pratat ett ord engelska och det här är hans första resa utanför Frankrike. Och han åker till Indien."
 
-"Wow," säger Suse. Richards flickvän är från Australien, de möttes i Korea.
+"Oj," säger Suse. Richards flickvän är från Australien, de möttes i Korea.
 
-"And this is his fourth day, and he’s already in serious trouble. He tells me in carefully worded French that he has no money left because he has emptied his visa card."
+"Och det här är hans fjärde dag, och han är redan i allvarliga problem. Han berättar på mycket försiktig franska att han inte har några pengar kvar, för han har tömt sitt Visa-kort."
 
-De tittar förväntansfullt på mig. Jag laddar, det är så dumt att jag frustar ur mig.
+De tittar förväntansfullt på mig. Jag laddar, det är så dumt att jag frustar ur mig:
 
-"I mean, he’d done every wrong in the book! Two days into his first trip outside of France, he goes to a shop, buys two marble tables for 500 euros and have them send it home!"
+"Alltså, han hade gjort precis allt fel man kan göra. Två dagar in på sin första resa utanför Frankrike går han in i en butik, köper två marmorbord för femhundra euro och ber dem skicka hem dem."
 
-Jag ser hur det tar en sekund att sjunka in, och dundrar på.
+Jag ser hur det tar en sekund för det att sjunka in, och dundrar på:
 
-"And he got no receipt, and he doesn’t even have the address of the place! And now he’s emptied his visa and he is unable to contact his bank in France over telephone, and he’s only tried using his internet bank once before and now he’s lost the code for it!"
+"Och han fick inget kvitto, och han har inte ens adressen till stället. Och nu har han tömt sitt Visa-kort och lyckas inte kontakta banken i Frankrike per telefon, och han har bara använt sin internetbank en enda gång tidigare och nu har han tappat bort koden."
 
 Nu fattar de. De stönar av smärta.
 
-Suse säger trevande,
+Suse säger trevande:
 
-"So, now he’s staying at the hotel, building up a bill, because he can’t pay?"
+"Så nu bor han kvar på hotellet och bygger upp en räkning, eftersom han inte kan betala?"
 
-"Yeah."
+"Ja."
 
-"Wow," säger Bill, "so these guys do exist... I guess that’s why they write about it in the guidebooks."
+"Oj," säger Bill, "så de där människorna finns alltså på riktigt. Det är väl därför de skriver om dem i guideböckerna."
 
-"These guys must have seen him coming from miles away," säger Suse mjukt, "he never had a chance."
+"De måste ha sett honom komma på flera kilometers håll," säger Suse mjukt. "Han hade aldrig en chans."
 
 Richard rullar sarkastiskt med ögonen.
 
-"Yeah," fortsätter jag, "so the guy is obviously under a lot of stress. I mean, the guy seemed friendly at first, but it kind of got worse day by day. I saw the hysteria grow and at one time he fell in tears in a rickshaw telling me that this was the end of his journey and that he longed for his wife. And I’m kind of soft, you know, I want to help, so I patted him on the shoulder and lent him a hundred rupees so we could have breakfast together.
+"Ja," fortsätter jag, "så killen är ju uppenbart under enorm stress. Han verkade trevlig först, men det blev värre för varje dag. Jag såg hysterin växa, och vid ett tillfälle bröt han ihop i tårar i en rickshaw och berättade att det här var slutet på hans resa och att han längtade efter sin fru. Och jag är ju ganska blödig, så jag ville hjälpa. Jag klappade honom på axeln och lånade honom hundra rupier så att vi kunde äta frukost tillsammans.
 
-But in the end he was getting angry that I didn’t understand his French, you know, I tried to tell him to speak more slowly only to be met by another blurt of French. And he spoke to Johan as well. I told him Johan doesn’t speak French but he tried to speak French anyway, and fast. I think actually that if you’ve only lived in a community where everybody speaks your primary language, and you’ve never had to learn a second language, you really have a hard time understanding that you have to speak slowly with people.
+Men till slut blev han arg på mig för att jag inte förstod hans franska. Jag försökte säga åt honom att prata långsammare, men fick bara en ny fors av franska tillbaka. Han pratade med Johan också. Jag sa att Johan inte kan franska, men han försökte prata franska med honom ändå, och snabbt. Jag tror faktiskt att om man bara har levt i ett sammanhang där alla talar ens eget språk, och aldrig behövt lära sig ett andra språk, så har man väldigt svårt att förstå att man måste prata långsamt med andra.
 
-I tried to tell him, you know, Serge, I don’t speak French, you have to speak slower, but he only got frustrated and mad at me, so in the end I just had to tell him that he was being aggressive and needed to calm down."
+Jag försökte säga: Serge, jag kan inte franska, du måste prata långsammare. Men han blev bara frustrerad och arg på mig, så till slut fick jag säga att han var aggressiv och behövde lugna ner sig."
 
-"But why India?" frågar Suse.
+"Men varför Indien?" frågar Suse.
 
-"Well, dig this. He told me that his wife had told him ’Serge, go to India!’ and I kind of built up this romantic image of this middle-aged man that had lived his whole life secluded in this little village with his little wife who saw his need to break out, encouraged him to fulfill his dreams and now he was on an adventure."
+"Jo, fatta det här. Han berättade att hans fru hade sagt till honom: Serge, åk till Indien! Och jag byggde liksom upp den här romantiska bilden av en medelålders man som levt hela sitt liv instängd i en liten by med sin lilla fru, som såg hans behov av att bryta sig loss, uppmuntrade honom att förverkliga sina drömmar, och nu var han ute på äventyr."
 
 Suse ler mjukt, Richard vilar i sin sardoniska blick. Bill väntar flinande på fortsättningen.
 
-"And we had kind of similar experiences with being married and all, it was a bonding thing, but then when I asked him why his wife couldn’t help him with his bank, he answered
+"Och vi hade haft lite liknande erfarenheter av att vara gifta och så där, så det blev någon sorts band mellan oss. Men när jag frågade varför hans fru inte kunde hjälpa honom med banken svarade han:
 
-No, we’re not together, we’re separated."
+Nej, vi är inte tillsammans längre. Vi är separerade."
 
-"Oh," säger de i mun.
+"Åh," säger de i mun.
 
-"Yeah, It’s probably yet another crisis thing."
+"Ja. Det är antagligen ännu en krisgrej."
 
-"But you know," säger jag, "it kind of put my own crisis into perspective. I mean, I watched in horrified fascination when we were having breakfast in a dhaba. I mean, we had a thali, and it was foul. Tasteless, I couldn’t eat more than a mouthful, then I told him, let’s go. But he just put a finger up and said ’regarde’.
+"Men vet ni," säger jag, "det satte faktiskt min egen kris i perspektiv. Jag satt och tittade med skräckblandad fascination när vi åt frukost i en dhaba. Vi hade beställt thali, och den var vidrig. Smaklös. Jag kunde inte äta mer än en tugga, så jag sa till honom: kom, vi går. Men han höjde bara ett finger och sa 'regarde'.
 
-And then he calls in the manager, and, with utterly few words in English and lots in French, tries to explain to the manager that the food was bad, we only ate a little, but we would like to eat there some other time, and that he would pay, but he didn’t really want to pay the full thali, but he could do it, but then he wouldn’t come back."
+Sedan kallade han in föreståndaren och försökte, med ytterst få ord på engelska och desto fler på franska, förklara att maten var dålig, att vi bara hade ätit lite, att vi gärna skulle äta där någon annan gång, och att han kunde betala, men att han egentligen inte ville betala för en hel thali. Han kunde göra det, men då skulle han inte komma tillbaka."
 
-De tittar på mig klentroget och jag fyller i,
+De tittar på mig klentroget och jag fyller i:
 
-"Yeah. I just sat there like, Serge, what are you trying to accomplish, are you really trying to threaten an Indian manager of a small street restaurant with not coming back if we have to pay the full twenty rupees for a thali?
+"Ja. Jag satt bara där och tänkte: Serge, vad försöker du uppnå? Försöker du verkligen hota föreståndaren på en liten indisk gatukrog med att inte komma tillbaka om vi måste betala hela tjugo rupier för en thali?
 
-But yeah that was what he tried to do, and he was totally devastated when we got outside. ’It would have worked in France,’ he said, and I just like, ’Well, India is very different from France’"
+Men ja, det var det han försökte göra. Och han var helt förstörd när vi kom ut. 'Det hade fungerat i Frankrike', sa han. Och jag bara: 'Indien är väldigt annorlunda än Frankrike.'"
 
-Richard skakar sakta på huvudet, säger
+Richard skakar sakta på huvudet och säger:
 
-"Did he even read the guidebook?"
+"Hade han ens läst guideboken?"
 
-"No, I don’t think so. And I know he didn’t open his ’Learn English quick’ -books either. You know, he bought two ’Learn English quick’-books, and they’re shit. Total shit."
+"Nej, jag tror inte det. Och jag vet att han inte hade öppnat sina Learn English Quick-böcker heller. Han hade köpt två sådana, och de är skräp. Totalt skräp."
 
-Jag fortsätter, har fått upp momentum.
+Jag fortsätter, har fått upp momentum:
 
-"And you know what? I wrote on a piece of paper so he could translate for himself that Serge, you should have a really good plan, I underlined ’really’ several times, before you decide to go back to Agra to rescue your tables. And I wrote, don’t expect any help from the police. And you know what he did today?"
+"Och vet ni vad? Jag skrev på ett papper, så att han skulle kunna översätta det själv, att Serge, du bör ha en riktigt bra plan, jag strök under riktigt flera gånger, innan du bestämmer dig för att åka tillbaka till Agra och försöka rädda dina bord. Och jag skrev: räkna inte med någon hjälp från polisen. Och vet ni vad han gjorde idag?"
 
 Tre par ögonbryn höjs.
 
-"He went to the police. And when he came back, I saw there were tears in his eyes again. He was like, ’They only wanted money!’ Baksheesh, baksheesh, baksheesh, to do anything! That’s all I was to them, baksheesh!"
+"Han gick till polisen. Och när han kom tillbaka såg jag att han hade tårar i ögonen igen. Han bara: 'De ville bara ha pengar!' Baksheesh, baksheesh, baksheesh, för att göra någonting alls. Det var allt jag var för dem, baksheesh!"
 
-"And I kind of, you know, ’Yeah, but you are. I told you so.’ but he didn’t listen. That’s when it all got kind of out of hand."
+"Och jag bara, ja, men det är du ju. Jag sa ju det. Men han lyssnade inte. Det var då allt började spåra ur."
 
-"It’s tragic really," summerar jag, "I feel terrible for laughing at it and telling you about it. But on the other hand it’s kind of put my own travel-rage crisis into perspective."
+"Det är tragiskt egentligen," summerar jag. "Jag känner mig hemsk som skrattar åt det och berättar det för er. Men å andra sidan har det satt min egen travel-rage-kris i perspektiv."
 
-"Yeah," säger Suse.
+"Ja," säger Suse.
 
 Vi sitter i fundersam tystnad ett tag.
 ---
@@ -1231,33 +1192,33 @@ Vi sitter i fundersam tystnad ett tag.
 
 
 
-Postscript To Part 1
+Tjugo år senare
 ====================
 
-At this point in the journey I believed I was learning India.
+Vid den här punkten i resan trodde jag att jag höll på att lära mig Indien.
 
-I was not entirely wrong. I had learned prices, distances, hotel rooms, scams, railway counters, stomach trouble, hunger, altitude, exhaustion, bargaining, refusal. I had learned that a smile could mean kindness, commerce, curiosity, danger, nothing at all, or all of it at once.
+Det var inte helt fel. Jag hade lärt mig priser, avstånd, hotellrum, scams, järnvägsdiskar, magproblem, hunger, höjd, utmattning, prutning, vägran. Jag hade lärt mig att ett leende kunde betyda vänlighet, affär, nyfikenhet, fara, ingenting alls, eller allt på en gång.
 
-But I had also learned something more dangerous: the pleasure of being right to suspect.
+Men jag hade också lärt mig något farligare: njutningen i att ha rätt och rädslan att bli utnyttjad.
 
-Suspicion is useful when you travel. It keeps your money in your pocket, your bag in your hand, your body moving in the right direction. But it also begins to shrink the world. Every stranger becomes a possible angle. Every kindness becomes a future bill. Every conversation waits for its real price.
+Misstänksamhet är användbart när man reser. Den håller pengarna i fickan, väskan i handen, kroppen i rörelse åt rätt håll. Men den börjar också krympa världen. Varje främling blir en möjlig vinkel. Varje vänlighet blir en framtida nota. Varje samtal väntar på sitt verkliga pris.
 
-Serge frightened me because his disaster was so visible. He had arrived without language, without method, without skin. India had found every soft place in him at once.
+Serge skrämde mig för att hans katastrof var så synlig. Han hade kommit utan språk, utan metod, utan hud. Indien hittade alla mjuka ställen i honom på en gång.
 
-I laughed at him because he was absurd.
+Jag skrattade åt honom för att han var absurd.
 
-I felt sorry for him because he was lost.
+Jag tyckte synd om honom för att han var vilse.
 
-I recognized him because I was becoming lost in the opposite direction.
+Jag kände igen honom för att jag höll på att gå vilse åt motsatt håll.
 
-He trusted too much. I trusted too little.
+Han litade för mycket. Jag litade för lite.
 
-For a while we sat in the same silence.
+En stund satt vi i samma tystnad.
 
 
 lbsa71
-Gothenburg, 2026
-# 08. Ganges
+Göteborg, 2026
+# 8. Ganges
 
 _Dag 42. Varanasi. 12 november 2003._
 
@@ -1277,11 +1238,11 @@ Jag såg dock ganska många skallar ligga och guppa i vattnet. Enligt båtförar
 
 Dock är det inte alltid man ser skillnad på likdelar och skräppåsar, ibland när man ser en sko guppa i vattnet är det inte utan att tanken ’undrar om det finns en fot i den’ far genom huvudet.
 
-"On my trip a dead baby floated up to the surface," påpekar Johan.
+"På min resa flöt ett dött spädbarn upp till ytan," påpekar Johan.
 
 Ett par riktigt sköna uppsvällda halvruttna kadaver såg jag också. Korna badar ju också i Ganges och då och då måste ju någon av dem slinta och trilla i.
 
-Jag vandrar kring i templet på Benares Hindu Universitys område, läser citat ur vedorna och upanishaderna: "There is no fire like lust; there is no grip like hatred; there is no net like delusion; there is no river like craving." Jag tittar över axeln på Loi. Hon beundrar en målning, noterar inte min blick.
+En dag vandrar jag kring i templet på Benares Hindu Universitys område och läser citat ur vedorna och upanishaderna: "Det finns ingen eld som begäret; inget grepp som hatet; inget nät som illusionen; ingen flod som längtan." Jag tittar över axeln på Loi. Hon beundrar en målning och märker inte min blick.
 
 Vid ett tillfälle såg jag fem kor och tre kalvar vada bland människorna. En kalv höll sig på land, antagligen rabies smittad. Fram kom en indier, tog ett ordentligt tag och skjutkastade kalven ut i vattnet. Väl där dränker han den kärleksfullt och tvättar den ordentligt. Det var antagligen herden.
 
@@ -1311,88 +1272,9 @@ Lägg till detta ett Varanasi, en av de äldsta städerna i världen, insvept i 
 
 En av de största båtarna rammade oss nästan och till min förtjusning ser jag Loi och Noreen på den. Jag var inbjuden att fira med dem, men tackade nej. Det var nog lika bra.
 
-Så jag skriker på Loi, tredje gången rycker hon till, vänder sig om, ler och vinkar, så jag ropar på Uma. Hon vänder sig om och ler, jag hinner bara skrika ’this is madness’ innan vi skiljs åt.
-# 09. Uma
+Så jag skriker på Loi, tredje gången rycker hon till, vänder sig om, ler och vinkar, så jag ropar på Noreen. Hon vänder sig om och ler, jag hinner bara skrika ’det här är vansinne’ innan vi skiljs åt.
 
-_Dag 42. Varanasi. 12 november 2003._
-
-Jag träffade Uma några dagar innan. Jag åt en tidig frukost eftersom jag i vanlig ordning väckts av mässandet och festandet i gryningen.
-
-Hon satt vid bordet bredvid mig. Jag undrade i mitt stilla sinne vad hon var för något. Uppenbarligen indisk, men ändå inte. Tjocka vita slingor i korpsvart hår. Glasögon i senilsnodd. Ytterligare en sådan där mystisk människa man skulle vilja veta mer om men inte vågar tränga sig på.
-
-Så hon säger ’good morning’ och vi börjar småprata.
-
-Hon är 58 år, blev bortgift till en indisk man i USA när hon var 20, och nu förbereder hon för att återvända till Indien innan hon fyller 60.
-
-Hon är vegan, konstnär och bor i ett anarkistiskt kollektiv i San Francisco. När jag påpekar att jag har Los Angeles i min rutt men inte har råd att stanna där får jag en inbjudan att bo med dem en vecka.
-
-Jag spiller mitt te, känner mig dum, det finns ingen servett inom räckhåll, jag känner mig dum och ber om ursäkt. Hon säger
-
-"Thare’ll be a waiter here soon. He can take care of it."
-
-Så jag försöker negligera teet som droppar på mina byxor. Inte mycket att göra.
-
-En servitör kommer, jag ber honom "I was clumsy, could you please..." och viftar med handen över teet. Han kommer tillbaka med en trasa och så är det inte mer med det.
-
-Vi kommer in på ämnet ’arranged marriages’. Uma är skild och har haft många pojkvänner sedan dess. Jag tycker det är lite underligt att hon inte fördömer den indiska seden.
-
-"It’s a bit strange," säger hon bara, "you got to learn to love your husband. It takes time."
-
-"Yeah," säger jag, "I sometimes wish somebody should have done a checkup on some of my girlfriends. You know, you really should take references, say ’could you give me the phone numbers of your three latest boyfriends, so I can phone them up and see what went wrong?’"
-
-Uma skrockar, visar pärltänder och kniper ihop ögonen. Hon har en stark ’Bronx black queen’ utstrålning, sitter säkert och stilla.
-
-"I don’t think that people change. They can, but I think situations change, not people. And how much do you know about a person, and his history, after a week? Nothing!"
-
-"Not to mention after a one night stand," inflikar jag.
-
-"Yes. Although one can tell a great deal about a person by observing his reactions, for example when spilling chai or how they treat a servant."
-
-Hon plirar menande över kanten på glasögonen, låter meningen sjunka in, fortsätter sedan
-
-"But yes, you should get to know the person first, not throw yourself madly into love."
-
-"I’ve come to realize that."
-
-"Nah," invänder jag, "there’s a difference between knowing it with your brain and knowing it with your heart."
-
-"Yes... once I broke up from this guy Scott, I was so over with him, and I went travelling. In South Africa I met a man, we decided to travel together.
-
-In Mexico, we had become a couple, staying together, doing things.
-
-We went to the beach, and he was like a seal, you know, playing around, but I’ve never really been good in the water, so I became increasingly worried.
-
-He was diving, swimming between my legs and so on, but I felt a draft and became scared, so I told him I would go up on the shore. He stayed in the water."
-
-Hon berättar historien med ett stelt leende och i neutralt tonläge. Ibland lutar hon sig lite framåt för att understryka.
-
-"On the beach I met some local kids, circus kids from a circus nearby, they raise the tents, and started playing with them. Uneducated kids, they asked me where I came from, and when I said ’India’ they didn’t know where it was, so I said ’China’. Anyway, I had a great time.
-
-It was only after a while I noticed that he had gone out of the water, got his clothes on, and disappeared. When I came to the hotel, his bags were gone.
-
-At first I was afraid that," hon tar sig över huvudet och gör en skräckgrimas, "oh no, he’s taken my passport and all my money, but it was all there, he had just gone. I think he got jealous of me playing with the kids and not with him, so he left me."
-
-"Well, I don’t think it has to do with you, really," säger jag,"I think it was something in his past."
-
-"Yeah, and I was so in love! I had called my daughters and said ’I’m so in love with this man! I am so happy!’"
-
-Hon verkar förlorad i sin egen historia, jag försöker inflika,
-
-"Well, I think I know this behaviour. I think I know it really well, actually. I think he had some issues, and that you woke something up in him that he didn’t like about himself, and so he decided to flee."
-
-"Yes, but I loved him so, I asked everybody where he’d go, I even travelled to the next places we should have gone, looking for him, but I never found him."
-
-"Yeah. I think that is how it is when you’re travelling. It becomes very easy to act on those kind of impulses."
-
-"Yes. But how I cried."
-
-"I think, as you said before, that you never really know somebody."
-
-"Yes."
-
-Uma och jag gör sällskap ett par dagar sedan skiljs vi åt som man alltid gör när man reser ensam. Plötsligt är det bara Stefan igen.
-
-Min sista morgon i Varanasi bryr sig ingen om liket som guppar bland båtarna. Jag ser fascinerat hur badarna i badplatsen tio meter bort kastar förströdda, ibland missnöjda blickar, men ingen gör en ansats att ta tag i frågan.
+På morgonen bryr sig fortfarande ingen om liket som guppar bland båtarna. Jag ser fascinerat hur badarna i badplatsen tio meter bort kastar förströdda, ibland missnöjda blickar, men ingen gör en ansats att ta tag i frågan.
 
 Jag tänker "höjden nu skulle vara att någon kommer och sköljer munnen med vatten i närheten av liket," och mycket riktigt kommer en man ner till kanten, kanske två meter från liket, borstar tänderna och sköljer munnen med vatten ur Ganges.
 
@@ -1400,13 +1282,13 @@ Ganges utlopp är helt aseptiskt, det vill säga att det inte kan underhålla li
 
 På hotellet bor en del udda typer, en av dem är ’Amerikanskan’. Jag gav henne det namnet för att hon ser ut som en sådan. Kring 45, ganska kort, enorm byst i svart nylon, alldeles för mycket make-up.
 
-Richard säger, "Yet another weirdo."
+Richard säger, "Ännu ett original."
 
-Jag svarar, "I’ve been thinking about engaging her. I think she’s got some story to tell."
+Jag svarar, "Jag har funderat på att prata med henne. Jag tror att hon har någon historia att berätta."
 
 Jag får en trött blick som belöning.
 
-När man talar om trollen dyker de upp så jag säger "good morning" till henne. Hon kvittrar "good morning" tillbaka, och berättar att hon just varit och badat i Ganges.
+När man talar om trollen dyker de upp så jag säger "god morgon" till henne. Hon kvittrar "god morgon" tillbaka, och berättar att hon just varit och badat i Ganges.
 
 Bordet faller tyst.
 
@@ -1420,37 +1302,116 @@ Men hon var en konstnär, och de stora klassiska konstnärerna fastar innan de m
 
 Och på nionde dagen kände hon sig så lätt, så lätt, och på tionde dagen reste hon sig ur sängen.
 
-"And I’ve been healthy since then. Look at me, I can move, I can dance. I even have my disabled person card left so I can go first in lines and park in handicap spaces. But I’m all healthy! Look!"
+"Och jag har varit frisk sedan dess. Titta på mig, jag kan röra mig, jag kan dansa. Jag har till och med mitt handikappkort kvar så att jag kan gå före i köer och parkera på handikapplatser. Men jag är helt frisk! Titta!"
 
 Och hon tar ett par trippande danssteg och tittar sedan på oss med stora intensiva ögon och ett maniskt leende, hon har en blomsterkrans runt huvudet som hon hela tiden måste skjuta upp i pannan.
 
-"Wow," säger jag, "that’s good!"
+"Wow," säger jag, "det är bra!"
 
-"Yes! For eight years I was in pain, and now, nothing!"
+"Ja! I åtta år hade jag ont, och nu, ingenting!"
 
-"Good for you! Is this the first time you bathe in the Ganges?"
+"Vad bra för dig! Är det första gången du badar i Ganges?"
 
-"No, I bathe every day. Some people are afraid of it, but I’m not, I can take anything!"
+"Nej, jag badar varje dag. Vissa människor är rädda för det, men inte jag, jag klarar vad som helst!"
 
 Hennes utstrålning är som en manisk svart sol. Jag blinkar febrilt och kisar med min själs ögonlock.
 
-"Yeah, I actually think the Ganges is a test of character," säger jag, "it would probably kill me, because I’m of such weak spirit."
+"Ja, jag tycker faktiskt att Ganges är ett karaktärsprov," säger jag, "det skulle antagligen döda mig, eftersom jag har en så svag ande."
 
 Hon vet inte riktigt om jag skämtar eller inte men ler ändå.
 
-"Yes! And it’s so vibrant, with all the other people bathing, and you can really feel it!"
+"Ja! Och det är så levande, med alla de andra människorna som badar, och man kan verkligen känna det!"
 
 Och här sitter vi skrämt uppflugna på en balkong på ett turisthotell, tänker jag. Det tål att tänkas på. Medspelare kontra åskådare.
 
-"Wow," säger jag. Konversationen slutar där, hon säger, "Well, bye!" och vi mumlar "bye" tillbaka.
+"Wow," säger jag. Konversationen slutar där, hon säger, "Okej, hej då!" och vi mumlar "hej då" tillbaka.
 
 Efteråt en stunds chockad tystnad.
 
-"Well," säger jag till Richard, "told you so."
+"Tja," säger jag till Richard, "vad var det jag sa."
 
 Tystnaden härskar igen, jag tittar ner över räcket på de badande.
 
 På kvällen är liket borta.
+# 9. Uma
+
+_Dag 42. Varanasi. 12 november 2003._
+
+Jag träffade Uma några dagar innan. Jag åt en tidig frukost eftersom jag i vanlig ordning väckts av mässandet och festandet i gryningen.
+
+Hon satt vid bordet bredvid mig. Jag undrade i mitt stilla sinne vad hon var för något. Uppenbarligen indisk, men ändå inte. Tjocka vita slingor i korpsvart hår. Glasögon i senilsnodd. Ytterligare en sådan där mystisk människa man skulle vilja veta mer om men inte vågar tränga sig på.
+
+Så hon säger ’god morgon’ och vi börjar småprata.
+
+Hon är 58 år, blev bortgift till en indisk man i USA när hon var 20, och nu förbereder hon för att återvända till Indien innan hon fyller 60.
+
+Hon är vegan, konstnär och bor i ett anarkistiskt kollektiv i San Francisco. När jag påpekar att jag har Los Angeles i min rutt men inte har råd att stanna där får jag en inbjudan att bo med dem en vecka.
+
+Jag spiller mitt te, känner mig dum, det finns ingen servett inom räckhåll, jag känner mig dum och ber om ursäkt. Hon säger
+
+"Det kommer en servitör hit snart. Han kan ta hand om det."
+
+Så jag försöker negligera teet som droppar på mina byxor. Inte mycket att göra.
+
+En servitör kommer, jag ber honom "Jag var klumpig, skulle du kunna..." och viftar med handen över teet. Han kommer tillbaka med en trasa och så är det inte mer med det.
+
+Vi kommer in på ämnet ’arranged marriages’. Uma är skild och har haft många pojkvänner sedan dess. Jag tycker det är lite underligt att hon inte fördömer den indiska seden.
+
+"Det är lite konstigt," säger hon bara, "man måste lära sig älska sin man. Det tar tid."
+
+"Ja," säger jag, "ibland önskar jag att någon hade gjort en kontroll av några av mina flickvänner. Du vet, man borde verkligen ta referenser, säga ’kan du ge mig telefonnumren till dina tre senaste pojkvänner, så jag kan ringa upp dem och höra vad som gick fel?’"
+
+Uma skrockar, visar pärltänder och kniper ihop ögonen. Hon har en stark ’Bronx black queen’ utstrålning, sitter säkert och stilla.
+
+"Jag tror inte att människor förändras. De kan, men jag tror att situationer förändras, inte människor. Och hur mycket vet man om en person, och hans historia, efter en vecka? Ingenting!"
+
+"För att inte tala om efter ett one night stand," inflikar jag.
+
+"Ja. Fast man kan förstå väldigt mycket om en person genom att iaktta hans reaktioner, till exempel när någon spiller chai eller hur han behandlar en tjänare."
+
+Hon plirar menande över kanten på glasögonen, låter meningen sjunka in, fortsätter sedan
+
+"Men ja, man borde lära känna personen först, inte kasta sig huvudstupa in i kärlek."
+
+"Det har jag börjat inse."
+
+"Nja," invänder jag, "det är skillnad på att veta det med hjärnan och att veta det med hjärtat."
+
+"Ja... en gång gjorde jag slut med den här killen Scott, jag var så färdig med honom, och jag gav mig ut och reste. I Sydafrika träffade jag en man, vi bestämde oss för att resa tillsammans.
+
+I Mexiko hade vi blivit ett par, bodde tillsammans, gjorde saker ihop.
+
+Vi gick till stranden, och han var som en säl, du vet, lekte runt, men jag har aldrig varit riktigt bra i vattnet, så jag blev mer och mer orolig.
+
+Han dök, simmade mellan mina ben och så vidare, men jag kände ett sug och blev rädd, så jag sa att jag skulle gå upp på stranden. Han stannade i vattnet."
+
+Hon berättar historien med ett stelt leende och i neutralt tonläge. Ibland lutar hon sig lite framåt för att understryka.
+
+"På stranden träffade jag några lokala barn, cirkusbarn från en cirkus i närheten, de reste tälten, och jag började leka med dem. Outbildade barn, de frågade varifrån jag kom, och när jag sa ’Indien’ visste de inte var det låg, så jag sa ’Kina’. Hur som helst hade jag väldigt roligt.
+
+Det var först efter ett tag jag märkte att han hade gått upp ur vattnet, tagit på sig kläderna och försvunnit. När jag kom till hotellet var hans väskor borta.
+
+Först var jag rädd att," hon tar sig över huvudet och gör en skräckgrimas, "åh nej, han har tagit mitt pass och alla mina pengar, men allt fanns kvar, han hade bara gått. Jag tror att han blev svartsjuk på att jag lekte med barnen och inte med honom, så han lämnade mig."
+
+"Tja, jag tror egentligen inte att det hade med dig att göra," säger jag,"jag tror att det var något i hans förflutna."
+
+"Ja, och jag var så kär! Jag hade ringt mina döttrar och sagt ’Jag är så kär i den här mannen! Jag är så lycklig!’"
+
+Hon verkar förlorad i sin egen historia, jag försöker inflika,
+
+"Tja, jag tror att jag känner igen det här beteendet. Jag tror faktiskt att jag känner igen det väldigt väl. Jag tror att han hade sina problem, och att du väckte något i honom som han inte tyckte om hos sig själv, och därför bestämde han sig för att fly."
+
+"Ja, men jag älskade honom så, jag frågade alla vart han hade tagit vägen, jag reste till och med till de nästa platserna vi skulle ha åkt till, letade efter honom, men jag hittade honom aldrig."
+
+"Ja. Jag tror att det är så det är när man reser. Det blir väldigt lätt att agera på sådana impulser."
+
+"Ja. Men vad jag grät."
+
+"Jag tror, som du sa förut, att man aldrig riktigt känner någon."
+
+"Ja."
+
+Uma och jag gör sällskap ett par dagar sedan skiljs vi åt som man alltid gör när man reser ensam. Plötsligt är det bara Stefan igen.
 
 Och nu är jag i Pokhara, Nepal - det är grönt, skönt och stilla om än turistigt även här. Jag har åkt på magproblem för första gången, typiskt, men det verkar inte allvarligt. Jag får leva på soppa ett tag.
 
@@ -1461,9 +1422,9 @@ Kramar, Stefan
 
 _Dag 49. Pokhara. 19 november 2003._
 
-"Namaste. Is it ready?"
+"Namaste. Är den klar?"
 
-"No. Come back seven."
+"Nej. Kom tillbaka sju."
 
 Klockan är fyra. Tre timmar att slå ihjäl. Förutseende nog har han en bok med sig. Nu gäller det bara att hitta en restaurang.
 
@@ -1483,95 +1444,95 @@ Hon noterar hans blick ännu en gång, återvänder till sin tidning, ler för s
 
 Han betalar, reser sig upp, går in till hennes bord, frågar
 
-"Hi. May I join you?"
+"Hej. Får jag slå mig ner?"
 
-"Yes, please do," svarar hon. Hennes ögon lika lugna och öppna som han känner sina egna. Allt känns underligt självklart.
+"Ja, gör det," svarar hon. Hennes ögon lika lugna och öppna som han känner sina egna. Allt känns underligt självklart.
 
 Han hämtar sina saker, slår sig ner.
 
-"I’m Stefan," säger han, "from Sweden."
+"Jag heter Stefan," säger han, "från Sverige."
 
 "Aili." Hon uttalar det som "Alley."
 
-"I sat there watching you, and I saw you noticing me."
+"Jag satt där och tittade på dig, och jag såg att du lade märke till mig."
 
 Hon skrattar kort, avbryter,
 
-"I notice everything. All the time."
+"Jag lägger märke till allt. Hela tiden."
 
-"When I saw you care for the flame and smile for yourself, I decided to join you."
+"När jag såg dig ta hand om lågan och le för dig själv bestämde jag mig för att slå mig ner hos dig."
 
-"It was nice of you."
+"Det var snällt av dig."
 
-"Yeah, well, I have an hour to kill – I’m waiting for a shirt to be embroidered in a store on the other side of the street."
+"Ja, tja, jag har en timme att slå ihjäl - jag väntar på att en skjorta ska bli broderad i en butik på andra sidan gatan."
 
 "Oh. An hour to kill," syrligt leende.
 
-"Yes. Nice to meet you. Have you been in Pokara for long?"
+"Ja. Trevligt att träffas. Har du varit i Pokara länge?"
 
-"Too long. I came here eleven days ago, I was supposed to go on a trek, but I’m stuck, staying at my hotel meditating and reading, trying to find peace of mind. I hired a sleeping bag and a pair of boots the day I arrived, I’m still paying for them every day."
+"För länge. Jag kom hit för elva dagar sedan, jag skulle ge mig ut på vandring, men jag sitter fast, bor på mitt hotell och mediterar och läser, försöker hitta sinnesro. Jag hyrde en sovsäck och ett par kängor dagen jag kom hit, jag betalar fortfarande för dem varje dag."
 
 Nu märker han att lugnet inte känns naturligt. Det verkar påklistrat, som ett manér.
 
-"I’ve been here for four days, but I’ve been sick, so I haven’t done much either. Where are you from?"
+"Jag har varit här i fyra dagar, men jag har varit sjuk, så jag har inte heller gjort mycket. Varifrån kommer du?"
 
 "San Francisco."
 
-"Cool. I met a woman from San Fran in Varanasi. Her name was Uma, she was 58 and a vegan anarchist practicing voluntary poverty."
+"Coolt. Jag träffade en kvinna från San Fran i Varanasi. Hon hette Uma, hon var 58 och en vegan-anarkist som praktiserade frivillig fattigdom."
 
-"That’s San Francisco. I’m a psychotherapist and dancer studying healing through art."
+"Det där är San Francisco. Jag är psykoterapeut och dansare och studerar helande genom konst."
 
-Han flinar, börjar, "Take this the wrong way," hon avbryter,
+Han flinar, börjar, "Ta det här på fel sätt," hon avbryter,
 
-"The wrong way or the right way? Anyway, doesn’t matter."
+"På fel sätt eller rätt sätt? Spelar ingen roll."
 
-"The wrong way. What I was to say what that I think that must be the ultimate kliché, being a psychotherapist in California. The only thing more kliché would be being a psychotherapist in New York."
+"På fel sätt. Det jag skulle säga var att jag tycker det måste vara den ultimata klichén, att vara psykoterapeut i Kalifornien. Det enda som vore mer kliché vore att vara psykoterapeut i New York."
 
-"Thank you for saying that," säger hon med äkta glädje i rösten, om än med en vass biton, "I’ve been thinking about that too. I think maybe I’ve just been acting out the kliché, you know, I have this fantastic life," droppar av sarkasm i hennes röst, "a sea-side apartment in San Fran, studying spiritual healing; something I love, making good money on the side as a secretary at a law firm, and I’m not happy."
+"Tack för att du säger det," säger hon med äkta glädje i rösten, om än med en vass biton, "jag har tänkt på det också. Jag tror kanske att jag bara spelar ut klichén, du vet, jag har det här fantastiska livet," droppar av sarkasm i hennes röst, "en lägenhet vid havet i San Fran, studerar andligt helande; något jag älskar, tjänar bra med pengar vid sidan om som sekreterare på en advokatbyrå, och jag är inte lycklig."
 
-"I know what you mean. I’ve had a pretty good career myself; I have a CV, I mean, when I look at it, I wonder, who is this guy. And I was married for eight years, had a good apartment in Gothenburg, everything was kind of rolling, I had a small fortune, not like you have in the states, but pretty good for Swedish standards. Then I had my thirties crisis. Something just broke."
+"Jag vet vad du menar. Jag har haft en ganska bra karriär själv; jag har ett CV, jag menar, när jag tittar på det undrar jag, vem är den här killen. Och jag var gift i åtta år, hade en bra lägenhet i Göteborg, allt rullade på, jag hade en liten förmögenhet, inte som ni har i staterna, men ganska bra med svenska mått. Sedan fick jag min trettioårskris. Något bara gick sönder."
 
-Hon svarar "Yeah. I’m 28 so I’m up for my crisis as well. I feel it, just having two years left until," och låter meningen hänga.
+Hon svarar "Ja. Jag är 28 så det börjar bli dags för min kris också. Jag känner det, bara två år kvar tills," och låter meningen hänga.
 
-"You’re 28? You look younger. I’m 32."
+"Är du 28? Du ser yngre ut. Jag är 32."
 
-"You look young as well," återgäldar hon, tillägger sedan tonlöst, "good genes."
+"Du ser också ung ut," återgäldar hon, tillägger sedan tonlöst, "bra gener."
 
-"By the way," växlar han, "I’m a good judge of character, I have a really good intuition for this and I must say that your calm doesn’t feel genuine. It feels like a thin cover over something else. How does it feel to you?"
+"Förresten," växlar han, "jag är bra på att läsa människor, jag har väldigt bra intuition för sånt här och jag måste säga att ditt lugn inte känns äkta. Det känns som ett tunt täcke över något annat. Hur känns det för dig?"
 
-"Well, you could be true. It’s not something I’m aware of, it is something I have acquired, like a survival strategy. In my past I’ve been way too chaotic, going from one extreme to another. I liked it too much, but it got me into deep trouble, I had to contain that. But maybe I’ve just been covering up. I’m starting to get tired of being calm and centered. I miss the extreme."
+"Tja, du kan ha rätt. Det är inte något jag är medveten om, det är något jag har tillägnat mig, som en överlevnadsstrategi. Tidigare har jag varit alldeles för kaotisk, gått från en extrem till en annan. Jag tyckte för mycket om det, men det gav mig stora problem, jag var tvungen att hålla tillbaka det. Men kanske har jag bara täckt över. Jag börjar bli trött på att vara lugn och centrerad. Jag saknar det extrema."
 
-"Kind of makes you feel alive, right?"
+"Det får en att känna sig levande, eller hur?"
 
-"Yes!" utropar hon, rör snabbt vid hans hand. Han blinkar inte ens.
+"Ja!" utropar hon, rör snabbt vid hans hand. Han blinkar inte ens.
 
-"Maybe you have to find your synthesis?" föreslår han.
+"Kanske måste du hitta din syntes?" föreslår han.
 
-"Yes," börjar hon tveksamt, "but I’m scared, you see," fortsätter tvekande,
+"Ja," börjar hon tveksamt, "men jag är rädd, förstår du," fortsätter tvekande,
 
-"I’m a masochist," låter fortsättningen hänga tillräckligt länge för honom att fylla i,
+"Jag är masochist," låter fortsättningen hänga tillräckligt länge för honom att fylla i,
 
-"I’m a sadist."
+"Jag är sadist."
 
 En menande tystnad tätnar mellan deras ögon. De har båda lutat sig närmare varandra. Hon fortsätter,
 
-"How do you mean?"
+"Hur menar du?"
 
-"Actually, I think I’m a sadomasochist," svarar han, varje ord vägt på våg, "I enjoy receiving and inflicting pain, physical and emotional."
+"Egentligen tror jag att jag är sadomasochist," svarar han, varje ord vägt på våg, "jag njuter av att ta emot och tillfoga smärta, fysisk och emotionell."
 
-"I don’t find any joy in it. Do you really feel joy?"
+"Jag hittar ingen glädje i det. Känner du verkligen glädje?"
 
-"Yes," svarar han sakta, fundersamt, "I think so. You know, there’s beauty in suffering. There is, and there is bliss in beauty. And joy, bliss and beauty is mingled in some way, I don’t know."
+"Ja," svarar han sakta, fundersamt, "jag tror det. Du vet, det finns skönhet i lidande. Det gör det, och det finns salighet i skönhet. Och glädje, salighet och skönhet blandas på något sätt, jag vet inte."
 
-"But I was struggling. There’s no bliss in that."
+"Men jag kämpade. Det finns ingen salighet i det."
 
-"No. But I think of it as ‘striving’, maybe there’s two kinds of pain."
+"Nej. Men jag tänker på det som ’strävan’, kanske finns det två sorters smärta."
 
 Han förklarar,
 
-"After the divorce I went on a mission. I chucked my whole life out the window, my friends, work, apartment, everything. I was at that place where you have nothing to prove, not even to yourself, and nothing to lose, not even your own image of yourself as a decent person. For half a year I was a total pig. I was in search of a new platform, tried to find some true moral value to base my new life upon by getting rid of all the false ones, that I felt were constructions. I was trying, step-by-step to find and commit the one act that would separate me from humanity, you know, what would render me truly inhuman, what conduct could not possibly be considered human."
+"Efter skilsmässan gick jag in i ett uppdrag. Jag kastade hela mitt liv ut genom fönstret, mina vänner, jobbet, lägenheten, allt. Jag var på den plats där man inte har något att bevisa, inte ens för sig själv, och inget att förlora, inte ens sin egen bild av sig själv som en anständig människa. I ett halvår var jag ett totalt svin. Jag letade efter en ny plattform, försökte hitta något sant moraliskt värde att bygga mitt nya liv på genom att göra mig av med alla falska, dem jag upplevde som konstruktioner. Jag försökte, steg för steg, hitta och utföra den enda handling som skulle skilja mig från mänskligheten, du vet, vad som skulle göra mig verkligt omänsklig, vilket beteende som omöjligt kunde betraktas som mänskligt."
 
-"And did you succeed?"
+"Och lyckades du?"
 
 "No. I failed. I chickened out. I met a woman eight months after the divorce, and we had a passionate love affair. It was all-consuming, you know, with her I felt I could actually succeed. And I bailed. Now I’m kind of glad I did.
 
@@ -1579,37 +1540,37 @@ So, the only thing I know for sure about myself," upprepar han, "is that I striv
 
 I’ve done that my whole life, tried to become more, become something else. So that I will finally be loved. I think my whole life I’ve strived to find something worth striving for. I feel devoid, empty."
 
-"But that’s something," säger hon och rör vid hans hand. Han rör inte en min.
+"Men det är något," säger hon och rör vid hans hand. Han rör inte en min.
 
-"No. I think striving without a goal is rather pointless. It’s about willingness to be a tool."
+"Nej. Jag tycker att strävan utan mål är ganska meningslös. Det handlar om viljan att vara ett verktyg."
 
 "Exactly!" utropar hon och rör vid hans hand igen. Hon kunde lika väl sagt det med ord; ‘jag vill att du rör vid mig’.
 
-"I’ve always thought about it like that," fortsätter hon, ett finger ligger kvar på hans hand, "you know, I’m a healer, that’s when I feel bliss, helping people, healing them."
+"Jag har alltid tänkt på det så," fortsätter hon, ett finger ligger kvar på hans hand, "du vet, jag är en healer, det är då jag känner salighet, när jag hjälper människor, helar dem."
 
-"I had sex with a guy two weeks ago," hennes röst skorrar av något obestämbart, "more out of compassion than anything else. And I healed him. He said the experience had changed his whole view on life, he cancelled his journey and went back to Canada. But I felt drained, so empty and sad. Depleted. So I came here."
+"Jag hade sex med en kille för två veckor sedan," hennes röst skorrar av något obestämbart, "mer av medkänsla än något annat. Och jag helade honom. Han sa att upplevelsen hade förändrat hela hans syn på livet, han avbröt sin resa och åkte tillbaka till Kanada. Men jag kände mig dränerad, så tom och ledsen. Uttömd. Så jag kom hit."
 
-"I think maybe your challenge is to overcome that, to be able to heal without getting drained. I think there’s different kinds of energy, and people don’t need to be healed with chaotic energy. And that’s what I think you’re charged with."
+"Jag tror kanske att din utmaning är att övervinna det, att kunna hela utan att bli dränerad. Jag tror att det finns olika sorters energi, och människor behöver inte helas med kaotisk energi. Och det är vad jag tror att du är laddad med."
 
-"Yes. I think you’re right. I need to get that under control."
+"Ja. Jag tror att du har rätt. Jag måste få kontroll över det."
 
 Fast de har mycket att tala om, börjar samtalet avta. Det är sent, det märks på dem båda; rastlöst förbereder de adjö.
 
-"I’ve been totally asocial for the last two weeks," säger hon, "thank you for bringing me out of my solitude."
+"Jag har varit totalt asocial de senaste två veckorna," säger hon, "tack för att du förde mig ut ur min ensamhet."
 
-"Oh, the same goes for me. I’ve been avoiding people since I got here. I’m torn, I want to spend more time with you but I’m feeling very asocial right now."
+"Åh, detsamma gäller mig. Jag har undvikit människor sedan jag kom hit. Jag är kluven, jag vill tillbringa mer tid med dig men jag känner mig väldigt asocial just nu."
 
-"So do I," svarar hon.
+"Det gör jag också," svarar hon.
 
-"Is there any way I could get in contact with you, except for via e-mail?"
+"Finns det något sätt jag kan få kontakt med dig, förutom via e-post?"
 
-"There is this cafe, Monsoon, right by my guest house, Holy Valley Inn, they got excellent coffee, real coffee; french-pressed."
+"Det finns det här caféet, Monsoon, precis vid mitt gästhus, Holy Valley Inn, de har utmärkt kaffe, riktigt kaffe; french press."
 
-"Ahh, real coffee," säger han njutningsfullt, "I’m a caffeine addict," hon ler, börjar säga något. Han fortsätter, "Then I’ll have breakfast at cafe Monsoon at about, say, eightish?"
+"Ahh, riktigt kaffe," säger han njutningsfullt, "jag är koffeinist," hon ler, börjar säga något. Han fortsätter, "Då äter jag frukost på café Monsoon vid, säg, åttatiden?"
 
-"Yeah," svarar hon, "see you tomorrow then!"
+"Ja," svarar hon, "då ses vi imorgon!"
 
-"See you!"
+"Vi ses!"
 
 De skiljs åt utan vidare åthävor.
 
@@ -1621,11 +1582,11 @@ Någonting känns som om det sitter i halsen, i bröstet, något vill ut som sit
 
 Plötsligt vill han inte längre träffa henne. Han vill faktiskt inte vara i närheten av människor alls. Han önskar att bara fly upp i ett berg någonstans.
 
-Han bestämmer sig för att hyra en MC. Han reser sig upp, betalar, lämnar boken till receptionisten, ber honom ge den till "the girl in room #8"
+Han bestämmer sig för att hyra en MC. Han reser sig upp, betalar, lämnar boken till receptionisten, ber honom ge den till "flickan i rum #8"
 
 Han tar MC:n ut på en slumpmässig väg, mot bergen, den blir snabbt en jeep-stig, fruktansvärd att köra; grus, stenar och gropar tar all hans uppmärksamhet, han har knappt råd att avnjuta de underbart vackra vyerna över gröna berg, risfält och småbyar. Barnen kommer skrikande ‘hello, hello!’ och blir ytterligare hinder att väja för.
 
-Det gör honom gott. När han kommer tillbaka till hotellet är klumpen glömd, och receptionisten ger honom en lapp med ett menande leende; "A message for you, sir."
+Det gör honom gott. När han kommer tillbaka till hotellet är klumpen glömd, och receptionisten ger honom en lapp med ett menande leende; "Ett meddelande till dig, sir."
 
 "12:45 pm
 
@@ -1635,69 +1596,69 @@ Hello! Sorry to miss you this am. I slept horribly last night & needed to sleep 
 Love
 Aili"
 
-"If you desire," underligt ordval tänker han, duschar, sover en timme, byter kläder. Står en stund stilla mitt i rummet, stirrar tomt framför sig, väger för och emot, tar sedan en kondom ur necessären och stoppar i fickan.
+"Om du önskar," underligt ordval tänker han, duschar, sover en timme, byter kläder. Står en stund stilla mitt i rummet, stirrar tomt framför sig, väger för och emot, tar sedan en kondom ur necessären och stoppar i fickan.
 
 Better safe than sorry.
 
 Han knackar på hennes dörr, och de hittar en bra restaurang. Samtalet tar ny fart. De diskuterar hennes trek, självförakt och tidigare älskare.
 
-"You know," säger hon, "I so often connect from the sexual chakra first, and then just hoping for a head chakra connection as well."
+"Du vet," säger hon, "jag knyter så ofta an från sexualchakrat först, och hoppas sedan bara på en koppling i huvudchakrat också."
 
-"Yes. My ex wife is the only woman I was friends with before anything else, and that held for twelve years. All the others have started out as physical connections, except for the passionate one, but that started out as intellectual because we met over the internet, but intellectual is not the same as friendship."
+"Ja. Min exfru är den enda kvinna jag var vän med innan något annat, och det höll i tolv år. Alla de andra har börjat som fysiska kopplingar, förutom den passionerade, men den började intellektuellt eftersom vi träffades över internet, men intellektuellt är inte samma sak som vänskap."
 
-"No," håller hon med, "it isn’t. I’ve had that kind of relation too."
+"Nej," håller hon med, "det är det inte. Jag har också haft den sortens relation."
 
 De är tysta ett ögonblick, förlorade i var sin värld.
 
-"By the way," börjar hon, "we were talking about pain the other day. I’ve been thinking about that. Why do we do these things to ourselves?"
+"Förresten," börjar hon, "vi pratade om smärta häromdagen. Jag har tänkt på det. Varför gör vi sådana här saker mot oss själva?"
 
-"Well," svarar han, "in my case, It feels like I’ve grabbed myself by the neck and keep rattling myself violently, hoping that it will all come apart at some time. The experiments, the self-loathing, pain, drugs, extreme sex, they’re all ways to come undone. So that hopefully the parts would fall in a new pattern, something I could live with. It’s about killing the old to let something new take its place."
+"Tja," svarar han, "i mitt fall känns det som om jag har tagit mig själv i nacken och fortsätter skaka mig våldsamt, i hopp om att allt någon gång ska falla isär. Experimenten, självföraktet, smärtan, drogerna, det extrema sexet, allt är sätt att gå upp i sömmarna. Så att delarna förhoppningsvis faller i ett nytt mönster, något jag kan leva med. Det handlar om att döda det gamla så att något nytt kan ta dess plats."
 
-"Yes," tillägger hon mjukt, "I can relate to that. Do you think you will ever succeed?"
+"Ja," tillägger hon mjukt, "jag kan relatera till det. Tror du att du någonsin kommer att lyckas?"
 
-"I don’t know. Of course, it’s also a question of following through; I had a spontaneous kundalini experience once. It was during sex with the passionate woman, it was a spiritual thing as well, I felt something stirring in the end of my back, by the pelvis, and it was moving up my spine, and I was terrified. I knew with absolute certainty that if that energy was allowed to reach my brain, I would truly die in some respect. So I aborted, stopped, ran away from it."
+"Jag vet inte. Naturligtvis är det också en fråga om att fullfölja; jag hade en spontan kundaliniupplevelse en gång. Det var under sex med den passionerade kvinnan, det var också en andlig sak, jag kände något röra sig längst ner i ryggen, vid bäckenet, och det rörde sig upp längs ryggraden, och jag blev livrädd. Jag visste med absolut säkerhet att om den energin tilläts nå min hjärna skulle jag verkligen dö i något avseende. Så jag avbröt, stannade, flydde från det."
 
-"I’ve had a similar experience," svarar hon, "do you know of Ayahuasca?"
+"Jag har haft en liknande upplevelse," svarar hon, "känner du till Ayahuasca?"
 
-"No?"
+"Nej?"
 
-"Have you read Carlos Castaneda?"
+"Har du läst Carlos Castaneda?"
 
-"I started once, but frankly I found the book boring."
+"Jag började en gång, men ärligt talat tyckte jag boken var tråkig."
 
-"Well, it’s the only reference people seem to understand. You know, in it, they work with Peyote, well, Ayahuasca is an even more potent drug. It’s not mainly a hallucinogenic, although it can have that effect. What it does... Ayahuasca means ‘dead spirits’ – you ingest the spirits and allow them to work within you. I don’t know why, but I got this calling to go to Peru and work with this shaman. I had three sessions with him. The first was just awful. You know, it’s so potent, you vomit and get sick, I spent twelve hours screaming, shitting on the floor and vomiting. It was horrible.
+"Tja, det är den enda referens folk verkar förstå. Du vet, i den arbetar de med peyote, ja, Ayahuasca är en ännu mer potent drog. Den är inte huvudsakligen hallucinogen, även om den kan ha den effekten. Det den gör... Ayahuasca betyder ‘döda andar’ - man sväljer andarna och låter dem arbeta inom en. Jag vet inte varför, men jag fick den här kallelsen att åka till Peru och arbeta med den här shamanen. Jag hade tre sessioner med honom. Den första var bara fruktansvärd. Du vet, det är så potent, man kräks och blir sjuk, jag tillbringade tolv timmar med att skrika, skita på golvet och kräkas. Det var hemskt.
 
-You know near death experiences when your whole life pass by, and you relive moments? Different people have different experiences. And this was one of those. Somebody said we will die as we have lived. My death is drowning, it felt like I was drowning. And I know that if I don’t change my life, that is how it will be.
+Du vet nära döden-upplevelser när hela ens liv passerar förbi och man återupplever ögonblick? Olika människor har olika upplevelser. Och det här var en sådan. Någon sa att vi dör som vi har levt. Min död är drunkning, det kändes som om jag drunknade. Och jag vet att om jag inte förändrar mitt liv, så är det så det kommer att bli.
 
-Anyway, the thing was that I was taken to the doorway, but I didn’t go through – I fought it, and spent 12 hours just fighting it, scared as hell. That was awful."
+Hur som helst, saken var att jag fördes till dörröppningen, men jag gick inte igenom - jag kämpade emot, och tillbringade 12 timmar med att bara kämpa emot, livrädd. Det var fruktansvärt."
 
-"Maybe you weren’t ready," föreslår han.
+"Kanske var du inte redo," föreslår han.
 
-"No."
+"Nej."
 
-"I’ve only had one experience with hallucinogenics, I had mushrooms. But there was that point where I, you know, felt system by system shutting down, and you reach that point where you realize that, I can’t move, I can’t talk. If I was about to die now, I couldn’t call for help."
+"Jag har bara haft en erfarenhet av hallucinogener, jag tog svamp. Men det kom den där punkten när jag, du vet, kände system efter system stänga av, och man når den punkt där man inser att, jag kan inte röra mig, jag kan inte prata. Om jag höll på att dö nu skulle jag inte kunna kalla på hjälp."
 
-"Yeah, that was it. You better not hesitate then."
+"Ja, det var det. Då är det bäst att inte tveka."
 
-"No," fortsätter han, "I realized then that I could not allow myself to be afraid, because if I did, it would go really, really bad."
+"Nej," fortsätter han, "jag insåg då att jag inte kunde tillåta mig att vara rädd, för om jag gjorde det skulle det gå riktigt, riktigt illa."
 
-"Yes. But do you think it will ever stop, the pain?"
+"Ja. Men tror du att det någonsin kommer att sluta, smärtan?"
 
-"I think it’s like this," säger han och sätter upp ett pekfinger riktat mot hennes bröstkorg, kommenterar i förbigående, "sorry for intruding on your personal space," och trycker in fingret i gropen där precis i gränslandet mellan det neutrala bröstbenet och det erogena slättlandet vars sluttning slutar i bröstens tyngd. Han trycker tillräckligt hårt för att kunna vara säker på att smärtan efteråt kommer att lämna ett eko under hennes bröstvårta, en gnagande påminnelse.
+"Jag tror att det är så här," säger han och sätter upp ett pekfinger riktat mot hennes bröstkorg, kommenterar i förbigående, "förlåt att jag inkräktar på ditt personliga utrymme," och trycker in fingret i gropen där precis i gränslandet mellan det neutrala bröstbenet och det erogena slättlandet vars sluttning slutar i bröstens tyngd. Han trycker tillräckligt hårt för att kunna vara säker på att smärtan efteråt kommer att lämna ett eko under hennes bröstvårta, en gnagande påminnelse.
 
 Han håller kvar fingret, ser henne i ögonen,
 
-"You feel this? It’s uncomfortable, but you can live with it. After a while, it becomes pain. Either you move to escape it, or you learn to live with it. If the cost of removing the pain is bigger than the pain, you’d be stupid to move. If the cost is lesser, you’d be stupid not to."
+"Känner du det här? Det är obekvämt, men du kan leva med det. Efter ett tag blir det smärta. Antingen flyttar du dig för att slippa den, eller så lär du dig leva med den. Om kostnaden för att ta bort smärtan är större än smärtan, vore du dum om du flyttade dig. Om kostnaden är mindre, vore du dum om du inte gjorde det."
 
 Han tar ner fingret.
 
-"So," säger hon, "what you’re saying is that we build up frustrations until we move?"
+"Så," säger hon, "det du säger är att vi bygger upp frustrationer tills vi rör på oss?"
 
-"Yes."
+"Ja."
 
-"But the pain always comes back. Or, that is what I’m afraid of. That it will come back."
+"Men smärtan kommer alltid tillbaka. Eller, det är det jag är rädd för. Att den ska komma tillbaka."
 
-"Look," säger han, gör återigen ett pekfinger, trycker den här gången in den på samma ställe över hennes högra bröst. De två akupressurpunkterna och deras resonanspunkter bildar nu en en sköld över hennes byst, som om han smekt henne ömt och länge mellan och över brösten.
+"Titta," säger han, gör återigen ett pekfinger, trycker den här gången in den på samma ställe över hennes högra bröst. De två akupressurpunkterna och deras resonanspunkter bildar nu en en sköld över hennes byst, som om han smekt henne ömt och länge mellan och över brösten.
 
 Han håller fingret still, säger
 
@@ -1709,53 +1670,53 @@ Hon lutar sig tillräckligt mycket bakåt för att fingret inte längre ska nudd
 
 Hon lutar sig mot hans finger.
 
-"You understand? Now, lean backwards again."
+"Förstår du? Luta dig bakåt igen nu."
 
 Hon lyder. En halv sekund senare följer han efter med fingret, borrar återigen in det i överdelen av hennes bröstkorg.
 
-"I think it’s like that," konkluderar han.
+"Jag tror att det är så," konkluderar han.
 
-"So," summerar hon, "you’re always on the run?"
+"Så," summerar hon, "du är alltid på flykt?"
 
-"Yes. Something like that."
+"Ja. Något sådant."
 
 Han tar hennes hand, håller den, smeker henne semimekaniskt över knogarna. Plötsligt överväldigas han av en trötthet, känslan att de inte har mer att säga till varandra fyller hans sinne. Dags att sluta prata.
 
-"So, Aili, to be frank, how do you want to end this evening?"
+"Så, Aili, för att vara rak, hur vill du avsluta den här kvällen?"
 
-"I’ve been thinking about that."
+"Jag har tänkt på det."
 
-"Well. I know what I want. I want us to go to your hotel and cuddle up in a corner."
+"Tja. Jag vet vad jag vill. Jag vill att vi går till ditt hotell och kryper ihop i ett hörn."
 
-"I think that would be nice, but to be honest, I’m scared of it."
+"Jag tror att det skulle vara fint, men ärligt talat är jag rädd för det."
 
-"Actually, so am I."
+"Egentligen är jag det också."
 
-"It feels like I’m running away, though. Maybe I shouldn’t."
+"Det känns som om jag flyr, ändå. Kanske borde jag inte."
 
-"Maybe you should."
+"Kanske borde du."
 
-"I know what I want to do to begin with," konstaterar hon,"I want to follow you a bit on the way to your hotel."
+"Jag vet vad jag vill göra till att börja med," konstaterar hon,"jag vill följa dig en bit på vägen till ditt hotell."
 
-"Sounds like a good idea. Let’s do that."
+"Det låter som en bra idé. Vi gör så."
 
 De betalar, börjar promenera mot hans hotell. Efter ett par steg lägger han armen om hennes axlar. Det känns konstlat och inte alls bra, men hon suckar djupt och säger
 
-"Oh, I so needed this," så han låter armen ligga kvar.
+"Åh, jag behövde det här så mycket," så han låter armen ligga kvar.
 
 De kommer till en vägkrok, hon stannar upp, han vänder sig mot henne.
 
-"This is as far as I want to go."
+"Det här är så långt jag vill gå."
 
 "Okay," svarar han och drar henne intill sig.
 
-"I’m torn between wanting to go on my trek and staying here, spending time with you."
+"Jag slits mellan att vilja ge mig ut på min vandring och att stanna här, tillbringa tid med dig."
 
-"I think we’ve done everything we were supposed to do. Tomorrow, you go on your trek, and I go to Kathmandu. I feel it in every bit of my body that we’re not supposed to meet again. But I’m happy we did."
+"Jag tror att vi har gjort allt vi skulle göra. Imorgon går du ut på din vandring, och jag åker till Kathmandu. Jag känner i varje del av min kropp att det inte är meningen att vi ska träffas igen. Men jag är glad att vi gjorde det."
 
 Han kramar henne, innesluter henne, lägger sitt huvud på hennes. De står så en stund.
 
-"Mmm," spinner hon, "you’re comfy!"
+"Mmm," spinner hon, "du är mysig!"
 
 "Yeah."
 
@@ -1765,7 +1726,7 @@ De kramas igen, en sista gång, lösgör sig. Återigen vill inte fingrarna sama
 
 "See ya."
 
-"Yeah, good night!"
+"Ja, god natt!"
 
 Han vinkar, vänder sig sedan om och går mot hotellet, motstår en impuls att stoppa de olydiga händerna i fickorna.
 
@@ -1775,77 +1736,77 @@ Vid sextiden stänger han av väckarklockan innan den ringt, tar en dusch. I dus
 
 Han slår sig ner på kaféet, personalen förbereder för dagen. Han beställer ett stadigt frukostpaket och öppnar sin bok.
 
-Det är Zen and the Art of Motorcycle Maintenance. Han tänker på Robert: "Peace of mind is the whole thing. That which produces it is good maintenance. That which disturbs it is poor maintenance. What we call workability of the machine is just an objectification of this peace of mind. The ultimate test’s always your own serenity."
+Det är Zen och konsten att sköta en motorcykel. Han tänker på Robert: "Sinnesro är hela saken. Det som skapar den är bra underhåll. Det som stör den är dåligt underhåll. Maskinens funktion är bara en objektifiering av denna sinnesro. Det yttersta testet är alltid ditt eget lugn."
 
 Det var den boken han gav Aili.
 
 Han hinner inte läsa en halv sida förrän hon kommer till hans bord, säger
 
-"Good morning."
+"God morgon."
 
-"Good morning," svarar han, och efter att hon satt sig ner ler han och fortsätter,
+"God morgon," svarar han, och efter att hon satt sig ner ler han och fortsätter,
 
-"You know, I’m kind of disappointed you came down – I fantasized about knocking on your door, shouting Room service; one warm and comfy Stefan as per order."
+"Du vet, jag är lite besviken på att du kom ner - jag fantiserade om att knacka på din dörr och ropa Room service; en varm och mysig Stefan enligt beställning."
 
-"I didn’t want to talk to you this morning. I saw you, and thought, should I turn and go back to my room?"
+"Jag ville inte prata med dig i morse. Jag såg dig, och tänkte, borde jag vända och gå tillbaka till mitt rum?"
 
-"Yesterday I felt we were done, but this morning, I felt, No."
+"Igår kände jag att vi var klara, men i morse kände jag, nej."
 
-"Now I’m glad you did."
+"Nu är jag glad att du gjorde det."
 
 Hon beställer sin frukost.
 
-"I hope you don’t mind me being frank, but," börjar han,
+"Jag hoppas du inte har något emot att jag är rak, men," börjar han,
 
-"I’m a bit surprised, because, you know, we talked about connecting on different levels last night. I must admit that I don’t feel we’ve connected at all. It’s all just words, no substance."
+"jag är lite förvånad, för, du vet, vi pratade om att knyta an på olika nivåer i går kväll. Jag måste erkänna att jag inte känner att vi har knutit an alls. Det är bara ord, ingen substans."
 
-"I do," kontrar hon, "I feel it’s on a very spiritual level, though. It’s clear, pristine."
+"Det gör jag," kontrar hon, "jag känner att det är på en väldigt andlig nivå, dock. Den är klar, orörd."
 
-"I think you could be right," erkänner han, "I might just not have the eyes to see with."
+"Jag tror att du kan ha rätt," erkänner han, "jag kanske bara inte har ögonen att se med."
 
-"Sometimes you know, you feel your life is put on hold, you’re waiting for something to happen, somebody to come along. When that happens, instead of just enjoying yourself and looking forward to it to happen in due time, I get restless. That’s kind of sad."
+"Ibland, du vet, känns det som om livet har pausats, man väntar på att något ska hända, att någon ska dyka upp. När det händer blir jag rastlös, istället för att bara njuta och se fram emot att det ska hända när tiden är inne. Det är ganska sorgligt."
 
-"Yesterday morning, when I was waiting for you, I had this feeling in my heart, I think I was crying for myself, for how utterly lost I have become."
+"Igår morse, när jag väntade på dig, hade jag den här känslan i hjärtat, jag tror att jag grät över mig själv, över hur fullständigt vilse jag har blivit."
 
-"The author of the book I’m reading right now says it’s when you’ve reached that feeling of being lost the real healing can begin."
+"Författaren till boken jag läser just nu säger att det är när man har nått den där känslan av att vara vilse som det verkliga helandet kan börja."
 
-"I don’t think I’m quite there yet. I haven’t accepted it yet. I’m so lost in my impulses. And I’m very good at what I do."
+"Jag tror inte att jag riktigt är där än. Jag har inte accepterat det än. Jag är så vilse i mina impulser. Och jag är väldigt bra på det jag gör."
 
 Han sätter händerna ut från tinningarna,
 
-"What do you call those things that you put on horses?"
+"Vad kallar man de där sakerna man sätter på hästar?"
 
 "Blinders?"
 
-"Yeah, blinders. When I’m in a serious relationship I put the blinders on, I don’t even see other women. I’m very monogamous."
+"Ja, skygglappar. När jag är i ett seriöst förhållande sätter jag på skygglapparna, jag ser inte ens andra kvinnor. Jag är väldigt monogam."
 
-"So am I," instämmer hon.
+"Det är jag också," instämmer hon.
 
-"Well, I’ve had the blinders on for five months now," börjar han, "not looked at a woman at all and being rather happy about that, and then, in Varanasi, I went to the train station to buy a ticket. I was in a kind of zen state, just thinking about my plans, so I just barely noticed this attractive woman, I asked her if the empty chair besides her was the end of the line, and then we started talking about our travels, and one thing led to another and in two or three minutes, I had a date for the day after. I was in total shock, you know, like, what the hell happened? I sat crying in the ricksha on the way back to my hotel, like, Oh god will it never end?"
+"Tja, jag har haft skygglapparna på i fem månader nu," börjar han, "inte tittat på en kvinna alls och varit ganska nöjd med det, och sedan, i Varanasi, gick jag till tågstationen för att köpa en biljett. Jag var i ett slags zenläge, tänkte bara på mina planer, så jag lade knappt märke till den här attraktiva kvinnan, jag frågade henne om den tomma stolen bredvid henne var slutet på kön, och sedan började vi prata om våra resor, och det ena ledde till det andra och på två eller tre minuter hade jag en dejt för dagen efter. Jag var i total chock, du vet, typ, vad fan hände? Jag satt och grät i rickshawn på vägen tillbaka till hotellet, typ, herregud ska det aldrig ta slut?"
 
-"I think it will. It just takes time."
+"Jag tror det. Det tar bara tid."
 
-"Impulses. You know," konstaterar han, "If this was six months ago, we would have had sex last night."
+"Impulser. Du vet," konstaterar han, "om det här hade varit för sex månader sedan hade vi haft sex i går kväll."
 
-"If it was two weeks ago, yes. But not now."
+"Om det hade varit för två veckor sedan, ja. Men inte nu."
 
-"If you would’ve wanted to, if you’d been more assertive, then I wouldn’t have stood a chance. I would have been a sitting duck."
+"Om du hade velat, om du hade varit mer bestämd, då hade jag inte haft en chans. Jag hade varit ett sittande mål."
 
 Hon sänker huvudet i en sakta nick, allvarliga ögon.
 
-"But I would have felt so empty."
+"Men jag hade känt mig så tom."
 
 Hon tittar på klockan, den närmar sig nio.
 
-"I’m restless. I’m trying to muster enough energy to act."
+"Jag är rastlös. Jag försöker samla tillräckligt med energi för att agera."
 
-"Then it’s time you got going," reser han sig plötsligt upp, konstaterar,
+"Då är det dags att du ger dig av," reser han sig plötsligt upp, konstaterar,
 
-"I think this is, again, the end of line. Time for you to go on your trek."
+"Jag tror att det här återigen är slutstationen. Dags för dig att ge dig ut på din vandring."
 
-"Yeah. I hope we meet again. But that’s not up to us, is it?"
+"Ja. Jag hoppas att vi träffas igen. Men det är inte upp till oss, eller hur?"
 
-"No."
+"Nej."
 
 De kramas. Den här gången känns det alltigenom bra. Han går, vinkar hejdå, försvinner runt hörnet.
 
@@ -1866,20 +1827,20 @@ Vilket jag ju inte gjorde, för nästa morgon vaknade jag med den där obestämb
 
 Ett kvarter nedför gatan ser jag en man i shorts precis stiga av en cykel framför ett café, så jag frågar;
 
-"Are you having breakfast?"
-"Yes."
-"Is this a good place?"
-"Yes. They got real coffee."
-"Great! Do you mind if I join you?"
-"No, please do."
+"Ska du äta frukost?"
+"Ja."
+"Är det här ett bra ställe?"
+"Ja. De har riktigt kaffe."
+"Toppen! Gör det något om jag slår mig ner?"
+"Nej, gör det."
 
 Det visar sig att han heter Robert, är invandrad amerikan, har bott tretton år i Nepal och jobbar som engelsklärare på en skola i närheten.
 
-Jag förklarar mitt predikament, att jag inte vet något om Nepal, men vill vidare, han säger; "Well, you could go to Bhaktapur. It’s a lovely place, clean and quiet."
+Jag förklarar mitt predikament, att jag inte vet något om Nepal, men vill vidare, han säger; "Tja, du skulle kunna åka till Bhaktapur. Det är en underbar plats, ren och stillsam."
 
 Så, Bhaktapur it is. Jag återvänder till hotellet, packar mina saker, checkar ut.
 
-På bussen läser jag dagstidningen "The Himalayan" jag norpat med mig från caféet; kan bara nicka instämmande när jag i en artikel om frivilligorganisationen Human Rights and Peace Society läser ordföranden stolt deklamera: "We believe HURPES can make a difference!"
+På bussen läser jag dagstidningen "The Himalayan" jag norpat med mig från caféet; kan bara nicka instämmande när jag i en artikel om frivilligorganisationen Human Rights and Peace Society läser ordföranden stolt deklamera: "Vi tror att HURPES kan göra skillnad!"
 
 Bhaktapur är fantastiskt. En riktigt gammal liten stad späckad med tempel, gårdar av olika storlekar och trånga gränder. Jag knakar min ryggsäck längs huvudgatan, det är så vackert, cd-affärerna spelar ’om mani padme om’-spåret man hör överallt i Nepal på rimlig volym och för en gångs skull kan inte ens försäljarna av billigt krimskrams dra ner intrycket. Lovely!
 
@@ -1895,9 +1856,9 @@ Jag sätter mig tittar ut genom ett fönster utan glas med gröna fönsterluckor
 
 Pojken sätter sig mittemot. Jag ignorerar honom så gott det går, inte på humör för sånt idag. Jag beställer chow mein och plain lassi till frukost och servitören undrar om jag vill beställa något åt pojken.
 
-"Well, should I?" frågar jag. Servitören ser osäker ut.
+"Tja, borde jag det?" frågar jag. Servitören ser osäker ut.
 
-"He just followed me here. I have no idea who he is."
+"Han följde bara efter mig hit. Jag har ingen aning om vem han är."
 
 Servitören noterar ner min beställning, försvinner. Efter ett tag kommer han tillbaka med min lassi och kör bort pojken.
 
@@ -1955,7 +1916,7 @@ Istället promenerar jag längs stigar tillbaka, följer en fors, får mig till 
 
 En getherde böjer ner ett träd för att förse sina getter med frodiga löv. Jag frågar honom om jag får ge en get resten av mitt äpple. Han ler tandlöst och nickar.
 
-Jag stannar vid ett skjul och får mig nepalesisk lunch och autentiskt småprat till livs. Vi pratar om Sverige; "No. Not Switzerland. Different countries. No, not close. Yes, both in Europe." och alla blir extra intresserade när jag nämner att jag varit i Indien.
+Jag stannar vid ett skjul och får mig nepalesisk lunch och autentiskt småprat till livs. Vi pratar om Sverige; "Nej. Inte Schweiz. Olika länder. Nej, inte nära. Ja, båda ligger i Europa." och alla blir extra intresserade när jag nämner att jag varit i Indien.
 
 Det verkar nämligen finnas någon sorts rivalitet mellan Nepal och Indien. Nepaleserna vill väldigt gärna höra att det är en skillnad mellan Nepaleser och Indier; de blir ställda, missnöjda, när jag inte håller med.
 
@@ -1967,19 +1928,19 @@ Byt ut rickshaw-walas mot guider, kläder och tyger mot sniderier och tänkas; t
 
 Jag börjar bli grymt trött på drillen:
 
-"Hello!" eller "Namaste!" (Ge mig uppmärksamhet!)
+"Hej!" eller "Namaste!" (Ge mig uppmärksamhet!)
 
-"Where are you from?" (Hur mycket kan jag tjäna på dig och var ska jag lägga ingångsbudet? Israeler prutar som om livet berodde på det, européer är mer sansade, tyskar och amerikaner betalar vilket pris som helst.)
+"Varifrån kommer du?" (Hur mycket kan jag tjäna på dig och var ska jag lägga ingångsbudet? Israeler prutar som om livet berodde på det, européer är mer sansade, tyskar och amerikaner betalar vilket pris som helst.)
 
-Följt av en kommentar om ditt land, "I have a friend in Sweden!", "Cold country, you live in Stockholm?" eller, om de inte vet något om ditt land, "Nice country!" (Indierna är betydligt mer professionella och drillade på den här biten. En höjdpunkt var när en kanske 10-årig Indisk pojke kavat försökte sig på drillen, inte hade hört talas om mitt land och helt sonika vände på klacken och gick sin väg - sur som ett litet pH-stinnt åskmoln.)
+Följt av en kommentar om ditt land, "Jag har en vän i Sverige!", "Kallt land, bor du i Stockholm?" eller, om de inte vet något om ditt land, "Fint land!" (Indierna är betydligt mer professionella och drillade på den här biten. En höjdpunkt var när en kanske 10-årig Indisk pojke kavat försökte sig på drillen, inte hade hört talas om mitt land och helt sonika vände på klacken och gick sin väg - sur som ett litet pH-stinnt åskmoln.)
 
-"What is your name? Nice to meet you! {skaka hand}" (Ge mig mer av din uppmärksamhet!)
+"Vad heter du? Trevligt att träffas! {skaka hand}" (Ge mig mer av din uppmärksamhet!)
 
-"How long have you been here?" (Hur stor risk är det att du har hunnit lära dig hantera drillen här?)
+"Hur länge har du varit här?" (Hur stor risk är det att du har hunnit lära dig hantera drillen här?)
 
-"Where do you stay?" (Så jag vet var jag kan få tag på dig om du verkar lovande.)
+"Var bor du?" (Så jag vet var jag kan få tag på dig om du verkar lovande.)
 
-"Have you been to the {insert local tourist trap here}?" (För om du inte har det, så visar jag dig det gärna mot en mindre slant. Eller min vän som jag får kommission av.)
+"Har du varit vid {infoga lokal turistfälla här}?" (För om du inte har det, så visar jag dig det gärna mot en mindre slant. Eller min vän som jag får kommission av.)
 
 Kanske vart femte människa du stöter på kör drillen. Och det är ganska många på en dag.
 
@@ -2004,17 +1965,17 @@ _Dag 53. Bhaktapur. 23 november 2003._
 
 Explosionerna kommer med sex-sju sekunders mellanrum, precis så man tror att varje är den sista.
 
-"I’ve heard that before," säger jag, "what is it, an exercise?"
-"No," svarar Gautam, "I don’t think so. Maoists."
-"Look! Look, over there, is that a smoke cloud?"
+"Jag har hört det där förut," säger jag, "vad är det, en övning?"
+"Nej," svarar Gautam, "jag tror inte det. Maoister."
+"Titta! Titta, där borta, är det ett rökmoln?"
 
 Vi kisar båda med pannorna i spända veck över dalen till andra sidan. Det är disigt, kanske är det bara höga träd?
 
-"No," säger Gautam igen, efter att ha sett efter en andra gång, "it’s only forest."
-"Forest, yeah," svarar jag, och vi börjar promenera igen. Inte länge dock, för nästa gång jag tittar ut över dalen lägger jag handen på Gautams axel, säger
-"No, look! It’s smoke. What’s that over there?"
+"Nej," säger Gautam igen, efter att ha sett efter en andra gång, "det är bara skog."
+"Skog, ja," svarar jag, och vi börjar promenera igen. Inte länge dock, för nästa gång jag tittar ut över dalen lägger jag handen på Gautams axel, säger
+"Nej, titta! Det är rök. Vad är det där borta?"
 "Nagarkot."
-"Jesus. I was there three days ago."
+"Jesus. Jag var där för tre dagar sedan."
 
 Sedan börjar skriken.
 
@@ -2026,32 +1987,32 @@ Ringen hade ett maskinfräst mönster längs två tredjedelar av längden, reste
 
 För två dagar sedan gick jag förbi en smidesbutik precis utanför mitt gästhus, såg mannen därinne sitta och arbeta, kom ihåg ringen, steg in.
 
-"Namaste. I have a ring, it’s too big, how much to make it smaller?"
+"Namaste. Jag har en ring, den är för stor, hur mycket kostar det att göra den mindre?"
 "50 rupees."
-"Okay, I’ll just get it."
+"Okej, jag hämtar den bara."
 
 När jag kommer tillbaka inspekterar han ringen, börjar såga i den. Jag tittar runt i butiken, ser att hans ringar har fina mönster, frågar,
 
-"Do you make these?"
-"Yes."
-"Could you make a pattern on the blank part of the ring?"
-"Not like this. This is machine-made. No man can do."
+"Gör du de här?"
+"Ja."
+"Skulle du kunna göra ett mönster på den blanka delen av ringen?"
+"Inte så här. Den här är maskingjord. Ingen människa kan göra det."
 "But another pattern like it?"
-"Yes. But not me. I’m not a craftsman. I can take you to craftsman tomorrow."
-"Yes, please. When?"
+"Ja. Men inte jag. Jag är ingen hantverkare. Jag kan ta dig till hantverkare imorgon."
+"Ja tack. När?"
 "Eight o’clock tomorrow morning."
 "Ok."
 
 Så, åtta morgonen efter promenerade vi ut ur gamla staden till ett kyffe i ett gammalt hus, det fanns inte ens dörrar mellan lägenheterna, bara draperier.
 
-"Old houses," sa smeden,"very bad."
-"Yes," svarade jag eftertänksamt, "but we want it like that. Is very beautiful to look at, but not to live in. We want it like that. We don’t want you to have new houses."
+"Gamla hus," sa smeden,"mycket dåliga."
+"Ja," svarade jag eftertänksamt, "men vi vill ha det så. Det är väldigt vackert att titta på, men inte att leva i. Vi vill ha det så. Vi vill inte att ni ska ha nya hus."
 
 I kyffet hade hantverkaren sin studio. Rena plåtar, verktyg och utsökta konsthantverk huller om buller.
 
 Jag försöker förklara för hantverkaren att jag vill ha hans tolkning av maskinmönstret i egenskap av konstnär, att jag vill att mönstret ska fortsätta, men att det ska vara en människas svar på det hårda, maskinella mönstret, gärna med snirklar och blad, något som ingen maskin skulle klara.
 
-"I can make a dragon," svarar han kort.
+"Jag kan göra en drake," svarar han kort.
 
 Tankfull tystnad, mental regruppering.
 
@@ -2059,37 +2020,37 @@ Tankfull tystnad, mental regruppering.
 
 Medan han knackar fram en drake ur mitt silver går jag och smeden ner och tar en kopp chai.
 
-"I’m Stefan."
+"Jag heter Stefan."
 "Gautam."
-"Nice to meet you. I have trouble with Nepali names."
-"But you will remember mine."
-"Yes, because it sounds like ’Gotham’, you know, where Batman lives."
+"Trevligt att träffas. Jag har svårt med nepalesiska namn."
+"Men du kommer att minnas mitt."
+"Ja, för det låter som ’Gotham’, du vet, där Batman bor."
 
 Han nickar.
 
-"Do you have any children," frågar jag.
-"No. But my wife is pregnant."
-"Oh. Congratulations!"
-"Thank you. We are very worried. She has lost two babies before. Stomach trouble."
-"I have a friend who lost a baby recently, her man ran away. I was so angry I wanted to kill him. But I am here, so I can do nothing."
-"My wife is very sick all the time. She keeps vomiting. We went to the doctors, they said she shouldn’t do any housework so I do all the cooking and cleaning."
-"My best friend's wife’s pregnancy is also like that."
-"But everything seems ok now. We had an ultrasound a couple of days ago. And I have to buy medicine, many medicines. But I don’t like."
-"No," instämmer jag, efter en stunds chai-sörplande tar jag upp tråden igen;
-"But you know, when you have your child you will love it more because of this."
+"Har du några barn," frågar jag.
+"Nej. Men min fru är gravid."
+"Åh. Gratulerar!"
+"Tack. Vi är mycket oroliga. Hon har förlorat två barn tidigare. Magproblem."
+"Jag har en vän som nyligen förlorade ett barn, hennes man sprang sin väg. Jag var så arg att jag ville döda honom. Men jag är här, så jag kan inte göra något."
+"Min fru är mycket sjuk hela tiden. Hon kräks hela tiden. Vi gick till läkarna, de sa att hon inte borde göra något hushållsarbete så jag lagar all mat och städar."
+"Min bästa väns frus graviditet är också sådan."
+"Men allt verkar okej nu. Vi gjorde ultraljud för några dagar sedan. Och jag måste köpa medicin, många mediciner. Men jag tycker inte om det."
+"Nej," instämmer jag, efter en stunds chai-sörplande tar jag upp tråden igen;
+"Men du vet, när du får ditt barn kommer du att älska det mer på grund av det här."
 Han missförstår, svarar,
-"I have loved my wife for two years before we married."
+"Jag älskade min fru i två år innan vi gifte oss."
 "Oh," hakar jag på, "so it’s a love marriage?"
-"Yes. It’s very unusual. All my sisters and brothers have arranged marriages. It was a secret. Everybody was saying, why don’t you marry, why don’t you find a girl. They didn’t know."
-"So, what did your parents say when you came home saying, I want to marry this girl?"
-"For them it was ok. She was the same caste. I’m bajracharya."
-"Oh, what’s that caste?"
-"It’s a religious caste. Bajra is the Buddha. We are like monks."
-"But you’re a silversmith?"
-"Yes. There is a silver and goldsmith caste within the religious caste."
-"So you’re like, a merchant monk?"
-"Yes."
-"That’s so cool," med betoning på ’so’.
+"Ja. Det är mycket ovanligt. Alla mina systrar och bröder har arrangerade äktenskap. Det var hemligt. Alla sa, varför gifter du dig inte, varför hittar du inte en flicka. De visste inte."
+"Så, vad sa dina föräldrar när du kom hem och sa, jag vill gifta mig med den här flickan?"
+"För dem var det okej. Hon var av samma kast. Jag är bajracharya."
+"Åh, vad är det för kast?"
+"Det är en religiös kast. Bajra är Buddha. Vi är som munkar."
+"Men du är silversmed?"
+"Ja. Det finns en silver- och guldsmedskast inom den religiösa kasten."
+"Så du är typ en köpmannamunk?"
+"Ja."
+"Det är så coolt," med betoning på ’så’.
 
 Han ler lite.
 
@@ -2097,33 +2058,33 @@ Han ler lite.
 
 Jag flinar hundflinet, erkänner
 
-"Yeah, my father-in-law didn’t like me either to begin with, but after five or six years, he kind of got over it."
-"When I came to ask for his daughter... it was bad," börjar han,
-"and when I visit them, he won’t talk to me. He just sits quiet."
-"But why? You seem like a nice man, honest?"
-"Yes. But he is very rich."
-"Ahh," inser jag, "and you’re only a simple silversmith?"
-"Yes. But her mother likes me."
+"Ja, min svärfar tyckte inte heller om mig i början, men efter fem eller sex år kom han liksom över det."
+"När jag kom för att be om hans dotter... det var illa," börjar han,
+"och när jag besöker dem pratar han inte med mig. Han sitter bara tyst."
+"Men varför? Du verkar vara en trevlig man, ärlig?"
+"Ja. Men han är mycket rik."
+"Ahh," inser jag, "och du är bara en enkel silversmed?"
+"Ja. Men hennes mor tycker om mig."
 
 Vi avslutar teet, återvänder till hantverkaren. Jag är inte helt övertygad, kommer med några förslag, tittar på tv medan de utförs.
 
 Vi återvänder till gamla staden. Vi pratar hela vägen tillbaka, om livet i Nepal, hans butik, hans fru och hennes graviditet. Jag börjar förstå exakt hur illa deras situation är och sympatiserar grymt. Tillbaka i hans butik tittar jag igenom hans utbud, det är skralt, men jag hittar två ringar jag gillar, säger;
 
-"How much for these?"
+"Hur mycket för de här?"
 Han tittar på dem, tittar på mig, säger
 "For two? 300 rupees."
 Jag höjer ögonbrynen. Det är misstänkt billigt.
-"300 rupees? That’s tourist price?"
-"No. Nepali price. I don’t want to cheat you."
-"So, what’s tourist price?"
+"300 rupier? Det är turistpris?"
+"Nej. Nepalesiskt pris. Jag vill inte lura dig."
+"Så, vad är turistpris?"
 "300 rupees each."
-"So. I buy these for 600 rupees. And I give you 50 rupees extra for showing me to the craftsman."
+"Så. Jag köper de här för 600 rupier. Och jag ger dig 50 rupier extra för att du visade mig till hantverkaren."
 
 Han tittar på mig, konstaterar snabbt,
 
-"Thank you. But then I take you to Telankoth."
-"But I don’t want a guide, I don’t want to go to Telankoth today," försöker jag lamt, men det är inte lönt.
-"You pack your bag and come back here, we have lunch at my place and then we go to Telankoth."
+"Tack. Men då tar jag dig till Telankoth."
+"Men jag vill inte ha någon guide, jag vill inte åka till Telankoth idag," försöker jag lamt, men det är inte lönt.
+"Du packar din väska och kommer tillbaka hit, vi äter lunch hos mig och sedan går vi till Telankoth."
 
 Jag stretar emot; jag var ju i Nagarkot förrgår, vill inte ha en guide, inte betala extra, men ger med mig;
 
@@ -2135,7 +2096,7 @@ Så vi äter lunch hemma hos familjen Bajracharya. De bor torftigt i ett rum med
 
 Vi äter på kuddar på golvet i deras kombinerade kök och vardagsrum. Efter att ha spillt ut mitt ris över golvet får jag en snabblektion i hur man äter med höger hand; skapa en skopa med tre fingrar, blanda ris och kokta grönsaker, doppa i den goda röda tomatsåsen, använd sedan tummen för att skrap-slurpa risklumpen in i munnen. De skrattar gott åt mina försök, ger mig vantrogna blickar; en vuxen man som inte kan äta ordentligt? Jag gör bort mig totalt när jag tar upp fatet med tomatsåsen med vänster hand; så gör man bara inte! Stor kabalik, jag måste omedelbart tvätta vänsterhanden. Så. Nu kan jag äta igen.
 
-Jag låtsas upprörd, fräser "Is hard for me! I’m like a child! I have to learn!" men ler.
+Jag låtsas upprörd, fräser "Det är svårt för mig! Jag är som ett barn! Jag måste lära mig!" men ler.
 
 Det är faktiskt himla trevligt. Så enkel måltiden är, är det den bästa jag haft på mycket länge - restaurangmat är för fet och salt.
 
@@ -2148,10 +2109,10 @@ Jag upptäcker att jag gillar att hänga med Gautam. Jag börjar tro att han, fa
 När vi börjar närma oss Bhaktapur driver gråa åskmoln in över mitt annars så soliga sinne - Gautam pratar om att han vill ta mig någonstans dagen efter, jag inser att jag faktiskt har fått en guide på halsen. Detta kommer kosta. Jag blir tystlåten, känner mig bokig, kan inte riktigt hantera mina känslor, rädslor och förväntningar.
 
 När vi kommer tillbaka till Bhaktapur ser Gautam oroligt på mig, frågar rakt ut:
-"Did I do something wrong? Did we go to the wrong places? I’m sorry."
-"No, no," svarar jag sanningsenligt, "I’ve had a wonderful time!"
-"You want to come to my home, I make you dinner?"
-"No," svarar jag, inte lika sanningsfullt, "I’m very tired, I’ll just go to my guesthouse and have a rest."
+"Gjorde jag något fel? Gick vi till fel platser? Jag är ledsen."
+"Nej, nej," svarar jag sanningsenligt, "jag har haft det underbart!"
+"Vill du komma hem till mig, jag lagar middag åt dig?"
+"Nej," svarar jag, inte lika sanningsfullt, "jag är väldigt trött, jag går bara till mitt gästhus och vilar."
 
 Sanningen är att jag inte vill sylta in mig mer i något som kan komma att bli en jobbig situation.
 
@@ -2167,24 +2128,24 @@ Jag gråter för att jag har blivit så instängd, att jag inte längre vågar l
 
 När vi gick över bergen, genom farmlandskapet, berättade han att hans högsta dröm är att en gång kunna köpa land och bygga ett hus. För det behöver han 100 000 rupier för att kunna köpa land, som han sedan kan sätta som pant för ett lån på ytterligare 200 000 för att kunna bygga ett hus. En snabb huvudräkning ger vid handen att det är många smycken han måste sälja. It ain’t gonna happen, helt enkelt.
 
-"1 lakh ruppees? That’s roughly what unemployed people in Sweden get from the government for being unemployed. Per month."
+"1 lakh rupier? Det är ungefär vad arbetslösa i Sverige får från staten för att vara arbetslösa. Per månad."
 
 Snyggt jobbat, Stefan. Rub it in.
 
 Hans näst högsta dröm är att äga en motorcykel. Han älskar motorcyklar.
 
-"Do you have a motorbike?" frågar han.
-"No. Or, yes. But it’s not a real motorbike, it’s only a 250 cc."
-"Here we only have 100 or 150 cc."
-"Wow. I think a 750 is a real motorbike."
+"Har du en motorcykel?" frågar han.
+"Nej. Eller, ja. Men det är ingen riktig motorcykel, det är bara en 250 kubik."
+"Här har vi bara 100 eller 150 kubik."
+"Wow. Jag tycker att en 750 är en riktig motorcykel."
 
 Finfint. Now add insult to injury:
 
-"But you know, we have to have real protective clothing to be able to ride that fast. I have a BMW helmet that cost me 50 000 rupees." "For that, I could buy a motorcycle in Nepal."
+"Men du vet, vi måste ha riktiga skyddskläder för att kunna köra så fort. Jag har en BMW-hjälm som kostade mig 50 000 rupier." "För det skulle jag kunna köpa en motorcykel i Nepal."
 
 Du kunde också haft halva din dröm om ett hem Gautam, för en MC-hjälm i Sverige.
 
-"You know, for a tourist it’s very hard with all these people who goes Namaste, and it always ends up with them begging or wanting you to be your guide!"
+"Du vet, för en turist är det väldigt jobbigt med alla de här människorna som säger Namaste, och det slutar alltid med att de tigger eller vill vara ens guide!"
 
 Hans min och tystnad talade om skam över både sig själv och sitt folk.
 
@@ -2220,29 +2181,29 @@ My god, I’ve created a monster.
 
 Hela tiden ser han frånvarande, nästan skrämd, ut men lyssnar hungrigt på vad jag har att säga. Jag inser att det är mycket att smälta, det har bara forsat ur mig över loppet av ett par timmar, konstaterar:
 
-"Gautam. People study this for two or three years, and here I’m trying to tell you everything in one day. But it’s because I like you, I like your wife and I want your baby to have a better future. Don’t be afraid, Just think about it, if you think they seem like good ideas, just start doing it step by step."
+"Gautam. Folk studerar det här i två eller tre år, och här försöker jag berätta allt för dig på en dag. Men det är för att jag tycker om dig, jag tycker om din fru och jag vill att ditt barn ska få en bättre framtid. Var inte rädd, tänk bara på det, om du tycker att det verkar vara bra idéer, börja göra det steg för steg."
 
-"Thank you," svarar han med ett oroligt leende, "Yes, I think they are good ideas."
+"Tack," svarar han med ett oroligt leende, "ja, jag tycker att det är bra idéer."
 
 Och då inser jag lika klart som om jag hört någon säga det i örat att det var det här jag kunde göra för ett av Nepals barn.
 
 Hela tiden har vi vandrat i uppförsbacke i gassande sol, min gröna ’farmen’-t-shirt klibbig av svett. När vi rundar bergstoppen och vänder tillbaka från Assarpur äntrar vi bergets skuggsida. Plötsligt blir det kallt, riktigt kallt. Min svettvåta tröja klibbar kall mot kroppen. Solen går i moln, det blir mörkare, kallare. Jag är trött, Gautam likaså.
 
-Då kommer första explosionen som ett stum duns i fjärran. Den känns lika mycket som hörs. Vi tittar på varann men innan vi hinner börja prata kommer den andra dunsen. Efter ett par sekunder säger jag "What was that?" men Gautam hinner inte svara förrän den tredje bomben briserar. Någon sorts övning, tänker jag. Efter den fjärde och sista frågar jag
+Då kommer första explosionen som ett stum duns i fjärran. Den känns lika mycket som hörs. Vi tittar på varann men innan vi hinner börja prata kommer den andra dunsen. Efter ett par sekunder säger jag "Vad var det?" men Gautam hinner inte svara förrän den tredje bomben briserar. Någon sorts övning, tänker jag. Efter den fjärde och sista frågar jag
 
-"I’ve heard that before," säger jag, "what is it, an exercise?"
+"Jag har hört det där förut," säger jag, "vad är det, en övning?"
 
 Han svarar nej, han tror det är Maoister. På andra sidan Kathmandu-dalen tycker jag mig se en röksvamp, Gautam tror att det bara är höga träd men efter ytterligare någon minut ser vi att det visst är rök från en explosion.
 
 Jag frågar var det är, han svarar "Nagarkot" och jag börjar skaka av kylan och något annat, en spänning i magen, ett illamående.
 
-"Jesus", säger jag, "I was there three days ago."
+"Jesus", säger jag, "jag var där för tre dagar sedan."
 
 Han svarar inte, tittar bara ut över dalen.
 
 Sedan börjar skriken. Paniken ekar både från området kring rökmolnet på andra sidan och från staden i dalen. Bergen måste vara ypperliga ledare och förstärkare av ljud för jag kan höra enskilda människors skrin.
 
-Och nu får jag mig en lektion i vad det är att vara Nepales i Nepal idag för Gautam inte ens rycker på axlarna, säger bara "There’s lots of military in Nagarkot" och fortsätter gå.
+Och nu får jag mig en lektion i vad det är att vara Nepales i Nepal idag för Gautam inte ens rycker på axlarna, säger bara "Det finns mycket militär i Nagarkot" och fortsätter gå.
 
 Jag är fortfarande skakad men biter ihop och följer efter, inte längre särskilt pratglad.
 
@@ -2257,221 +2218,221 @@ Bussen tillbaka till Bhaktapur stannas i en säkerhetskontroll. Den här gången
 Militärer och militärpolis svärmar runt Bhaktapur som myror kring en stack någon rört om i med en pinne.
 
 På hotellet frågar jag om de vet vad som hänt i Nagarkot. De tittar frågande på mig;
-"Anything happen in Nagarkot?"
-"Yeah," säger jag, upprymd, "bomb blasts, four of them."
-"No," säger receptionisten,"we haven’t heard anything,"
+"Har det hänt något i Nagarkot?"
+"Ja," säger jag, upprymd, "bomber, fyra stycken."
+"Nej," säger receptionisten,"vi har inte hört något,"
 
 avslutar,
 
-"Maybe we’ll read about it in the paper tomorrow."
+"Kanske läser vi om det i tidningen imorgon."
 
-Gudinnan som svarade på min bön där på trappen upp till five storey temple heter Shidde Laxmi. Enligt Gautam står hon för "prosperity thru correct conduct." It figures.
+Gudinnan som svarade på min bön där på trappen upp till five storey temple heter Shidde Laxmi. Enligt Gautam står hon för välstånd genom rätt handling. Det låter rimligt.
 
-Han ville förresten inte ha några pengar. Han hade snarare gått back på mig, eftersom han envisades med att betala för allt under våra vandringar. Vid ett tillfälle tog han mig till en skyltlös shop där de sålde chayng, ett mellanting mellan vin och öl gjort på ris. Ägaren satt avdomnad i ett fönstersmyg, pratade släpigt och kort med låg röst och hängande underläpp. Hans fru serverade. "He crazy," konstaterade Gautam, "he sells one and drinks one. He’s like my father." Sedan skällde han på shop-keepern för hans uppsvällda diabetesfot och berättade att byns doktor bara blåste på foten när mannen behövde riktig medicin.
+Han ville förresten inte ha några pengar. Han hade snarare gått back på mig, eftersom han envisades med att betala för allt under våra vandringar. Vid ett tillfälle tog han mig till en skyltlös shop där de sålde chayng, ett mellanting mellan vin och öl gjort på ris. Ägaren satt avdomnad i ett fönstersmyg, pratade släpigt och kort med låg röst och hängande underläpp. Hans fru serverade. Gautam konstaterade att mannen var som hans far: han sålde en och drack en. Sedan skällde han på honom för hans uppsvällda diabetesfot och berättade att byns doktor bara blåste på foten när mannen behövde riktig medicin.
 
 Så varför göra så mycket väsen av en fattig silversmed när jag inte skrivit något om de hemlösa tiggarna i New Delhi? Det handlar om att kunna relatera. Gautam berörde mig för att jag kunde sätta mig in i hans situation. Han var av fattig medelklass, hade en affär, ett hem, en gravid hustru med komplikationer jag kände igen. Det var inte en hopplös situation, bara svår.
 
 När jag till slut sa adjö lämnade jag 600 rupier på hans disk och gick till five storey temple för att tacka Shidde Laxmi för att hon sänt mig mod att lita på honom.
-# 14. Lost In Goa
+# 14. Vilse i Goa
 
 _Dag 101. Mandrem. 10 januari 2004._
 
 Vägen söderut går via Birganj/Raxaul, en enäggstvillingstad på gränsen mellan Nepal och Indien. Jag kommer dit efter solnedgången, i mörker, damm, dieselrök och brända sopor, med rickshas som surrar kring mig medan jag försöker packa om väskorna och förstå var jag är. Passkontrollerna är ett elände på båda sidor. Raxaul känns som en plats där ingen gata är fast, inget pris är fast, inget förtroende är fast.
 
-I Kolkata blir jag strandad några dagar, the city formerly known as Calcutta, snyter svart snor och försöker få Kilroy att ändra min reseplan med mindre flexibilitet än utlovat. Sedan bär det av söderut. Kerala och Goa hägrar.
+I Kolkata blir jag strandad några dagar, snyter svart snor och försöker få Kilroy att ändra min reseplan med mindre flexibilitet än utlovat. Sedan bär det av söderut. Kerala och Goa hägrar.
 
-In Arambol, I called the manager of my guesthouse ’papa’.
+I Arambol kallade jag föreståndaren för mitt gästhus för pappa.
 
-’Mama’ makes the meanest thalis in india. She also no longer sells heroin, because too many people have been killed or seriously hurt while on it.
+Mamma gör Indiens elakaste thalis. Hon säljer inte längre heroin, eftersom för många människor har dött eller skadats allvarligt på det.
 
-Papa Guru goes "Steve, you want anything you tell me. From A to Z."
-"Well, how about we start with A," I answer, "can you get me some acid?"
-He looks startled for a second, then
-"Yes, wait, I make phone call to friend, real friend, he’s my heart friend. He can fix. How much you want?"
-"Oh, not much, three or four, max five."
-"Now phone is dead, but I call him later, right?"
-"Right."
+Pappa Guru säger: "Steve, vill du ha något säger du till mig. Från A till Ö."
+"Tja, vad sägs om att vi börjar med A," svarar jag, "kan du fixa lite syra?"
+Han ser häpen ut en sekund, sedan:
+"Ja, vänta, jag ringer vän, riktig vän, han är min hjärtevän. Han kan fixa. Hur mycket vill du ha?"
+"Åh, inte mycket, tre eller fyra, max fem."
+"Telefonen är död nu, men jag ringer honom senare, okej?"
+"Okej."
 
-The next day, Guru goes
+Dagen efter säger Guru:
 
-"Now I talked to him. 35 000 rupees."
-"What?"
-"Yes. 35 000 rupees for a 100 drops."
-"Guru, I said five, what the hell am I supposed to do with a 100?"
-"He say no problem you sell."
-"Well, I’m not that kind of user, I have no contacts, and I don’t want to sell. I just want a few for myself. I said five."
-"Ok, I talk to my friend."
+"Nu har jag pratat med honom. 35 000 rupier."
+"Va?"
+"Ja. 35 000 rupier för 100 droppar."
+"Guru, jag sa fem, vad fan ska jag göra med 100?"
+"Han säger inga problem, du säljer."
+"Tja, jag är inte den sortens brukare, jag har inga kontakter och jag vill inte sälja. Jag vill bara ha några få för mig själv. Jag sa fem."
+"Okej, jag pratar med min vän."
 
-Another lovely day in Arambol passes.
+Ännu en ljuvlig dag i Arambol passerar.
 
-"He can sell you 25 drops for 340 euros."
-"Guru, now we’re not communicating! I say 5, you say 100, I say maximum 10!"
-"Ok, I go to him, I get you 12 for $200."
+"Han kan sälja 25 droppar till dig för 340 euro."
+"Guru, nu kommunicerar vi inte! Jag säger 5, du säger 100, jag säger maximum 10!"
+"Okej, jag går till honom, jag skaffar dig 12 för 200 dollar."
 
-$200 is way to much really, but by now I’m just fed up with the whole deal so I give him the $200, he’s off.
+200 dollar är egentligen alldeles för mycket, men vid det här laget är jag bara less på hela affären, så jag ger honom 200 dollar och han ger sig av.
 
-In the evening he returns with a eye-drop-bottle with 14 drops. I’m satisfied but not happy.
+På kvällen kommer han tillbaka med en ögondroppsflaska med 14 droppar. Jag är nöjd men inte glad.
 
-In the next morning, the morning of the full moon, I decide to take my first acid trip ever down on the beach. I sqeeze one and a half drops out and lick them up. It doesn’t taste of the sour bitterness I expected, I find it a bit odd, but sets off for the beach.
+Nästa morgon, fullmånens morgon, bestämmer jag mig för att ta min första syratripp någonsin nere på stranden. Jag pressar ut en och en halv droppe och slickar i mig dem. Det smakar inte av den sura bitterhet jag väntat mig, vilket jag tycker är lite konstigt, men jag ger mig av mot stranden.
 
-Nothing happens. Fearing I’ve been fucked for $200, I return to the guesthouse, stares papa right in the eye and say
+Ingenting händer. Rädd att jag blivit blåst på 200 dollar går jag tillbaka till gästhuset, stirrar pappa rakt i ögonen och säger:
 
-"Nothing happens. Now, I’m going back to my room, and try two more drops, and you better pray something happens!"
+"Ingenting händer. Nu går jag tillbaka till mitt rum och provar två droppar till, och det är bäst för dig att du ber att något händer!"
 
-and leave, ignoring his calls.
+Och går, ignorerar hans rop.
 
-When I come back to my room it dawns on me - the hole in the pipette is too small, so I’ve only gotten the alcoholic solution the acid molecules are diluted in. I try to make the hole bigger, but suddenly a plastic cone in the top of the pipette give way, exposing the whole of the bottle. The alcohol is evaporating fast, so I just sweeps the bottle, taking about half of the contents before it evaporates.
+När jag kommer tillbaka till rummet går det upp för mig: hålet i pipetten är för litet, så jag har bara fått i mig alkohollösningen som syramolekylerna är utspädda i. Jag försöker göra hålet större, men plötsligt lossnar en plastkon i pipettens topp och hela flaskan öppnas. Alkoholen dunstar snabbt, så jag sveper bara flaskan och får i mig ungefär hälften av innehållet innan det förångas.
 
-About seven times the dose on my first trip. A $200 trip. Now this should be interesting.
+Ungefär sju gånger dosen på min första tripp. En 200-dollars-tripp. Det här borde bli intressant.
 
-I leave my room, locks the door but forget to bring money. This will later become an issue.
+Jag lämnar rummet, låser dörren men glömmer att ta med pengar. Det kommer senare att bli ett problem.
 
-Strolling along the beach, the first visuals start to appear, the sandgrains open up into crevasses, the baby shells that are washed up out of the sand frenetically dig their way down again.
+När jag promenerar längs stranden börjar de första synfenomenen dyka upp. Sandkornen öppnar sig till sprickor, de små babysnäckorna som sköljs upp ur sanden gräver frenetiskt ner sig igen.
 
-I ponder their lives, with every wave they have to dig deeper, they spend their whole days just fighting the waves. Bloody pointless, but that is what they do.
+Jag funderar över deras liv, hur de med varje våg måste gräva djupare, hur de tillbringar hela dagarna med att bara kämpa mot vågorna. Fullständigt meningslöst, men det är vad de gör.
 
-("Now that’s an acid thought", Kelly later comments.)
+("Nu är det där en syratanke", kommenterar Kelly senare.)
 
-For some reason I pick up a coconut I find on the beach, and carry it with me. It looks friendly.
+Av någon anledning plockar jag upp en kokosnöt jag hittar på stranden och bär den med mig. Den ser vänlig ut.
 
-Realizing I’m getting stoned I search for a shady spot to enjoy the ride and find one. As I lay down I realize I haven’t had a decent breakfast. The acid amplifies my hunger until it fills my whole being. Lying there, hungry, thirsty, I first fight for my life with an octopus, then I’m an amoeba fighting the original, primordial fight. It’s all about hunger; the hunger to be one, devour and the hunger to stay apart, not to be devoured. With each wave of visions I go deeper, past the amoeba I fight the original other one, I’m the eternal opposer, I will not yield. At the peak, beyond fighting the original other, I realize that I’m really fighting myself. I am god, and I’m fighting to understand myself. We truly all are one, we truly all reflect this original struggle.
+När jag inser att jag börjar bli stenad letar jag efter en skuggig plats där jag kan njuta av färden och hittar en. När jag lägger mig ner inser jag att jag inte har ätit en ordentlig frukost. Aciden förstärker min hunger tills den fyller hela min varelse. Där jag ligger, hungrig och törstig, kämpar jag först för mitt liv med en bläckfisk, sedan är jag en amöba som utkämpar den ursprungliga, primordiala kampen. Allt handlar om hunger; hungern efter att vara ett, sluka, och hungern efter att förbli åtskild, inte bli slukad. Med varje våg av visioner går jag djupare. Förbi amöban kämpar jag mot den ursprungliga andre. Jag är den evige motståndaren, jag kommer inte ge mig. På toppen, bortom kampen mot den ursprungliga andre, inser jag att jag egentligen kämpar mot mig själv. Jag är gud och jag kämpar för att förstå mig själv. Vi är verkligen alla ett, vi speglar verkligen alla denna ursprungliga kamp.
 
-I get a vision of how we all are connected, I understand it so clearly, but now I have forgotten it.
+Jag får en vision av hur vi alla hänger samman. Jag förstår det så klart, men nu har jag glömt det.
 
-I go through a rythm of sober moments, when I’m assessing my situation (’trip management’ as Matthew calls it) and planning for the next wave, feel self pity, fear, anger, fights, nods off and then have another relatively clear interlude.
+Jag går igenom en rytm av nyktra ögonblick, där jag bedömer min situation, tripphantering som Matthew kallar det, och planerar för nästa våg, känner självömkan, rädsla, ilska, kämpar, nickar till och får sedan ännu en relativt klar paus.
 
-The sober moments get shorter and shorter, reality gets jittery, memory gives way and it gets harder and harder to piece togheter the puzzle that is the path back to reality. It feels artificial, not as real as the mushrooms did, but nevertheless I get afraid I will come to a state where I no longer will have any sober moments. That could actually lead to dehydration, and considering the amount of acid, injuries. The coconut becomes my safety, its touch reminds me of reality, and it never goes visual on me. I make sure I have it close at all times.
+De nyktra ögonblicken blir kortare och kortare, verkligheten börjar hacka, minnet ger vika och det blir svårare och svårare att lägga ihop pusslet som är vägen tillbaka till verkligheten. Det känns artificiellt, inte lika verkligt som svampen gjorde, men ändå blir jag rädd att jag ska hamna i ett tillstånd där jag inte längre får några nyktra ögonblick alls. Det skulle faktiskt kunna leda till uttorkning och, med tanke på mängden syra, skador. Kokosnöten blir min trygghet, dess beröring påminner mig om verkligheten och den blir aldrig visuell. Jag ser till att ha den nära mig hela tiden.
 
-I have this vision of an drunken old fart, sitting laid back on a veranda, beat by life, bottle in his left hand and pointing a half-hearted ’fuck you’ against something in the upper right corner. I know this is me, this is my essence. He’s so tired of it, he’s been fighting the same fight for a long time, and now, the only thing he can do, is that final act of defiance, the pathetic loser tired fuck you.
+Jag får en vision av en full gammal gubbjävel som sitter bakåtlutad på en veranda, slagen av livet, flaska i vänster hand och pekar ett halvhjärtat dra åt helvete mot något i övre högra hörnet. Jag vet att det här är jag, det här är min essens. Han är så trött på det, han har kämpat samma kamp länge, och nu är det enda han kan göra den sista trotshandlingen, förlorarens patetiskt trötta dra åt helvete.
 
-But still, he’s doing it. And he’s not alone. Around him are tens of thousands drunken old farts doing the same thing. And the drunken old fart is kind of demon-shaped, with sharp features and protruding, fractal corners, and as you come closer, you see that he’s really made out of millions of tiny small drunken farts, comrades in battle, all doing the fuck you, and on every tip of their middle fingers is another million drunken farts doing the fuck you and on each of their fingers is another million doing the...
+Men ändå gör han det. Och han är inte ensam. Runt honom sitter tiotusentals fulla gamla gubbjävlar som gör samma sak. Och den fulla gamla gubbjäveln är på något sätt demonformad, med vassa drag och utskjutande fraktala hörn, och när man kommer närmare ser man att han egentligen består av miljontals pyttesmå fulla gubbjävlar, stridskamrater, alla gör de dra åt helvete, och på varje spets av deras långfingrar finns ännu en miljon fulla gubbjävlar som gör dra åt helvete, och på var och en av deras fingrar finns ännu en miljon som gör...
 
-At the same time, the drunken old fart morphs into the powerful young warrior he once was, raising his fist proudly, still fractalized into eternity, and now the sound starts pitching, everything goes into a tight loop, that sound when you play a sample faster and faster so it becomes a high-strung wail, finally exploding in the ultimate
+Samtidigt förvandlas den fulla gamla gubbjäveln till den kraftfulle unge krigare han en gång var, höjer näven stolt, fortfarande fraktaliserad in i evigheten, och nu börjar ljudet stiga i tonhöjd, allt går in i en tät loop, det där ljudet när man spelar ett sample snabbare och snabbare tills det blir ett högspänt tjut, för att till slut explodera i det ultimata:
 
-FUCK YOU
+DRA ÅT HELVETE
 
-And I pass out.
+Och jag tuppar av.
 
-The next vision is that I’m a male crab, I raise my claws to defend myself, but not only myself, I have a young female under me, I’m fighting to protect my mate and whisping her with fresh water so that she will feel safe and confident enough to shed her old shell and turn on her back so that I can impregnate her. I feel my crabness, my claws, the fresh salt water, I feel her crab flavour, her ecstasy, hard spiny legs tapping on my breast shield. I totally am that crab. That is me.
+Nästa vision är att jag är en hankrabba. Jag höjer klorna för att försvara mig, men inte bara mig själv. Jag har en ung hona under mig, jag kämpar för att skydda min partner och sköljer henne med friskt vatten så att hon ska känna sig trygg och säker nog att ömsa sitt gamla skal och vända sig på rygg så att jag kan befrukta henne. Jag känner min krabbighet, mina klor, det friska saltvattnet, jag känner hennes krabbsmak, hennes extas, hårda taggiga ben som trummar mot min bröstsköld. Jag är fullständigt den där krabban. Det är jag.
 
-And I know that this is what life is about.
+Och jag vet att det är detta livet handlar om.
 
-When I wake up from the vision, I’m thirsty as hell. I realize this: It’s always hunger that drives you out of your safe spot. Yet another crab thing.
+När jag vaknar ur visionen är jag törstig som fan. Jag inser detta: det är alltid hunger som driver en ut ur den trygga platsen. Ännu en krabbgrej.
 
-("There are lots of different hungers," Nick says. "Yes,’ I reply,"and there’s always a safe spot for every hunger.")
+("Det finns många olika sorters hunger", säger Nick. "Ja", svarar jag, "och det finns alltid en trygg plats för varje hunger.")
 
-I see a woman on the beach and go to her to ask for water. She’s not terrified, but seems concerned. I’m in quite a rough shape. I fall to my knees, tell her I’m on a serious trip, way out on an island somewhere, and I don’t think I will remember her, or anything of this. I ask her
-"When you see me on the beach tomorrow, call out to me and tell me that we met."
-I see a pet bottle in front of me, and say, half laughing,
-"Yes! That’s it... you’re my... message in a bottle! Please, remember this for me, for when I’m back;"
-She takes out her diary to write it down and I tell her about all of us being one, the struggle that is really with yourself, and finally the vision with the drunken old fart. As there’s a lot of fuck yous and aggressivity in that vision, when I’m done, she leans forward, half smiles, and says,
-"Just don’t be aggressive."
-I laugh kind of glad, kind of sad, say
-"But that’s what you always tell me! And that is what I always have to fight! You always want to be one, come together, and I always want us to be apart!"
-Her diary is still blank. I say
-"Kind of tough to write down, eh?" and smile.
-"Anyway," I continue,"I’m really thirsty, could I have some water?"
-"Yeah, sure take this bottle. the water tastes a little funny, but it’s because it’s added minerals and salt and stuff."
-"Ok. And, ah, could I ask you a favour. could you just look after my body over there?" and I point to my body lying in the shade.
-"Uh?"
-"My body. Over there. Can you just look after it now and then. Water it?"
-"So... you’re over there?" she says, really slowly.
-I giggle when it dawns on me that, yes, I really think my body is still over there, it’s a really weird feeling. Maybe something like an out-of-body-experience.
-"Yeah."
-"Oh, I see, you’re resting there?"
-"Yeah. Thanks," I say and leave for my safe spot, with her water.
+Jag ser en kvinna på stranden och går till henne för att be om vatten. Hon är inte livrädd, men verkar orolig. Jag är i ganska risigt skick. Jag faller på knä, berättar att jag är på en allvarlig tripp, långt ute på en ö någonstans, och att jag inte tror att jag kommer minnas henne eller något av detta. Jag ber henne:
+"När du ser mig på stranden imorgon, ropa på mig och berätta att vi träffades."
+Jag ser en PET-flaska framför mig och säger, halvt skrattande:
+"Ja! Det är det... du är mitt... meddelande i en flaska! Snälla, minns detta åt mig tills jag är tillbaka."
+Hon tar fram sin dagbok för att skriva ner det och jag berättar om att vi alla är ett, om kampen som egentligen är med en själv, och till slut om visionen med den fulla gamla gubbjäveln. Eftersom det är mycket dra åt helvete och aggressivitet i den visionen lutar hon sig fram när jag är klar, halvler och säger:
+"Var bara inte aggressiv."
+Jag skrattar, liksom glatt, liksom sorgset, och säger:
+"Men det är ju det ni alltid säger till mig! Och det är ju det jag alltid måste kämpa mot! Ni vill alltid vara ett, komma samman, och jag vill alltid att vi ska vara åtskilda!"
+Hennes dagbok är fortfarande tom. Jag säger:
+"Lite svårt att skriva ner, va?" och ler.
+"Hur som helst," fortsätter jag, "jag är verkligen törstig, kan jag få lite vatten?"
+"Ja, visst, ta den här flaskan. Vattnet smakar lite konstigt, men det är för att det är tillsatt mineraler och salt och sånt."
+"Okej. Och, eh, kan jag be dig om en tjänst. Kan du bara hålla ett öga på min kropp där borta?" säger jag och pekar på min kropp som ligger i skuggan.
+"Öh?"
+"Min kropp. Där borta. Kan du bara titta till den då och då. Vattna den?"
+"Så... du är där borta?" säger hon väldigt långsamt.
+Jag fnissar när det går upp för mig att ja, jag tror faktiskt att min kropp fortfarande är där borta. Det är en väldigt märklig känsla. Kanske något i stil med en ut-ur-kroppen-upplevelse.
+"Ja."
+"Jaha, jag förstår, du vilar där?"
+"Ja. Tack," säger jag och går tillbaka till min trygga plats med hennes vatten.
 
-After some time, I really don’t know how long, the thirst drives me out again. I go ask the woman for more water, she has none, but tells me I can buy some at a restaurant a bit further away.
+Efter en stund, jag vet verkligen inte hur länge, driver törsten ut mig igen. Jag går och ber kvinnan om mer vatten. Hon har inget, men säger att jag kan köpa på en restaurang en bit bort.
 
-"They are nice people. They will sell you all the water you need."
-"Uh," I say, "But there is a problem. My money is in the room. And the room is locked."
-"And you’ve locked yourself out?"
-"No, I have the key. I just don’t know where the lock is."
-"Here," she says, grabbing for her purse, "here’s 20 rupees. Go buy some water."
-"Thanks. I owe you my life. Three times by now."
-She smiles, I try to make my way to the restaurant, my hands are shaking, old man hands, they are wrinkly and decaying. In the restaurant they want 30 rupees for two bottles. "Pay later." "Yes," I think,"if I remember."
+"De är snälla människor. De säljer allt vatten du behöver."
+"Öh," säger jag, "men det finns ett problem. Mina pengar ligger i rummet. Och rummet är låst."
+"Och du har låst dig ute?"
+"Nej, jag har nyckeln. Jag vet bara inte var låset är."
+"Här," säger hon och sträcker sig efter sin väska, "här är 20 rupier. Gå och köp vatten."
+"Tack. Jag är skyldig dig mitt liv. Tre gånger vid det här laget."
+Hon ler. Jag försöker ta mig till restaurangen, händerna skakar, gamla manshänder, de är rynkiga och förmultnar. På restaurangen vill de ha 30 rupier för två flaskor. "Betala senare." "Ja," tänker jag, "om jag kommer ihåg."
 
-I’m hugging, cradling my two litres of life while I try to find the next safe spot. The beach is merciless, no spot in sight, and to make matters worse, my sense of time is so warped it actually feels like everything is moving away from me when I try to move closer. I find two trees between two shacks, but they are no good - people watching and nowhere to pee. I now know that; a safe spot and a place to pee, you’re all right.
+Jag kramar, vaggar mina två liter liv medan jag försöker hitta nästa trygga plats. Stranden är obarmhärtig, ingen plats i sikte, och för att göra saken värre är min tidsuppfattning så skev att det faktiskt känns som om allt rör sig bort från mig när jag försöker komma närmare. Jag hittar två träd mellan två skjul, men de duger inte, folk kan se mig och det finns ingenstans att kissa. Jag vet det nu; en trygg plats och en plats att kissa, då klarar man sig.
 
-Reluctantly, I move to find another place. I walk past a few fishing nets, almost get entangled in one of them, but manage. I’m getting seriously paranoid that someone will notice the state I’m in and take advantage of me. I know I am in the vincinity of my home, but when I look down the backside of the hill all the trees look the same, all houses identical. I seriously starts wondering "where the hell am I?"
+Motvilligt rör jag mig vidare för att hitta en annan plats. Jag går förbi några fiskenät, fastnar nästan i ett av dem men klarar mig. Jag blir allvarligt paranoid över att någon ska märka vilket tillstånd jag är i och utnyttja mig. Jag vet att jag är i närheten av mitt hem, men när jag tittar ner på baksidan av kullen ser alla träd likadana ut, alla hus identiska. Jag börjar på allvar undra: "var fan är jag?"
 
-Later, sober, I will come to realize that I moved no more than 50 metres, but they felt like crossing the Sahara.
+Senare, nykter, kommer jag inse att jag inte rörde mig mer än 50 meter, men de kändes som att korsa Sahara.
 
-Suddenly I see a red flag, under a tree in a grove. It looks inviting, it looks like it has been placed there to catch attention. I make my way there and find it’s the perfect safe spot. A soft hill, shadowed by trees, secluded, no people. Here I can sleep it off. Relaxing, I start to realize strange things in the surroundings; on a protrusion of the trunk there is ash. On it there’s red paint, the same red I’ve seen smeared on holy places. On another branch is drawn the three parallell lines of Shiva. In dazed wonder I look around, at the base of the tree lies small coconuts in line, and there are bowls used to burn oil. On the other side of a narrow path is a small shrine with incense sticks. I realize I’m in a temple. Not the big fancy kind of temple, but the kind that is erected by ordinary people recognizing the holiness of a spot.
+Plötsligt ser jag en röd flagga under ett träd i en dunge. Den ser inbjudande ut, som om den placerats där för att fånga uppmärksamhet. Jag tar mig dit och upptäcker att det är den perfekta trygga platsen. En mjuk kulle, skuggad av träd, avskild, inga människor. Här kan jag sova av mig det. När jag slappnar av börjar jag uppfatta märkliga saker i omgivningen; på en utskjutande del av stammen ligger aska. På den finns röd färg, samma röda som jag sett utsmetad på heliga platser. På en annan gren är Shivas tre parallella linjer ritade. I förundrad dimma ser jag mig omkring. Vid trädets fot ligger små kokosnötter på rad, och där finns skålar som använts för att bränna olja. På andra sidan en smal stig står en liten helgedom med rökelsepinnar. Jag inser att jag är i ett tempel. Inte den stora tjusiga sortens tempel, utan den sort som reses av vanliga människor som känner igen en plats helighet.
 
-I realize with absolute certitude that this is the place they all come back to, this is an manifestation of the original safe haven. I’m overwhelmed with gratitude, shows my respect by touching my head, the tree, my lips, again the tree. I pee, good colour pee, put my water under my neck, and doze off.
+Jag inser med absolut visshet att detta är platsen de alla kommer tillbaka till, en manifestation av den ursprungliga trygga hamnen. Jag överväldigas av tacksamhet, visar min respekt genom att röra vid mitt huvud, trädet, mina läppar, trädet igen. Jag kissar, bra färg på kisset, lägger vattnet under nacken och slumrar till.
 
-I get visions of warriors, retreating, finding haven, here, under this tree. I understand that I have brothers in battle, I am not alone. The drunken old fart/bold young warrior themes keep recurring, but now on a deeper level. I feel ’do we really have to fight this fight anymore, I’m ready to give up’ just to realize that ’haha, oh no, you aint gonna get me that easy, you old hag.’
+Jag får visioner av krigare som retirerar och finner skydd här, under detta träd. Jag förstår att jag har bröder i striden, jag är inte ensam. Temat med den fulla gamla gubbjäveln och den djärve unge krigaren återkommer, men nu på ett djupare plan. Jag känner: måste vi verkligen kämpa den här kampen längre, jag är redo att ge upp, bara för att inse: haha, åh nej, du får mig inte så lätt, din gamla häxa.
 
-And so it goes on. After a while a new theme emerges, one that I don’t recognize from anywhere within myself. There are spidery legs coming from under the surfce, ripping thru the fabric of reality, rotating, schreeching and moaning in insectoid anger. It’s definitly female in flavour, slim legs, long eyelashes, kind of cartoonishly drawn. This is the only theme so far that I’m not already familiar with, and I wonder what it means.
+Och så fortsätter det. Efter ett tag framträder ett nytt tema, ett jag inte känner igen någonstans inom mig själv. Spindelben kommer upp under ytan, river sig genom verklighetens väv, roterar, skriker och jämrar sig i insektslik ilska. Det är definitivt kvinnligt i smaken, smala ben, långa ögonfransar, lite tecknat. Det är det enda temat hittills som jag inte redan är bekant med, och jag undrar vad det betyder.
 
-After some time I get restless, I have to know what time it is. On the beach I see Gilad and Bors, two israeli guys I’ve been socializing with, neighbours of Rupert. They might be good to help me home, so I wave to them, and they come.
+Efter en stund blir jag rastlös, jag måste veta vad klockan är. På stranden ser jag Gilad och Bors, två israeliska killar jag umgåtts med, grannar till Rupert. De kanske kan hjälpa mig hem, så jag vinkar åt dem och de kommer.
 
-I tell them I’m on one hell of a trip, and then make a sweep with my arm around the temple;
-"Have you guys seen this! It’s a temple! And I know what it is! It’s the place we all come back to! All those people that were lost, this is where they come back to!"
-And Gilad goes
-"Temple? So, this is a temple? Yeah, maybe it’s a temple... I can put my cigarettes here, and it would be a temple. You see a temple, Bors?"
-Bors shrugs.
-"Ah, come on, guys," I say,"you see these flowers, right? I’m not that off it?"
-"Flowers, yes, of course. Yes, flowers. Maybe there are flowers there, maybe not."
-And it then it dawns on me that the guys are actually trying to mindfuck me. Totally lethal given my current condition. So, I have to find a way to get rid of them. Then Gilad suggests we take a walk to our beach. Good thing, I think, will take me closer to home.
+Jag berättar att jag är på en jävla tripp och gör sedan en svepande gest med armen runt templet:
+"Har ni sett det här! Det är ett tempel! Och jag vet vad det är! Det är platsen vi alla kommer tillbaka till! Alla de där människorna som var vilse, det är hit de kommer tillbaka!"
+Och Gilad säger:
+"Tempel? Så det här är ett tempel? Ja, kanske är det ett tempel... Jag kan lägga mina cigaretter här, så skulle det vara ett tempel. Ser du ett tempel, Bors?"
+Bors rycker på axlarna.
+"Äh, kom igen grabbar," säger jag, "ni ser de här blommorna, eller hur? Jag är väl inte så borta?"
+"Blommor, ja, självklart. Ja, blommor. Kanske finns det blommor där, kanske inte."
+Och då går det upp för mig att killarna faktiskt försöker jävlas med mitt huvud. Helt livsfarligt i mitt nuvarande tillstånd. Så jag måste hitta ett sätt att bli av med dem. Sedan föreslår Gilad att vi tar en promenad till vår strand. Bra, tänker jag, det tar mig närmare hem.
 
-We sit down at the beach. First Gilad suggests we should sit with some beautiful girls and have a talk with them, then he actually suggests I go for a swim. I repeat: go for a swim. In my condition. I realize that these guys are fucking crazy, they are actually trying to put me in grave danger. So I say "I cant do this in my current situation. Good bye." and leaves.
+Vi sätter oss på stranden. Först föreslår Gilad att vi ska sätta oss med några vackra tjejer och prata med dem, sedan föreslår han faktiskt att jag ska ta ett dopp. Jag upprepar: ta ett dopp. I mitt tillstånd. Jag inser att de här killarna är helt jävla galna, de försöker faktiskt försätta mig i allvarlig fara. Så jag säger: "Jag kan inte göra det här i mitt nuvarande tillstånd. Hej då." och går.
 
-From here, I actually find my way home. It’s difficult to explain just exactly the amount of relief you can feel coming thru a door, being able to bolt it, have a shower and a lie down. And finding a clock, so you know where you are on the trip. Five hours, it’s supposed to be wearing off, but it isn’t. I still have vivid visuals of my flesh rotting and worms craling over and into me. Annoying, but not alarming. Stains seems to seep in and out of the walls.
+Härifrån hittar jag faktiskt hem. Det är svårt att förklara exakt hur mycket lättnad man kan känna av att komma in genom en dörr, kunna regla den, duscha och lägga sig ner. Och hitta en klocka, så man vet var man är i trippen. Fem timmar, det ska vara på väg ner, men det är det inte. Jag har fortfarande starka synfenomen av att mitt kött ruttnar och maskar kryper över och in i mig. Irriterande, men inte alarmerande. Fläckar verkar sippra in och ut ur väggarna.
 
-("You must have a very strong mind," Kelly comments, "most people would freak out if they had a first trip like that.")
+("Du måste ha ett väldigt starkt psyke", kommenterar Kelly, "de flesta skulle flippa ur om de hade en sådan första tripp.")
 
-From time to time, I take another bucket shower, I feel function after function coming back. My memory starts seeping back and I get ready to go down to the beach to finally get some food. As I’m dressing I find the sunglasses. But it’s not my sunglasses, they are a different design, and they are too small. Now, when the hell did somebody swap my sunglasses. Ahh, I think, it was probably Bors, while we were on the beach. Cheeky fuck. Oh, well, I’ll use his until I meet him and we can switch back.
+Då och då tar jag ännu en hinkdusch. Jag känner funktion efter funktion komma tillbaka. Minnet börjar sippra tillbaka och jag gör mig redo att gå ner till stranden för att äntligen få mat. När jag klär på mig hittar jag solglasögonen. Men det är inte mina solglasögon, de har en annan design och är för små. När fan bytte någon mina solglasögon? Ahh, tänker jag, det var säkert Bors när vi var på stranden. Fräcka jävel. Nåja, jag använder hans tills jag träffar honom och vi kan byta tillbaka.
 
-Only that when I’m walking towards the beach I realize that it probably is my sunglasses. I’ve had them for three months and now suddenly they have gone from my memory. In a pang of fear I wonder what else is gone.
+Fast när jag går mot stranden inser jag att det nog faktiskt är mina solglasögon. Jag har haft dem i tre månader och nu har de plötsligt fallit ur mitt minne. I ett hugg av rädsla undrar jag vad mer som är borta.
 
-In the restaurant, when the waiter arrives, the only thing I can say is, "feed me. Please." I have no energy to choose from the menu. People stare at me. I still have the visuals. The windows looks like paintings on the wall, each hanging slightly skewed. A girl is sitting on the floor, tapping her fingers, it’s totally a surreal lynchenesque music video from the nineties.
+På restaurangen, när servitören kommer, är det enda jag kan säga: "Mata mig. Snälla." Jag har ingen energi att välja från menyn. Folk stirrar på mig. Jag har fortfarande synfenomen. Fönstren ser ut som målningar på väggen, vart och ett hänger lite snett. En tjej sitter på golvet och trummar med fingrarna, det är helt som en surrealistisk Lynch-musikvideo från nittiotalet.
 
-And then the spider-woman walks in.
+Och då kommer spindelkvinnan in.
 
-She’s unbelievably skinny, long arms and legs, lollipop head, tight black braids ending in beads and she has a positively feral look in her eyes. She’s topless, with a see-through neglige, which is kind of outrageous, and wearing way too small hotpants. All the boys in the place just stare att her in silent disbelief. She reeks of spider and crab, I can still feel it, I eye her, raise my claws, filter water, fights the urge to stand up in front of her, stare her right in the eye so she know I know what I’m talking about, and go "four hours ago, my primordial father fucked your primordial mother!"
+Hon är otroligt mager, långa armar och ben, klubba till huvud, hårt flätade svarta flätor som slutar i pärlor, och hon har en rent vild blick i ögonen. Hon är topless, med en genomskinlig negligé, vilket är rätt uppseendeväckande, och har alldeles för små hotpants. Alla killarna på stället bara stirrar på henne i tyst misstro. Hon stinker av spindel och krabba, jag kan fortfarande känna det, jag betraktar henne, höjer mina klor, filtrerar vatten, kämpar mot impulsen att ställa mig upp framför henne, se henne rakt i ögonen så hon vet att jag vet vad jag pratar om, och säga: "för fyra timmar sedan knullade min urfader din urmoder!"
 
-That would probably had gone well with her boyfriend standing beside her.
+Det hade säkert gått bra med hennes pojkvän bredvid henne.
 
-So no, I didn’t. Instead, I sobered up some more, sobered up even more, and then went on my first rave in Goa. Fourteen hours after I took the acid I was still having visuals.
+Så nej, det gjorde jag inte. Istället nyktrade jag till lite mer, nyktrade till ännu mer, och gick sedan på mitt första rave i Goa. Fjorton timmar efter att jag tog syran hade jag fortfarande synfenomen.
 
-The rave was very good, the way it was supposed to be. More about that some other time, maybe. Remind me to tell you about the scary speed-crack-indians and the chai-mamas, though.
+Ravet var väldigt bra, som det skulle vara. Mer om det någon annan gång, kanske. Påminn mig om att berätta om de läskiga speed-crack-indierna och chai-mammorna, dock.
 
-The day after, I slept for fourteen hours, then I went in search of the temple. You see, what if the temple was a hallucination? What if Gilad and Bors were just figments? Scary, very scary thought.
+Dagen efter sov jag i fjorton timmar och gick sedan för att leta efter templet. För tänk om templet var en hallucination? Tänk om Gilad och Bors bara var inbillningar? Läskig, mycket läskig tanke.
 
-But of course, I found it. And I knew I had to give offerings, so I asked at a shack for inscence, they had none, but the next, had. He said;
-"I know you are going to use this for offering."
-I raised a mental eyebrow as to how he knew this, but said nothing. Instead, I asked him;
-"Do you know that there is a temple on the beach, there," I pointed,"I mean, not a big, fancy temple, but a place, where people have sacrificed?"
-He looks at me, something in his eyes, and says;
-"Yes. This is very holy place for the local people. It is the temple of Narayan Dev, which translates into ’the caretaker’. He is the god that takes care of people that are lost. If people disappear, or if they drink too much and have lost their way, this is where they pray and give offerings."
+Men självklart hittade jag det. Och jag visste att jag måste ge offergåvor, så jag frågade i ett skjul efter rökelse. De hade ingen, men nästa hade. Han sa:
+"Jag vet att du ska använda det här som offergåva."
+Jag höjde ett mentalt ögonbryn över hur han visste det, men sa ingenting. Istället frågade jag:
+"Vet du att det finns ett tempel på stranden där," jag pekade, "jag menar, inte ett stort, tjusigt tempel, utan en plats där människor har offrat?"
+Han tittar på mig, något i hans ögon, och säger:
+"Ja. Detta är mycket helig plats för lokalbefolkningen. Det är Narayan Devs tempel, vilket betyder beskyddaren. Han är guden som tar hand om människor som gått vilse. Om människor försvinner, eller om de dricker för mycket och har gått vilse, är det här de ber och ger offergåvor."
 
-Well, fuck me sideways. I just gasped, and said, "I was saved by that place! Yesterday, I had my first acid,"
-"And too much of it, eh," a fat brit sitting at the next table adds.
-"Yeah," I admit, "and I was totally lost, and I found this place, and I knew I was saved, that it would be all right."
-"Then," says the indian,"listen to me, because I will tell you how we offer, so you do it correctly. You should offer a coconut,"
-"Damn!" I cry, "I know what coconut I should have offered, and now it’s gone!"
-"Don’t worry," he continues,"it doesn’t matter to the god. You should offer a coconut, two bananas and a packet of sugar, wrapped in paper and burn inscense. And you will let me provide you with these things."
-"Thank you, oh, thank you," I babble.
-"And," he finishes, "you will not ask me the price for this, because this I will do for you without pay. That you came to me, not another shop, means that the god is thinking of me as well. I am blessed that you came to my shop. You will have to pay for the beer, though."
-"Oh, yeah. Thanks." I shake his hand and take the stuff.
-"You offer this, and you will never be lost again. And come by anytime you need anything," the shopkeep concludes.
-"So you gone hindu now, eh?" the fat brit smirks as I leave.
+Jaha, där fick man så man teg. Jag bara flämtade och sa: "Jag blev räddad av den platsen! Igår tog jag syra för första gången."
+"Och för mycket av det, va," inflikar en tjock britt vid bordet bredvid.
+"Ja," erkänner jag, "och jag var helt vilse, och jag hittade den här platsen, och jag visste att jag var räddad, att allt skulle bli bra."
+"Då," säger indiern, "lyssna på mig, för jag ska berätta hur vi offrar, så du gör rätt. Du ska offra en kokosnöt."
+"Fan!" ropar jag, "jag vet vilken kokosnöt jag borde ha offrat, och nu är den borta!"
+"Oroa dig inte," fortsätter han, "det spelar ingen roll för guden. Du ska offra en kokosnöt, två bananer och ett paket socker, inslaget i papper, och bränna rökelse. Och du ska låta mig förse dig med dessa saker."
+"Tack, åh, tack," babblar jag.
+"Och," avslutar han, "du ska inte fråga mig vad det kostar, för detta gör jag för dig utan betalning. Att du kom till mig, inte någon annan affär, betyder att guden tänker på mig också. Jag är välsignad att du kom till min affär. Du måste betala för ölen, dock."
+"Åh, ja. Tack." Jag skakar hans hand och tar sakerna.
+"Du offrar detta, och du kommer aldrig gå vilse igen. Och kom förbi när som helst om du behöver något," avslutar affärsinnehavaren.
+"Så du har blivit hindu nu, va?" flinar den tjocka britten när jag går.
 
-So I carry the stuff back and give offerings. It’s way intense. I don’t even know what to say or think as I’m burning the inscence, I’m just filled with gratitude.
+Så jag bär tillbaka sakerna och ger offergåvor. Det är mycket intensivt. Jag vet inte ens vad jag ska säga eller tänka när jag bränner rökelsen, jag är bara fylld av tacksamhet.
 
-"You will never be lost again."
+"Du kommer aldrig gå vilse igen."
 
-So, yeah, I’m pretty back to normal, whatever that is. I’ve moved to Mandrem, the beach south of Arambol, it’s way quiet, actually kind of full circle as it’s what I originally looked for when going to India.
+Så, ja, jag är i stort sett tillbaka till det normala, vad det nu är. Jag har flyttat till Mandrem, stranden söder om Arambol. Det är väldigt lugnt, faktiskt nästan cirkeln sluten eftersom det är vad jag ursprungligen letade efter när jag åkte till Indien.
 
 Shanti shanti.
 
-Now I will spend quite some time digesting the events of the last days and piece my battered mind back together. I’ve bought a hammock and plan to utilize it.
+Nu ska jag ägna rätt mycket tid åt att smälta de senaste dagarnas händelser och pussla ihop mitt sargade sinne igen. Jag har köpt en hängmatta och tänker använda den.
 
-Love,
+Kärlek,
 Stefan
-# 15. Flock Animals
+# 15. Flockdjur
 
 _Dag 120. Mandrem. 29 januari 2004._
 
@@ -2479,146 +2440,146 @@ I’m having my usual milk coffee breakfast at the Arambol German Bakery. They m
 
 They’re an unlikely couple, I met them through my tai chi class. Dogdog is about my age, Phoenix a couple of years younger. He looks older, though. Stubble for hair, wide shoulders, one big fucking tattoo covering his back; a bit quirky but quite the nice guy. Dogdog looks far more docile, totally like a family man. Apparently they joined up some time ago and now they’re travel mates.
 
-"So," Phoenix starts, "you skipped chi kung yesterday?"
-"Yeah," I answer, "you know, for me it’s really strong, I mean, I’ve been kind of manic-depressive since it started, lots of stuff surfacing, I’m feeling kind of happy now so quite frankly I didn’t dare do it. I have enough processes going on, you know?"
+"Så," börjar Phoenix, "du hoppade över chi kung igår?"
+"Ja," svarar jag, "du vet, för mig är det väldigt starkt, jag menar, jag har varit ganska manodepressiv sedan det började, massor av saker som kommer upp till ytan, jag känner mig ganska glad nu så ärligt talat vågade jag inte göra det. Jag har tillräckligt många processer igång, du vet?"
 
 Phoenix gives me one of his enigmatic smiles and say,
-"Sort out the ones you got going before starting up new ones. Sounds like a good idea. Myself, my biggest problem is the new age fluffy stuff Panda teaches. It’s not that I don’t understand, I just don’t agree."
+"Red ut dem du redan har igång innan du startar nya. Låter som en bra idé. Själv är mitt största problem det där fluffiga new age-stoffet Panda lär ut. Det är inte att jag inte förstår, jag håller bara inte med."
 
 Panda is our tai chi teacher. Phoenix pauses, prepares himself and offer anyone to take over, nobody does, so he continues,
-"I mean, I think he’s kind of making to much of simple techniques. It’s like when a teenager find drugs and turn it into a spiritual thing. I do agree that these are great techniques to get to know yourself, prepare and strenghten yourself, but I don’t think you can infer what he’s inferring from it."
+"Jag menar, jag tycker att han gör för mycket av enkla tekniker. Det är som när en tonåring hittar droger och gör det till en andlig grej. Jag håller med om att det här är fantastiska tekniker för att lära känna sig själv, förbereda och stärka sig själv, men jag tycker inte att man kan dra de slutsatser han drar av det."
 
 I raise my eyebrows.
 
-"Well," he explains, "the bit about the essence of man being unity, beauty, truth, peace and love. That is to say ’one half of the yin-yang is more essential than the other’ - and that is to belittle the universe. I think separatedness, deceit, discord and fear are also integral parts of the human experience. Some, probably most, people strive for unity and peace, that is true, but to derive from that that that is the essence of man, is just too much."
+"Tja," förklarar han, "biten om att människans essens är enhet, skönhet, sanning, frid och kärlek. Det är att säga ’ena halvan av yin-yang är mer essentiell än den andra’ - och det är att förminska universum. Jag tror att separation, bedrägeri, disharmoni och rädsla också är integrerade delar av den mänskliga erfarenheten. Vissa, troligen de flesta, människor strävar efter enhet och frid, det är sant, men att därifrån härleda att det är människans essens, det är för mycket."
 
 This is way to heavy for a breakfast conversation. The table falls silent. A waiter passes, Dogdog orders breakfast for them both.
 
-"Anyway," I change the subject, "I didn’t sleep well the night before last night. The dogs kept me awake, yapping and howling."
+"Hur som helst," byter jag ämne, "jag sov inte bra natten före igår. Hundarna höll mig vaken, gläfsade och ylade."
 
-In his slow, considerate voice, Dogdog say "Yeah, remember the dog some nights ago?"
+Med sin långsamma, eftertänksamma röst säger Dogdog "Ja, minns ni hunden för några nätter sedan?"
 
 He looks at Phoenix, explains to me,
-"I woke up in the middle of the night, about two o’clock in the morning, a dog was in our hut village. It sounded terrible. It howled and mewled like it was in some sort of physical or emotional pain. And it must have had some thick heavy fucking chain around it’s neck, because the dog was walking up the stairs to our hut veranda and you could hear the chain rattle. It was like a fucking horror movie. And it just wouldn’t stop sounding this horrible fucking howl, totally deranged, like the dogs gone crazy from pain. And I thought to myself, is this the movie where I get up, comfort the creature and ease it of its chain,"
+"Jag vaknade mitt i natten, runt två på morgonen, en hund var i vår lilla hyttby. Den lät fruktansvärt. Den ylade och gnydde som om den hade någon sorts fysisk eller emotionell smärta. Och den måste ha haft någon tjock tung jävla kedja runt halsen, för hunden gick uppför trappan till vår hyttveranda och man hörde kedjan rassla. Det var som en jävla skräckfilm. Och den slutade bara inte med det där hemska jävla ylandet, helt rubbad, som om hunden blivit galen av smärta. Och jag tänkte för mig själv, är det här filmen där jag går upp, tröstar varelsen och befriar den från kedjan,"
 
-"Or is it the movie where you get up, comfort the creature and die from rabies," Phoenix interrupts. Dogdog takes no notice, continues,
+"Eller är det filmen där du går upp, tröstar varelsen och dör av rabies," avbryter Phoenix. Dogdog bryr sig inte, fortsätter,
 
-"or is this the movie where I just throw a water bottle at it?"
+"eller är det här filmen där jag bara kastar en vattenflaska på den?"
 
-"And add to its pain" I suggest,
+"Och lägger till mer smärta" föreslår jag,
 
-"And add to its pain," Dogdog agree, "Anyway, I just lay there, waiting for it to go away, and finally it did. Phoenix just turned over and slept thru it."
+"Och lägger till mer smärta," håller Dogdog med, "Hur som helst, jag låg bara där och väntade på att den skulle gå därifrån, och till slut gjorde den det. Phoenix vände sig bara om och sov igenom allt."
 
 Their coffee arrives. It’s the Nescafe variety, even though some places serve perfectly good filter coffee.
 
-"They have depressingly good western food here in Arambol," I say, "have you had the Pizza at Fellini’s yet? It’s marvellous. Real Italian pizza."
+"De har deprimerande bra västerländsk mat här i Arambol," säger jag, "har du ätit pizzan på Fellini’s än? Den är fantastisk. Riktig italiensk pizza."
 
-"I had real coffee and apple pie with ice cream for lunch at Double Dutch the other day," says Dogdog, "Disgusting, but delicious."
+"Jag åt riktigt kaffe och äppelpaj med glass till lunch på Double Dutch häromdagen," säger Dogdog, "vidrigt, men utsökt."
 
-"Not to mention their steaks," Phoenix intercedes, "real steaks, with mashed potatoes. God, when I came here, I hadn’t had real steak for four months... you know how food can taste delicious the first few mouthfuls, but then it all just becomes food? Well, this steak, I tell you, I enjoyed it to the last bit."
+"För att inte tala om deras biffar," flikar Phoenix in, "riktiga biffar, med potatismos. Gud, när jag kom hit hade jag inte ätit riktig biff på fyra månader... du vet hur mat kan smaka fantastiskt de första tuggorna, men sedan blir allt bara mat? Tja, den här biffen, jag säger dig, jag njöt av den till sista biten."
 
 I remember something funny, smile and chuckle to myself, they turn their attention on me.
 
-"What?"
+"Va?"
 
-"You know, in the Double Dutch, they have nets all over the place to protect people from falling coconuts?"
+"Du vet, på Double Dutch har de nät överallt för att skydda folk från fallande kokosnötter?"
 
 "Yeah?"
 
-"Well, this Irish guy, I think his name was Tim or something, he told me he once was six feet away from coconut death. Think of it, he said with his Belfast accent, when they ship you home in a coffin from Goa; ’What did he die from? Overdose? Motorbike accident? No... coconut...’"
+"Tja, den här irländska killen, jag tror han hette Tim eller något, berättade att han en gång var två meter från kokosdöden. Tänk dig, sa han med sin Belfast-accent, när de skickar hem dig i en kista från Goa; ’Vad dog han av? Överdos? Motorcykelolycka? Nej... kokosnöt...’"
 
 They smile, then Phoenix go
 
-"I think more people die from motorcycle accidents than from falling coconuts though. I mean, Jesus, with all these foreigners driving like mad, most of them without a proper license and a good deal of them high like kites, stoned or drunk... especially in the dark. When I was wearing the cling film to protect my tattoo, people asked me if I’ve had an accident. That’s apparently the first explanation that springs to mind."
+"Jag tror ändå att fler dör i motorcykelolyckor än av fallande kokosnötter. Jag menar, Jesus, med alla de här utlänningarna som kör som galningar, de flesta utan riktigt körkort och en hel del av dem höga som hus, stenade eller fulla... särskilt i mörkret. När jag hade plastfolien på mig för att skydda tatueringen frågade folk om jag hade varit med om en olycka. Det är tydligen den första förklaringen som dyker upp."
 
-"By the way," I catch on, "how did you have the tattoo done?"
+"Förresten," hakar jag på, "hur gjorde du tatueringen?"
 
-"In Anjuna, a couple of weeks ago, It’s a real good studio there, Andys tattoo. I knew directly when I looked thru his books that, ’this is the guy!’"
+"I Anjuna, för ett par veckor sedan. Det finns en riktigt bra studio där, Andys tattoo. Jag visste direkt när jag bläddrade igenom hans pärmar att, ’det här är killen!’"
 
-"It’s one big fucking tattoo," I comment, "I remember first seeing it, I thought ’fucking hell’, then ’that’s scaaary’ and finally, ’wow, that’s cool!’"
+"Det är en stor jävla tatuering," kommenterar jag, "jag minns när jag först såg den, jag tänkte ’fy fan’, sedan ’det där är läääskigt’ och till sist, ’wow, det där är coolt!’"
 
-"Yeah, I didn’t see it myself until a couple of days after it was done. A friend of mine took a picture with a digital camera and showed it to me."
+"Ja, jag såg den inte själv förrän ett par dagar efter att den var gjord. En vän till mig tog en bild med digitalkamera och visade den för mig."
 
-"You mean, you didn’t see the design on paper first?"
+"Menar du att du inte såg motivet på papper först?"
 
-"No, I just told the man, I want a Phoenix and flames over the whole of my back, he drew it directly on my back, and then tattooed it in."
+"Nej, jag sa bara till mannen att jag ville ha en Phoenix och flammor över hela ryggen, han ritade den direkt på min rygg och tatuerade sedan in den."
 
 A moments awed silence, then I say,
 
-"That’s... trusting..."
+"Det är... tillitsfullt..."
 
-"Kind of reckless," he admits, "but that is how I am. And it worked out fine, didn’t it?"
+"Lite vårdslöst," medger han, "men det är sådan jag är. Och det blev bra, eller hur?"
 
 "Yeah, it’s beautiful."
 
-"Not finished though," Phoenix adds somewhat thoughtful, "It’s just the outline. I’ve got to find another tattooist to do the filling in. It’s probably another five or six hours job."
+"Inte färdig dock," tillägger Phoenix något tankfullt, "det är bara konturen. Jag måste hitta en annan tatuerare som fyller i den. Det är nog ytterligare fem eller sex timmars jobb."
 
-"How long did it take?"
+"Hur lång tid tog det?"
 
-"Five hours in total, about two and a half hours of it tattooing. Halfways thru, Andy put on some real good Goa trance on really high volume, that helped. I was mentally moving the pain from my back to the middle of my head, converting it into a lightshow and letting my mind trance dance to it. It was way cool. Left me in a seriously fucked up state, though, trancing into pain like that. God, I was primal afterwards."
+"Fem timmar totalt, ungefär två och en halv timme av det var tatuering. Halvvägs igenom satte Andy på riktigt bra Goa-trance på väldigt hög volym, det hjälpte. Mentalt flyttade jag smärtan från ryggen till mitten av huvudet, omvandlade den till en ljusshow och lät mitt sinne trancedansa till den. Det var sjukt coolt. Det lämnade mig i ett allvarligt uppskruvat tillstånd, dock, att tranca in i smärta sådär. Gud, jag var primal efteråt."
 
-"It was that painful?"
+"Gjorde det så ont?"
 
-"Hell yeah," Phoenix smiles, "of course it was. Half the fun. But what’s the most interesting is that I never knew you could feel so many kinds of pain over your back. This is my first tattoo, you know. There are places on the back, particularly along the spine, where I just had to stop myself from screaming like a lady. The body twitches and moves involuntary. It’s like when I had my first piercing done - it’s not the pain in itself, but the kind of pain."
+"Helvete ja," ler Phoenix, "självklart gjorde det det. Halva nöjet. Men det mest intressanta är att jag aldrig visste att man kunde känna så många sorters smärta över ryggen. Det här är min första tatuering, du vet. Det finns ställen på ryggen, särskilt längs ryggraden, där jag bara var tvungen att hindra mig själv från att skrika som en dam. Kroppen rycker och rör sig ofrivilligt. Det är som när jag gjorde min första piercing - det är inte smärtan i sig, utan sortens smärta."
 
-"I don’t know if I could do that to myself," I say, "I mean, I’m trying to think like, ’In what way is this supposed to make me happy?’ I can’t see it. I mean, I try to treat myself as I would a loved one, someone I care for, maybe like I would a trusty dog, I mean, I would never make my girlfriend do something like that, so why should I do it to myself?"
+"Jag vet inte om jag skulle kunna göra det mot mig själv," säger jag, "jag menar, jag försöker tänka typ, ’på vilket sätt ska det här göra mig lycklig?’ Jag kan inte se det. Jag menar, jag försöker behandla mig själv som jag skulle behandla någon jag älskar, någon jag bryr mig om, kanske som jag skulle behandla en trogen hund, jag menar, jag skulle aldrig få min flickvän att göra något sådant, så varför skulle jag göra det mot mig själv?"
 
-"I didn’t think that much about it. I just thought it would be another cool thing to do. I consider it a birthday present to myself."
+"Jag tänkte inte så mycket på det. Jag tänkte bara att det skulle vara ännu en cool sak att göra. Jag betraktar det som en födelsedagspresent till mig själv."
 
 Dogdog’s been silent for a long time, finishing his coffee.
 
-"Sometimes," he adds seemingly out of context, "you take pain for the whims of the one you love."
+"Ibland," tillägger han till synes utan sammanhang, "tar man smärta för nyckerna hos den man älskar."
 
 Phoenix and I exchange glances. Clearly, he’s been somewhere else.
 
 Outside the cafe, on the beach, dirty children play with garbage in the shade of a fishermans boat. Three boys, three girls, ranging from two to maybe nine. The girls are all clad in beautiful dresses despite their obviously poor living conditions. Their colors are cyan, yellow and green against the dry khaki and tea of the sand.
 
-"You know that girl I told you about," Phoenix starts, "the girl I assaulted during my acid trip, said to her, you’re my message in a bottle? And she gave me water?"
+"Du vet den där flickan jag berättade om," börjar Phoenix, "flickan jag överföll under min acid trip, sa till henne, du är mitt meddelande i en flaska? Och hon gav mig vatten?"
 
 "Yeah?" I say, Dogdog clearly already knows whatever it is Phoenix is going to tell.
 
-"For some days after the trip, I always looked for her on the beach, waiting for somebody to come say ’hi! remember me?’ but nobody did."
+"I några dagar efter trippen letade jag alltid efter henne på stranden, väntade på att någon skulle komma och säga ’hej! minns du mig?’ men ingen gjorde det."
 
 A moments silence, then,
 
-"Well, it turns out it’s Anja. In our tai chi-group, german Anja."
+"Tja, det visar sig vara Anja. I vår tai chi-grupp, tyska Anja."
 
 I half-open my mouth in surprise and smile wide,
 
-"Ahhh, then I understand why you brought her water the first times!"
+"Ahhh, då förstår jag varför du kom med vatten till henne de första gångerna!"
 
 Phoenix nods,
 
-"Repaid in full. She’s clearly infatuated with Panda."
+"Återbetalat i sin helhet. Hon är uppenbarligen förälskad i Panda."
 
-"Yes, I saw that too, from the start. She’s obviously swallowing him whole."
+"Ja, jag såg det också, från början. Hon sväljer honom uppenbarligen hel."
 
-"I told her about the state of man not being solely unity and bliss," says Phoenix, "and she sincerely answered, ’but he’s living in that state all the time’, her eyes big blue and wide. Poor thing. He’s just as fucked up as the rest of us."
+"Jag berättade för henne att människans tillstånd inte enbart är enhet och salighet," säger Phoenix, "och hon svarade uppriktigt, ’men han lever i det tillståndet hela tiden’, hennes ögon stora, blå och vidöppna. Stackarn. Han är lika trasig som resten av oss."
 
-"There’s a blurry line between self-mastery and self-slavery," I nod.
+"Det finns en suddig gräns mellan självbehärskning och självslaveri," nickar jag.
 
-"I think", Dogdog abruptly states, "Panda’s a good teacher of good things."
+"Jag tycker", säger Dogdog plötsligt, "att Panda är en bra lärare i bra saker."
 
 Nobody disagrees, really.
 
 The children outside are putting garbage into a grocery bag, the youngest boy meticulously hands over a coke bottle to an older boy. He first accepts it then reconsider and throws it away. The younger boy picks it up again, fiddles with it seemingly trying to decide if it’s worth it since the older boy disapproved. Cooperatively, they hang the bag on the handle of a rusty bicycle, then fight over who’ll sit on the saddle. None of them are big enough to do it but that doesn’t keep them from wanting to.
 
-"Have you seen the blind dog," Phoenix asks me.
+"Har du sett den blinda hunden," frågar Phoenix mig.
 
-"You mean the dog with the scary, white eyes? Yeah. All the other dogs hate him. They always bark at him."
+"Du menar hunden med de läskiga, vita ögonen? Ja. Alla de andra hundarna hatar honom. De skäller alltid på honom."
 
-"Of course they do. In order to survive, he has to be over-aggressive. He has to take every fight, or else he will die. I can’t believe he really has survived. You have to admire that."
+"Självklart gör de det. För att överleva måste han vara överaggressiv. Han måste ta varje strid, annars dör han. Jag kan inte fatta att han verkligen har överlevt. Man måste beundra det."
 
-"That dog must have gone insane," Dogdog adds, "he’s living in a dark world, only scent and sound, where everything in it hates him, he’s completely and utterly alone. But he survives."
+"Den hunden måste ha blivit galen," tillägger Dogdog, "han lever i en mörk värld, bara doft och ljud, där allt i den hatar honom, han är fullständigt och totalt ensam. Men han överlever."
 
-"Yeah," I add, "that’s why I find the pack of dogs that that couple always bring with them to class is such a refreshing comment on Pandas preaches on love and unity - their hostility to everyone outside of the group proving that the essence of dog is dog, the essence of human is human."
+"Ja," tillägger jag, "det är därför jag tycker att hundflocken som det där paret alltid tar med sig till lektionen är en så uppfriskande kommentar till Pandas predikningar om kärlek och enhet - deras fientlighet mot alla utanför gruppen bevisar att hundens essens är hund, människans essens är människa."
 
 A thought strikes me, while we’re on the subject, I look at Dogdog, asks,
-"By the way Dogdog, how did you get that name?"
+"Förresten Dogdog, hur fick du det namnet?"
 
 Dogdog stays silent long enough for Phoenix to answer for him;
 
-"I gave it to him. It’s got to do with archetypes. Some time ago, we travelled with a south-african girl, she used to call dogs that looked like proper dogs, likeable dogs, dog-dogs. Dogdog is like that, the archetype of a likeable dog. It cought on. Like you and your ’crabman’."
+"Jag gav honom det. Det har med arketyper att göra. För ett tag sedan reste vi med en sydafrikansk tjej, hon brukade kalla hundar som såg ut som riktiga hundar, sympatiska hundar, för dog-dogs. Dogdog är sådan, arketypen för en sympatisk hund. Det fastnade. Som du och din ’crabman’."
 
 Phoenix smiles at Dogdog silently contemplating the beach.
 
@@ -2630,7 +2591,7 @@ And in this moment in time, only god knows when and how who is going where.
 
 Love,
 Crabman
-# 16. Leaving India
+# 16. Att lämna Indien
 
 _Dag 143. Bangkok. 21 februari 2004._
 
@@ -2668,7 +2629,7 @@ Suddenly, somebody is saying something in my right ear, I’m sitting alone at a
 
 So I go, ’yeah, sure’ and go down to the table, it’s a shit table, it’s halfways out in the street and made of plastic. On the way there I meet the girls, smiling and saying ’thanks’. They are on the way to my table. My ace table with superb view.
 
-"If you’re not having fun there, you can come back in," says the hostess.
+"Om du inte har roligt där kan du komma tillbaka in," säger värdinnan.
 
 Obviously, I’ve been exchanged for something a bit more in line with the message the place is trying to convey.
 
@@ -2680,242 +2641,244 @@ Love,
 Stefan
 
 PS. The list of topics not yet covered by these travel diaries is getting quite long.
-# 17. Bangkok Show
+# 17. Bangkokshowen
 
 _Dag 156. Bangkok och Chiang Mai. 5 mars 2004._
 
-On my way back from a couple of beers with Lisa and her sister, a beautiful albeit somewhat stern-looking thai woman smartly dressed in black top and skirt stands leaning against a street-post, following me with a scrutinizing gaze. Drunk and quite relaxed, not knowing what to do, I smile at her. She stands up, stopping me in my way
+På väg hem från ett par öl med Lisa och hennes syster står en vacker, om än lite sträng thailändsk kvinna, elegant klädd i svart topp och kjol, lutad mot en lyktstolpe och följer mig med granskande blick. Full och ganska avslappnad, utan att veta vad jag ska göra, ler jag mot henne. Hon rätar på sig och ställer sig i vägen för mig.
 
-"You want fuck?"
+"Vill du knulla?"
 
-somewhat unexpected, but everything kind of floats so I just slide past her with a smile and a
+Det kommer lite oväntat, men allt flyter liksom ändå, så jag glider bara förbi henne med ett leende och ett:
 
-"No, thanks"
+"Nej tack."
 
-She grabs hold of my wrist with two hands, spinning me around. I’m on the verge of laughter.
+Hon tar tag i min handled med båda händerna och snurrar runt mig. Jag är på gränsen till att börja skratta.
 
-"I suck you, I got room! 150 bath! I suck you!"
+"Jag suger dig, jag har rum! 150 baht! Jag suger dig!"
 
-150 bath, I think, making the calculation with surprising ease, that’s about 30 SEK. 3 Euros. Surely, there must be something not quite right, but then again,
+150 baht, tänker jag och gör omräkningen med förvånande lätthet, det är ungefär 30 kronor. 3 euro. Något måste rimligen vara lite fel, men ändå.
 
-"No, sorry," and i twist loose of her grip, she’s got a hungry, eager look to her eyes that sends a single impulse of fear through my mind. Walking backwards, I raise my palms, shrug and say
+"Nej, förlåt," säger jag och vrider mig loss ur hennes grepp. Hon har en hungrig, ivrig blick som skickar en enda impuls av rädsla genom huvudet på mig. Jag backar, höjer handflatorna, rycker på axlarna och säger:
 
-"You’re a very beautiful woman, but no thanks"
+"Du är en väldigt vacker kvinna, men nej tack."
 
-totally like the condenceding bastard trying to be nice I’ve always feared myself to be.
+Helt som den nedlåtande jävel som försöker vara snäll som jag alltid varit rädd för att vara.
 
-Turning on to Kho san road, a tuk-tuk-driver approaches me and asks me if I want a ride. When I say no, he asks if I wants something else, grins and form his left hand into a cylinder, clap over the hole with his right hand, making a silent ’pop’ kind of sound. No, I don’t think I want that.
+När jag svänger in på Khao San Road kommer en tuk-tuk-förare fram och frågar om jag vill åka. När jag säger nej frågar han om jag vill ha något annat, flinar och formar vänsterhanden till en cylinder, klappar över hålet med högerhanden och gör ett tyst ’popp’-ljud. Nej, jag tror inte jag vill det.
 
-Trying to get to an internet cafe a girl puts out her arm and stops me, only that it’s not a girl, can’t be. It’s a ladyboy. Jesus, I think, being a big obviously single guy in the tourist district in Bangkok I seem to walk around with a sign plastered onto my forehead.
+När jag försöker ta mig till ett internetkafé sticker en tjej ut armen och stoppar mig, bara det att det inte är en tjej, det kan det inte vara. Det är en ladyboy. Jesus, tänker jag, som stor och uppenbart ensam kille i Bangkoks turistdistrikt verkar jag gå omkring med en skylt klistrad i pannan.
 
-I gently lift her arm, smile and say ’No, I’m going for internet.’ She gives me some helpful hints on how to use the cafe, I thank her and pass.
+Jag lyfter försiktigt hennes arm, ler och säger: "Nej, jag ska till internet." Hon ger mig några hjälpsamma tips om hur man använder kaféet, jag tackar och går vidare.
 
-The day after, I leave for Chumpon to get to Rangon port and the boat to Koh Payam. The bus is one of those big, shiny tourist buses with air-con, the only problem the seats being way to small for me, so I share the big lower-deck sofa with two german girls. A strange athmosphere evolves as we never strike up conversation but now and then our naked feet and legs accidentally touch.
+Dagen efter åker jag till Chumpon för att ta mig till Ranongs hamn och båten till Koh Payam. Bussen är en av de där stora, blanka turistbussarna med luftkonditionering. Det enda problemet är att sätena är alldeles för små för mig, så jag delar den stora soffan på nedre däck med två tyska tjejer. En märklig atmosfär uppstår eftersom vi aldrig börjar prata, men våra bara fötter och ben råkar nudda varandra då och då.
 
-In Chumpon, I get kind of stranded. I’m the only one getting off, the rest of the bus are on their way to the eastern islands. I ask the conductor, ’Ranong? Bus to Ranong?’ and he points me in the right direction.
+I Chumpon blir jag lite strandad. Jag är den enda som kliver av, resten av bussen är på väg till öarna i öster. Jag frågar konduktören: "Ranong? Buss till Ranong?" och han pekar mig åt rätt håll.
 
-To Ranong, that is. I walk quite a bit until I realize that he’s directed me to Ranong, not the bus station. It’s when I stand under the highway sign I realize the error and turn back. The dogs are barking at me like mad, it’s four o’clock. No people awake and the few I meet speak no english whatsoever.
+Till Ranong, alltså. Jag går en bra bit innan jag inser att han har pekat mig mot Ranong, inte mot busstationen. Det är först när jag står under motorvägsskylten som jag fattar misstaget och vänder tillbaka. Hundarna skäller som galna på mig, klockan är fyra. Inga människor är vakna och de få jag möter talar ingen engelska alls.
 
-Finally, I see a woman at a car. I ask her for ’bus to Ranong’, and it turns out she’s waiting for it. So, we have half an hour company, I speak no thai, she speak no english, but we try and laugh about it. Nice.
+Till slut ser jag en kvinna vid en bil. Jag frågar henne efter bussen till Ranong och det visar sig att hon väntar på den. Så vi har en halvtimmes sällskap. Jag talar ingen thailändska, hon talar ingen engelska, men vi försöker och skrattar åt det. Trevligt.
 
-The bus comes, takes me to Ranong, I fall asleep with the woman in the seat next to me and have a moment of panic as I wake up and she’s gone. It turns out she got off earlier. In Ranong I get a lift to the pier with a wrinkly old man on his moped. Picture this little moped, cringing under the weight of the little old man hunched over the handlebar and me with my two back-packs clinging to him trying not to fall off the seat. The moped put-put-puts, wheezes and is generally undersized for the task.
+Bussen kommer, tar mig till Ranong, jag somnar med kvinnan i sätet bredvid och får ett ögonblicks panik när jag vaknar och hon är borta. Det visar sig att hon klev av tidigare. I Ranong får jag skjuts till piren av en rynkig gammal man på moped. Föreställ er den lilla mopeden, hukande under vikten av den lilla gamle mannen böjd över styret och mig med två ryggsäckar, fastklamrad vid honom och försöker att inte falla av sätet. Mopeden puttrar, väser och är allmänt underdimensionerad för uppgiften.
 
-Koh means ’island’.
+Koh betyder ’ö’.
 
-Two and a half hours boatride from Ranong lies Koh Payam, it’s one of the islands furthest out in the archipelago, so the waves are quite high. High enough for bodysurfing, anyway. There are two cement roads crossing the island, and you can hire motorbikes; small, 125 cc motorbikes capable of doing about 100 km/h. Zooming thru vegetation, swerving past pot-holes and ducking for way too low branches on metre-wide roads, it felt totally like that scene with those air-bikes they got in ’Star Wars: Return of the Jedi’. Big fun.
+Två och en halv timmes båtresa från Ranong ligger Koh Payam. Det är en av öarna längst ut i skärgården, så vågorna är rätt höga. Tillräckligt höga för bodysurfing i alla fall. Det finns två betongvägar som korsar ön, och man kan hyra motorcyklar; små 125-kubikare som kan göra ungefär 100 km/h. Att susa genom vegetationen, väja för hål i vägen och ducka för alldeles för låga grenar på metervida vägar kändes precis som scenen med flyghojarna i Star Wars: Jedins återkomst. Mycket kul.
 
-Well, I thought Koh Payam was the closest to a paradise island you could come in Thailand today, but I was wrong. After a couple of days relaxing in a quite luxurious bungalow, Becky and her sister Joy shows up. It turns out they’ve jumped off on another Island by mistake and that that island vere even better.
+Jag trodde att Koh Payam var det närmaste en paradisö man kunde komma i Thailand idag, men jag hade fel. Efter ett par dagars slappande i en ganska lyxig bungalow dyker Becky och hennes syster Joy upp. Det visar sig att de hoppat av på en annan ö av misstag och att den ön var ännu bättre.
 
-So, two days later, I head over to ’Koh Chang’. ’Tommys bungalows’ was exactly what I was looking for; calm sea surrounded in the far distance by green lush islands, an empty strech of beach only about 50 metres wide, totally unreacheable via land, and only seven simple bungalows.
+Så två dagar senare tar jag mig över till Koh Chang. Tommys bungalows är precis vad jag letat efter; ett lugnt hav omgivet på långt håll av gröna, frodiga öar, en tom strandremsa bara ungefär femtio meter bred, helt oåtkomlig från land, och bara sju enkla bungalows.
 
-In the main house, ’Moon’ resides, being the manager and excellent cook. To help her, she’s got a Burmese woman, her son ’Miao’, ’Toy’ the boy-man and the pet monkey ’Tao Muan’. After a couple of days, ’Tommy’ shows up. He’s thai, which comes as a surprise to me, as I thought he was yet another of those western men of which the islands are full; that found a thai wife and settled for paradise. Not so.
+I huvudbyggnaden bor Moon, som är föreståndare och utmärkt kock. Till hjälp har hon en burmesisk kvinna, hennes son Miao, Toy, pojkmannen, och husapan Tao Muan. Efter ett par dagar dyker Tommy upp. Han är thai, vilket förvånar mig, eftersom jag trodde att han var ännu en av de där västerländska männen som öarna är fulla av; någon som hittat en thailändsk fru och slagit sig ner i paradiset. Inte alls.
 
-’Tao Muan’ is named after a sweet, and sweet she was. Of course I don’t like the idea of holding an essentially wild animal for a pet but I must admit it was a very rewarding experience playing with a somewhat domesticated monkey.
+Tao Muan är döpt efter en sötsak, och söt var hon. Jag tycker förstås inte om tanken på att hålla ett i grunden vilt djur som husdjur, men jag måste erkänna att det var en mycket belönande upplevelse att leka med en någorlunda tam apa.
 
-"She plays hard," Joy stated after I told her Tao Muan just bit my nose.
-"Yeah. So do I."
+"Hon leker hårt," konstaterade Joy efter att jag berättat att Tao Muan just bitit mig i näsan.
+"Ja. Jag också."
 
-’Miau’ was a totally adorable little black-haired boy, maybe five or six years old, initially shy but soon wild enough. I have never figured out if I’m good with kids or not so when he kept coming running up to me and hitting me, I didn’t really know what to do. I just played along, chasing him and growling. In the end I realized that he’d probably taken a liking to me. On my last day at one point I was sitting on the floor talking to another guest when Miau came and lay his head on my lap. Sitting there slowly stroking his hair, I was again filled with this feeling that yes, someday I too will have this. And, I thought, what a strange up-bringing for a child. He’ll probably not go to school being a burmese and probably illegal immigrant, and he’ll always be essentially surrounded by adults until he’s old enough to take the boat out of this secluded bay.
+Miao var en helt bedårande liten svarthårig pojke, kanske fem eller sex år, först blyg men snart tillräckligt vild. Jag har aldrig riktigt förstått om jag är bra med barn eller inte, så när han hela tiden kom springande fram till mig och slog mig visste jag inte riktigt vad jag skulle göra. Jag bara spelade med, jagade honom och morrade. Till slut insåg jag att han nog tyckte om mig. Min sista dag satt jag vid ett tillfälle på golvet och pratade med en annan gäst när Miao kom och lade huvudet i mitt knä. Där jag satt och långsamt strök honom över håret fylldes jag åter av känslan att ja, en dag ska jag också ha det här. Och, tänkte jag, vilken märklig uppväxt för ett barn. Han kommer antagligen inte gå i skolan eftersom han är burmes och troligen illegal invandrare, och han kommer i princip alltid vara omgiven av vuxna tills han blir gammal nog att ta båten ut ur den här avskilda viken.
 
-The restlessness pushes me forward, this is a wonderful place to have a vacation, but I’m not on vacation, so I take the bus to Bangkok to get my visa for Laos.
+Rastlösheten driver mig vidare. Det här är en underbar plats att ha semester på, men jag har inte semester, så jag tar bussen till Bangkok för att fixa visum till Laos.
 
-The taxi driver taking me to Kho San Road is a total loon. He keeps repeating
+Taxichauffören som kör mig till Khao San Road är fullständigt knäpp. Han upprepar hela tiden:
 
-"Hello from London. The weather is 15 degrees farenheit, 10 degrees celsius. I learn english from radio, listen. The weather is 15 degrees. Sweden cold. I’m a musician. Listen."
+"Hallå från London. Vädret är 15 grader fahrenheit, 10 grader celsius. Jag lär engelska från radio, lyssna. Vädret är 15 grader. Sverige kallt. Jag är musiker. Lyssna."
 
-and puts on a karaoke power-ballad from the eighties, and sings to it in a horrible imitation of english, overpronouncing every word, never hitting a single note but instead my knee to make sure he has my full attention.
+Sedan sätter han på en karaoke-powerballad från åttiotalet och sjunger med i en fruktansvärd imitation av engelska, överartikulerar varje ord, träffar inte en enda ton utan istället mitt knä för att försäkra sig om att han har min fulla uppmärksamhet.
 
-"No tip?" he asks surly when I finally get out of the car and pay him.
+"Ingen dricks?" frågar han surt när jag till slut kliver ur bilen och betalar.
 
-On Kho San, I have a to-do-list the size of an A4. I have to buy new clothes, a new alarm clock, get more money, dollars, have a hair-cut, restock.
+På Khao San har jag en att göra-lista stor som ett A4. Jag måste köpa nya kläder, en ny väckarklocka, ta ut mer pengar, dollar, klippa mig, fylla på förråden.
 
-In the evening I’m headed out for a session of ’traditional thai massage’. Becky gave me a papernote with the name and address of a really good place, and the numbers of the best masseurs. Calling in advance to reserve, I feel a bit guilty under the scrutiny of the hotel receptionist;
+På kvällen ska jag på en omgång traditionell thaimassage. Becky gav mig en papperslapp med namn och adress till ett riktigt bra ställe, och numren till de bästa massörerna. När jag ringer i förväg för att boka känner jag mig lite skyldig under hotellreceptionistens granskande blick:
 
-"Hello. Is this sunflower massage? Hi, my name is Stefan. Stefan. Yes. I was wondering how long are you open? Yes, but how long tonight? Ten thirty. And how long is massage? Two hours. So I come eight? Yes. And I want girl 16. I want to make a reservation for girl 16. At eight. Yes. Oh. Well, then, girl 19? 19? Ok. So, girl 19 at eight o’clock. And my name is Stefan. Fine. Yes. Thank you."
+"Hallå. Är det Sunflower Massage? Hej, jag heter Stefan. Stefan. Ja. Jag undrar hur länge ni har öppet? Ja, men hur länge ikväll? Halv elva. Och hur lång är massagen? Två timmar. Så jag kommer åtta? Ja. Och jag vill ha tjej 16. Jag vill boka tjej 16. Klockan åtta. Ja. Åh. Okej, då tjej 19? 19? Okej. Tjej 19 klockan åtta. Och mitt namn är Stefan. Bra. Ja. Tack."
 
-When I ask the receptionist where it was and how long time it would take, she says ’two hours’, I’m baffled. She explains, ’traffic.’
+När jag frågar receptionisten var det ligger och hur lång tid det tar säger hon två timmar. Jag blir förbryllad. Hon förklarar: trafiken.
 
-And traffic it was. At 6 o’clock, I get a tuk-tuk, the driver presents himself as ’Schumacher’, which must surely be wrong. Anyhow, driving thru Bangkok I realize the receptionist was right. The traffic is dense, Schumacher says it’s only 20 km to the massage parlour, but it takes us quite exactly two hours.
+Och trafik var det. Klockan sex tar jag en tuk-tuk. Föraren presenterar sig som Schumacher, vilket rimligen måste vara fel. Hur som helst inser jag när vi kör genom Bangkok att receptionisten hade rätt. Trafiken är tät. Schumacher säger att det bara är 20 kilometer till massagesalongen, men det tar oss nästan exakt två timmar.
 
-The two hours was spent reading and socializing with the tuk-tuk driver. I really couldn’t decide on whether I liked him or loathed him. First of all, he asks me where I’m going, I say ’massage’, he retorts, ’bom-bom’ with the ’b’ being somewhere between ’b’ and ’p’ and I ask, just for the hell of it,
+De två timmarna går åt till att läsa och socialisera med tuk-tuk-föraren. Jag kan verkligen inte bestämma mig för om jag gillar honom eller avskyr honom. Först frågar han vart jag ska, jag säger massage, han svarar "bom-bom" med ett b någonstans mellan b och p och jag frågar, mest för sakens skull:
 
-"What do you mean?"
+"Vad menar du?"
 "Bom-bom?"
-"Yeah, what does that mean?"
+"Ja, vad betyder det?"
 
-He looks a bit startled, do I know nothing of the world?
+Han ser lite häpen ut, som om jag inte vet något om världen.
 
-"You know, body massage?"
-"Yeah. I’m having a thai massage."
+"Du vet, kroppsmassage?"
+"Ja. Jag ska ha thaimassage."
 
-I’m kind of taking the piss out of him, to see where the conversation will go.
+Jag driver lite med honom för att se vart samtalet ska ta vägen.
 
-"Body massage, you know, breast, water, pussy. Bom-bom?"
-"Ah. No, nothing like that. I’m going to this place for a two hour traditional massage."
-"Why you want to go there? It’s far!"
-"Yes, but I got this place recommended."
-"You know," he says after a thoughtful pause,"you go to massage, then I take you to show, and then, Bom-bom."
-"No, thank you. I want to go straight back to my hotel after massage. I’m tired."
+"Kroppsmassage, du vet, bröst, vatten, fitta. Bom-bom?"
+"Ah. Nej, inget sånt. Jag ska till det här stället för två timmars traditionell massage."
+"Varför vill du åka dit? Det är långt!"
+"Ja, men jag fick stället rekommenderat."
+"Du vet," säger han efter en eftertänksam paus, "du går på massage, sedan tar jag dig till show, och sedan bom-bom."
+"Nej tack. Jag vill åka raka vägen tillbaka till hotellet efter massagen. Jag är trött."
 
-At first I get really tired and weary of him and all the other people constantly triying to get me to sign up for different sexual services. Then I realize I really can’t miss out on a strip show, or whatever, when in Bangkok. I really can’t.
+Först blir jag riktigt trött och less på honom och alla andra människor som ständigt försöker få mig att köpa olika sexuella tjänster. Sedan inser jag att jag faktiskt inte kan missa en strippshow, eller vad det nu är, när jag är i Bangkok. Jag kan verkligen inte.
 
-So I tell him I will go to a ’show’ tomorrow, but that I want a good show, not a shit show, as I’m only going to do this once. He looks at me, and says,
+Så jag säger till honom att jag ska gå på show imorgon, men att jag vill ha en bra show, inte en skitshow, eftersom jag bara tänker göra det här en gång. Han tittar på mig och säger:
 
-"Good show, yes. A bit expensive, 900 bath."
-"Yeah, it’s okay," I say,"so, what’s a good time?"
-"Seven o’clock. You come look for me at same place."
-"Ok."
+"Bra show, ja. Lite dyr, 900 baht."
+"Ja, det är okej," säger jag, "så vilken tid är bra?"
+"Klockan sju. Du kommer och letar efter mig på samma ställe."
+"Okej."
 
-Arriving at the parlour, I go for a one hour foot massage and two hours of thai massage, not really knowing what I’m buying. 500 bath is about 90 SEK. For three hours of massage. Lovely.
+När jag kommer fram till salongen tar jag en timmes fotmassage och två timmars thaimassage, utan att riktigt veta vad jag köper. 500 baht är ungefär 90 kronor. För tre timmars massage. Ljuvligt.
 
-There’s not much to be said about the foot massage, apart from the fact that it was so needed after five months travelling. I asked for a pedicure, but they didn’t do that there.
+Det finns inte mycket att säga om fotmassagen, förutom att den var så välbehövlig efter fem månaders resande. Jag bad om pedikyr, men det gjorde de inte där.
 
-After a change of clothes I was led into a chamber for the two hour thai massage. A small thai woman, quite sturdily built, comes in and greet me with a shy smile and eyes downcast. She speaks no english whatsoever, so we communicate in sign language. And so begins what must best be described as a cross between thai boxing and a wrestling match, me being locked into the most ridiculous positions, her using every limb to press every last bit of air and tension out of my body. Definitely the most action-packed and acrobatic massage I’ve ever had. Impressive.
+Efter att ha bytt kläder leds jag in i ett rum för två timmars thaimassage. En liten thailändsk kvinna, ganska kraftigt byggd, kommer in med ett blygt leende och nedslagna ögon. Hon talar ingen engelska alls, så vi kommunicerar med teckenspråk. Och så börjar det som bäst måste beskrivas som en korsning mellan thaiboxning och brottningsmatch, där jag låses in i de mest löjliga positioner och hon använder varje lem för att pressa ut varenda sista bit luft och spänning ur kroppen på mig. Definitivt den mest actionpackade och akrobatiska massage jag någonsin fått. Imponerande.
 
-The taxi-driver taking me back to Kho San Road is a total loon. He keeps repeating
+Taxichauffören som kör mig tillbaka till Khao San Road är fullständigt knäpp. Han upprepar hela tiden:
 
-"Yeah", with a long sigh, "Too much traffic. Yeah. The police. Corrupt. Stopping traffic to make money. Yeah," making that t-t-t-t sound with the tounge against the fore of the mouth, "No police, never any problems. t-t-t-t. Look, truck. Yeah. I’m a musician. Listen."
+"Jaa," med en lång suck, "för mycket trafik. Jaa. Polisen. Korrupt. Stoppar trafik för att tjäna pengar. Jaa," och gör det där t-t-t-t-ljudet med tungan mot främre delen av munnen, "ingen polis, aldrig problem. t-t-t-t. Titta, lastbil. Jaa. Jag är musiker. Lyssna."
 
-I’m just sitting there silenty wondering if perhaps the Bangkok cab companies have launched some kind of affirmative action scheme to aid integration of the mentally challenged into society.
+Jag sitter bara där tyst och undrar om Bangkoks taxibolag kanske har startat något slags kvoteringsprogram för att hjälpa integreringen av mentalt utmanade i samhället.
 
-He gives me the heart-break story about him being very poor, having four daughters and one son, so I give him quite a good tip.
+Han ger mig snyfthistorien om hur fattig han är, att han har fyra döttrar och en son, så jag ger honom ganska bra dricks.
 
-The next day I continue working on my to-do-list, and buy a package trecking-tour-deal to Chiang Mai. This will be the first package activity I’ve bought on my travels, and I’m a bit anxious over how it will turn out. In India I developed a deep mistrust of travel agents.
+Dagen efter fortsätter jag beta av min att göra-lista och köper en paket-trekkingtur till Chiang Mai. Det blir den första paketaktiviteten jag köpt under resan, och jag är lite nervös för hur det ska bli. I Indien utvecklade jag en djup misstro mot reseagenter.
 
-And that is one of the things that have dawned upon me, that this is not India. Actually, this could be Greece. I hear swedish spoken all around me on Kho San Road, and slowly I’m starting to accept that my hard-core travelling days are over. Or at least so it seems. It’s that odd mix of an sigh - one part relief, one part pensiveness.
+Och det är en av de saker som börjat gå upp för mig, att det här inte är Indien. Egentligen skulle det här kunna vara Grekland. Jag hör svenska talas runt omkring mig på Khao San Road, och långsamt börjar jag acceptera att mina hardcore-resedagar är över. Eller åtminstone verkar det så. Det är den där märkliga blandningen av en suck, en del lättnad, en del eftertanke.
 
-In the evening, I dress up for the show. I put on my smart pants and my shirt. It’s wrinkly as hell, so down att the laundry I ask them if they could iron it. They can’t. I ask them, and then, the hotel reception if there’s an iron for me to borrow. No, there isn’t. Do they know where I can have my shirt ironed? No.
+På kvällen klär jag upp mig för showen. Jag tar på mig mina fina byxor och skjortan. Den är skrynklig som fan, så nere på tvätteriet frågar jag om de kan stryka den. Det kan de inte. Jag frågar dem, och sedan hotellreceptionen, om det finns ett strykjärn jag kan låna. Nej, det finns det inte. Vet de var jag kan få min skjorta struken? Nej.
 
-Apparently sexual favors are readily available but nobody wants to iron my shirt so I go up and change into one of my newly acquired t-shirts.
+Tydligen finns sexuella tjänster lättillgängliga, men ingen vill stryka min skjorta, så jag går upp och byter till en av mina nyinköpta t-shirts.
 
-Ready for the night.
+Redo för kvällen.
 
-After a few minutes, I locate ’Schumacher’. He’s quite happy, talking a lot, wanting me to promise to tell him everything about what goes on inside of the club.
+Efter några minuter hittar jag Schumacher. Han är mycket glad, pratar mycket och vill att jag ska lova att berätta allt om vad som händer inne på klubben.
 
-"I’ve never been," he says.
-"Why?"
-"I can’t," no further explanation.
-"Are you married?"
-He looks startled, then smile,
-"Yes. Four years. I have a two year son."
-"Two? Then he must be walking?"
-"No, just one. One son. Two years old."
-"Yes, so he’s walking, running?"
-"Yes! Playing football!"
+"Jag har aldrig varit där," säger han.
+"Varför?"
+"Jag kan inte," ingen vidare förklaring.
+"Är du gift?"
+Han ser häpen ut, sedan ler han.
+"Ja. Fyra år. Jag har en två år son."
+"Två? Då måste han gå?"
+"Nej, bara en. En son. Två år gammal."
+"Ja, så han går, springer?"
+"Ja! Spelar fotboll!"
 
-We laugh.
+Vi skrattar.
 
-Coming to the venue, I pay a thousand bath. The club consists of a rather small room with a bar running alongside the far wall, simple chairs and tables arranged around an elevated scene. The lighting is quite barren and the music terrible. Pumping cheesy euro-techno that sometimes end for half a minutes silence in the middle of an act.
+När vi kommer till stället betalar jag tusen baht. Klubben består av ett ganska litet rum med en bar längs bortre väggen, enkla stolar och bord placerade runt en upphöjd scen. Ljuset är rätt kalt och musiken fruktansvärd. Pumpande, ostig eurotechno som ibland avbryts av en halv minuts tystnad mitt i ett nummer.
 
-I get a table in the back end, opposite the bar.
+Jag får ett bord längst bak, mitt emot baren.
 
-The quite big-boned thai woman on the stage has just finished her act, which is to open a coca-cola bottle with her fanny. Which is the word I’m going to use from here on.
+Den ganska grovlemmade thailändska kvinnan på scenen har just avslutat sitt nummer, som består av att öppna en Coca-Cola-flaska med fittan. Vilket är ordet jag kommer använda härifrån.
 
-After her two women go up and dance, or, more to the point, show themselves; they each got a number attached to a bikini-strap. We all know what that number mean. I scan them and judge them not very attractive. Especially the one closest to me, she’s actually to skinny. And old, she actually looks kind of haggard. I avoid eye contact.
+Efter henne går två kvinnor upp och dansar, eller snarare visar upp sig; de har varsitt nummer fäst vid ett bikiniband. Vi vet alla vad numret betyder. Jag skannar dem och bedömer dem som inte särskilt attraktiva. Särskilt hon närmast mig, hon är faktiskt för mager. Och gammal, hon ser faktiskt rätt sliten ut. Jag undviker ögonkontakt.
 
-The music changes abruptly into some horrid syrypy ballad, next act is two women indulging in fake and quite mechanically performed abstraction of lesbian sex, going thru position after position without any feeling whatsoever, they end the act pushing their hips fast together, causing a loud bodyclap.
+Musiken byter abrupt till någon vidrig sirapssöt ballad. Nästa nummer är två kvinnor som ägnar sig åt en fejkad och ganska mekaniskt framförd abstraktion av lesbisk sex, går igenom position efter position utan någon känsla alls och avslutar numret med att snabbt pressa höfterna mot varandra så att det uppstår en högljudd kroppsklatsch.
 
-I just smile, laugh outright, clap my hands. Whatever my fears of falling and giving in to my lowest instincts entering this lair of sin, I need not have had. There is nothing sexually arousing about this, it’s just strange, weird, crazy. Show. Outrageous, yes. Sad, yes. But oh, so human.
+Jag bara ler, skrattar rakt ut, applåderar. Vilka rädslor jag än hade för att falla och ge efter för mina lägsta instinkter när jag gick in i denna syndens håla hade jag inte behövt ha dem. Det finns inget sexuellt upphetsande i det här, det är bara underligt, märkligt, galet. Show. Skandalöst, ja. Sorgligt, ja. Men åh, så mänskligt.
 
-The haggard woman comes and sits down with me. I’m sipping my gin and tonic, she asks me where I’m from, we make small talk. Her name is Mai, I want to see the show, she wants my attention. She’s rubbing my shoulders, rubbing my arm, quite good, but I don’t really want her to, so I joke about it, that I’ve actually had a three hours massage the day before. To make up for it, I offer her a drink. Of course she accepts, that being her job, so she gets a rhum and cola for herself. She gets me a pack of cigarettes as well and I chain-smoke three of them, my resolutions gone out thru the entrance door.
+Den slitna kvinnan kommer och sätter sig hos mig. Jag smuttar på min gin och tonic, hon frågar var jag kommer ifrån, vi småpratar. Hon heter Mai. Jag vill se showen, hon vill ha min uppmärksamhet. Hon masserar mina axlar, masserar min arm, ganska bra, men jag vill egentligen inte att hon ska göra det, så jag skämtar om saken, att jag faktiskt fick tre timmars massage dagen innan. För att kompensera erbjuder jag henne en drink. Självklart accepterar hon, det är ju hennes jobb, så hon tar en rom och cola åt sig själv. Hon hämtar ett paket cigaretter åt mig också och jag kedjeröker tre stycken, mina föresatser ut genom entrédörren.
 
-The coca-cola woman comes back on stage, bringing ping-pong balls in a tray of water. She inserts them, and ejects them, targeting the tray. I watch her do it in a kind of grossed awe.
+Coca-Cola-kvinnan kommer tillbaka upp på scenen med pingisbollar i en bricka vatten. Hon för in dem och skjuter ut dem igen, med brickan som mål. Jag ser henne göra det i någon sorts äcklad vördnad.
 
-Now a considerably younger and cuter woman comes on stage. She dances at the pole for a couple of minutes, locked in wiggling her ass in a pattern neither sensual nor expressive. Then she produces about 15 meters of UV-flourescent string, wrapping them around the four poles in the corners of the scene and producing quite elaborate effects with them, which would have gone well at any techno club weren’t it for the fact that the string ends between her legs.
+Nu kommer en betydligt yngre och sötare kvinna upp på scenen. Hon dansar vid stången i ett par minuter, låst i ett mönster där hon vickar på rumpan på ett sätt som varken är sensuellt eller uttrycksfullt. Sedan producerar hon ungefär femton meter UV-fluorescerande snöre, lindar det runt de fyra stängerna i scenens hörn och skapar ganska avancerade effekter med det, vilket hade passat utmärkt på vilken technoklubb som helst om det inte vore för att snöret slutar mellan hennes ben.
 
-Again my predominant almost obsessive thought is ’oh my god hope they keep them well clean.’
+Återigen är min dominerande, nästan tvångsmässiga tanke: herregud, hoppas de håller dem riktigt rena.
 
-I ask Mai how long the show is, she says it’s an hour, then it starts all over, until one o’clock in the morning. It’s now eight o’clock. So much for keeping clean.
+Jag frågar Mai hur lång showen är. Hon säger en timme, sedan börjar den om, ända till ett på natten. Klockan är nu åtta. Så mycket för att hålla rent.
 
-How long has she worked here? Four years. Is it a good place to work? Silence. I explain that I have stripper friends, and I wonder if this is a good place, if they treat the girls well? Empty gaze. Sometimes.
+Hur länge har hon jobbat här? Fyra år. Är det ett bra ställe att jobba på? Tystnad. Jag förklarar att jag har stripparvänner och undrar om det här är ett bra ställe, om de behandlar tjejerna väl. Tom blick. Ibland.
 
-The next act is similar to the one before, but this time the string is lined with quite big textile flowers.
+Nästa nummer liknar det förra, men den här gången är snöret kantat av ganska stora tygblommor.
 
-Behind us a friend of Mai, smartly dressed in black, is leaning against the wall. They talk in thai, laugh, I ask what they were joking about, Mai say, ’you’ and stroke me over my semi-bald head. She says her friend thinks I’m a handsome man, that I look nice.
+Bakom oss lutar en väninna till Mai, elegant klädd i svart, mot väggen. De pratar thailändska, skrattar, jag frågar vad de skämtade om. Mai säger "dig" och stryker mig över det halvkala huvudet. Hon säger att hennes väninna tycker att jag är en snygg man, att jag ser snäll ut.
 
-The first woman appears on stage again, she seems to be a central talent, something underscored by the fact that she’s not wearing any number. She lies down on her back, raises her legs over her head, halfways rolled backwards. She inserts, lits and smokes two cigarettes and offers the last drag to a male member of the crowd. He cringes, refuses, so she puts them out in an ash tray.
+Den första kvinnan dyker upp på scenen igen, hon verkar vara huvudtalangen, något som understryks av att hon inte bär något nummer. Hon lägger sig på rygg, lyfter benen över huvudet, halvt hoprullad bakåt. Hon för in, tänder och röker två cigaretter och erbjuder det sista blosset till en man i publiken. Han ryggar tillbaka, vägrar, så hon fimpar dem i ett askfat.
 
-I ask her how many girls are working in the show. Seven, and ten in the place. Mai is in the show, she explains, she’s doing something with a banana. I don’t really want to know about it, so I ask if her friend is in the show.
+Jag frågar henne hur många tjejer som jobbar i showen. Sju, och tio på stället. Mai är med i showen, förklarar hon, hon gör något med en banan. Jag vill egentligen inte veta mer om det, så jag frågar om hennes väninna är med i showen.
 
-"No, she’s with the hotel. She do massage in room. Massage and sek."
+"Nej, hon hör till hotellet. Hon gör massage på rummet. Massage och sek."
 "Sek?"
-"Yes. Sek."
+"Ja. Sek."
 
-The next act involvs lighting the candles on a birthday cake, inserting a straw and blowing them out, one by one. Again, the same member of the audience is offered to blow out the last candle. When he tries to she withdraws the cake and laughs. That kind of puts him off, so he refuse to try a second time regardless of her promises. She offers it to another guy, he blows it out.
+Nästa nummer går ut på att tända ljusen på en födelsedagstårta, föra in ett sugrör och blåsa ut dem ett efter ett. Återigen erbjuds samma man i publiken att blåsa ut det sista ljuset. När han försöker drar hon undan tårtan och skrattar. Det gör honom lite avig, så han vägrar försöka en andra gång oavsett vad hon lovar. Hon erbjuder den till en annan kille, han blåser ut ljuset.
 
-The second part of her mini-act consists of playing a merry little two-note tune on a small trumpet.
+Den andra delen av hennes mininummer består av att spela en munter liten tvåtonsmelodi på en liten trumpet.
 
-When she’s about to leave the stage, she comments on something to Mai, throwing a fast glance my way, and again, I have to ask for a translation.
+När hon är på väg av scenen kommenterar hon något till Mai och kastar en snabb blick åt mitt håll. Än en gång måste jag be om översättning.
 
-"She says you’re the only one with a smile. Nobody else smile."
+"Hon säger att du är den enda som ler. Ingen annan ler."
 
-I realize that outrageous as it is, this must be a very boring job. Especially if the crowd is uptight and tense. I make up my mind as to try my best to show my appreciation for their work.
+Jag inser att hur skandalöst det här än är, måste det vara ett väldigt tråkigt jobb. Särskilt om publiken är spänd och obekväm. Jag bestämmer mig för att göra mitt bästa för att visa uppskattning för deras arbete.
 
-The girl on stage is sucking up rings with a straw, and depositing them on the neck of a bottle. It looks impossible enough to do with your mouth, and sure enough, this apparently not being her day, she fails so many times that in the end she just puts the rings on the bottle with her hands, look down to the floor with a sad smile and give herself a little applause.
+Tjejen på scenen suger upp ringar med ett sugrör och placerar dem på halsen på en flaska. Det ser omöjligt nog ut att göra med munnen, och mycket riktigt, eftersom det tydligen inte är hennes dag misslyckas hon så många gånger att hon till slut bara sätter ringarna på flaskan med händerna, tittar ner i golvet med ett sorgset leende och ger sig själv en liten applåd.
 
-I ask Mais friend, her name is Yo, if she wants a drink. Of course. She fetches a cola and sit down on my left side. She starts to massage me, so I turn to Mai, she grins without me having to say anything, says something in thai, they laugh.
+Jag frågar Mais väninna, hon heter Yo, om hon vill ha en drink. Självklart. Hon hämtar en cola och sätter sig på min vänstra sida. Hon börjar massera mig, så jag vänder mig mot Mai. Hon flinar utan att jag behöver säga något, säger något på thailändska och de skrattar.
 
-One of the cute girls, they’re of indeterminable age and quite similar to each other, do the string trick again, this time it’s a line of connected razorblades she pulls out of her vagina.
+En av de söta tjejerna, de är av obestämbar ålder och ganska lika varandra, gör snörtricket igen. Den här gången är det en rad sammankopplade rakblad hon drar ut ur vaginan.
 
-After that, a big-boned woman shoots helium-filled balloons with darts. Then she turns the straw my way as if to pop my big bald balloon. I slowle raise myself up, put my hands in front of my face in a theatrical gesture and shout "No, no!"
+Efter det skjuter en grovlemmad kvinna heliumballonger med pilar. Sedan vänder hon sugröret mot mig som om hon ska spräcka min stora kala ballong. Jag reser mig långsamt, håller händerna framför ansiktet i en teatral gest och ropar: "Nej, nej!"
 
-I’ve become quite the center of attention.
+Jag har blivit något av uppmärksamhetens centrum.
 
-Even though the room is well filled with people, I now have a third girl standing behind me. She comments,
+Trots att rummet är välfyllt har jag nu en tredje tjej stående bakom mig. Hon kommenterar:
 
-"Two girls! Sandwiched between two girls good. Have you ever had two girls?"
-"No," I have to admit. She strokes me over my semi-shaved head, and then throws her long, black hair over it, her nose in the back of my neck, she happily shouts,
-"Now you have hair! You will have to bring me along wherever you go!"
-"You’re crazy," I shout back, she escalates,
-"You too!", and continues,
-"We’re all crazy!"
+"Två tjejer! Inklämd mellan två tjejer bra. Har du haft två tjejer någon gång?"
+"Nej," måste jag erkänna.
+Hon stryker mig över det halvrakade huvudet och kastar sedan sitt långa svarta hår över det, med näsan i min nacke, och ropar glatt:
+"Nu har du hår! Du måste ta mig med vart du än går!"
+"Du är galen," ropar jag tillbaka.
+Hon höjer nivån:
+"Du också!" och fortsätter:
+"Vi är alla galna!"
 
-The main talent enters the stage, shows us a plain white A4 paper. She then wraps a filter marker pen with some cloth, inserts it and hunch over the paper. Her crotch is moving, her face a tight knot of concentration.
+Huvudtalangen går upp på scenen och visar oss ett vanligt vitt A4-papper. Sedan virar hon lite tyg runt en tuschpenna, för in den och hukar över pappret. Hennes skrev rör sig, ansiktet är en hårt knuten koncentration.
 
-The room is filled with people, and to my astonishment, more than half of the crowd is female. There are one or two western women, the rest look asian.
+Rummet är fullt av folk och till min förvåning är mer än hälften av publiken kvinnor. Det finns en eller två västerländska kvinnor, resten ser asiatiska ut.
 
-"That’s strange," I comment, "so many women. Swedish women don’t really like this kind of stuff."
-"Yes, they’re phillipine women. And japanese. Many asian women come here, every night."
-"That girl, over there, the really cute one with the short black skirt, does she work here, or is she a guest?"
-"No, she come here to watch."
+"Det där är konstigt," kommenterar jag, "så många kvinnor. Svenska kvinnor gillar inte riktigt sånt här."
+"Ja, de är filippinska kvinnor. Och japanska. Många asiatiska kvinnor kommer hit, varje kväll."
+"Den där tjejen där borta, den riktigt söta med kort svart kjol, jobbar hon här eller är hon gäst?"
+"Nej, hon kommer hit för att titta."
 
-As a rule, the westeners have a hard and/or guilty look on their faces, the asians look either interested or disinterested. And of course there’s me, smiling, joking with my girls, making noise.
+Som regel har västerlänningarna hårda och/eller skuldfyllda ansikten, asiaterna ser antingen intresserade eller ointresserade ut. Och så finns förstås jag, leende, skämtande med mina tjejer, högljudd.
 
-After considerable time, the filter-pen act is drawing to its conclusion. The artwork is an uncannily well drawn portrait of one of the members of the crowd, and in a bit shaky but very clear writing the text "Welcome to Thailand"
+Efter ansenlig tid närmar sig tuschpennenumret sitt slut. Konstverket är ett kusligt vältecknat porträtt av en av männen i publiken, och med lite darrig men mycket tydlig skrift står texten: "Välkommen till Thailand."
 
-Mai leaves hurriedly, as she’s up next. She comes on stage with two coca-cola-bottles, one filled with water, the other empty. She inserts the water bottle, rolls over on her back with her feet almost touching the ground over her head, and empty the bottle. Covering herself with a small towel, she then inserts the empty bottle, and fills it with what seems to be coca-cola. I’m astonished.
+Mai går hastigt iväg eftersom det är hennes tur härnäst. Hon kommer upp på scenen med två Coca-Cola-flaskor, en fylld med vatten, den andra tom. Hon för in vattenflaskan, rullar över på rygg med fötterna nästan i marken ovanför huvudet och tömmer flaskan. Med en liten handduk över sig för hon sedan in den tomma flaskan och fyller den med något som verkar vara Coca-Cola. Jag är häpen.
 
-Yo puts her head on my shoulder, I stroke her hair.
+Yo lägger huvudet på min axel, jag stryker henne över håret.
 
-The other part of Mais act is the banana thing; laying on her back, she inserts half a banana and by thrusting her hips at the same time as squeezing, she makes it fly in an two meter arc, into her outstreched hand so she can repeat the whole manuevre again and again.
+Den andra delen av Mais nummer är banangrejen; liggande på rygg för hon in en halv banan och genom att stöta med höfterna samtidigt som hon kniper får hon den att flyga i en två meter lång båge, in i sin utsträckta hand så att hon kan upprepa hela manövern igen och igen.
 
-When she returns, I ask her how the hell she did that coca-cola thing. She just points at her cola-filled glass and smile. "Secret, huh?" I realize.
+När hon kommer tillbaka frågar jag hur fan hon gjorde Coca-Cola-grejen. Hon pekar bara på sitt colafyllda glas och ler. "Hemligt, va?" inser jag.
 
-Now the whole show starts all over with the first woman coming onstage with an unopened cola bottle. She shakes it vigourously, hunches down on it and open it with a loud pop.
+Nu börjar hela showen om från början med att den första kvinnan kommer upp på scenen med en oöppnad colaflaska. Hon skakar den kraftigt, hukar ner över den och öppnar den med ett högt popp.
 
-I’ve had enough. I thank Mai and Yo, get up and pay my bill. After giving them a tip of a couple of hundred bath, I scurry for the street like a rat out of a maze.
+Jag har fått nog. Jag tackar Mai och Yo, reser mig och betalar notan. Efter att ha gett dem ett par hundra baht i dricks skyndar jag ut på gatan som en råtta ur en labyrint.
 
-There, ’Schumacher’ stands waiting. I get into his tuk-tuk, and immediately he wants me to tell every detail of the night. It’s quite apparent that he’s heard it all several times before, but anyway he takes great delight in hearing about it, laughing like a happy child at every detail.
+Där står Schumacher och väntar. Jag kliver in i hans tuk-tuk och genast vill han att jag berättar varje detalj från kvällen. Det är uppenbart att han har hört alltihop flera gånger förut, men ändå njuter han stort av att höra om det och skrattar som ett lyckligt barn åt varje detalj.
 # 18. Cheyenne
 
 _Dag 172. Siem Reap och Phnom Penh. 5 mars 2004._
@@ -2928,12 +2891,12 @@ Resan från Bangkok till gränsen var precis så bekväm, välorganiserad och h�
 
 Efter passkontrollen slussades jag till en vänthall för bussen vidare till Siem Reap. Den stora fina VIP-bussen jag sett bilder på i Bangkok visade sig bestå av sittplatser på flaket till en öppen pick-up, hårdstuvning i en personbil och en fullsatt minibuss. Först var det meningen att jag skulle med pick-up:en, men i sista stund plockade de av mig. Lika gott det, jag kom till slut med minibussen. Eftersom jag trodde att pick-up:en och personbilen skulle ta folk till en riktig buss, frågade jag hur länge de skulle sitta på sina ryggsäckar på flaket?
 
-"Five hours."
+"Fem timmar."
 
 När det gick upp för mig att han menade att stackarna skulle tillbringa hela vägen till Siem Reap där, konstaterade jag kort
 
 "Oof."
-"Yeah. Dusty."
+"Ja. Dammigt."
 
 Bussen var gammal och skraltig, vägen var av Nepalesisk kvalitet - riktigt, riktigt jävla dålig packad sandväg pepprad med djupa hål, vi skumpade och dunsade fram ungefär halva vägen, andra halvan var riktigt jämn, med ett och annat plötsligt avsnitt med dålig väg. Jag bara satt och log tills käkarna började ömma.
 
@@ -2979,15 +2942,15 @@ Det är när man ser något sådant som man inser att det att se en siffra, "öv
 
 En annan känsla och perspektiv får man av den konstanta uppvaktningen från försäljarna som kom springande ut från restaurangerna och butikerna som omgärdar områdena, gälla röster ropandes
 
-"Sir, you want food?"
-"No."
-"You want drink?"
-"No thanks."
-"Sir, you want drink for your driver!"
-"Nah."
-"You want t-shirt?"
-"Not now."
-"You come to me later, yes!"
+"Sir, vill du ha mat?"
+"Nej."
+"Vill du ha något att dricka?"
+"Nej tack."
+"Sir, vill du köpa något att dricka till din förare!"
+"Nä."
+"Vill du ha t-shirt?"
+"Inte nu."
+"Du kommer till mig senare, ja!"
 "..."
 
 Yup. Ni har hört mig gnälla om det förr, så jag ska inte uppehålla mig mer vid det.
@@ -3006,72 +2969,72 @@ Mystiskt.
 
 En pojke eller ung man dyker frustande upp ur det ogenomskinliga tjocka lervattnet. Han kastar gyttja omkring sig, tar ett par andetag, dyker igen. Min första tanke är att han badar.
 
-"What’s he doing?" frågar jag Cheyenne.
-"He’s diving. For sand." svarar han.
-"What?"
-"He’s throwing the sand at the basket. He sells the sand at the market."
+"Vad gör han?" frågar jag Cheyenne.
+"Han dyker. Efter sand." svarar han.
+"Va?"
+"Han kastar sanden i korgen. Han säljer sanden på marknaden."
 efter en stunds tystnad
-"I did that for a year. To pay for my english studies, so I could be a driver."
+"Jag gjorde det i ett år. För att betala för mina engelskstudier, så att jag kunde bli förare."
 
 Vi tittar båda på pojken som dyker upp igen. Han verkar inte ha turen med sig. Han dyker igen.
 
-"Is it a special sand here?" frågar jag.
-"Yes. They use it for construction."
-"Roads or buildings?"
-"What?"
-"I mean, do they use it to construct buildings, or for roads?"
-"Buildings."
-"Oh. How much do you get per bucket?"
-"You don’t sell it per bucket. You fill a pickup."
-"Ok. So, how much for a pick-up?"
-"About 10 000 riel."
+"Är det särskild sand här?" frågar jag.
+"Ja. De använder den till byggen."
+"Vägar eller byggnader?"
+"Va?"
+"Jag menar, använder de den för att bygga hus, eller till vägar?"
+"Byggnader."
+"Åh. Hur mycket får du per hink?"
+"Man säljer inte per hink. Man fyller en pickup."
+"Okej. Så hur mycket för en pick-up?"
+"Ungefär 10 000 riel."
 
 Jag ger denna upplysning tid att sjunka in. Det motsvarar ungefär 20 kronor.
 
-"And how many buckets is a pick-up?"
+"Och hur många hinkar är en pick-up?"
 Han tänker efter, svarar
-"About 30 buckets."
-"So," räknar jag raskt, "it’s about 300 riel per bucket." (50 öre)
+"Ungefär 30 hinkar."
+"Så," räknar jag raskt, "det är ungefär 300 riel per hink." (50 öre)
 
 Han ger mig en lätt snopen blick,
 
-"Yeah." "What can you get for a hundred riel?"
-"Not much. A candy. Maybe two."
+"Ja." "Vad kan man få för hundra riel?"
+"Inte mycket. En godis. Kanske två."
 
 Jag tittar på de fyra hinkarna på plattformen, kontemplerar värdet. Pojken dyker upp, hämtar andan, försvinner under ytan igen.
 
-"So, how much do you need to survive in Kambodja?"
-"What do you mean?"
-"Do you live with your parents?"
-"Yes."
-"And do you own your home, or do you rent it?"
-"Own."
-"So, how much do you have to make in a day, for food and stuff?"
+"Så, hur mycket behöver man för att överleva i Kambodja?"
+"Vad menar du?"
+"Bor du med dina föräldrar?"
+"Ja."
+"Och äger ni ert hem, eller hyr ni det?"
+"Äger."
+"Så hur mycket måste du tjäna på en dag, för mat och sådant?"
 Han funderar, svarar
-"Well, we are six people. To buy food for us all cost about 12 000 riel per day."
-"So, you need about three dollars a day to feed six people?"
-"Yeah."
-"And you get how many tourists per week?"
-"Depends, maybe one."
-"And they use you for one, two or three days?"
-"Different, maybe one, maybe two. Some, three."
-"So, two. So you make twelve dollars a week."
-"Yes."
-"Well," konstaterar jag och nickar åt pojkens håll, "money invested well, then."
+"Tja, vi är sex personer. Att köpa mat till oss alla kostar ungefär 12 000 riel per dag."
+"Så ni behöver ungefär tre dollar om dagen för att mätta sex personer?"
+"Ja."
+"Och hur många turister får du per vecka?"
+"Det beror på, kanske en."
+"Och de använder dig i en, två eller tre dagar?"
+"Olika, kanske en, kanske två. Vissa tre."
+"Så, två. Då tjänar du tolv dollar i veckan."
+"Ja."
+"Tja," konstaterar jag och nickar åt pojkens håll, "väl investerade pengar, då."
 
 Cheyenne svarar inte, han studerar pojken med outgrundlig min. Kanske försöker han också få ihop pengar nog att lära sig engelska så han kan jobba för turister.
 
-"Before that, I was a soldier."
-"For how long?"
-"For four years."
-"Wow. That’s long. Do you have to, or is it a job?"
-"It’s a job. Many do it. You don’t need much education."
-"I was a soldier as well," konstaterar jag, "for a year."
+"Innan dess var jag soldat."
+"Hur länge?"
+"I fyra år."
+"Wow. Det är länge. Måste man, eller är det ett jobb?"
+"Det är ett jobb. Många gör det. Man behöver inte mycket utbildning."
+"Jag var också soldat," konstaterar jag, "i ett år."
 
 Han ler överraskat,
 
-"Really?"
-"Yeah. But in Sweden it’s the law. Every young man has to be a soldier for a year. We have a sort of people’s army." "Oh."
+"Verkligen?"
+"Ja. Men i Sverige är det lagen. Varje ung man måste vara soldat i ett år. Vi har ett slags folkarmé." "Åh."
 
 Vi återvänder till motorcykeln. På vägen till nästa ruin, konstaterar jag att han just talat om för mig att de lever för $200 per person och år. SEK 1 500. Det är mer än dubbelt så mycket som vad 40% av indiens befolkning har att röra sig med. Men Cheyenne ser inte direkt fattig ut, och han har ju faktiskt en motorcykel.
 
@@ -3102,7 +3065,7 @@ Lite som när jag en gång i sällskap av min yngsta bror undrade högt över hu
 
 Kram,
 Stefan
-# 19. Ordinary Horror
+# 19. Vardaglig fasa
 
 _Dag 183. Phnom Penh. 2 april 2004._
 
@@ -3175,7 +3138,7 @@ Pizzan är svindyr, USD 10, jag är hungrig men klarar inte mer än två slices 
 På så sätt kommer det sig att jag, när jag försöker pruta ner motorcykeln tillbaka till gästhuset från 2500 till 2000 riel, inser att jag bitchar om ganska exakt en procent av priset på pizzan jag just håller i handen.
 
 En procent. Jag rodnar faktiskt lite lätt när jag inser det, men då sitter jag bakpå hojen så föraren ser mig inte.
-# 20. Party People
+# 20. Partyfolket
 
 _Dag 183. Sihanoukville, Mekong och Ho Chi Minh. 2 april 2004._
 
@@ -3190,14 +3153,14 @@ Efter en liten incident där vi nästan tappade bort Patrick, bestämmer vi oss 
 
 Efter att vi checkat in går vi ner till stranden, Patrick och Lars vill se om det finns något bönde närmare den. Vi hittar ett ställe med grym, säger grym, utsikt över hela bukten. Vi bestämmer oss omedelbart för att ta in där alla fyra. Eftersom vi redan checkat in på det andra hotellet gör vi en reservation för två dubbelrum dagen efter. På vägen ner för trapporna till stranden vänder jag mig till Michäl och säger
 
-"Now all we need is for some single girls to live in the other two rooms!"
+"Nu fattas det bara att några singeltjejer bor i de andra två rummen!"
 "They’re probably lesbian," inflikar Patrick med ett brett flin.
-"Ok, some single heterosexual girls," specifierar jag.
+"Okej, några heterosexuella singeltjejer," specifierar jag.
 
 Michäl är tyst en fraktion av en sekund, sedan påpekar han,
 
-"I’m sorry, Stefan, but you’re a minority here. I’m gay too."
-"You better watch out," påpekar Patrick, flinet ännu lite bredare.
+"Jag är ledsen, Stefan, men du är i minoritet här. Jag är också gay."
+"Det är bäst att du passar dig," påpekar Patrick, flinet ännu lite bredare.
 
 På vägen tillbaka stöter vi på Louisa på stranden. Nyanländ; hon skulle egentligen till en annan beach, men bestämde sig till slut för samma som oss. Hon bor på hotellet bredvid oss, och tänker också flytta till stranden dagen efter; hon reserverar rum på samma gästhus. Vi börjar bli ett litet gäng som bor tillsammans.
 
@@ -3207,7 +3170,7 @@ Dagen efter är Michäl helt utslagen, han bestämmer sig för att stanna på ho
 
 Väl incheckad på det nya stället sätter jag mig i restaurangen tillsammans med Louisa, Lars och Patrick för att äta brunch. Jag sitter med ryggen ut mot stranden, plötsligt lägger någon händerna över mina ögon bakifrån. Jag säger;
 
-"What the hell? I know you might not believe me when I say this, but I don’t have that many girls that would put their hands on my eyes from behind. Lisa, is that you?"
+"Vad fan? Jag vet att ni kanske inte tror mig när jag säger det, men jag känner inte så många tjejer som skulle lägga händerna över mina ögon bakifrån. Lisa, är det du?"
 
 Och så klart är det det. I en veckas tid hade jag försökt få tag på Lisa för att få reda på var hon var. Jag visste att hon varit i Kambodja, men jag trodde hon redan åkt till Vietnam.
 
@@ -3224,7 +3187,7 @@ De har också en unghund, Harley, som är helt bedårande.
 Jag får tillfälle att simma med vårt gästhus tama apa. Igen, jag har ett problem med tama vilda djur, men att se en apa simma är något av det koolaste jag sett. Han, för det var en han, höll andan och simmade hundsim under vattenytan, med ögonen öppna.
 
 Innan jag fick lov att ta apan på simtur, frågade jag ägaren om det var ok att leka med apan. Han sa;
-"He’s a bit aggressive. But I think you can handle him."
+"Han är lite aggressiv. Men jag tror att du klarar honom."
 
 Fast han var inte mer aggressiv än Tao Muan, apan på Ko Chang. Hon var betydligt mer livlig och lekfull, ville hoppa och klösas hela tiden. Den här hannen var ganska slö och verkade helt nöjd med att bara sitta på min axel och plocka löss.
 
@@ -3285,7 +3248,7 @@ Stefan
 PS. Jag tänkte ju tatuera mig i Ho Chi Minh, det är ju trots allt gamla ’Saigon’ i Vietnam, liksom. Turns out det är olagligt att tatuera folk här, eftersom tatueringar i huvudsak är kopplade till undre världen:
 
 http://www.thingsasian.com/browse/stories/contributors/goto_article/article.2490.html
-# 21. Home
+# 21. Hem
 
 _Dag 252. Göteborg. 9 juni 2004._
 

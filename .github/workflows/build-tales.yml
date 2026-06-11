@@ -67,6 +67,12 @@ jobs:
             output_stem: resebrev
             lang: sv
 
+          - story: resebrev-svenska
+            title: "Resebrev"
+            chapters_glob: "stories/resebrev/translations/svenska/kapitel/kapitel_*.md"
+            output_stem: resebrev-svenska
+            lang: sv
+
     steps:
       - uses: actions/checkout@v4
 

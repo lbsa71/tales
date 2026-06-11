@@ -270,9 +270,46 @@ def _strip_markdown(text: str) -> str:
     out_lines: list[str] = []
     for line in text.splitlines():
         stripped = line.rstrip()
+        if re.match(r"^\s*(=|-){3,}\s*$", stripped):
+            continue
         if stripped.startswith("#"):
             # "# Kapitel 1: Födelsen" -> "Kapitel 1: Födelsen"
             stripped = stripped.lstrip("#").strip()
+            # "# 1. Bombay" would otherwise become "1. Bombay", which
+            # matches LIST_LINE_RE and gets rendered as a standalone
+            # numbered-list chunk. That short, contextless header has
+            # produced audible glitches in ElevenLabs. Speak numeric
+            # chapter headings as ordinary prose instead. Avoid
+            # "Kapitel 1" for Swedish voices: some voices read the digit
+            # with German leakage ("einz"). "Första kapitlet" is a safer
+            # Swedish prompt for the TTS model.
+            m = re.match(r"^(\d+)\.\s+(.+)$", stripped)
+            if m:
+                ordinal = {
+                    "1": "Första",
+                    "2": "Andra",
+                    "3": "Tredje",
+                    "4": "Fjärde",
+                    "5": "Femte",
+                    "6": "Sjätte",
+                    "7": "Sjunde",
+                    "8": "Åttonde",
+                    "9": "Nionde",
+                    "10": "Tionde",
+                    "11": "Elfte",
+                    "12": "Tolfte",
+                    "13": "Trettonde",
+                    "14": "Fjortonde",
+                    "15": "Femtonde",
+                    "16": "Sextonde",
+                    "17": "Sjuttonde",
+                    "18": "Artonde",
+                    "19": "Nittonde",
+                    "20": "Tjugonde",
+                    "21": "Tjugoförsta",
+                    "22": "Tjugoandra",
+                }.get(m.group(1), f"Kapitel {m.group(1)}")
+                stripped = f"{ordinal} kapitlet. {m.group(2)}"
         out_lines.append(stripped)
     return "\n".join(out_lines)
 
@@ -916,9 +953,34 @@ def cmd_concat(args) -> int:
         if not chapter_dir.exists():
             print(f"  skip {stem}: {chapter_dir} does not exist", file=sys.stderr)
             continue
-        pcm_files = sorted(chapter_dir.glob("chunk_*.pcm"))
+        manifest_path = chapter_dir / "chunks.json"
+        pcm_files: list[Path]
+        if manifest_path.exists():
+            try:
+                manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+                pcm_files = [
+                    chapter_dir / chunk["pcm"]
+                    for chunk in manifest.get("chunks", [])
+                    if chunk.get("status") in {"ok", "skipped-existing"}
+                ]
+            except (OSError, json.JSONDecodeError, KeyError, TypeError) as e:
+                print(
+                    f"  WARN: could not read {manifest_path}; falling back to glob: {e}",
+                    file=sys.stderr,
+                )
+                pcm_files = sorted(chapter_dir.glob("chunk_*.pcm"))
+        else:
+            pcm_files = sorted(chapter_dir.glob("chunk_*.pcm"))
         if not pcm_files:
             print(f"  skip {stem}: no chunk_*.pcm files in {chapter_dir}", file=sys.stderr)
+            continue
+        missing = [p for p in pcm_files if not p.exists()]
+        if missing:
+            print(
+                f"  skip {stem}: missing rendered chunk(s): "
+                f"{', '.join(p.name for p in missing)}",
+                file=sys.stderr,
+            )
             continue
 
         combined = bytearray()
