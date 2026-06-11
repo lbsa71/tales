@@ -1,0 +1,15 @@
+{
+  "_doc": "Per-tale voice-renderer overrides. See tools/voice-renderer/reader.py load_story_overrides. Layering: language profile defaults < this file < CLI flag.",
+  "languages": {
+    "sv": {
+      "voice_id": "iCEMyUhOwgAy0egMANye",
+      "model": "eleven_v3",
+      "speed": 0.92,
+      "stability": 0.56,
+      "similarity_boost": 0.75,
+      "style": 0.12,
+      "use_speaker_boost": true,
+      "max_chars": 1450
+    }
+  }
+}

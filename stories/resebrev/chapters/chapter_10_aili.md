@@ -316,6 +316,10 @@ Vid sextiden stänger han av väckarklockan innan den ringt, tar en dusch. I dus
 
 Han slår sig ner på kaféet, personalen förbereder för dagen. Han beställer ett stadigt frukostpaket och öppnar sin bok.
 
+Det är Zen and the Art of Motorcycle Maintenance. Han tänker på Robert: "Peace of mind is the whole thing. That which produces it is good maintenance. That which disturbs it is poor maintenance. What we call workability of the machine is just an objectification of this peace of mind. The ultimate test’s always your own serenity."
+
+Det var den boken han gav Aili.
+
 Han hinner inte läsa en halv sida förrän hon kommer till hans bord, säger
 
 "Good morning."

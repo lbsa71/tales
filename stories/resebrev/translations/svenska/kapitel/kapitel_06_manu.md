@@ -1,4 +1,4 @@
-# 06. Manu
+# 6. Manu
 
 _Dag 29. Delhi och Agra. 30 oktober 2003._
 
@@ -19,51 +19,51 @@ Han överraskar mig med att, efter att jag förklarat min plan, ge mig ett högs
 
 Vi rullar, börjar småprata, han heter 'Manu', har bott hela sitt liv på samma gata här i Delhi.
 
-"Do you have a wife?" frågar jag.
+"Har du en fru?" frågar jag.
 
-"No." svarar han kort.
+"Nej." svarar han kort.
 
-"But you’re handsome. A handsome man like you should have a wife."
+"Men du är stilig. En stilig man som du borde ha en fru."
 
-"Here, look," svarar han, fiskar fram plånboken och sträcker den till mig. En mager glåmig figur stirrar tomt ur ID-kortet.
+"Här, titta," svarar han, fiskar fram plånboken och sträcker den till mig. En mager glåmig figur stirrar tomt ur ID-kortet.
 
-"More handsome now. Too skinny then!" säger jag hurtfriskt.
+"Stiligare nu. För mager då!" säger jag hurtfriskt.
 
-"Drugs. I did drugs then. Lots of it. Heroin, cocaine," listan dränks av trafikbruset, "shooting up. Everything!"
+"Droger. Jag tog droger då. Massor. Heroin, kokain," listan dränks av trafikbruset, "injicerade. Allt!"
 
-"That's bad!" säger jag med eftertryck.
+"Det är dåligt!" säger jag med eftertryck.
 
-"Yes. Lots of drugs. But now, clean for six years. No drugs. Nothing! Except for this," tillägger han kort och drar i cigarettpaketet i bröstfickan.
+"Ja. Massor av droger. Men nu, ren i sex år. Inga droger. Ingenting! Förutom det här," tillägger han kort och drar i cigarettpaketet i bröstfickan.
 
-"Now I pray to the gods every night. Twenty years drugs, but now clean."
+"Nu ber jag till gudarna varje natt. Tjugo år droger, men nu ren."
 
-"That’s good!" svarar jag.
+"Det är bra!" svarar jag.
 
-"You know, I was taking drugs, fighting, go to jail three times."
+"Du vet, jag tog droger, slogs, satt i fängelse tre gånger."
 
-"That’s bad!"
+"Det är dåligt!"
 
 Mina responser börjar kännas imbecilla.
 
 Vi kör vidare ett tag under tystnad. Jag frågar honom om han har några bröder.
 
-"Yes, two."
+"Ja, två."
 
-"Older?"
+"Äldre?"
 
-"Yes, older."
+"Ja, äldre."
 
-"You have a father?"
+"Har du en far?"
 
-"No, father dead."
+"Nej, far död."
 
-"Only mother?"
+"Bara mor?"
 
-"Only mother."
+"Bara mor."
 
-"Oh, too bad. Sorry."
+"Åh, vad tråkigt. Jag beklagar."
 
-Vi kommer till Connaught place. Min plan är att köpa resecheckar på VISA-kortet, så jag går till en bank vars ATM jag vet tar VISA. En dam där säger att de tyvärr inte kan ta betalt från VISA-kortet, men att jag kan köpa för rupier, men tyvärr kan jag bara ta ut 15.000 rupier per dag från deras ATM, så hon ger mig en lista över ATM:er, och råder mig att åka runt i staden och göra max-uttag. Jag behöver 93 000 rupier för att få köpa USD 2 000 i resecheckar. Nästan en lakh rupier.
+Vi kommer till Connaught place. Min plan är att köpa resecheckar på VISA-kortet, så jag går till en bank vars ATM jag vet tar VISA. En dam där säger att de tyvärr inte kan ta betalt från VISA-kortet, men att jag kan köpa för rupier, men tyvärr kan jag bara ta ut 15.000 rupier per dag från deras ATM, så hon ger mig en lista över ATM:er, och råder mig att åka runt i staden och göra max-uttag. Jag behöver 93 000 rupier för att få köpa 2000 dollar i resecheckar. Nästan en lakh rupier.
 
 De räknar nämligen i lakh och crore här. 100 000 respektive 10 miljoner.
 
@@ -71,63 +71,63 @@ Så. Tillbaka till Manu, runt på en snurrfärd över hela Connaught Place, ta u
 
 Jag blir mer och mer nervös över att åka omkring med 100 000 rupier på mig i en ricksha vars förare visserligen verkar hederlig men icke desto mindre är en nyligen omvänd kriminell drogmissbrukare.
 
-"Manu, have you drive ricksha for long time?"
+"Manu, har du kört rickshaw länge?"
 
-"Twenty years."
+"Tjugo år."
 
-"You know, you are the first ricksha-driver that gave me an honest price. You seem honest," säger jag full av baktankar.
+"Du vet, du är den första rickshaw-föraren som gett mig ett ärligt pris. Du verkar ärlig," säger jag full av baktankar.
 
-"Yes, now. But not then. Then it was money money money, you know. Five rupies, fifty rupies."
+"Ja, nu. Men inte då. Då var det pengar pengar pengar, du vet. Fem rupier, femtio rupier."
 
-"Yeah."
+"Ja."
 
 På vägen tillbaka till banken frågar jag honom hur han firade Diwali, familjehögtiden. Han svarar med en oväntad gest, han gnider sig i ena ögat med näven och svarar
 
-"Sad. Diwali bad. Alone."
+"Ledsamt. Diwali dåligt. Ensam."
 
-"Alone? You weren’t with your mother?"
+"Ensam? Var du inte med din mor?"
 
-"Yes. My mother and my sister. Two or three years old. But no wife."
+"Jo. Min mor och min syster. Två eller tre år gammal. Men ingen fru."
 
-"Oh," säger jag, "but why don’t you have a wife?"
+"Åh," säger jag, "men varför har du ingen fru?"
 
 Han stannar rickshan, vänder sig om och säger
 
-"Look. I am Punjabi hindu. When I find woman I want to marry, parents come to my street to have quotation. You know, quotation."
+"Titta. Jag är Punjabi-hindu. När jag hittar kvinna jag vill gifta mig med, kommer föräldrarna till min gata för att få omdöme. Du vet, omdöme."
 
 Jag tror jag förstår. Omdömen.
 
 Han fortsätter,
 
-"They ask the people on my street - ’how is he’, ’what he done?’ They say ’He a drug addict for twenty years. He fight, he go to prison.’ Nobody will let their daughter be my wife."
+"De frågar människorna på min gata - ’hur är han’, ’vad har han gjort?’ De säger ’Han är en drogmissbrukare i tjugo år. Han slåss, han hamnar i fängelse.’ Ingen låter sin dotter bli min fru."
 
-"Man, that’s hard!"
+"Fy fan. Det är hårt."
 
-"But I’ve been clean now for six years! And everynight I pray to the gods."
+"Men jag har varit ren i sex år nu! Och varje natt ber jag till gudarna."
 
 Jag skakar bara på huvudet. Vi fortsätter färden.
 
 Att fixa resecheckar var ett litet helvete, komplett med utsikten att kanske få konka runt på en lakh rupier genom hela resan eftersom utlänningar enligt en annan banktjänsteman inte fick köpa resecheckar i Indien, men det gick till slut. Trägen vinner.
 
-Manu förvånar mig med att säga "Now we do something for my benefit? I take you to shirt store. You have a look, buy or no buy, doesn’t matter."
+Manu förvånar mig med att säga "Nu gör vi något för min skull? Jag tar dig till skjortaffär. Du tittar, köpa eller inte köpa, spelar ingen roll."
 
 För första gången känner jag att det är helt ok att bli meddragen mot kommission, och jag behöver en skjorta. Jag säger "Ok" och vi drar dit.
 
 Jag köper en skjorta. Kashmirier är bra försäljare. I rickshan frågar jag Manu vad han får i kommission.
 
-"No, not here, no commission. I get this," säger han och drar i den svarta skjortan han bär.
+"Nej, inte här, ingen kommission. Jag får det här," säger han och drar i den svarta skjortan han bär.
 
-"Oh. Ok. But what do you normally get from a place like this?"
+"Åh. Okej. Men vad brukar du få från ett sådant här ställe?"
 
-"Depends. Now is Dewali time. Maybe 50 rupies. Yes. 50 rupies. Sell or no sell."
+"Beror på. Nu är det Dewali-tid. Kanske 50 rupier. Ja. 50 rupier. Sälja eller inte sälja."
 
 50 rupier. Big business för en fattig ricksha-wallah. Särskilt om en snål turist fått ner priset från 40 till 30 rupier för en resa.
 
 Han kör mig till mitt hotell, jag kliver ur och betalar.
 
-"Manu, you’re a good man. I hope you get what you pray for."
+"Manu, du är en god man. Jag hoppas att du får det du ber om."
 
-"Yes," säger han,"a wife."
+"Ja," säger han,"en fru."
 
 ## CATRINES’ STORY
 Jag äter frukost andra dagen av mitt andra besök i Indien. Stekt potatis, omelett, toast.
@@ -154,19 +154,19 @@ Efter att ha accepterat omeletten och chokladen och ratat potatisen och brödet,
 
 Ah, en hona, tänker jag. Har du fött ungar lilla katt? Legat i en gränd och jamat i extatisk smärta lilla katt? Inget svar.
 
-Jag frågar den anställda, "Does the cat have a name?" Han ler i oförstånd. "Yes, the cat, do you call it anything?"
+Jag frågar den anställda, "Har katten något namn?" Han ler i oförstånd. "Ja, katten, kallar ni den något?"
 
-"No, just 'cat'."
+"Nej, bara 'katt'."
 
-"Must be short for 'Catrine'," konstaterar jag och ler. Han ler svagt tillbaka.
+"Måste vara kort för 'Catrine'," konstaterar jag och ler. Han ler svagt tillbaka.
 
-"Do you know what happened to it? The paw?"
+"Vet du vad som hände med den? Tassen?"
 
-"Yes. It was another cat. Big cat, crazy cat. Bite it off."
+"Ja. Det var en annan katt. Stor katt, galen katt. Bet av den."
 
 Han illustrerar med blottade tänder och kattljud.
 
-"Thanks," säger jag. Han går.
+"Tack," säger jag. Han går.
 
 Cat studerar mig med ljusgröna kattögon, inga hemligheter yppar de.
 
@@ -191,9 +191,9 @@ Tre män vaktades av två poliser. Två av dem, den yngsta och den äldsta var h
 
 Den yngsta mannen var täckt med blod från hals till midja. Alla hade de skärsår över huvud, ansikte och överkropp. Gud vet vad som hänt.
 
-Doktorn kom fram till mig klädd i tröja och slitna jeans. Jag fick förklarat mitt ärende, han tittade på mig och frågar; "This is emergency. Can you wait five minutes?"
+Doktorn kom fram till mig klädd i tröja och slitna jeans. Jag fick förklarat mitt ärende, han tittade på mig och frågar; "Det här är akuten. Kan du vänta fem minuter?"
 
-"Yes, yes, of course," svarar jag och sätter mig ner. De börjar ta hand om de andra männen.
+"Ja, ja, självklart," svarar jag och sätter mig ner. De börjar ta hand om de andra männen.
 
 Den äldre handbojade mannen har en ungefär åtta gånger åtta centimeter stor hudflik halvt avskalad ur pannan. Han sätter sig ner på en stol.
 
@@ -205,19 +205,19 @@ En äldre kvinna har ett skärsår tvärs över undersidan av handleden, hon gå
 
 Sedan är det jag. Doktorn tar ett grepp om mitt huvud, tvingar upp munnen, kastar en blick och konstaterar
 
-"Yes. Severely infected."
+"Ja. Kraftigt infekterat."
 
 Han börjar skriva en lista över medikamenter. Halvvägs igenom säger han
 
-"Can you buy these drugs from outside? We are required by law to give you these drugs, but is it ok if you buy them from outside?"
+"Kan du köpa de här medicinerna utanför? Enligt lag måste vi ge dig medicinerna, men är det okej om du köper dem utanför?"
 
-"Yes, of course," säger jag, undrar i mitt stilla sinne hur mycket medicin kostar - listan blir bara längre och längre.
+"Ja, självklart," säger jag, undrar i mitt stilla sinne hur mycket medicin kostar - listan blir bara längre och längre.
 
 Efter att ha ritat riktigt söta prickar och grafer för att förklara för mig när jag ska ta de olika medicinerna, skickar han iväg mig till "medicine shop".
 
-Apotekaren frågar mig "How much do you want" och jag bara tittar på honom. "Well, I don’t know? Five, ten days?"
+Apotekaren frågar mig "Hur mycket vill du ha" och jag bara tittar på honom. "Tja, jag vet inte? Fem, tio dagar?"
 
-"Five days," konstaterar han, drar ut lådor, plockar ut pillerkartor och börjar klippa ut det exakta antalet ur dem. Behöver jag verkligen allt det här, tänker jag, jag borde skaffa en andra åsikt.
+"Fem dagar," konstaterar han, drar ut lådor, plockar ut pillerkartor och börjar klippa ut det exakta antalet ur dem. Behöver jag verkligen allt det här, tänker jag, jag borde skaffa en andra åsikt.
 
 Medikamenterna går på 100 rupier - SEK 16.
 

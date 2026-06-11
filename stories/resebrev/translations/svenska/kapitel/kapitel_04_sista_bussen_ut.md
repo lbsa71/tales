@@ -1,4 +1,4 @@
-# 04. The Last Bus Out
+# 4. Sista bussen ut
 
 _Dag 21. Leh till Vashisht. 22 oktober 2003._
 
@@ -24,53 +24,14 @@ Jag var tvungen att sätta mig ner. Turligt nog fanns det ett litet stånd med d
 
 Han verkade grymt bister. Jag sträckte fram handen och presenterade mig, han svarade med sitt namn men det försvann snabbt i yrseldimman.
 
-"Where are you from?"
+"Varifrån kommer du?"
 "France."
-"Ah, I’m from Sweden. Je suis Suédois."
+"Ah, jag kommer från Sverige. Je suis Suédois."
 "Très bien," muttrade han halvförvirrat.
 
 Oli dyker upp, han har fixat biljetter till en privat buss. Jag knäpper iväg en geting från Fantan, och får sedan fly därifrån när den kommer tillbaka för hämnd.
 
 Efter att ha avslutat drycken stående lämnar jag tillbaka glaset till shop-ägaren.
-
-Säger "Au revoir" till fransmannen. Han tittar bara upp lite snabbt och muttrar något.
-
-Sista kvällen i Leh. Fyra dagar har jag bara legat höjdsjuk i sängen, läst ut boken jag fick av mamma, ätit tibetansk mat samt suttit på taket och avnjutit utsikten. Påtvingad vila.
-
-Från taket ser jag en flock mörka fåglar. I flocken flyger en vit som deras like.
-
-Mot den mörka marken syns bara den ljusa, men mot himlen är de alla svarta.
-
-På kvällen kommer James, Pete och Gi tillbaka. Pete är en trevlig, snuskigt rik law-school-brat-amerikan och Gi en grymt skön belgare.
-
-Vi går ut för att dricka farväl-öl. Vi får sällskap av en sjunde, en holländare killarna mött på sin trek.
-
-Jag var att jag redan på vägen till Leh hade börjat få en känsla om att jag kanske inte skulle till SECMOL ändå, att det inte var menat. Att det var meningen att jag skulle tro att jag skulle till Leh och att det skulle leda mig till Srinagar - och att Leh sedan hade spelat ut sin roll. Jag tror faktiskt att det var så. Hjärtats vägar är ibland outgrundliga.
-
-Så jag skulle lämna Leh. Jag kom på det för sent för att köpa en biljett, så jag fick vänta till dagen efter. Höjdsjuk släpade jag mig de 15 minuterna i nedförsbacke till busstationen. Där fick jag reda på att det inte gick någon buss förrän två dagar senare och att jag skulle komma tillbaka imorgon för att köpa biljetten. De säljs nämligen bara dagen innan eftersom man aldrig vara säker på att det blir någon buss förrän den anlänt till stationen.
-
-Helt ok tyckte jag dock, eftersom det skulle låta mig säga hejdå till James som var ute på en tre-dagars-trek med en belgare och en amerikan vi mött på hotellet.
-
-På kvällen kom Oli och Ruth fram till att de också ville till Manali, så morgonen efter så följde Oli med mig ner till busstationen för att köpa biljett.
-
-Där fick vi reda på att jag köpt den sista biljetten till den sista reguljära bussen ut ur Manali. Trafiken stängs för vintern, människan retirerar.
-
-Jag började gå tillbaka till hotellet, Oli skulle försöka ordna någon annan transport.
-
-Återtaget var ett helvete. Höjdsjukan gjorde att jag inte kunde gå mer än 3 minuter i taget, det flimrade framför ögonen.
-
-Jag var tvungen att sätta mig ner. Turligt nog fanns det ett litet stånd med drickor, ett bord utanför, där satt en man. Jag köpte en Fanta och frågade om jag kunde slå mig ner. Mannen gestikulerade halvhjärtat att jovisst kunde jag det.
-
-Han verkade grymt bister. Jag sträckte fram handen och presenterade mig, han svarade med sitt namn men det försvann snabbt i yrseldimman.
-
-"Where are you from?"
-"France."
-"Ah, I’m from Sweden. Je suis Suédois."
-"Très bien," muttrade han halvförvirrat.
-
-Oli dyker upp, han har fixat biljetter till en privat buss. Jag knäpper iväg en geting från Fantan, och får sedan fly därifrån när den kommer tillbaka för hämnd.
-
-Efter att ha avslutat drickan stående lämnar jag tillbaka glaset till shop-ägaren.
 
 Säger "Au revoir" till fransmannen. Han tittar bara upp lite snabbt och muttrar något.
 
@@ -91,6 +52,8 @@ Det behövs inte mycket ’Godfather Extra Super Strong Beer’ (alkoholhalt ’
 Jag trumlar i säng, sätter klockan på 03.00 eftersom bussen skulle gå 03.30.
 
 03.30 vaknar jag, det var kolsvart, så jag tog på min fantastiskt användbara pannlampa och packade mig iväg till bussen.
+
+Vid bussen skulle packningen upp på taket. Det fanns ingen annan praktisk lösning, så jag klättrade efter i mörkret för att se till att ryggsäcken kom på plats.
 
 Jag vacklar till och håller ett ögonblick på att trilla ner men greppar i sista stund tag i den låga rälingen på bussens tak. Det är fortfarande becksvart, och jag trängs med fem andra om att få plats med min packning.
 
@@ -146,12 +109,12 @@ Jag är så nära molnen att jag kunde göra berget svartsjukt.
 
 Bussen går bara till Keylong. 18 timmar från Leh. Därifrån får vi försöka ta oss till Manali med lokala bussar. Jag och Denis tar in på samma gästhus och käkar middag tillsammans.
 
-"You have the air of a seasoned traveller," säger jag.
-"What?" svarar Denis.
-"Well, you look like you have travelled a lot. Your aura."
-"Yes. I’ve travelled a lot. 51 countries. This is my fifth time in India."
-"When did you start travelling?"
-"When I was 17. I’m 47 now, so that makes this my 30th anniversary."
+"Du har aura av en erfaren resenär," säger jag.
+"Vad?" svarar Denis.
+"Tja, du ser ut som om du har rest mycket. Din aura."
+"Ja. Jag har rest mycket. 51 länder. Det här är min femte gång i Indien."
+"När började du resa?"
+"När jag var 17. Jag är 47 nu, så det här är mitt 30-årsjubileum."
 
 Denis är en före detta IT-entreprenör som sålde sitt bolag när han var 30 och svor på att aldrig arbeta mer och speciellt inte med IT. Han påminner mig av någon anledning om Jim. Och mig själv. I någon underlig mix.
 
@@ -165,7 +128,7 @@ Busschauffören visar sin rastlöshet med passagerarna som försöker tränga si
 
 Bussen är ännu mer knökad än igår. Denis sitter på en väska med en armbåge i ansiktet men snor en sittplats som blir ledig efter tjugo minuter.
 
-Insh’Allah betyder ’om gud vill’. 15 minuter efter att bussen lämnat Keylong, går det ett ’OOH!’ genom bussen bakifrån och fram och några börjar skrocka. Vi har tappat baggage.
+Insh’Allah betyder ’om gud vill’. 15 minuter efter att bussen lämnat Keylong, går det ett ’OOH!’ genom bussen bakifrån och fram och några börjar skrocka. Vi har tappat bagage.
 
 Bussen stannar, några hoppar av för att hämta det tappade bagaget.
 
@@ -175,7 +138,7 @@ Vi fortsätter. Jag får ett tillfälle att meditera över min egen hjälplöshe
 
 En halvtimme senare blir den bästa platsen ledig, den bredvid chauffören. Jag erbjuder en indier den, men han säger ’take it’. Lyx!
 
-Vägen är om möjligt ännu värre än den förra. Detta är som en uppkörd skogsväg högt uppklastrad på en bergssida. Jag bara skrattar, det är helt surrealistiskt.
+Vägen är om möjligt ännu värre än den förra. Detta är som en uppkörd skogsväg högt uppklistrad på en bergssida. Jag bara skrattar, det är helt surrealistiskt.
 
 Det finns tre sorters bussbolag. ’State Road Corporations’ sköter den reguljära långfärdstrafiken. Deras förare kör lugnt och stabilt och bussarna överfylls inte.
 
@@ -185,7 +148,7 @@ Det är som real life Liseberg hela vägen. I fem timmar.
 
 Då och då sneglar jag på honom. Han ser inte ens koncentrerad ut, ansiktsuttrycket pendlar mellan otålighet och irritation.
 
-Hur ’Private’-förarna kör vill jag inte veta.
+Hur ’Private Transport’-förarna kör vill jag inte veta.
 
 När vi kommer in i Lahol ser jag de första riktigt vackra kvinnorna - i Kashmir bara grova arabiskor och i Leh bara runda tibetanskor. Här är de slanka, med lätt mongoliska drag.
 
@@ -227,15 +190,15 @@ En liten flicka med brunt skinn och svarta flätor springer leende nerför en up
 
 Vi kommer in i Manali, tar oss direkt till Vashisht och tar in på ett gästhus vars ägare visar sig odla och tillverkar egen ’cream’, den lokala hash-varianten. Den är så mjuk att man kan knåda den som grädde.
 
-"Good cream," konstaterar Denis efter att ha pressat ut massan för att kontrollera färgen och att det bildats kristaller, "you know, they do it by rubbing it between their hands for hours and hours."
+"Bra cream," konstaterar Denis efter att ha pressat ut massan för att kontrollera färgen och att det bildats kristaller, "du vet, de gör den genom att gnugga den mellan händerna i timmar och timmar."
 
 "Two grams per hour," inflikar ägaren. Han tar ett bloss, höjer jointen till pannan och mumlar "Boom". "Boom Shankar" är ett tack till Shankar, rökandets skyddshelgon i Hinduismen.
 
-Tydligen är Manali hash-staten i Indien. Nästan varenda bonde odlar hampa och processar den. En tola, tio gram, av bästa cream kostar här åttahundra rupier - SEK 120.
+Tydligen är Manali hash-staten i Indien. Nästan varenda bonde odlar hampa och processar den. En tola, tio gram, av bästa cream kostar här åttahundra rupier - 120 kronor.
 
 Polisen har börjat ta i med hårdhandskarna mot bönderna efter påtryckningar från USA.
 
-"Bad ambiance," konstaterar fransmannen.
+"Dålig stämning," konstaterar fransmannen.
 
 Utmattad efter resan går jag och lägger mig brutalt tidigt, redan klockan sju. Följdaktligen vaknar jag tidigt. Klockan är 5.30 och allt är så mörkt att jag ett ögonblick förvirrat undrar om mina ögonlock slutat fungera.
 
@@ -247,7 +210,7 @@ Utanför ser jag ett par hundar rota i skräpet nedanför huset, nyskördade maj
 
 I luften ett mäktigt brus. Det måste vara ett högt vattenfall här i omgivningen, eller kanske en damm - jag måste dit, tänker jag.
 
-Himachal Pradesh och Manali verkar helt underbart. Jag pratade med en kompis till Denis, Roseanne, och hon bedyrade "I can’t leave!"
+Himachal Pradesh och Manali verkar helt underbart. Jag pratade med en kompis till Denis, Roseanne, och hon bedyrade "Jag kan inte åka härifrån!"
 
 Jag förstår henne. Klimatet är svensk sommar, det är kor, bete och gröna träd överallt, alla verkar lugna och tillfreds.
 

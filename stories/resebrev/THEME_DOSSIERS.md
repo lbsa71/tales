@@ -98,17 +98,9 @@ Task: prepare Gautam without exhausting the Nepal material.
 
 Primary theme: imperfect action.
 
-Motifs: ring, lunch, temple, money, explosion.
+Motifs: ring, lunch, temple, money, Shidde Laxmi, explosion.
 
 Task: become the manuscript's moral pivot.
-
-### 13. After Gautam
-
-Primary theme: failed purity.
-
-Motifs: station, border, memory, shame.
-
-Task: show that one good action does not resolve the gaze.
 
 ### 14. Lost In Goa
 
@@ -181,4 +173,3 @@ Primary theme: reader complicity.
 Motifs: letter, archive, home, looking.
 
 Task: leave the question with the reader rather than absolving narrator or audience.
-

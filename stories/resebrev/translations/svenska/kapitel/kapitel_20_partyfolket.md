@@ -1,4 +1,4 @@
-# 20. Party People
+# 20. Partyfolket
 
 _Dag 183. Sihanoukville, Mekong och Ho Chi Minh. 2 april 2004._
 
@@ -13,14 +13,14 @@ Efter en liten incident där vi nästan tappade bort Patrick, bestämmer vi oss 
 
 Efter att vi checkat in går vi ner till stranden, Patrick och Lars vill se om det finns något bönde närmare den. Vi hittar ett ställe med grym, säger grym, utsikt över hela bukten. Vi bestämmer oss omedelbart för att ta in där alla fyra. Eftersom vi redan checkat in på det andra hotellet gör vi en reservation för två dubbelrum dagen efter. På vägen ner för trapporna till stranden vänder jag mig till Michäl och säger
 
-"Now all we need is for some single girls to live in the other two rooms!"
+"Nu fattas det bara att några singeltjejer bor i de andra två rummen!"
 "They’re probably lesbian," inflikar Patrick med ett brett flin.
-"Ok, some single heterosexual girls," specifierar jag.
+"Okej, några heterosexuella singeltjejer," specifierar jag.
 
 Michäl är tyst en fraktion av en sekund, sedan påpekar han,
 
-"I’m sorry, Stefan, but you’re a minority here. I’m gay too."
-"You better watch out," påpekar Patrick, flinet ännu lite bredare.
+"Jag är ledsen, Stefan, men du är i minoritet här. Jag är också gay."
+"Det är bäst att du passar dig," påpekar Patrick, flinet ännu lite bredare.
 
 På vägen tillbaka stöter vi på Louisa på stranden. Nyanländ; hon skulle egentligen till en annan beach, men bestämde sig till slut för samma som oss. Hon bor på hotellet bredvid oss, och tänker också flytta till stranden dagen efter; hon reserverar rum på samma gästhus. Vi börjar bli ett litet gäng som bor tillsammans.
 
@@ -30,7 +30,7 @@ Dagen efter är Michäl helt utslagen, han bestämmer sig för att stanna på ho
 
 Väl incheckad på det nya stället sätter jag mig i restaurangen tillsammans med Louisa, Lars och Patrick för att äta brunch. Jag sitter med ryggen ut mot stranden, plötsligt lägger någon händerna över mina ögon bakifrån. Jag säger;
 
-"What the hell? I know you might not believe me when I say this, but I don’t have that many girls that would put their hands on my eyes from behind. Lisa, is that you?"
+"Vad fan? Jag vet att ni kanske inte tror mig när jag säger det, men jag känner inte så många tjejer som skulle lägga händerna över mina ögon bakifrån. Lisa, är det du?"
 
 Och så klart är det det. I en veckas tid hade jag försökt få tag på Lisa för att få reda på var hon var. Jag visste att hon varit i Kambodja, men jag trodde hon redan åkt till Vietnam.
 
@@ -47,7 +47,7 @@ De har också en unghund, Harley, som är helt bedårande.
 Jag får tillfälle att simma med vårt gästhus tama apa. Igen, jag har ett problem med tama vilda djur, men att se en apa simma är något av det koolaste jag sett. Han, för det var en han, höll andan och simmade hundsim under vattenytan, med ögonen öppna.
 
 Innan jag fick lov att ta apan på simtur, frågade jag ägaren om det var ok att leka med apan. Han sa;
-"He’s a bit aggressive. But I think you can handle him."
+"Han är lite aggressiv. Men jag tror att du klarar honom."
 
 Fast han var inte mer aggressiv än Tao Muan, apan på Ko Chang. Hon var betydligt mer livlig och lekfull, ville hoppa och klösas hela tiden. Den här hannen var ganska slö och verkade helt nöjd med att bara sitta på min axel och plocka löss.
 

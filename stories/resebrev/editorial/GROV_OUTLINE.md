@@ -37,9 +37,8 @@ Den bästa boken här är inte "roliga och kaotiska resebrev från Asien", utan:
 | 9 | Uma | Hur man behandlar människor som tjänar en | Uma, spillt chai, arrangerade äktenskap, "how they treat a servant" | Dag 42 |
 | 10 | Aili | Attraktion, bekännelse, självmyt | Restaurangmötet, samtal om smärta/healing, Gandhi-citatet, flykten från mötet | Dag 49 |
 | 11 | Bhaktapur | Turism, skönhet, misstänksamhet | Tourist price, guider, jämförelsen Nepal/Indien, upptakt till Gautam | Dag 51 |
-| 12 | Gautam | Bokens moraliska centrum | Ringen, lunch med Gautam/Namila, skam, tempelbön, återkomst, budgetlektion, explosioner | Dag 53 |
-| 13 | After Gautam | Efterchock, renhetens misslyckande | Raxaul/Kolkata, insikten om varför Gautam berör mer än anonyma tiggare | Dag 59 |
-| 14 | Lost In Goa | Droger, kropp, andlig olycka | Acidöverdos, kvinnan med vattnet, kroppen som tappas bort, Narayan Dev-templet | Dag 101 |
+| 12 | Gautam | Bokens moraliska centrum | Ringen, lunch med Gautam/Namila, skam, tempelbön, återkomst, budgetlektion, explosioner, Shidde Laxmi-efterklang | Dag 53 |
+| 14 | Lost In Goa | Droger, kropp, andlig olycka | Kort Raxaul/Kolkata-brygga, acidöverdos, kvinnan med vattnet, kroppen som tappas bort, Narayan Dev-templet | Dag 101 |
 | 15 | Flock Animals | Goa som socialt laboratorium | Phoenix/Dogdog, smärta, barnen på stranden, blinda hunden, flocklogik | Dag 120 |
 | 16 | Leaving India | Tomhet, övergång | Goa/Hampi/Bangkok, "step by step... just me" | Dag 143 |
 | 17 | Bangkok Show | Sex, handel, performance, skamhumor | Gatupropositioner, massage, Schumacher, showen, Mai/Yo | Dag 156 |
@@ -88,4 +87,3 @@ Använd:
 Boken ska inte låta berättaren "vinna" genom att bli insiktsfull. Själva insikten måste förbli misstänkt.
 
 Det är där den litterära värmen finns.
-

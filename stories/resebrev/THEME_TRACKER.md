@@ -7,7 +7,7 @@
 | Privilege | The narrator's position, not a moral label he can escape | Kashmir, Vashisht, Agra, Gautam, Home |
 | Money | The concrete form of inequality | Ten Rupees, Manu, Gautam, Cheyenne, Home |
 | Trust | The cost of not knowing who wants what from whom | Bombay, Jaipur/Delhi, Agra, Bhaktapur |
-| Suspicion | Survival skill that becomes spiritual damage | Agra, Bhaktapur, After Gautam |
+| Suspicion | Survival skill that becomes spiritual damage | Agra, Bhaktapur, Gautam |
 | Människokärlek | Care as action, not self-image | Gautam, Narayan Dev, selected Goa moments |
 | Tourism | Paying people and places to change | Goa, Bangkok, Cambodia, Home |
 | Begär | Desire entangled with money, gender and performance | Aili, Bangkok, Party People |
@@ -30,4 +30,3 @@
 ## Chapter-Level Tracking
 
 This file should be updated during chapter revision. Each chapter should carry at least one primary theme and one recurring motif.
-

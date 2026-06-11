@@ -1,4 +1,4 @@
-# 19. Ordinary Horror
+# 19. Vardaglig fasa
 
 _Dag 183. Phnom Penh. 2 april 2004._
 

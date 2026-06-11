@@ -11,6 +11,7 @@ Projektet har nu tre lager:
 - `original/`: orörbart källmaterial.
 - `editorial/`: redaktionell analys, materialkarta och outline.
 - `chapters/`: första råa kapitelmanus i publiceringsordning.
+- `translations/svenska/`: svensk arbetsversion enligt samma struktur som övriga översatta berättelser.
 
 Nästa redaktionella grind är att skära `chapters/` från rå arkivversion till ett läsbart manus på cirka 30 000-40 000 ord.
 
@@ -28,6 +29,8 @@ Nästa redaktionella grind är att skära `chapters/` från rå arkivversion til
 | `PROGRESS_SUMMARY.md` | Aktuell status och nästa grind |
 | `EXAMPLE_DRAFT.md` | Plats för kommande stilkalibrering |
 | `chapters/` | Rått kapitelmanus i föreslagen publiceringsordning |
+| `translations/svenska/` | Svensk arbetsversion, översättningsplan och kapitel |
+| `translations/svenska/audio/` | Infrastruktur för svensk ljudbok |
 
 ## Originalmaterial
 

@@ -4,17 +4,17 @@ _Dag 53. Bhaktapur. 23 november 2003._
 
 Explosionerna kommer med sex-sju sekunders mellanrum, precis så man tror att varje är den sista.
 
-"I’ve heard that before," säger jag, "what is it, an exercise?"
-"No," svarar Gautam, "I don’t think so. Maoists."
-"Look! Look, over there, is that a smoke cloud?"
+"Jag har hört det där förut," säger jag, "vad är det, en övning?"
+"Nej," svarar Gautam, "jag tror inte det. Maoister."
+"Titta! Titta, där borta, är det ett rökmoln?"
 
 Vi kisar båda med pannorna i spända veck över dalen till andra sidan. Det är disigt, kanske är det bara höga träd?
 
-"No," säger Gautam igen, efter att ha sett efter en andra gång, "it’s only forest."
-"Forest, yeah," svarar jag, och vi börjar promenera igen. Inte länge dock, för nästa gång jag tittar ut över dalen lägger jag handen på Gautams axel, säger
-"No, look! It’s smoke. What’s that over there?"
+"Nej," säger Gautam igen, efter att ha sett efter en andra gång, "det är bara skog."
+"Skog, ja," svarar jag, och vi börjar promenera igen. Inte länge dock, för nästa gång jag tittar ut över dalen lägger jag handen på Gautams axel, säger
+"Nej, titta! Det är rök. Vad är det där borta?"
 "Nagarkot."
-"Jesus. I was there three days ago."
+"Jesus. Jag var där för tre dagar sedan."
 
 Sedan börjar skriken.
 
@@ -26,32 +26,32 @@ Ringen hade ett maskinfräst mönster längs två tredjedelar av längden, reste
 
 För två dagar sedan gick jag förbi en smidesbutik precis utanför mitt gästhus, såg mannen därinne sitta och arbeta, kom ihåg ringen, steg in.
 
-"Namaste. I have a ring, it’s too big, how much to make it smaller?"
+"Namaste. Jag har en ring, den är för stor, hur mycket kostar det att göra den mindre?"
 "50 rupees."
-"Okay, I’ll just get it."
+"Okej, jag hämtar den bara."
 
 När jag kommer tillbaka inspekterar han ringen, börjar såga i den. Jag tittar runt i butiken, ser att hans ringar har fina mönster, frågar,
 
-"Do you make these?"
-"Yes."
-"Could you make a pattern on the blank part of the ring?"
-"Not like this. This is machine-made. No man can do."
+"Gör du de här?"
+"Ja."
+"Skulle du kunna göra ett mönster på den blanka delen av ringen?"
+"Inte så här. Den här är maskingjord. Ingen människa kan göra det."
 "But another pattern like it?"
-"Yes. But not me. I’m not a craftsman. I can take you to craftsman tomorrow."
-"Yes, please. When?"
+"Ja. Men inte jag. Jag är ingen hantverkare. Jag kan ta dig till hantverkare imorgon."
+"Ja tack. När?"
 "Eight o’clock tomorrow morning."
 "Ok."
 
 Så, åtta morgonen efter promenerade vi ut ur gamla staden till ett kyffe i ett gammalt hus, det fanns inte ens dörrar mellan lägenheterna, bara draperier.
 
-"Old houses," sa smeden,"very bad."
-"Yes," svarade jag eftertänksamt, "but we want it like that. Is very beautiful to look at, but not to live in. We want it like that. We don’t want you to have new houses."
+"Gamla hus," sa smeden,"mycket dåliga."
+"Ja," svarade jag eftertänksamt, "men vi vill ha det så. Det är väldigt vackert att titta på, men inte att leva i. Vi vill ha det så. Vi vill inte att ni ska ha nya hus."
 
 I kyffet hade hantverkaren sin studio. Rena plåtar, verktyg och utsökta konsthantverk huller om buller.
 
 Jag försöker förklara för hantverkaren att jag vill ha hans tolkning av maskinmönstret i egenskap av konstnär, att jag vill att mönstret ska fortsätta, men att det ska vara en människas svar på det hårda, maskinella mönstret, gärna med snirklar och blad, något som ingen maskin skulle klara.
 
-"I can make a dragon," svarar han kort.
+"Jag kan göra en drake," svarar han kort.
 
 Tankfull tystnad, mental regruppering.
 
@@ -59,37 +59,37 @@ Tankfull tystnad, mental regruppering.
 
 Medan han knackar fram en drake ur mitt silver går jag och smeden ner och tar en kopp chai.
 
-"I’m Stefan."
+"Jag heter Stefan."
 "Gautam."
-"Nice to meet you. I have trouble with Nepali names."
-"But you will remember mine."
-"Yes, because it sounds like ’Gotham’, you know, where Batman lives."
+"Trevligt att träffas. Jag har svårt med nepalesiska namn."
+"Men du kommer att minnas mitt."
+"Ja, för det låter som ’Gotham’, du vet, där Batman bor."
 
 Han nickar.
 
-"Do you have any children," frågar jag.
-"No. But my wife is pregnant."
-"Oh. Congratulations!"
-"Thank you. We are very worried. She has lost two babies before. Stomach trouble."
-"I have a friend who lost a baby recently, her man ran away. I was so angry I wanted to kill him. But I am here, so I can do nothing."
-"My wife is very sick all the time. She keeps vomiting. We went to the doctors, they said she shouldn’t do any housework so I do all the cooking and cleaning."
-"My best friend's wife’s pregnancy is also like that."
-"But everything seems ok now. We had an ultrasound a couple of days ago. And I have to buy medicine, many medicines. But I don’t like."
-"No," instämmer jag, efter en stunds chai-sörplande tar jag upp tråden igen;
-"But you know, when you have your child you will love it more because of this."
+"Har du några barn," frågar jag.
+"Nej. Men min fru är gravid."
+"Åh. Gratulerar!"
+"Tack. Vi är mycket oroliga. Hon har förlorat två barn tidigare. Magproblem."
+"Jag har en vän som nyligen förlorade ett barn, hennes man sprang sin väg. Jag var så arg att jag ville döda honom. Men jag är här, så jag kan inte göra något."
+"Min fru är mycket sjuk hela tiden. Hon kräks hela tiden. Vi gick till läkarna, de sa att hon inte borde göra något hushållsarbete så jag lagar all mat och städar."
+"Min bästa väns frus graviditet är också sådan."
+"Men allt verkar okej nu. Vi gjorde ultraljud för några dagar sedan. Och jag måste köpa medicin, många mediciner. Men jag tycker inte om det."
+"Nej," instämmer jag, efter en stunds chai-sörplande tar jag upp tråden igen;
+"Men du vet, när du får ditt barn kommer du att älska det mer på grund av det här."
 Han missförstår, svarar,
-"I have loved my wife for two years before we married."
+"Jag älskade min fru i två år innan vi gifte oss."
 "Oh," hakar jag på, "so it’s a love marriage?"
-"Yes. It’s very unusual. All my sisters and brothers have arranged marriages. It was a secret. Everybody was saying, why don’t you marry, why don’t you find a girl. They didn’t know."
-"So, what did your parents say when you came home saying, I want to marry this girl?"
-"For them it was ok. She was the same caste. I’m bajracharya."
-"Oh, what’s that caste?"
-"It’s a religious caste. Bajra is the Buddha. We are like monks."
-"But you’re a silversmith?"
-"Yes. There is a silver and goldsmith caste within the religious caste."
-"So you’re like, a merchant monk?"
-"Yes."
-"That’s so cool," med betoning på ’so’.
+"Ja. Det är mycket ovanligt. Alla mina systrar och bröder har arrangerade äktenskap. Det var hemligt. Alla sa, varför gifter du dig inte, varför hittar du inte en flicka. De visste inte."
+"Så, vad sa dina föräldrar när du kom hem och sa, jag vill gifta mig med den här flickan?"
+"För dem var det okej. Hon var av samma kast. Jag är bajracharya."
+"Åh, vad är det för kast?"
+"Det är en religiös kast. Bajra är Buddha. Vi är som munkar."
+"Men du är silversmed?"
+"Ja. Det finns en silver- och guldsmedskast inom den religiösa kasten."
+"Så du är typ en köpmannamunk?"
+"Ja."
+"Det är så coolt," med betoning på ’så’.
 
 Han ler lite.
 
@@ -97,33 +97,33 @@ Han ler lite.
 
 Jag flinar hundflinet, erkänner
 
-"Yeah, my father-in-law didn’t like me either to begin with, but after five or six years, he kind of got over it."
-"When I came to ask for his daughter... it was bad," börjar han,
-"and when I visit them, he won’t talk to me. He just sits quiet."
-"But why? You seem like a nice man, honest?"
-"Yes. But he is very rich."
-"Ahh," inser jag, "and you’re only a simple silversmith?"
-"Yes. But her mother likes me."
+"Ja, min svärfar tyckte inte heller om mig i början, men efter fem eller sex år kom han liksom över det."
+"När jag kom för att be om hans dotter... det var illa," börjar han,
+"och när jag besöker dem pratar han inte med mig. Han sitter bara tyst."
+"Men varför? Du verkar vara en trevlig man, ärlig?"
+"Ja. Men han är mycket rik."
+"Ahh," inser jag, "och du är bara en enkel silversmed?"
+"Ja. Men hennes mor tycker om mig."
 
 Vi avslutar teet, återvänder till hantverkaren. Jag är inte helt övertygad, kommer med några förslag, tittar på tv medan de utförs.
 
 Vi återvänder till gamla staden. Vi pratar hela vägen tillbaka, om livet i Nepal, hans butik, hans fru och hennes graviditet. Jag börjar förstå exakt hur illa deras situation är och sympatiserar grymt. Tillbaka i hans butik tittar jag igenom hans utbud, det är skralt, men jag hittar två ringar jag gillar, säger;
 
-"How much for these?"
+"Hur mycket för de här?"
 Han tittar på dem, tittar på mig, säger
 "For two? 300 rupees."
 Jag höjer ögonbrynen. Det är misstänkt billigt.
-"300 rupees? That’s tourist price?"
-"No. Nepali price. I don’t want to cheat you."
-"So, what’s tourist price?"
+"300 rupier? Det är turistpris?"
+"Nej. Nepalesiskt pris. Jag vill inte lura dig."
+"Så, vad är turistpris?"
 "300 rupees each."
-"So. I buy these for 600 rupees. And I give you 50 rupees extra for showing me to the craftsman."
+"Så. Jag köper de här för 600 rupier. Och jag ger dig 50 rupier extra för att du visade mig till hantverkaren."
 
 Han tittar på mig, konstaterar snabbt,
 
-"Thank you. But then I take you to Telankoth."
-"But I don’t want a guide, I don’t want to go to Telankoth today," försöker jag lamt, men det är inte lönt.
-"You pack your bag and come back here, we have lunch at my place and then we go to Telankoth."
+"Tack. Men då tar jag dig till Telankoth."
+"Men jag vill inte ha någon guide, jag vill inte åka till Telankoth idag," försöker jag lamt, men det är inte lönt.
+"Du packar din väska och kommer tillbaka hit, vi äter lunch hos mig och sedan går vi till Telankoth."
 
 Jag stretar emot; jag var ju i Nagarkot förrgår, vill inte ha en guide, inte betala extra, men ger med mig;
 
@@ -135,7 +135,7 @@ Så vi äter lunch hemma hos familjen Bajracharya. De bor torftigt i ett rum med
 
 Vi äter på kuddar på golvet i deras kombinerade kök och vardagsrum. Efter att ha spillt ut mitt ris över golvet får jag en snabblektion i hur man äter med höger hand; skapa en skopa med tre fingrar, blanda ris och kokta grönsaker, doppa i den goda röda tomatsåsen, använd sedan tummen för att skrap-slurpa risklumpen in i munnen. De skrattar gott åt mina försök, ger mig vantrogna blickar; en vuxen man som inte kan äta ordentligt? Jag gör bort mig totalt när jag tar upp fatet med tomatsåsen med vänster hand; så gör man bara inte! Stor kabalik, jag måste omedelbart tvätta vänsterhanden. Så. Nu kan jag äta igen.
 
-Jag låtsas upprörd, fräser "Is hard for me! I’m like a child! I have to learn!" men ler.
+Jag låtsas upprörd, fräser "Det är svårt för mig! Jag är som ett barn! Jag måste lära mig!" men ler.
 
 Det är faktiskt himla trevligt. Så enkel måltiden är, är det den bästa jag haft på mycket länge - restaurangmat är för fet och salt.
 
@@ -148,10 +148,10 @@ Jag upptäcker att jag gillar att hänga med Gautam. Jag börjar tro att han, fa
 När vi börjar närma oss Bhaktapur driver gråa åskmoln in över mitt annars så soliga sinne - Gautam pratar om att han vill ta mig någonstans dagen efter, jag inser att jag faktiskt har fått en guide på halsen. Detta kommer kosta. Jag blir tystlåten, känner mig bokig, kan inte riktigt hantera mina känslor, rädslor och förväntningar.
 
 När vi kommer tillbaka till Bhaktapur ser Gautam oroligt på mig, frågar rakt ut:
-"Did I do something wrong? Did we go to the wrong places? I’m sorry."
-"No, no," svarar jag sanningsenligt, "I’ve had a wonderful time!"
-"You want to come to my home, I make you dinner?"
-"No," svarar jag, inte lika sanningsfullt, "I’m very tired, I’ll just go to my guesthouse and have a rest."
+"Gjorde jag något fel? Gick vi till fel platser? Jag är ledsen."
+"Nej, nej," svarar jag sanningsenligt, "jag har haft det underbart!"
+"Vill du komma hem till mig, jag lagar middag åt dig?"
+"Nej," svarar jag, inte lika sanningsfullt, "jag är väldigt trött, jag går bara till mitt gästhus och vilar."
 
 Sanningen är att jag inte vill sylta in mig mer i något som kan komma att bli en jobbig situation.
 
@@ -167,24 +167,24 @@ Jag gråter för att jag har blivit så instängd, att jag inte längre vågar l
 
 När vi gick över bergen, genom farmlandskapet, berättade han att hans högsta dröm är att en gång kunna köpa land och bygga ett hus. För det behöver han 100 000 rupier för att kunna köpa land, som han sedan kan sätta som pant för ett lån på ytterligare 200 000 för att kunna bygga ett hus. En snabb huvudräkning ger vid handen att det är många smycken han måste sälja. It ain’t gonna happen, helt enkelt.
 
-"1 lakh ruppees? That’s roughly what unemployed people in Sweden get from the government for being unemployed. Per month."
+"1 lakh rupier? Det är ungefär vad arbetslösa i Sverige får från staten för att vara arbetslösa. Per månad."
 
 Snyggt jobbat, Stefan. Rub it in.
 
 Hans näst högsta dröm är att äga en motorcykel. Han älskar motorcyklar.
 
-"Do you have a motorbike?" frågar han.
-"No. Or, yes. But it’s not a real motorbike, it’s only a 250 cc."
-"Here we only have 100 or 150 cc."
-"Wow. I think a 750 is a real motorbike."
+"Har du en motorcykel?" frågar han.
+"Nej. Eller, ja. Men det är ingen riktig motorcykel, det är bara en 250 kubik."
+"Här har vi bara 100 eller 150 kubik."
+"Wow. Jag tycker att en 750 är en riktig motorcykel."
 
 Finfint. Now add insult to injury:
 
-"But you know, we have to have real protective clothing to be able to ride that fast. I have a BMW helmet that cost me 50 000 rupees." "For that, I could buy a motorcycle in Nepal."
+"Men du vet, vi måste ha riktiga skyddskläder för att kunna köra så fort. Jag har en BMW-hjälm som kostade mig 50 000 rupier." "För det skulle jag kunna köpa en motorcykel i Nepal."
 
 Du kunde också haft halva din dröm om ett hem Gautam, för en MC-hjälm i Sverige.
 
-"You know, for a tourist it’s very hard with all these people who goes Namaste, and it always ends up with them begging or wanting you to be your guide!"
+"Du vet, för en turist är det väldigt jobbigt med alla de här människorna som säger Namaste, och det slutar alltid med att de tigger eller vill vara ens guide!"
 
 Hans min och tystnad talade om skam över både sig själv och sitt folk.
 
@@ -220,29 +220,29 @@ My god, I’ve created a monster.
 
 Hela tiden ser han frånvarande, nästan skrämd, ut men lyssnar hungrigt på vad jag har att säga. Jag inser att det är mycket att smälta, det har bara forsat ur mig över loppet av ett par timmar, konstaterar:
 
-"Gautam. People study this for two or three years, and here I’m trying to tell you everything in one day. But it’s because I like you, I like your wife and I want your baby to have a better future. Don’t be afraid, Just think about it, if you think they seem like good ideas, just start doing it step by step."
+"Gautam. Folk studerar det här i två eller tre år, och här försöker jag berätta allt för dig på en dag. Men det är för att jag tycker om dig, jag tycker om din fru och jag vill att ditt barn ska få en bättre framtid. Var inte rädd, tänk bara på det, om du tycker att det verkar vara bra idéer, börja göra det steg för steg."
 
-"Thank you," svarar han med ett oroligt leende, "Yes, I think they are good ideas."
+"Tack," svarar han med ett oroligt leende, "ja, jag tycker att det är bra idéer."
 
 Och då inser jag lika klart som om jag hört någon säga det i örat att det var det här jag kunde göra för ett av Nepals barn.
 
 Hela tiden har vi vandrat i uppförsbacke i gassande sol, min gröna ’farmen’-t-shirt klibbig av svett. När vi rundar bergstoppen och vänder tillbaka från Assarpur äntrar vi bergets skuggsida. Plötsligt blir det kallt, riktigt kallt. Min svettvåta tröja klibbar kall mot kroppen. Solen går i moln, det blir mörkare, kallare. Jag är trött, Gautam likaså.
 
-Då kommer första explosionen som ett stum duns i fjärran. Den känns lika mycket som hörs. Vi tittar på varann men innan vi hinner börja prata kommer den andra dunsen. Efter ett par sekunder säger jag "What was that?" men Gautam hinner inte svara förrän den tredje bomben briserar. Någon sorts övning, tänker jag. Efter den fjärde och sista frågar jag
+Då kommer första explosionen som ett stum duns i fjärran. Den känns lika mycket som hörs. Vi tittar på varann men innan vi hinner börja prata kommer den andra dunsen. Efter ett par sekunder säger jag "Vad var det?" men Gautam hinner inte svara förrän den tredje bomben briserar. Någon sorts övning, tänker jag. Efter den fjärde och sista frågar jag
 
-"I’ve heard that before," säger jag, "what is it, an exercise?"
+"Jag har hört det där förut," säger jag, "vad är det, en övning?"
 
 Han svarar nej, han tror det är Maoister. På andra sidan Kathmandu-dalen tycker jag mig se en röksvamp, Gautam tror att det bara är höga träd men efter ytterligare någon minut ser vi att det visst är rök från en explosion.
 
 Jag frågar var det är, han svarar "Nagarkot" och jag börjar skaka av kylan och något annat, en spänning i magen, ett illamående.
 
-"Jesus", säger jag, "I was there three days ago."
+"Jesus", säger jag, "jag var där för tre dagar sedan."
 
 Han svarar inte, tittar bara ut över dalen.
 
 Sedan börjar skriken. Paniken ekar både från området kring rökmolnet på andra sidan och från staden i dalen. Bergen måste vara ypperliga ledare och förstärkare av ljud för jag kan höra enskilda människors skrin.
 
-Och nu får jag mig en lektion i vad det är att vara Nepales i Nepal idag för Gautam inte ens rycker på axlarna, säger bara "There’s lots of military in Nagarkot" och fortsätter gå.
+Och nu får jag mig en lektion i vad det är att vara Nepales i Nepal idag för Gautam inte ens rycker på axlarna, säger bara "Det finns mycket militär i Nagarkot" och fortsätter gå.
 
 Jag är fortfarande skakad men biter ihop och följer efter, inte längre särskilt pratglad.
 
@@ -257,17 +257,17 @@ Bussen tillbaka till Bhaktapur stannas i en säkerhetskontroll. Den här gången
 Militärer och militärpolis svärmar runt Bhaktapur som myror kring en stack någon rört om i med en pinne.
 
 På hotellet frågar jag om de vet vad som hänt i Nagarkot. De tittar frågande på mig;
-"Anything happen in Nagarkot?"
-"Yeah," säger jag, upprymd, "bomb blasts, four of them."
-"No," säger receptionisten,"we haven’t heard anything,"
+"Har det hänt något i Nagarkot?"
+"Ja," säger jag, upprymd, "bomber, fyra stycken."
+"Nej," säger receptionisten,"vi har inte hört något,"
 
 avslutar,
 
-"Maybe we’ll read about it in the paper tomorrow."
+"Kanske läser vi om det i tidningen imorgon."
 
-Gudinnan som svarade på min bön där på trappen upp till five storey temple heter Shidde Laxmi. Enligt Gautam står hon för "prosperity thru correct conduct." It figures.
+Gudinnan som svarade på min bön där på trappen upp till five storey temple heter Shidde Laxmi. Enligt Gautam står hon för välstånd genom rätt handling. Det låter rimligt.
 
-Han ville förresten inte ha några pengar. Han hade snarare gått back på mig, eftersom han envisades med att betala för allt under våra vandringar. Vid ett tillfälle tog han mig till en skyltlös shop där de sålde chayng, ett mellanting mellan vin och öl gjort på ris. Ägaren satt avdomnad i ett fönstersmyg, pratade släpigt och kort med låg röst och hängande underläpp. Hans fru serverade. "He crazy," konstaterade Gautam, "he sells one and drinks one. He’s like my father." Sedan skällde han på shop-keepern för hans uppsvällda diabetesfot och berättade att byns doktor bara blåste på foten när mannen behövde riktig medicin.
+Han ville förresten inte ha några pengar. Han hade snarare gått back på mig, eftersom han envisades med att betala för allt under våra vandringar. Vid ett tillfälle tog han mig till en skyltlös shop där de sålde chayng, ett mellanting mellan vin och öl gjort på ris. Ägaren satt avdomnad i ett fönstersmyg, pratade släpigt och kort med låg röst och hängande underläpp. Hans fru serverade. Gautam konstaterade att mannen var som hans far: han sålde en och drack en. Sedan skällde han på honom för hans uppsvällda diabetesfot och berättade att byns doktor bara blåste på foten när mannen behövde riktig medicin.
 
 Så varför göra så mycket väsen av en fattig silversmed när jag inte skrivit något om de hemlösa tiggarna i New Delhi? Det handlar om att kunna relatera. Gautam berörde mig för att jag kunde sätta mig in i hans situation. Han var av fattig medelklass, hade en affär, ett hem, en gravid hustru med komplikationer jag kände igen. Det var inte en hopplös situation, bara svår.
 

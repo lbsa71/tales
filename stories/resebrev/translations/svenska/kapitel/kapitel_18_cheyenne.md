@@ -10,12 +10,12 @@ Resan från Bangkok till gränsen var precis så bekväm, välorganiserad och h�
 
 Efter passkontrollen slussades jag till en vänthall för bussen vidare till Siem Reap. Den stora fina VIP-bussen jag sett bilder på i Bangkok visade sig bestå av sittplatser på flaket till en öppen pick-up, hårdstuvning i en personbil och en fullsatt minibuss. Först var det meningen att jag skulle med pick-up:en, men i sista stund plockade de av mig. Lika gott det, jag kom till slut med minibussen. Eftersom jag trodde att pick-up:en och personbilen skulle ta folk till en riktig buss, frågade jag hur länge de skulle sitta på sina ryggsäckar på flaket?
 
-"Five hours."
+"Fem timmar."
 
 När det gick upp för mig att han menade att stackarna skulle tillbringa hela vägen till Siem Reap där, konstaterade jag kort
 
 "Oof."
-"Yeah. Dusty."
+"Ja. Dammigt."
 
 Bussen var gammal och skraltig, vägen var av Nepalesisk kvalitet - riktigt, riktigt jävla dålig packad sandväg pepprad med djupa hål, vi skumpade och dunsade fram ungefär halva vägen, andra halvan var riktigt jämn, med ett och annat plötsligt avsnitt med dålig väg. Jag bara satt och log tills käkarna började ömma.
 
@@ -61,15 +61,15 @@ Det är när man ser något sådant som man inser att det att se en siffra, "öv
 
 En annan känsla och perspektiv får man av den konstanta uppvaktningen från försäljarna som kom springande ut från restaurangerna och butikerna som omgärdar områdena, gälla röster ropandes
 
-"Sir, you want food?"
-"No."
-"You want drink?"
-"No thanks."
-"Sir, you want drink for your driver!"
-"Nah."
-"You want t-shirt?"
-"Not now."
-"You come to me later, yes!"
+"Sir, vill du ha mat?"
+"Nej."
+"Vill du ha något att dricka?"
+"Nej tack."
+"Sir, vill du köpa något att dricka till din förare!"
+"Nä."
+"Vill du ha t-shirt?"
+"Inte nu."
+"Du kommer till mig senare, ja!"
 "..."
 
 Yup. Ni har hört mig gnälla om det förr, så jag ska inte uppehålla mig mer vid det.
@@ -88,72 +88,72 @@ Mystiskt.
 
 En pojke eller ung man dyker frustande upp ur det ogenomskinliga tjocka lervattnet. Han kastar gyttja omkring sig, tar ett par andetag, dyker igen. Min första tanke är att han badar.
 
-"What’s he doing?" frågar jag Cheyenne.
-"He’s diving. For sand." svarar han.
-"What?"
-"He’s throwing the sand at the basket. He sells the sand at the market."
+"Vad gör han?" frågar jag Cheyenne.
+"Han dyker. Efter sand." svarar han.
+"Va?"
+"Han kastar sanden i korgen. Han säljer sanden på marknaden."
 efter en stunds tystnad
-"I did that for a year. To pay for my english studies, so I could be a driver."
+"Jag gjorde det i ett år. För att betala för mina engelskstudier, så att jag kunde bli förare."
 
 Vi tittar båda på pojken som dyker upp igen. Han verkar inte ha turen med sig. Han dyker igen.
 
-"Is it a special sand here?" frågar jag.
-"Yes. They use it for construction."
-"Roads or buildings?"
-"What?"
-"I mean, do they use it to construct buildings, or for roads?"
-"Buildings."
-"Oh. How much do you get per bucket?"
-"You don’t sell it per bucket. You fill a pickup."
-"Ok. So, how much for a pick-up?"
-"About 10 000 riel."
+"Är det särskild sand här?" frågar jag.
+"Ja. De använder den till byggen."
+"Vägar eller byggnader?"
+"Va?"
+"Jag menar, använder de den för att bygga hus, eller till vägar?"
+"Byggnader."
+"Åh. Hur mycket får du per hink?"
+"Man säljer inte per hink. Man fyller en pickup."
+"Okej. Så hur mycket för en pick-up?"
+"Ungefär 10 000 riel."
 
 Jag ger denna upplysning tid att sjunka in. Det motsvarar ungefär 20 kronor.
 
-"And how many buckets is a pick-up?"
+"Och hur många hinkar är en pick-up?"
 Han tänker efter, svarar
-"About 30 buckets."
-"So," räknar jag raskt, "it’s about 300 riel per bucket." (50 öre)
+"Ungefär 30 hinkar."
+"Så," räknar jag raskt, "det är ungefär 300 riel per hink." (50 öre)
 
 Han ger mig en lätt snopen blick,
 
-"Yeah." "What can you get for a hundred riel?"
-"Not much. A candy. Maybe two."
+"Ja." "Vad kan man få för hundra riel?"
+"Inte mycket. En godis. Kanske två."
 
 Jag tittar på de fyra hinkarna på plattformen, kontemplerar värdet. Pojken dyker upp, hämtar andan, försvinner under ytan igen.
 
-"So, how much do you need to survive in Kambodja?"
-"What do you mean?"
-"Do you live with your parents?"
-"Yes."
-"And do you own your home, or do you rent it?"
-"Own."
-"So, how much do you have to make in a day, for food and stuff?"
+"Så, hur mycket behöver man för att överleva i Kambodja?"
+"Vad menar du?"
+"Bor du med dina föräldrar?"
+"Ja."
+"Och äger ni ert hem, eller hyr ni det?"
+"Äger."
+"Så hur mycket måste du tjäna på en dag, för mat och sådant?"
 Han funderar, svarar
-"Well, we are six people. To buy food for us all cost about 12 000 riel per day."
-"So, you need about three dollars a day to feed six people?"
-"Yeah."
-"And you get how many tourists per week?"
-"Depends, maybe one."
-"And they use you for one, two or three days?"
-"Different, maybe one, maybe two. Some, three."
-"So, two. So you make twelve dollars a week."
-"Yes."
-"Well," konstaterar jag och nickar åt pojkens håll, "money invested well, then."
+"Tja, vi är sex personer. Att köpa mat till oss alla kostar ungefär 12 000 riel per dag."
+"Så ni behöver ungefär tre dollar om dagen för att mätta sex personer?"
+"Ja."
+"Och hur många turister får du per vecka?"
+"Det beror på, kanske en."
+"Och de använder dig i en, två eller tre dagar?"
+"Olika, kanske en, kanske två. Vissa tre."
+"Så, två. Då tjänar du tolv dollar i veckan."
+"Ja."
+"Tja," konstaterar jag och nickar åt pojkens håll, "väl investerade pengar, då."
 
 Cheyenne svarar inte, han studerar pojken med outgrundlig min. Kanske försöker han också få ihop pengar nog att lära sig engelska så han kan jobba för turister.
 
-"Before that, I was a soldier."
-"For how long?"
-"For four years."
-"Wow. That’s long. Do you have to, or is it a job?"
-"It’s a job. Many do it. You don’t need much education."
-"I was a soldier as well," konstaterar jag, "for a year."
+"Innan dess var jag soldat."
+"Hur länge?"
+"I fyra år."
+"Wow. Det är länge. Måste man, eller är det ett jobb?"
+"Det är ett jobb. Många gör det. Man behöver inte mycket utbildning."
+"Jag var också soldat," konstaterar jag, "i ett år."
 
 Han ler överraskat,
 
-"Really?"
-"Yeah. But in Sweden it’s the law. Every young man has to be a soldier for a year. We have a sort of people’s army." "Oh."
+"Verkligen?"
+"Ja. Men i Sverige är det lagen. Varje ung man måste vara soldat i ett år. Vi har ett slags folkarmé." "Åh."
 
 Vi återvänder till motorcykeln. På vägen till nästa ruin, konstaterar jag att han just talat om för mig att de lever för $200 per person och år. SEK 1 500. Det är mer än dubbelt så mycket som vad 40% av indiens befolkning har att röra sig med. Men Cheyenne ser inte direkt fattig ut, och han har ju faktiskt en motorcykel.
 

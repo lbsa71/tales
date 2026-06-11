@@ -1,4 +1,4 @@
-# 03. Nobody Listens To Poor People
+# 3. Ingen lyssnar på fattiga människor
 
 _Dag 15. Srinagar, Kashmir och Leh. 16 oktober 2003._
 
@@ -12,7 +12,7 @@ På gatan försökte flera Kashmirier erbjuda mig att bo på en husbåt i den Ka
 
 Över en lunch på hotellets tak, berättade James att han hade hört sig för om situationen, och hade bestämt sig för att åka till Srinagar, för det verkade tryggt nog. Jag sa att jag tänkte åka till Leh. Vi slog följe till reseagenten.
 
-Hos reseagenten fick James ett riktigt bra pris på en husbåt, USD 10 (SKR 80) per dag, all mat inkluderad. Då blandade jag mig in i konversationen och sa "USD 10 for the both of us." Han accepterade, och jag beslutade mig för att följa med till Srinagar, trots varningarna. Jag köpte bussbiljett och James flyg.
+Hos reseagenten fick James ett riktigt bra pris på en husbåt, tio dollar per dag, all mat inkluderad. Då blandade jag mig in i konversationen och sa "tio dollar för oss båda." Han accepterade, och jag beslutade mig för att följa med till Srinagar, trots varningarna. Jag köpte bussbiljett och James flyg.
 
 Srinagar ligger i staten Kashmir. Jammu, Kashmir och Ladakh omfattas alla av konflikten med Pakistan. Länderna är i krig, men för närvarande råder vapenstillestånd. I Kashmir och Ladakh har man dels den officiella gränsdragningen, dels "line of actual control" som skär genom staterna. Srinagar ligger mycket nära denna gräns. Leh ligger mycket långt ifrån den.
 
@@ -20,7 +20,7 @@ Resan till Srinagar tog 26 timmar. Det tog 12 timmar att nå Kashmir, och 12 tim
 
 Att komma fram till Srinagar var lite av en chock. Militärens närvaro är total.
 
-"You are now entering a military zone" står det på en skylt, inte långt från den hamn från var vi tog en taxibåt ut till husbåten.
+"Ni kör nu in i en militär zon" står det på en skylt, inte långt från den hamn från var vi tog en taxibåt ut till husbåten.
 
 Husbåten var en slående kontrast. I en stilla, lummig kanal, nära sjön Dal flyter den fjättrad till en konstgjord ö, där värdfamiljen och vår tjänare bor. De är tre familjer som bor i ett hus med tre rum. Bergen runt omkring. Örhört vackert. Stilla.
 
@@ -38,39 +38,39 @@ Ett speciellt ögonblick ser jag hela scenen, jag sitter och diskuterar äktensk
 
 Mitt i natten börjar bönerna. Från alla hall strömmar muslimska böner förstärkta av högtalare. Det är vackert, magiskt och spöklikt, eftersom de ekar varandra. Hela natten pågår det, jag vaknar då och då, lyssnar, somnar om.
 
-På morgonen frågar jag fadern om bönerna. Han svarar, "Today is very important day. Today we begin preparations for Ramadan. We pray all night. Today I will eat nothing until six tonight."
+På morgonen frågar jag fadern om bönerna. Han svarar, "Idag är en mycket viktig dag. Idag börjar vi förbereda oss för Ramadan. Vi ber hela natten. Idag kommer jag inte äta något förrän klockan sex ikväll."
 
-Vi ger oss ut på sjön Dal i en båt. Mana tar oss till den centrala moskén i Srinagar. Vi glider stilla mot den guldpläterade moskén när plötsligt en bön slår ut mot oss över vattnet. Långa klagande vokaler kommer från alla håll, ekande distorterad rundgång ur tiotals spruckna högtalare, och det är så vackert. Mana säger "Do you want me to translate it for you?" jag får bara ur mig ett "After", trollbunden.
+Vi ger oss ut på sjön Dal i en båt. Mana tar oss till den centrala moskén i Srinagar. Vi glider stilla mot den guldpläterade moskén när plötsligt en bön slår ut mot oss över vattnet. Långa klagande vokaler kommer från alla håll, ekande distorterad rundgång ur tiotals spruckna högtalare, och det är så vackert. Mana säger "Vill du att jag ska översätta den åt dig?" jag får bara ur mig ett "Efteråt", trollbunden.
 
 Mina ögon flödar över, jag torkar dem diskret. Bönen pågår i kanske fem minuter. Vi når land precis när den slutar.
 
-Mana berättar att bönen är en kallelse till Ramadan, den heliga fastemånaden. Han säger "Shopkeeper, close your shop. Come to me, and you will be given. This is not the time for commerce. This is the time for prayer and spiritual growth."
+Mana berättar att bönen är en kallelse till Ramadan, den heliga fastemånaden. Han säger "Butiksägare, stäng din butik. Kom till mig, och du ska få. Detta är inte tid för handel. Detta är tid för bön och andlig tillväxt."
 
 När vi kommer tillbaka är klockan strax efter 18. Muslimerna försvinner skyndsamt in i huset.
 
-På kvällen vänder sig Faroukh till mig; säger "You are Akhtab. Means sun," och till James, "You are Tarikh. Star. You now have Kashmiri names." Han ler stolt.
+På kvällen vänder sig Faroukh till mig; säger "Du är Akhtab. Det betyder sol," och till James, "Du är Tarikh. Stjärna. Nu har ni kashmiriska namn." Han ler stolt.
 
-"Then we’ll call you Freddy," säger jag.
+"Då kallar vi dig Freddy," säger jag.
 
 Nästa morgon börjar bönerna tidigt på morgonen, och fortsätter tills solen gått upp. Jag sitter på taket. En kvinna glider förbi. Hennes sari är färgad i den mustigaste gröna jag någonsin sett, och båten är blå som kungsfiskarens vingar.
 
-Vi diskuterar med Mana om hur vi ska ta oss till Leh. Han studerar oss allvarligt, och säger sedan "Yes. There is some danger, but I think you will be all right."
+Vi diskuterar med Mana om hur vi ska ta oss till Leh. Han studerar oss allvarligt, och säger sedan "Ja. Det finns en viss fara, men jag tror att ni kommer klara er."
 
 Vi bestämmer oss för att ta bussen till Leh. En tredjedel av resan kommer att ske precis parallellt med "line of actual control".
 
 På vägen till Leh finns en lång mur, en stad och en by. Muren är till för att skydda trafiken mot raketangrepp på särskilt utsatta ställen, staden heter Kargil och utsätts för granatatacker från Pakistan. Byn är fattig.
 
-Mellan Srinagar och Kargil får vi genomgå sex säkerhetskontroller. De noterar alla våra uppgifter. "It’s for our own safety. If anything happens to us, they could track us," säger James. "Yeah," svarar jag.
+Mellan Srinagar och Kargil får vi genomgå sex säkerhetskontroller. De noterar alla våra uppgifter. "Det är för vår egen säkerhet. Om något händer oss kan de spåra oss," säger James. "Ja," svarar jag.
 
 Halvvägs till Srinagar stoppas bussen av en militär. Han säger något till busschauffören på hindi, och håller upp fyra fingrar. Chauffören svarar något uppbragt, och hela bussen lyssnar. Utom James, jag och ett ungt brittiskt par; Ali och Ruth.
 
-Vid nästa säkerhetskontroll står vi fyra runt en granatgrop och skrattar nervöst åt osmakliga skämt sagda med låg röst. Chauffören kommer gående med raska steg, siktet inställt på toaletterna. "Excuse me, can I ask you something," säger jag, tänker på de fyra fingrarna. "No," säger han och går förbi. "He’s a man on a mission," konstaterar James.
+Vid nästa säkerhetskontroll står vi fyra runt en granatgrop och skrattar nervöst åt osmakliga skämt sagda med låg röst. Chauffören kommer gående med raska steg, siktet inställt på toaletterna. "Ursäkta, kan jag fråga dig något," säger jag, tänker på de fyra fingrarna. "Nej," säger han och går förbi. "Han är en man med ett uppdrag," konstaterar James.
 
-Plötsligt hör vi högljudd skottlossning från bergen. Ingen av Indierna rör en min. James, Ruth och Ali blir nervösa. "It’s probably a shooting range nearby," säger jag. Det verkar lugna dem. Lite.
+Plötsligt hör vi högljudd skottlossning från bergen. Ingen av Indierna rör en min. James, Ruth och Ali blir nervösa. "Det är säkert en skjutbana i närheten," säger jag. Det verkar lugna dem. Lite.
 
 Mörkret faller, och chauffören tänder innerbelysningen. Det innebär att man inte kan se någonting utanför. James sitter vid fönstret. efter ett tag vänder han sig mot mig, pekar ut genom fönstret och säger
 
-"Look. There’s a wall here." "Yeah," svara jag, "It’s probably the wall they’ve built to protect the traffic from attack." "I would have preferred not knowing that. Oh, now it stopped." "Well, just as well you can’t see anything outside with the inner lights on." "There’s plenty of traffic on this road. Why pick on us?" "Because we have the inner lights on, so you could easily see the people inside? Especially two westerners." "..."
+"Titta. Det är en mur här." "Ja," svarar jag, "det är säkert muren de byggt för att skydda trafiken från anfall." "Jag hade föredragit att inte veta det. Åh, nu tog den slut." "Tja, lika bra att man inte ser något utanför med innerbelysningen tänd." "Det är gott om trafik på den här vägen. Varför skulle de ge sig på oss?" "För att vi har innerbelysningen tänd, så man lätt kan se människorna där inne? Särskilt två västerlänningar." "..."
 
 Bussen är skraltig. Rutor har ersatts med tejp och kartong, i gupp smäller det till från ena stötdämparen och föraren har stora svårigheter att få in rätt växel, vilket blir extra akut när bussen vid ett tillfälle helt enkelt dör mitt i en skarp klättringssväng i bergen, så chauffören får backa tills bussen står med rumpan ut över stupet för att ta ny sats.
 
@@ -80,49 +80,49 @@ Klockan sex var vi där. Då hade förarna precis börjat byta däck.
 
 Vid sjutiden kom vi iväg. Vi hinner inte längre än 45 minuter upp i bergen förrän bussen ger upp helt. Kopplingen lägger ner helt och hållet.
 
-Så vi går av. Sitter i solen, pratar, skämtar. James försöker kommunicera med två av våra medpassagerar med hjälp av en frasbok för Urdu. Han får reda på att de är från Nepal. Vi har just fått höra om de 25 dödade där. Han vänder sig till mig och säger "Too bad the really useful stuff isn’t in the dictionary. I can’t find ’Will I be shot in Kathmandu’ anywhere in it."
+Så vi går av. Sitter i solen, pratar, skämtar. James försöker kommunicera med två av våra medpassagerar med hjälp av en frasbok för Urdu. Han får reda på att de är från Nepal. Vi har just fått höra om de 25 dödade där. Han vänder sig till mig och säger "Synd att de riktigt användbara sakerna inte finns i ordboken. Jag hittar inte ’kommer jag bli skjuten i Kathmandu’ någonstans."
 
 Han pekar på sig själv och gör en pistol med fingrarna samtidigt som han säger "Kathmandu? Poff!" De bara skrattar och nickar.
 
-James ritar upp ett luffarschackbräde i sanden framför den ena. Han säger "Universal game." och ritar ett kryss i en ruta. Medpassageraren stirrar bara oförstående på det.
+James ritar upp ett luffarschackbräde i sanden framför den ena. Han säger "Universellt spel." och ritar ett kryss i en ruta. Medpassageraren stirrar bara oförstående på det.
 
-Jag jonglerar lite med stenar, och sedan bestämmer sig James för att vi ska bestiga ett berg. Jag hänger på, skrapar upp händerna, och upptäcker hur fort jag blir andfådd. Vi är på 3000 meter höjd.
+Jag jonglerar lite med stenar, och sedan bestämmer sig James för att vi ska bestiga ett berg. Jag hänger på, skrapar upp händerna, och upptäcker hur fort jag blir andfådd. Vi är på 3000 meters höjd.
 
-Sedan går jag och James ut på en liten trek till den närmaste byn, för att proviantera. Det känns underligt att gå på sädesfält, utanför vägens legitimitet. Vi går ner till floden i botten av ravinen vägen följer.
+Sedan går jag och James ut på en liten trek till den närmaste byn, för att proviantera. Det känns underligt att gå på sädesfält, utanför vägens legitimitet. Vi går ner till floden i botten av ravinen som vägen följer.
 
 Snart kommer vi till en stad. Vi träffar på en man som kan ordet "shop". Han visar oss till vad som verkar vara den enda affären i byn.
 
 Efter att ha provianterat kex och läsk, vänder vi åter. Längs vägen träffar vi en pojke. Han pratar förvånansvärt bra engelska.
 
-"Have you had any trouble here?" frågar James.
+"Har ni haft några problem här?" frågar James.
 
-"Yes. Everytime. You see that up there on the top of the mountain? That’s a Indian fort. Pakistani militia fires at traffic, and than the Indian fort up there has to fire at them to make them stop. Then the Pakistani military responds by firing at the fort. Often the missiles miss and go over. Then they land here, in our village. Three days ago, we had four grenades exploding here."
+"Ja. Hela tiden. Ser ni det där uppe på bergets topp? Det är ett indiskt fort. Pakistansk milis skjuter mot trafiken, och då måste det indiska fortet där uppe skjuta mot dem för att få dem att sluta. Sedan svarar den pakistanska militären genom att skjuta mot fortet. Ofta missar missilerna och går över. Då landar de här, i vår by. För tre dagar sedan hade vi fyra granater som exploderade här."
 
 Ah, tänker jag. Fyra.
 
-"And one week ago, a missile explode in the air over a little girl, and the splinters ripped her to pieces."
+"Och för en vecka sedan exploderade en missil i luften ovanför en liten flicka, och splitter slet henne i stycken."
 
-"Does this happen often?"
+"Händer det här ofta?"
 
-"Yes, every week. The Indian army mostly starts firing in the morning, they fire 50-60 bombs. Then, by lunchtime, the Pakistani respond."
+"Ja, varje vecka. Den indiska armén börjar oftast skjuta på morgonen, de skjuter 50-60 bomber. Sedan, vid lunchtid, svarar pakistanierna."
 
 Jag tittar på klockan. Hon är snart lunch.
 
-"Do you have shelters?"
+"Har ni skyddsrum?"
 
-"No, we are poor people. We asked the military to move their fort, but they don’t listen. Nobody listens to poor people. We asked for shelters, but they don’t listen. So we hide in our homes."
+"Nej, vi är fattiga människor. Vi bad militären flytta sitt fort, men de lyssnar inte. Ingen lyssnar på fattiga människor. Vi bad om skyddsrum, men de lyssnar inte. Så vi gömmer oss i våra hem."
 
-"Are you afraid?"
+"Är du rädd?"
 
 Pojken, han är väl kanske 16-17 år, ser besvärad ut och rycker på axlarna.
 
-"No. But it’s dangerous. But once you are beyond that small mountain there, you will be safe."
+"Nej. Men det är farligt. Men när ni väl är bortom det där lilla berget kommer ni vara säkra."
 
 Han påpekar att buss är det farligaste sättet att färdas, eftersom militian först och främst är ute efter att göra ’maximum damage’. De små jeeparna vi sett vägarna krylla av, är de säkraste.
 
 Vi lämnar honom. Bussen har blivit reparerad, den hämtar upp oss.
 
-Vi ligger och slöar under ett trä i väntan på en konvoj. James konstaterar, "Think about when the west deploys troops in other countries, like Iraq. We don’t put our own people on the line, and when we do, we whine like hell about it."
+Vi ligger och slöar under ett trä i väntan på en konvoj. James konstaterar, "Tänk på när väst skickar trupper till andra länder, som Irak. Vi sätter inte våra egna människor på spel, och när vi gör det gnäller vi som fan om det."
 
 Historien berättar vi för britterna först när vi passerat det lilla berget.
 
@@ -140,14 +140,14 @@ Jag saknar er.
 
 Kram, Akhtab
 
-[Epilog]
+- Epilog -
 
 På gästhusets tak pratar jag med en belgare och en amerikan om resan till Leh. Belgaren frågar
 
-"If you knew then what you know now, would you still had made the journey?"
+"Om du då hade vetat vad du vet nu, hade du ändå gjort resan?"
 
 Jag funderar ett tag, och svarar sedan
 
-"Yeah."
+"Ja."
 
-Nobody listens to poor people.
+Ingen lyssnar på fattiga människor.

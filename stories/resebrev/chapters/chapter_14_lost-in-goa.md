@@ -2,6 +2,10 @@
 
 _Dag 101. Mandrem. 10 januari 2004._
 
+Vägen söderut går via Birganj/Raxaul, en enäggstvillingstad på gränsen mellan Nepal och Indien. Jag kommer dit efter solnedgången, i mörker, damm, dieselrök och brända sopor, med rickshas som surrar kring mig medan jag försöker packa om väskorna och förstå var jag är. Passkontrollerna är ett elände på båda sidor. Raxaul känns som en plats där ingen gata är fast, inget pris är fast, inget förtroende är fast.
+
+I Kolkata blir jag strandad några dagar, the city formerly known as Calcutta, snyter svart snor och försöker få Kilroy att ändra min reseplan med mindre flexibilitet än utlovat. Sedan bär det av söderut. Kerala och Goa hägrar.
+
 In Arambol, I called the manager of my guesthouse ’papa’.
 
 ’Mama’ makes the meanest thalis in india. She also no longer sells heroin, because too many people have been killed or seriously hurt while on it.
