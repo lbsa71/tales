@@ -13,6 +13,8 @@
 
 Del 1 är sammanfogad som `dist/stories/resebrev/audio/sv/resebrev-del-1_full.wav`.
 
+Del 2-starten är sammanfogad som `dist/stories/resebrev/audio/sv/resebrev-del-2-start_full.wav`. Filen innehåller just nu försättsblad till del 2, kapitel 8 och kapitel 9.
+
 | Kapitel | Text klar | Preview | Full render | Lyssnat | Omtagningar |
 |---|---:|---:|---:|---:|---|
 | Försättsblad | ☑ | ☐ | ☑ | ☐ | Renderat för Del 1 |
@@ -23,13 +25,15 @@ Del 1 är sammanfogad som `dist/stories/resebrev/audio/sv/resebrev-del-1_full.wa
 | 5. Tio rupier | ☑ | ☐ | ☑ | ☐ | Omrenderat efter cloth/clothes-förtydligande |
 | 6. Manu | ☑ | ☐ | ☑ | ☐ | Omrenderat efter replikfix |
 | 7. Taj, eftersmaken | ☑ | ☐ | ☑ | ☐ | Första fullrender |
-| 7b. Serge | ☑ | ☐ | ☑ | ☐ | Chunk 000 omrenderad efter tyskläcka; rubrik ändrad till "Mellanspel: Serge" |
+| 7b. Serge | ☑ | ☐ | ☑ | ☐ | Chunk 000 omrenderad efter tyskläcka; TTS-rubrik förenklad till "Mellanspel" |
 | Eftertext till del 1 | ☑ | ☐ | ☑ | ☐ | Renderat för Del 1 |
-| 8. Ganges | ☑ | ☐ | ☑ | ☐ | Chunk 003-005 omrenderade efter Gangesflytt |
-| 9. Uma | ☑ | ☐ | ☐ | ☐ | Gangesmaterial flyttat till kapitel 8; rendera |
+| Försättsblad till del 2 | ☑ | ☐ | ☑ | ☐ | Renderat för Del 2-start |
+| 8. Ganges | ☑ | ☐ | ☑ | ☐ | Omrenderat för Del 2-start efter markdown- och språkfix |
+| 9. Uma | ☑ | ☐ | ☑ | ☐ | Chunk 000 omrenderad efter rubrik-/datumglidning; helfil uppdaterad |
 | 10. Aili | ☐ | ☐ | ☐ | ☐ | |
 | 11. Bhaktapur | ☐ | ☐ | ☐ | ☐ | |
 | 12. Gautam | ☐ | ☐ | ☐ | ☐ | Innehåller nu Shidde Laxmi/Gautam-efterklang från tidigare kapitel 13 |
+| Eftertext till del 2 | ☑ | ☐ | ☐ | ☐ | Skriven men inte renderad |
 | 14. Vilse i Goa | ☐ | ☐ | ☐ | ☐ | Innehåller kort Raxaul/Kolkata-brygga från tidigare kapitel 13 |
 | 15. Flockdjur | ☐ | ☐ | ☐ | ☐ | |
 | 16. Att lämna Indien | ☐ | ☐ | ☐ | ☐ | |

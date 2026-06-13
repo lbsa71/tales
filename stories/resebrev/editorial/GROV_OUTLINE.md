@@ -22,6 +22,14 @@ Den bästa boken här är inte "roliga och kaotiska resebrev från Asien", utan:
 6. Moraliskt tryck: pengar, turism, våld och begär synliggör hans position.
 7. Eftersmak: han kommer hem med insikter som är delvis sanna, delvis unga, delvis outhärdliga.
 
+## Delstruktur
+
+| Del | Titel | Omfång | Funktion |
+|---|---|---|---|
+| Del 1 | Nedslag | Försättsblad, kapitel 1-7b, eftertext | Reslust, kompetens och misstänksamhetens första pris. Slutar med Serge som överdriven spegelbild: för mycket tillit mot berättarens för lite tillit. |
+| Del 2 | Exponering | Försättsblad, kapitel 8-12, eftertext | Varanasi, Uma, Aili och Bhaktapur/Gautam gör att världen svarar tillbaka. Berättaren går från åskådare till en ofullständig handling. |
+| Del 3 | Falsk transcendens och eftersmak | Kapitel 14-22, eventuellt coda | Goa, Bangkok, Kambodja och hemkomsten prövar om insikten blev förändring eller bara ännu en berättelse om sig själv. |
+
 ## Kapitelöversikt
 
 | # | Kapitel | Ämnen | Nyckelscener | Råmaterial |

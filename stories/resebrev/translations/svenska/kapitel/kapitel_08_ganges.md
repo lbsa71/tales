@@ -6,11 +6,11 @@ Min sista morgon i Varanasi ligger det ett lik och flyter mellan fiskebåtarna u
 
 Från båtarna löper det mängder av tunna linor. Männen fångar fisk, binder fast linor i stjärtarna och släpper tillbaka dem i vattnet. På så sätt håller de sig färska.
 
-Hur sund fisken är i de här vattnen vill jag dock inte tänka på - Richard trodde att "they probably got three eyes."
+Hur sund fisken är i de här vattnen vill jag dock inte tänka på - Richard trodde att de antagligen hade tre ögon.
 
 Liket är inte bränt, så det har antagligen inte kommit från någon av de badplatser, ’ghats’ som också används för att bränna lik och dumpa resterna i Ganges.
 
-Enligt Lonely Planet, den nya resereligionens bibel, är en båtfärd utefter de centrala badplatserna i soluppgång numera ett ’must do’ och vem är jag att avvika?
+Enligt Lonely Planet, den nya resereligionens bibel, är en båtfärd utefter de centrala badplatserna i soluppgång numera obligatorisk, och vem är jag att avvika?
 
 Besvikelsen var påtaglig. Jag såg bara en likbränning. Vi tog inga foton; Suse drog parallellen att de skulle komma till våra begravningar och ta bilder på liken.
 
@@ -72,7 +72,7 @@ När man talar om trollen dyker de upp så jag säger "god morgon" till henne. H
 
 Bordet faller tyst.
 
-Det visar sig att hon inte alls är från Amerika, utan från Frankrike. Jag rullar mentalt med ögonen. Vad har de i vattnet där?
+Det visar sig att hon inte alls är från Amerika, utan från Frankrike. Jag rullar mentalt med ögonen. Vad har de egentligen i vattnet där?
 
 Hon berättar att för henne är Ganges och Nilen samma sak, att en gång var det samma flod, när Egypten och Indien var förenade i Gondwanaland. Och Nilen är hennes gud.
 
@@ -86,7 +86,7 @@ Och på nionde dagen kände hon sig så lätt, så lätt, och på tionde dagen r
 
 Och hon tar ett par trippande danssteg och tittar sedan på oss med stora intensiva ögon och ett maniskt leende, hon har en blomsterkrans runt huvudet som hon hela tiden måste skjuta upp i pannan.
 
-"Wow," säger jag, "det är bra!"
+"Oj," säger jag, "det är bra!"
 
 "Ja! I åtta år hade jag ont, och nu, ingenting!"
 
@@ -104,7 +104,7 @@ Hon vet inte riktigt om jag skämtar eller inte men ler ändå.
 
 Och här sitter vi skrämt uppflugna på en balkong på ett turisthotell, tänker jag. Det tål att tänkas på. Medspelare kontra åskådare.
 
-"Wow," säger jag. Konversationen slutar där, hon säger, "Okej, hej då!" och vi mumlar "hej då" tillbaka.
+"Oj," säger jag. Konversationen slutar där, hon säger, "Okej, hej då!" och vi mumlar "hej då" tillbaka.
 
 Efteråt en stunds chockad tystnad.
 

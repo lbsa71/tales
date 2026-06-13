@@ -17,6 +17,15 @@ The book is not primarily about travel. Travel is the pressure system. The subje
 - Original voice remains young, quick, comic, bodily and often wrong.
 - The older intelligence works mostly through selection, juxtaposition and restraint.
 - 2026 commentary should be minimal unless it earns its place by making the old material more dangerous, not safer.
+- Part frames may use the 2026 narrator more directly, especially at the end of Part 2, but the frame must complicate the older interpretation rather than rescue the younger narrator.
+
+## Part Frames
+
+Part 1, `Nedslag`, frames the learning of refusal. Its postscript identifies suspicion as both useful and deforming.
+
+Part 2, `Exponering`, runs from Ganges through Gautam. Its frame should give the twenty-years-later narrator more room because Gautam is the book's first true moral pivot. The function is not absolution, but exposure: care can be real and still implicated in privilege.
+
+Part 3 remains less settled. It should begin after Gautam and carry the unresolved insight into Goa, Bangkok, Cambodia and home.
 
 ## Spine
 
@@ -50,4 +59,3 @@ The scene must remain double. It is real care, and it is still a privileged inte
 ## Structural Risk
 
 The narrator must not be rewarded for becoming articulate about his own privilege. The book should let the reader feel the seduction of his voice and then notice the cost of that seduction.
-

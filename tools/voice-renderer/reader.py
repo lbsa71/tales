@@ -309,7 +309,14 @@ def _strip_markdown(text: str) -> str:
                     "21": "Tjugoförsta",
                     "22": "Tjugoandra",
                 }.get(m.group(1), f"Kapitel {m.group(1)}")
-                stripped = f"{ordinal} kapitlet. {m.group(2)}"
+                title = m.group(2).strip()
+                if title and title[-1] not in ".!?:":
+                    title += "."
+                stripped = f"{ordinal} kapitlet. {title}"
+        # Markdown emphasis markers are useful on the page but can leak into
+        # TTS as odd literal sounds or prosody changes.
+        stripped = re.sub(r"(?<!\w)_(?!\s)([^_]+?)(?<!\s)_(?!\w)", r"\1", stripped)
+        stripped = re.sub(r"(?<!\w)\*(?!\s)([^*]+?)(?<!\s)\*(?!\w)", r"\1", stripped)
         out_lines.append(stripped)
     return "\n".join(out_lines)
 
@@ -392,6 +399,17 @@ def _split_section_to_parts(
             buf_len += extra
     if buf:
         parts.append(("\n\n".join(buf), False))
+    if len(parts) >= 2:
+        prev_text, prev_standalone = parts[-2]
+        last_text, last_standalone = parts[-1]
+        combined_len = len(prev_text) + 2 + len(last_text)
+        if (
+            not prev_standalone
+            and not last_standalone
+            and len(last_text) < 250
+            and combined_len <= max_chars + 100
+        ):
+            parts[-2:] = [(f"{prev_text}\n\n{last_text}", False)]
     # Edge case: a single paragraph longer than max_chars. We keep it whole
     # rather than splitting mid-sentence; max_chars is a soft target.
     return parts

@@ -19,11 +19,13 @@ Denna katalog innehåller den svenska arbetsversionen av `Resebrev`.
 | 7 | Taj, eftersmaken | `kapitel_07_taj_eftersmaken.md` | Arbetsversion |
 | 7b | Serge | `kapitel_07b_serge.md` | Arbetsversion |
 | — | Eftertext till del 1 | `kapitel_07c_eftertext_del_1.md` | Arbetsversion |
+| — | Försättsblad till del 2 | `kapitel_07d_forsattsblad_del_2.md` | Arbetsversion |
 | 8 | Ganges | `kapitel_08_ganges.md` | Arbetsversion |
 | 9 | Uma | `kapitel_09_uma.md` | Arbetsversion |
 | 10 | Aili | `kapitel_10_aili.md` | Arbetsversion |
 | 11 | Bhaktapur | `kapitel_11_bhaktapur.md` | Arbetsversion |
 | 12 | Gautam | `kapitel_12_gautam.md` | Arbetsversion |
+| — | Eftertext till del 2 | `kapitel_12b_eftertext_del_2.md` | Arbetsversion |
 | 14 | Vilse i Goa | `kapitel_14_vilse_i_goa.md` | Arbetsversion |
 | 15 | Flockdjur | `kapitel_15_flockdjur.md` | Arbetsversion |
 | 16 | Att lämna Indien | `kapitel_16_att_lamna_indien.md` | Arbetsversion |

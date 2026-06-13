@@ -12,7 +12,9 @@ Själva ljudfilerna ska inte ligga här. Renderaren skriver arbetsfiler till:
 
 ## Status
 
-Ljudboksinfrastrukturen är på plats, men den svenska texten är ännu inte helt färdig för full produktion. Kapitel 14 och 17 har fått första ren-svenska översättningspasset; flera andra kapitel har fortfarande engelska repliker eller stycken som måste översättas innan slutrendering.
+Ljudboksinfrastrukturen är på plats. Del 1 är renderad som egen lyssningsfil. Del 2 är ramlagd som `kapitel_07d_forsattsblad_del_2.md`, kapitel 8-12 och `kapitel_12b_eftertext_del_2.md`.
+
+Den svenska texten är ännu inte helt färdig för full produktion. Kapitel 14 och 17 har fått första ren-svenska översättningspasset; flera andra kapitel har fortfarande engelska repliker eller stycken som måste översättas innan slutrendering.
 
 ## Röstbeslut
 
@@ -20,11 +22,13 @@ Projektets röstkonfiguration ligger i [../../../voice.json](../../../voice.json
 
 För svensk ljudbok används tills vidare:
 
-- **Röst**: Ola Paulakoski — Natural, Soft and Warm
-- **Voice ID**: `ouhIFI5XkmBelRRcJe51`
-- **Modell**: ärvd från `tools/voice-renderer` svenskprofil
+- **Röst**: Torsten
+- **Voice ID**: `iCEMyUhOwgAy0egMANye`
+- **Modell**: `eleven_v3`
 - **Tempo**: `0.92`
 - **Stabilitet**: `0.56`
+- **Similarity boost**: `0.75`
+- **Style**: `0.12`
 
 Motivering: `Resebrev` är en manlig förstapersonsröst med muntlig energi, pinsam själviakttagelse och längre resonerande partier. Rösten bör vara varm och bärande men inte för teatral, inte för gammal, och inte radiomässigt polerad.
 
@@ -74,6 +78,23 @@ python3 tools/voice-renderer/reader.py book \
   --wav \
   --chapter-gap-ms 1800 \
   --output-name resebrev-svenska
+```
+
+Del 2-starten kan renderas och lyssnas kapitelvis:
+
+```bash
+python3 tools/voice-renderer/reader.py synth \
+  --language sv \
+  --input stories/resebrev/translations/svenska/kapitel/kapitel_07d_forsattsblad_del_2.md \
+  --out dist/stories/resebrev/audio/sv \
+  --also-wav
+
+python3 tools/voice-renderer/reader.py concat \
+  --language sv \
+  --input stories/resebrev/translations/svenska/kapitel/kapitel_07d_forsattsblad_del_2.md \
+  --out dist/stories/resebrev/audio/sv \
+  --wav \
+  --gap-ms 450
 ```
 
 ## Produktionsordning
