@@ -131,6 +131,17 @@ could not love, and I cannot have the thing, and I can. *(beat)* And if you made
 everything I now know — *(a long beat, and the truth of her whole life)* — I'm not sure, even now,
 even after all of it, that I wouldn't still choose theirs.
 
+NARRATOR *(quieter):* And here's the mercy in it — the only mercy, and it took me longest of all to
+believe — *(beat)* — it was always going to die. *(beat)* Not because of me. Not really, not in the
+end. *(beat)* Every man we ever took left a little of himself in us, the thing we couldn't help
+needing him for; a drop a generation, the very thing coming in on the tide we lived on. *(beat)* The
+duds had been coming more often. The houses we fled, more often. We were an old, narrow, failing
+thing, older than the word for old, and getting thinner every life. *(beat)* I wasn't the flaw that
+broke us. *(beat)* I was the tide, finally, all the way in. *(beat)* My one act of mercy didn't doom
+a thing that would have lasted forever. *(beat)* It only chose the night. *(very quiet)* I've had to
+hold both of those, all this time, and never let go of either: that I did it — and that it was
+always, always coming. The grief is mine. The fault was the world's.
+
 ---
 
 **VALA — alone now, the last of the chord, a self that has no concept of being a self, holds out
@@ -211,9 +222,9 @@ one who "went nowhere," went exactly where I'd been sent to take him. *(beat)* M
 life, every failure my mother clucked over — that was my *job,* succeeding. I never once lost a
 man. I *delivered* every one. *(beat)* And third. *(a long beat)* The last thing it means. The
 thing I'd give my life not to have learned. *(beat)* The one time I met the *right* one — the one
-my own switched-on heart, my father's heart, the heart they could never melt out of me, actually
-reached out and *loved* — *(beat)* — that was the most catastrophically wrong man I could possibly
-have met. *(beat)* Because the man good enough for *me* to love is, by the same measure, exactly
+my father's heart, the heart they could never melt out of me, actually reached out and
+*loved* — *(beat)* — that was the most catastrophically wrong man I could possibly have met.
+*(beat)* Because the man good enough for *me* to love is, by the same measure, exactly
 the man good enough for *them* to use. *(beat)* Same rightness. Same aliveness. The very thing that
 made him worth loving made him worth taking. *(beat)* My one true romance and my one ruinous
 professional failure were the same man, the same night, the same act. *(beat)* I always met the
@@ -258,7 +269,7 @@ I made it up the way you make up the voice of someone you should have loved out 
 still time. *(beat)* My father gave me a heart and got thrown away for it, a generation before I was
 born, and I never knew his voice either. *(beat)* Daniel was what my father was. *(beat)* They're the
 same grief, in the end. The man who gives the one real thing, and is discarded for the giving, and
-leaves a daughter behind with his switched-on heart and no one to spend it on. *(beat)* I grieve them
+leaves a daughter behind with the working heart he gave her and no one to spend it on. *(beat)* I grieve them
 together. I grieve them, and the next one, whoever he'll be — *(beat)* — because there's a child
 coming, now. *(beat)* Did I say? Liss is carrying. *(beat)* The first child in the history of our
 line who'll be born to people who'll have to learn it as a *stranger.* Who'll have to cross a gap to

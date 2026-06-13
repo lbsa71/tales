@@ -131,8 +131,8 @@ always been kept calm. *(a beat)* Never finish her. She is not prey. *(flat)* Sh
 pantry we do not empty.
 
 VALA *(SURFACE — still holding her, and this is real, this is the curdle, the warmth that was
-true before the link ate it):* You were such a serious little thing. *(beat)* Before you —
-*(she stops; something in her reaches for a memory and the link closes over it)* — you used
+true before the we ate it):* You were such a serious little thing. *(beat)* Before you —
+*(she stops; something in her reaches for a memory and the we closes over it)* — you used
 to hold my finger so hard. Both hands. Like you'd fall off the world. *(beat)* I used to —
 
 **She doesn't finish. Something in her changes register — the warmth doesn't vanish but it

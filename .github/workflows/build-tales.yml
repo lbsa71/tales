@@ -73,6 +73,12 @@ jobs:
             output_stem: resebrev-svenska
             lang: sv
 
+          - story: seem
+            title: "Seem"
+            chapters_glob: "stories/seem/chapters/episode_*.md"
+            output_stem: seem
+            lang: en
+
     steps:
       - uses: actions/checkout@v4
 
