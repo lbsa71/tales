@@ -64,9 +64,9 @@ verkliga människan, den de inte kunde göra om till sig själva. Du ska aldrig 
 känna att du borde be om ursäkt för att du finns. Hör du mig!? Det är därför hela den här
 kvällen finns.
 
-Han gick därifrån i de små timmarna. Och rösten i honom hade redan börjat plana ut. Han sa
+Han gick därifrån i småtimmarna. Och rösten i honom hade redan börjat plana ut. Han sa
 något i stil med: »Det var — jag ringer dig i morgon. Jag hade verkligen —« och han fick inte
-ihop meningen. Inte av rörelse. Av att något dragits ifrån. »Den där kylan igen«, sa han.
+ihop meningen. Inte av rörelse. Av att något tagits från honom. »Den där kylan igen«, sa han.
 »Och tröttheten — inte glad trötthet den här gången. Urvriden. Som om det fanns mindre av mig
 än när jag kom.« Och han åkte ut i mörkret med färgen nedskruvad ur sig och sa att han skulle
 ringa i morgon med en röst som redan hade mindre av honom i sig. Det var början på det enda
