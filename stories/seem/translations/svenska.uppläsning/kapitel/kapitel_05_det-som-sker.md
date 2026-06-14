@@ -15,7 +15,7 @@ Det var lördagskväll. Huset var varmare än jag någonsin hört det. Eldvarmt 
 ingen eld, det tändes aldrig en eld i något av våra hus — lampor, vin som andades, något i
 ugnen, musik lågt och gammalt. Det lät som den bästa kvällen i någons liv.
 
-Och han — din far — var lycklig, lite full på värmen. Han sa något i stil med: »Jag litar inte
+Och han — din pappa — var lycklig, lite full på värmen. Han sa något i stil med: »Jag litar inte
 på bra saker. Jag har aldrig litat på bra saker. Och det här är den första på — jag vet inte
 hur länge — som jag bara har låtit mig —« och han avslutade den inte, han bara skrattade och
 lät sig dras med uppför trappan som en man på väg till sitt eget goda liv. Det är viktigt att
@@ -58,7 +58,7 @@ Och här måste jag stanna och säga dig en sak rakt, för du har rätt till den
 kommer någonsin att säga den till dig. Den natten började du. Där, mitt i det orätta. Jag
 tänker inte göra det vackrare än det var, och jag tänker inte låta dig bära det heller — så
 hör båda sakerna på en gång, för jag har aldrig kunnat lägga ner någon av dem: det som gjordes
-mot din far var orätt, han fick aldrig välja det, han fick aldrig ens veta om det. *Och* du var
+mot din pappa var orätt, han fick aldrig välja det, han fick aldrig ens veta om det. *Och* du var
 inte det orätta. Du var det enda rätta som kom ur det. Du var det de aldrig räknade med — den
 verkliga människan, den de inte kunde göra om till sig själva. Du ska aldrig en dag i ditt liv
 känna att du borde be om ursäkt för att du finns. Hör du mig. Det är därför hela den här
@@ -70,7 +70,7 @@ ihop meningen. Inte av rörelse. Av att något dragits ifrån. »Den där kylan 
 »Och tröttheten — inte glad trötthet den här gången. Urvriden. Som om det fanns mindre av mig
 än när jag kom.« Och han åkte ut i mörkret med färgen nedskruvad ur sig och sa att han skulle
 ringa i morgon med en röst som redan hade mindre av honom i sig. Det var början på det enda
-jag aldrig kan göra ogjort åt dig: att din far gick härifrån och aldrig blev hel igen, och
+jag aldrig kan göra ogjort åt dig: att din pappa gick härifrån och aldrig blev hel igen, och
 aldrig fick veta varför.
 
 Och inne i huset, i dess nya, främmande tystnad —
@@ -78,7 +78,7 @@ Och inne i huset, i dess nya, främmande tystnad —
 Jag ska sluta segmentet där det måste sluta. Bygg en tystnad åt mig. Låt det dröja längre än
 det är bekvämt.
 
-För någonstans över mig, i ett språk jag aldrig skulle få höra, sa din mor det första ordet i
+För någonstans över mig, i ett språk jag aldrig skulle få höra, sa din mamma det första ordet i
 sitt liv. Ett enda. *Jag.* En bokstav. Och familjen som varit ett enda långt *vi* sen innan
 det fanns länder att fly över — hörde det, och hade inget ord för vad det var.
 

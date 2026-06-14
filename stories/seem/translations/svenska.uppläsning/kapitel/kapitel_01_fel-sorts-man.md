@@ -80,7 +80,7 @@ behövd, och behövd var det närmaste jag kom att bli —
 
 Nej. Det ordet får vänta. Jag är inte framme vid det ordet än.
 
-Den sista mannen jag tog hem — din far — kom sist av alla, och han var den enda som någonsin
+Den sista mannen jag tog hem — din pappa — kom sist av alla, och han var den enda som någonsin
 vände på det. Den enda som såg *tillbaka* på mig. Som såg mig — när det att bli sedd var den
 enda sak hela huset var byggt för att hindra. Och det. Inte en kniv, inte ett gift, inget med
 ett namn. *Det* var det som rev allt. Att han såg mig.
