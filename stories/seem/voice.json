@@ -1,0 +1,10 @@
+{
+  "_doc": "Per-tale voice-renderer overrides. See tools/voice-renderer/reader.py load_story_overrides. Layering: language profile defaults < this file < CLI flag. Only the fields below override the sv profile; model/stability/similarity_boost/style/speaker_boost/max_chars are inherited from LANGUAGE_PROFILES['sv'] (eleven_v3, the v3 audition Stefan approved).",
+  "languages": {
+    "sv": {
+      "voice_id": "aSLKtNoVBZlxQEMsnGL2",
+      "voice_name": "Sanna Hartfield - Calm and Soothing",
+      "speed": 0.92
+    }
+  }
+}

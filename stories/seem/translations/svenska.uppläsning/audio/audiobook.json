@@ -1,0 +1,32 @@
+{
+  "title": "Seem (uppläsning)",
+  "edition": "svenska.uppläsning",
+  "language": "sv",
+  "status": "in-production-chapters-1-2-rendered",
+  "source_dir": "stories/seem/translations/svenska.uppläsning/kapitel",
+  "output_dir": "dist/stories/seem/audio/sv",
+  "renderer": "tools/voice-renderer/reader.py",
+  "voice_config": "stories/seem/voice.json",
+  "notes": [
+    "First-person confessional monologue: an older woman at a kitchen table at night, telling her child her life. Wants an older / experienced / weary female voice.",
+    "Voice chosen by A/B audition; samples kept at tools/voice-renderer/voice_samples/swedish/seem_auditions/.",
+    "No native-Swedish female voice is tagged 'old' in the ElevenLabs library; Sanna (middle_aged, calm, Stockholm) plus a slowed pace is the chosen approximation.",
+    "Use PCM as canonical working audio; WAV is for listening QA.",
+    "dist/ is git-ignored; rendered chunks are regenerable from this source + voice.json."
+  ],
+  "voice": {
+    "name": "Sanna Hartfield - Calm and Soothing",
+    "voice_id": "aSLKtNoVBZlxQEMsnGL2",
+    "model": "eleven_v3",
+    "speed": 0.92
+  },
+  "chapters": [
+    { "number": 1, "title": "Fel sorts man", "file": "kapitel_01_fel-sorts-man.md" },
+    { "number": 2, "title": "Den tunna veckan", "file": "kapitel_02_den-tunna-veckan.md" },
+    { "number": 3, "title": "Daniel", "file": "kapitel_03_daniel.md" },
+    { "number": 4, "title": "Steg tillbaka", "file": "kapitel_04_steg-tillbaka.md" },
+    { "number": 5, "title": "Det som sker", "file": "kapitel_05_det-som-sker.md" },
+    { "number": 6, "title": "Ett jag", "file": "kapitel_06_ett-jag.md" },
+    { "number": 7, "title": "Över mellanrummet", "file": "kapitel_07_over-mellanrummet.md" }
+  ]
+}
