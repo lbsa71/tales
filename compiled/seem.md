@@ -993,7 +993,8 @@ and what is heard from outside the door. See the README.*
 ---
 
 **Saturday. Evening coming on. The house warmer than we have ever heard it — fire-warm,
-except there is no fire; lamps, wine breathing, something in the oven, music low and old.
+except there is no fire — there never is, not in any house of ours — lamps, wine breathing,
+something in the oven, music low and old.
 It should sound like the best night of someone's life. Under it, the thin hum, the hole. And
 something else now, rising as the evening settles: a low, almost-pleasant resonance in the
 house itself, a warmth that has nothing to do with the lamps. The house, getting ready to be
@@ -1104,11 +1105,10 @@ beginning to die. *(beat)* It didn't sound like dying. It sounded like the wine 
 It sounded like everyone, all at once, holding their breath. *(beat)* But somewhere above me,
 in the room I was never let into, in the language I was born without — *(beat)* — a wall had
 just felt something. *(beat)* For the first time in longer than there have been words for time
-— one of them had been touched by an *outside,* and the outside had stuck, and the bonding had
-done the one thing bonding is *for,* the thing it does to every other mammal that has ever
-lived — *(beat)* — it had made another creature *real* to her. *(beat)* And in my family, a
-creature for whom another creature is real is not a daughter anymore. *(beat)* It's a wound
-the whole body can feel.
+— one of them had been touched by an *outside,* and the outside had *stuck.* *(beat)* Something
+had got in that the *we* had no word for and no door against. *(beat)* Another creature had
+become *real* to her. *(beat)* And in my family, a creature for whom another creature is real
+is not a daughter anymore. *(beat)* It's a wound the whole body can feel.
 
 ---
 
@@ -1507,12 +1507,12 @@ even after all of it, that I wouldn't still choose theirs.
 
 NARRATOR *(quieter):* And here's the mercy in it — the only mercy, and it took me longest of all to
 believe — *(beat)* — it was always going to die. *(beat)* Not because of me. Not really, not in the
-end. *(beat)* Every man we ever took left a little of himself in us, the thing we couldn't help
-needing him for; a drop a generation, the very thing coming in on the tide we lived on. *(beat)* The
-duds had been coming more often. The houses we fled, more often. We were an old, narrow, failing
-thing, older than the word for old, and getting thinner every life. *(beat)* I wasn't the flaw that
-broke us. *(beat)* I was the tide, finally, all the way in. *(beat)* My one act of mercy didn't doom
-a thing that would have lasted forever. *(beat)* It only chose the night. *(very quiet)* I've had to
+end. *(beat)* We were old. Older than the word for old. *(beat)* The duds had been coming more
+often; the houses we fled, more often; we never did learn to unpack a room like we meant to stay.
+*(beat)* Whatever we were, it was thinning — the way a fire goes to embers, then to smoke, then to a
+smell in the curtains you can't find. *(beat)* I wasn't the flaw that broke us. *(beat)* I was just
+where the cold finally got in. *(beat)* My one act of mercy didn't doom a thing that would have
+lasted forever. *(beat)* It only chose the night. *(very quiet)* I've had to
 hold both of those, all this time, and never let go of either: that I did it — and that it was
 always, always coming. The grief is mine. The fault was the world's.
 
