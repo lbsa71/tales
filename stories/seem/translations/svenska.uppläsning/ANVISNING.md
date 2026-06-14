@@ -242,11 +242,13 @@ litterärt.**
    varma vardagsminnet (*Han var din pappa*; *din pappa var lycklig*; *Min mamma förvarade
    tändstickorna*). Det gäller alla led — *din far/pappa*, *din mor/mamma*, *min mor/mamma*.
    (Barnets *mormor* är redan intimt och behålls; andra personers repliker har sitt eget
-   register, t.ex. modern som säger *din gamla mor*.) **Läs scenens temperatur, inte bara
-   meningens:** systern (barnets mor) bär *din mamma* genom den varma berättelsen —
-   uppvaktningen, introduktionen, den ömma skulden — och *din mor* bara i de kliniskt kalla
-   partierna (sjukdomskapitlet; det mytiskt-högtidliga). Fadern, den förlorade, lutar
-   tvärtom mot *din far* utom vid de direkta sorgetopparna.
+   register, t.ex. modern som säger *din gamla mor*.) **Avgörande: direkt känslokontakt med
+   personen — inte stundens smärta.** *Pappa/mamma* = när hon möter personen i värme,
+   närvaro eller sorg *riktad mot dem* (introduktionen av systern; faderns lycka och förlust
+   i kap 5; själva nåendet i kap 7). *Far/mor* = när personen ramas in av maskineriet,
+   sjukdomen, det mytiskt-högtidliga eller distansen — *även när det gör ont* (kap 4:
+   systern *redo för knoppningen*; kap 5: första "jag"; kap 6: sjukdomen). Smärtan i sig
+   värmer alltså inte ordet; den direkta kontakten gör det.
 
 2. **Barnet är närvarande — säg *här*, inte *där*.** Allt sker vid bordet, nu. Använd *här*
    om barnets och scenens närvaro (*du sitter här*; *här vid ett köksbord*). *Där*
@@ -289,7 +291,8 @@ litterärt.**
    dit* (ej *slippa gå vägen dit*); predikativt *jag var ett bete* (ej *jag var betet*);
    undvik klumpig dubblering: *en bra åt oss* (ej *en bra en åt oss*).
 
-9. **Idiomatisk svenska — rätt kollokation.** *uppfostrad att* (ej *uppvuxen i att*); *kylan
+9. **Idiomatisk svenska — rätt kollokation.** Undvik pleonastiskt *ner* (*sittande*, ej
+   *sittande ner*); *uppfostrad att* (ej *uppvuxen i att*); *kylan
    berodde på att det var fel på mig* (ej det kalkerade *var något det var fel på mig*);
    *sväva* (genom luft) ej *flyta* (på vatten); *åt vilket håll* man vrider. (Prepositioner
    som *vända sig mot* / *till* avgörs på gehör per ställe — ingen blankettregel.)
@@ -304,4 +307,7 @@ litterärt.**
     *min uppgift* (ej *min del*); värmen var *konstruerad* (ej *gjord*); *gjorde det till
     ett skämt* (ej *gjorde ett skämt*); *kan minst* (ej *kan sämst*); konkreta, samtida,
     vardagliga ord (*en tom lokal* ej *en död bar*; *min grej*; *håll kvar det i tanken*);
-    och betona givandet (*det får du av mig*).
+    betona givandet (*det får du av mig*); och fler ur kap 4: *önskar jag kunde säga*
+    (ruelse), *lade i fel låda* (ej *slängde*), *viftade bort* (ej *lade ner*), *undviker
+    att öppna* (ej *hela tiden inte öppnar*), *hände* (ej *kom*) om en händelse, *innan*
+    (ej *förr*), *lydig* (ej *dresserad*), och i den muntliga ramen *få höra* (ej *få veta*).
