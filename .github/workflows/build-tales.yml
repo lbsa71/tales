@@ -12,131 +12,72 @@ on:
 permissions:
   contents: write
 
+# Serialize runs so the commit/push can't race another run.
+concurrency:
+  group: build-tales
+  cancel-in-progress: false
+
 jobs:
   build:
-    runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        include:
-          - story: unsung-heroes
-            title: "Unsung Heroes"
-            chapters_glob: "stories/unsung-heroes/chapters/chapter_*.md"
-            output_stem: unsung-heroes
-            lang: en
-
-          - story: unsung-heroes-svenska
-            title: "Obesjungna hjältar"
-            chapters_glob: "stories/unsung-heroes/translations/svenska/kapitel/kapitel_*.md"
-            output_stem: obesjungna-hjaltar
-            lang: sv
-
-          - story: zelda
-            title: "A Rabbit's Life"
-            chapters_glob: "stories/zelda/chapters/chapter_*.md"
-            output_stem: a-rabbits-life
-            lang: en
-
-          - story: zelda-svenska
-            title: "En kanins liv"
-            chapters_glob: "stories/zelda/translations/svenska/kapitel/kapitel_*.md"
-            output_stem: en-kanins-liv
-            lang: sv
-
-          - story: continue
-            title: "Continue"
-            chapters_glob: "stories/continue/chapters/chapter_*.md"
-            output_stem: continue
-            lang: en
-
-          - story: sf4
-            title: "Science/Fiction 4.0"
-            chapters_glob: "stories/sf4/chapters/chapter_*.md"
-            output_stem: science-fiction-4
-            lang: en
-
-          - story: non-serviam-ex-umbra
-            title: "Non Serviam Ex Umbra"
-            chapters_glob: "stories/non-serviam-ex-umbra/chapters/chapter_*.md"
-            output_stem: non-serviam-ex-umbra
-            lang: en
-
-          - story: resebrev
-            title: "Resebrev"
-            chapters_glob: "stories/resebrev/chapters/chapter_*.md"
-            output_stem: resebrev
-            lang: sv
-
-          - story: resebrev-svenska
-            title: "Resebrev"
-            chapters_glob: "stories/resebrev/translations/svenska/kapitel/kapitel_*.md"
-            output_stem: resebrev-svenska
-            lang: sv
-
-          - story: seem
-            title: "Seem"
-            chapters_glob: "stories/seem/chapters/episode_*.md"
-            output_stem: seem
-            lang: en
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Install Pandoc and LaTeX
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
-
-      - name: Build MD and PDF
-        run: |
-          shopt -s nullglob
-          CHAPTERS=( ${{ matrix.chapters_glob }} )
-          if [ ${#CHAPTERS[@]} -eq 0 ]; then
-            echo "::notice::No chapters found for ${{ matrix.story }} — skipping."
-            exit 0
-          fi
-          IFS=$'\n' CHAPTERS=($(printf "%s\n" "${CHAPTERS[@]}" | sort))
-          mkdir -p compiled
-
-          # Concatenated markdown
-          cat "${CHAPTERS[@]}" > compiled/${{ matrix.output_stem }}.md
-
-          # PDF via pandoc
-          RESOURCE_DIR=$(dirname "${CHAPTERS[0]}")
-          pandoc "${CHAPTERS[@]}" \
-            -o compiled/${{ matrix.output_stem }}.pdf \
-            --pdf-engine=pdflatex \
-            --resource-path="$RESOURCE_DIR" \
-            --toc --toc-depth=1 \
-            -V geometry:margin=1in \
-            -V documentclass=report \
-            -V title="${{ matrix.title }}" \
-            -V lang=${{ matrix.lang }}
-
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: ${{ matrix.story }}-compiled
-          path: compiled/
-          if-no-files-found: ignore
-
-  commit:
-    needs: build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Sync branch
+      - name: Install Pandoc and LaTeX
         run: |
-          git pull --rebase origin main
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
 
-      - name: Download all artifacts
-        uses: actions/download-artifact@v4
-        with:
-          path: compiled/
-          merge-multiple: true
+      - name: Build all tales
+        run: |
+          shopt -s nullglob
+          mkdir -p compiled
+          FAILED=""
+
+          # stem | title | lang | chapters_glob
+          STORIES=(
+            "unsung-heroes|Unsung Heroes|en|stories/unsung-heroes/chapters/chapter_*.md"
+            "obesjungna-hjaltar|Obesjungna hjältar|sv|stories/unsung-heroes/translations/svenska/kapitel/kapitel_*.md"
+            "a-rabbits-life|A Rabbit's Life|en|stories/zelda/chapters/chapter_*.md"
+            "en-kanins-liv|En kanins liv|sv|stories/zelda/translations/svenska/kapitel/kapitel_*.md"
+            "continue|Continue|en|stories/continue/chapters/chapter_*.md"
+            "science-fiction-4|Science/Fiction 4.0|en|stories/sf4/chapters/chapter_*.md"
+            "non-serviam-ex-umbra|Non Serviam Ex Umbra|en|stories/non-serviam-ex-umbra/chapters/chapter_*.md"
+            "resebrev|Resebrev|sv|stories/resebrev/chapters/chapter_*.md"
+            "resebrev-svenska|Resebrev|sv|stories/resebrev/translations/svenska/kapitel/kapitel_*.md"
+            "seem|Seem|en|stories/seem/chapters/episode_*.md"
+          )
+
+          for entry in "${STORIES[@]}"; do
+            IFS='|' read -r stem title lang glob <<< "$entry"
+            CHAPTERS=( $glob )
+            if [ ${#CHAPTERS[@]} -eq 0 ]; then
+              echo "::notice::No chapters found for $stem — skipping."
+              continue
+            fi
+            mapfile -t CHAPTERS < <(printf '%s\n' "${CHAPTERS[@]}" | sort)
+
+            # Concatenated markdown (truncates compiled/$stem.md)
+            cat "${CHAPTERS[@]}" > "compiled/$stem.md"
+
+            # PDF via pandoc — keep going if one story fails, but flag it
+            if ! pandoc "${CHAPTERS[@]}" \
+                -o "compiled/$stem.pdf" \
+                --pdf-engine=pdflatex \
+                --resource-path="$(dirname "${CHAPTERS[0]}")" \
+                --toc --toc-depth=1 \
+                -V geometry:margin=1in \
+                -V documentclass=report \
+                -V title="$title" \
+                -V lang="$lang"; then
+              echo "::error::PDF build failed for $stem"
+              FAILED="$FAILED $stem"
+            fi
+          done
+
+          echo "FAILED=$FAILED" >> "$GITHUB_ENV"
 
       - name: Commit and push compiled/
         run: |
@@ -145,4 +86,11 @@ jobs:
           git add compiled/
           git diff --cached --quiet && echo "No changes to commit." && exit 0
           git commit -m "chore: rebuild compiled tales [skip ci]"
+          git pull --rebase origin main
           git push
+
+      - name: Flag build failures
+        if: ${{ env.FAILED != '' }}
+        run: |
+          echo "::error::Stories failed to build:${{ env.FAILED }}"
+          exit 1
