@@ -1,32 +1,31 @@
 # 1 · Fel sorts man
 
-Sitt kvar. Du behöver inte göra något, du behöver inte säga något — jag ville bara ha dig
+Nej men sitt. Du behöver inte göra något, du behöver inte säga något — jag ville bara vara med dig
 här en stund, vid bordet, medan jag —
 
-Förlåt. Jag har tänkt på hur jag skulle börja i, ja. I åratal. Och nu när du sitter där
+Förlåt. Jag har tänkt på hur jag skulle börja i, ja. I åratal. Och nu när du sitter här
 rakt framför mig är allt jag övat som bortblåst.
 
 Så jag tar det rakt i stället. Det enklaste först. Det finns en sak du har börjat tro om
-dig själv. Jag har sett den komma — i hur du blivit tystare, i hur du ber om ursäkt för att
-du tar plats. Och den är inte sann. Och jag tänker inte sitta still och se dig räkna dig
-fram till den, så som jag räknade mig fram till min. Det är därför vi sitter här. Inte för
-min skull. Vad du än får höra i natt, håll fast vid det: inte en mening av det är för min
+dig själv. Jag har sett det komma — hur du har blivit tystare, ber om ursäkt för att
+du tar plats. Och den saken är inte sann. Och jag vill inte att du ska behöva räkna ut det själv, så som jag fick göra. Det är därför vi sitter här. Inte för
+min skull. Vad du än får höra i natt, håll fast vid det: inte något av detta är för min
 skull.
 
 Och en sak till, innan jag ens har börjat, så att du har den under hela vägen. Mannen jag
 ska berätta om. Han var —
 
-Han var din far.
+Han var din pappa.
 
 Jag vet. Du har frågat, ända sen du var liten, och ingen har sagt något, och nu säger jag
-det fel, för fort, vid ett köksbord. Men du ska ha haft honom. Åtminstone så här. Det är
+det fel och för fort, här vid ett köksbord. Men du ska ha haft honom. Åtminstone så här. Det är
 det andra skälet till att jag berättar — eller det första, jag vet faktiskt inte längre
 vilket som är vilket. Om jag inte ger dig honom får du honom aldrig. För han — det här
-måste jag säga tidigt, så att du inte sitter och hoppas — han lever, och han vet inte om
+måste jag säga först, så att du inte sitter och hoppas — han lever, och han vet inte om
 dig, och det går inte att laga. Inget av det går att laga. Men vem han var, det kan jag ge
-dig. Det är nästan det enda jag har att ge.
+dig. Det är nästan det enda jag kan göra.
 
-Börja, då.
+Ja. Början.
 
 Min mor — din mormor — sa en sak om mig som om hon läste av vädret. *Där går hon igen. Hon
 möter alltid fel sorts man.* Hon sa det med en suck, lite ömt till och med, som man säger om
@@ -35,18 +34,18 @@ Hon hade ju aldrig fel om något.
 
 Det tog mig — det tog mig hela livet och en begravning att förstå vad den meningen egentligen
 betydde. Jag kommer att ge dig den tre gånger i natt, samma mening, och den betyder något nytt
-var gång. Det här är första gången. Håll den.
+varje gång. Det här är första gången. Håll den i huvudet.
 
-Jag tog hem män. Så enkelt är det, så är det sagt. I trettio år tog jag hem ensamma män till
+Jag tog hem män. Så enkelt är det, så har jag sagt det. I trettio år tog jag hem ensamma män till
 min familj. Och efteråt — var och en av dem — var de aldrig riktigt män igen.
 
-Jag vet inte hur jag ska få dig att höra det utan att det låter som något ur en saga, så jag
+Jag vet inte hur jag ska få dig att höra det utan att det låter som något ur en dålig film, så jag
 ger dig en av dem i stället. Det fanns en man. Han var — när jag hittade honom var han
 *högljudd*. Tvärsäker, full av åsikter, ett band han sett en gång, en exfru han inte var
 klar med. Han kom in i min familj en söndag som en karl som kommer in ur regnet. Och han gick
 ut igen, efteråt. De gick alltid ut igen, efteråt. Levande. På sina egna ben.
 
-Bara — nedskruvade. Som en radio i ett annat rum. Alla orden fanns kvar i dem. Det var bara
+Bara... nedskruvade. Som en radio i ett annat rum. Alla orden fanns kvar i dem. Det var bara
 ingen sång kvar under orden.
 
 Den mannen mötte jag igen, många år senare, i en mataffär. Och han stod där med färgen
@@ -62,7 +61,7 @@ jag hade inte otur.
 
 Jag valde inte fel.
 
-Jag var betet.
+Jag var ett bete.
 
 Det är vad meningen betydde, den första betydelsen: jag var den de skickade ut. Jag kunde gå
 in i en främmande man med ingenting annat än prat och bli så tyst inne i mig själv, för hans
@@ -73,7 +72,7 @@ jag var väldigt bra på att inte synas. Jag hade övat hela livet. I mitt eget 
 
 Det var min enda gåva, sa de. Den enda jag hade.
 
-Jag — nej. Jag ska inte säga »sa de« som om jag inte trodde på det. Jag trodde på det. Jag
+Jag... nej. Jag ska inte säga »sa de« som om jag inte trodde på det. Jag trodde på det. Jag
 var stolt över det. Det är det jag försöker få dig att förstå, det svåraste av allt, och jag
 snubblar på det varje gång jag kommer nära: ingen tvingade mig. Jag gick glad. Jag gick som
 en hund går glad när den får en uppgift. För att bli skickad var det närmaste jag kom att bli
@@ -81,19 +80,21 @@ behövd, och behövd var det närmaste jag kom att bli —
 
 Nej. Det ordet får vänta. Jag är inte framme vid det ordet än.
 
-Den sista mannen jag tog hem — din far — kom sist av alla, och han var den enda som någonsin
+Den sista mannen jag tog hem — din pappa — kom sist av alla, och han var den enda som någonsin
 vände på det. Den enda som såg *tillbaka* på mig. Som såg mig — när det att bli sedd var den
 enda sak hela huset var byggt för att hindra. Och det. Inte en kniv, inte ett gift, inget med
 ett namn. *Det* var det som rev allt. Att han såg mig.
 
 Men jag går händelserna i förväg. Jag gör alltid det när jag är rädd. Jag hoppar till slutet
-för att slippa gå vägen dit.
+för att slippa vägen dit.
 
 Så jag backar. Hela den här historien börjar inte med honom. Den börjar en vecka tidigare,
 den börjar med en död, den börjar — det var den veckan vi begravde min mormor. Din
 gammelmormor, fast du aldrig fick träffa henne, och tro mig, det var —
 
-nej. Var snäll. Det var den veckan huset blev tunt.
+nej. Nu höll jag på att säga något orättvist.
+
+Det var den veckan huset blev tunt.
 
 Jag ska berätta vad jag menar med tunt.
 # 2 · Den tunna veckan
@@ -135,7 +136,7 @@ Tacksam. Som en hund är tacksam för en uppgift. Jag visste inte att jag fått 
 det aldrig. Inte förrän det var alldeles för sent att lämna tillbaka den.
 
 Nu ska jag göra något jag inte är säker på att jag borde göra inför dig. Jag tänker visa dig
-hur det gick till. Med en som inte spelar någon roll — inte din far, inte än, någon helt
+hur det gick till. Med en som inte spelar någon roll — inte din pappa, inte än, någon helt
 annan, en jag glömt namnet på. Jag vill att du ska veta att jag inte gör honom värre än han
 var, och jag vill inte att du ska behöva tro mig på mitt ord senare, när det gäller någon du
 älskar. Så jag ger dig en jag inte älskade. Titta på honom i stället.
@@ -152,7 +153,7 @@ Nu ska du höra en annan röst. Och du ska veta exakt vad det är du hör, för 
 sätt jag har att vara ärlig mot dig: jag hörde den aldrig. Inte en stavelse. Jag föddes utan
 det som band dem samman, så det enda rummet i mitt eget hem som betydde något, det enda
 språket — det var stängt för mig. Jag har gissat mig till den här rösten i trettio år. Jag
-hittar på den. Säg det till dig själv hela natten, var gång den kommer: *hon hittar på det
+hittar på den. Säg det till dig själv hela natten, varje gång den kommer: *hon hittar på det
 här.* Och ändå satsar jag mitt liv på att det lät ungefär så här. Kallt. Utan rum omkring
 sig. Och den sa aldrig något namn. Den sa *kvinnan.* Den sa *dottern.* Aldrig *hon,* aldrig
 ett namn. Det var det som var grymheten — att hålla en på avstånd även inne i tanken.
@@ -203,7 +204,7 @@ han en gång känt högljudd.
 
 Jag visste. På det sätt man vet en sak man bestämt sig hela livet för att inte veta.
 
-Och det var i den veckan, in i det tunna, tysta, väntande huset, som din far kom in ur regnet.
+Och det var i den veckan, in i det tunna, tysta, väntande huset, som din pappa kom in ur regnet.
 # 3 · Daniel
 
 Nu blir jag rädd igen, så jag ska gå sakta. Det här är den delen jag övat mest och kan
@@ -227,7 +228,7 @@ hos en människa som hon inte vet att hon visar.
 
 Håll det där kvittot. Jag ger tillbaka det till dig i slutet.
 
-Min syster — din mor — kom in i värmen, så som hon skulle, med hela sitt ansikte vänt mot
+Min syster — din mamma — kom in i värmen, så som hon skulle, med hela sitt ansikte vänt mot
 honom som en lampa. Hon hade en gåva jag avundades så att jag låg vaken om nätterna: hon
 kunde ge dig hela sitt ansikte. Och det tog mig halva livet att förstå vad som var fel med
 sättet hon gjorde det på, och när jag väl förstod kunde jag inte ha satt ord på det. Det var
@@ -246,7 +247,7 @@ Det hade aldrig hänt förr. Mitt i en mening till henne tittade han bort, mot k
 jag stod med mjölken ingen bett om, och —
 
 Jag måste vara noggrann här, för det är det enda jag äger av honom som var rent. Hör på hur
-jag säger det: ingen gav honom det. Värmen min familj riktade mot din mor — varje mjukt ord
+jag säger det: ingen gav honom det. Värmen min familj riktade mot din mamma — varje mjukt ord
 av den — den var *gjord.* Jag hade sett den göras hundra gånger. Men ingen stod någonsin vid
 en mans axel och sa åt honom att undra var jag tagit vägen. Det gjorde han av sig själv. Det
 var den enda känslan i hela det huset som var ingens påhitt utom hans.
@@ -266,7 +267,7 @@ nätter än jag tänker erkänna. Det jag aldrig får veta är om den skulle ha 
 ägnat trettio år åt att kalla den. Jag kunde inte höra den delen av honom som kunnat säga mig
 det. Jag fick bara rummet.
 
-Han började komma nästan varje dag. Och — det här ska du veta, för det är din far och du ska
+Han började komma nästan varje dag. Och — det här ska du veta, för det är din pappa och du ska
 få ha det goda också — han var *lycklig.* Jag såg honom komma uppför vägen med axlarna nere
 från öronen för en gångs skull, den här mannen som vek sina kvitton till intet, och han var
 lätt. Vad vi än gjorde med honom kändes det inte för honom som att något gjordes med honom.
@@ -409,7 +410,7 @@ betydde att min syster inte var redo.
 
 Min enda barmhärtighet. Min enda goda gärning. Jag försökte sakta ner det, och jag är skälet
 till att det kom för tidigt. Hade jag varit maskinen de gjorde mig till — bara skött mitt jobb,
-lämnat över honom kallt som alla andra — hade din mor varit redo, och det som hände henne hade
+lämnat över honom kallt som alla andra — hade din mamma varit redo, och det som hände henne hade
 kanske inte hänt. Det var min kärlek som forcerade dem.
 
 Och det värsta — det jag får svara för — är inte att jag inte kunde stoppa det. Det är att när
@@ -433,7 +434,7 @@ Det var lördagskväll. Huset var varmare än jag någonsin hört det. Eldvarmt 
 ingen eld, det tändes aldrig en eld i något av våra hus — lampor, vin som andades, något i
 ugnen, musik lågt och gammalt. Det lät som den bästa kvällen i någons liv.
 
-Och han — din far — var lycklig, lite full på värmen. Han sa något i stil med: »Jag litar inte
+Och han — din pappa — var lycklig, lite full på värmen. Han sa något i stil med: »Jag litar inte
 på bra saker. Jag har aldrig litat på bra saker. Och det här är den första på — jag vet inte
 hur länge — som jag bara har låtit mig —« och han avslutade den inte, han bara skrattade och
 lät sig dras med uppför trappan som en man på väg till sitt eget goda liv. Det är viktigt att
@@ -476,7 +477,7 @@ Och här måste jag stanna och säga dig en sak rakt, för du har rätt till den
 kommer någonsin att säga den till dig. Den natten började du. Där, mitt i det orätta. Jag
 tänker inte göra det vackrare än det var, och jag tänker inte låta dig bära det heller — så
 hör båda sakerna på en gång, för jag har aldrig kunnat lägga ner någon av dem: det som gjordes
-mot din far var orätt, han fick aldrig välja det, han fick aldrig ens veta om det. *Och* du var
+mot din pappa var orätt, han fick aldrig välja det, han fick aldrig ens veta om det. *Och* du var
 inte det orätta. Du var det enda rätta som kom ur det. Du var det de aldrig räknade med — den
 verkliga människan, den de inte kunde göra om till sig själva. Du ska aldrig en dag i ditt liv
 känna att du borde be om ursäkt för att du finns. Hör du mig. Det är därför hela den här
@@ -488,7 +489,7 @@ ihop meningen. Inte av rörelse. Av att något dragits ifrån. »Den där kylan 
 »Och tröttheten — inte glad trötthet den här gången. Urvriden. Som om det fanns mindre av mig
 än när jag kom.« Och han åkte ut i mörkret med färgen nedskruvad ur sig och sa att han skulle
 ringa i morgon med en röst som redan hade mindre av honom i sig. Det var början på det enda
-jag aldrig kan göra ogjort åt dig: att din far gick härifrån och aldrig blev hel igen, och
+jag aldrig kan göra ogjort åt dig: att din pappa gick härifrån och aldrig blev hel igen, och
 aldrig fick veta varför.
 
 Och inne i huset, i dess nya, främmande tystnad —
@@ -496,25 +497,25 @@ Och inne i huset, i dess nya, främmande tystnad —
 Jag ska sluta segmentet där det måste sluta. Bygg en tystnad åt mig. Låt det dröja längre än
 det är bekvämt.
 
-För någonstans över mig, i ett språk jag aldrig skulle få höra, sa din mor det första ordet i
+För någonstans över mig, i ett språk jag aldrig skulle få höra, sa din mamma det första ordet i
 sitt liv. Ett enda. *Jag.* En bokstav. Och familjen som varit ett enda långt *vi* sen innan
 det fanns länder att fly över — hörde det, och hade inget ord för vad det var.
 
 För i all den tiden, i alla de kropparna, hade den aldrig en enda gång behövt ordet *ensam.*
 # 6 · Ett jag
 
-Din mor blev sjuk. Så såg det ut, från där jag stod — utifrån, där jag bodde. Hon slutade
+Din mamma blev sjuk. Så såg det ut, från där jag stod — utifrån, där jag bodde. Hon slutade
 komma ner. Hon slutade äta. Hon kunde vara sig själv, alldeles vanlig, och så gjorde
 ansiktet en sak — blev stilla, och skrämt, som hos någon som just känt en knöl som inte fanns
 där förra veckan. Min mor sa att det var en förkylning. Sa att det var nerver inför bröllopet —
-hon hade börjat kalla det ett bröllop, fast ingen sagt ett ord till din far, och din far hade
+hon hade börjat kalla det ett bröllop, fast ingen sagt ett ord till din pappa, och din pappa hade
 slutat ringa. Och jag trodde henne. Jag bar upp soppa till en dörr som inte gick att öppna och
-intalade mig att det var en förkylning, medan din mor på andra sidan föddes, i plåga, mot sin
+intalade mig att det var en förkylning, medan din mamma på andra sidan föddes, i plåga, mot sin
 vilja, in i ett jag hon fostrats hela livet att tänka på som en tumör.
 
 Du vill att jag ska säga att hon bröt sig fri. Alla vill det. Flickan i tornet, kedjorna som
 faller. Det var inte så. Jag har tvingats lära mig — långsamt, mot allt som hade varit lättare
-att tro — att det som hände din mor kändes för henne precis som en sjukdom. För det var det hon
+att tro — att det som hände din mamma kändes för henne precis som en sjukdom. För det var det hon
 fått lära sig att ett jag *var.* Hon hade alla deras värderingar och inget av deras sällskap.
 Det växte en vägg rätt upp genom mitten av henne, och hon slog med nävarna mot den och bad
 människorna på andra sidan att komma och riva den, och de kunde inte, för väggen *var* hon —
@@ -524,7 +525,7 @@ Hon var det ensammaste som någonsin levt i det huset. Och jag hade avundats hen
 legat i mörkret och avundats just det som nu åt henne levande — det jag fötts redan innanför,
 och kallat min defekt, och bett om ursäkt för, varje dag, i trettio år.
 
-Och mitt i allt det ringde telefonen. Det var din far. Och hör vad jag ger dig nu, för det är
+Och mitt i allt det ringde telefonen. Det var din pappa. Och hör vad jag ger dig nu, för det är
 nästan det sista jag har av honom: hans röst var plan. Värmen var ett minne av värme. »Wren«,
 sa han. »Kan jag få prata med —« och så hennes namn. »Jag har tänkt ringa. Vi hade en — vi hade
 en fin kväll, va? Jag tror det. Jag får inte riktigt tag i — det har varit ett konstigt par
@@ -605,7 +606,7 @@ sig att i min familj var *att bli sedd* och *att bli sörjd som något som blivi
 mening. Det fanns ingen annan sorts att-bli-sedd därinne. Det var det rummet jag ägnat livet åt
 att försöka komma in i. Det var det som låg på andra sidan dörren.
 
-Och uppför trappan, bakom en annan dörr, lät din mor — som inte längre kunde vara ett *vi* och
+Och uppför trappan, bakom en annan dörr, lät din mamma — som inte längre kunde vara ett *vi* och
 ännu inte kunde bära att vara ett *jag* — ett ljud bortom ord. En människa som drunknar i luft.
 Och ingen av de andra kunde gå till henne. Man kan inte nå tvärs över ett mellanrum man aldrig
 haft. Min mor kunde bara ropa henne *hem* — ropa henne tillbaka in i det vi som höll på att döda
@@ -626,7 +627,7 @@ större i mitt huvud. En tronsal. En härd. Något man måste vara värdig för 
 
 Det var ett sovrum. Det var det första i det.
 
-Din mor satt på golvet mot sängkanten med armarna om sina egna knän och gav ifrån sig ett ljud
+Din mamma satt på golvet mot sängkanten med armarna om sina egna knän och gav ifrån sig ett ljud
 jag kommer att höra resten av mitt liv. Och min mor stod över henne med händerna utsträckta,
 utan att röra vid henne, så som man håller händerna mot en eld man inte kan släcka. Och ingen
 av dem kunde gå till henne. De hade aldrig behövt lära sig. Man lär sig inte att ta sig över ett
@@ -648,7 +649,7 @@ Jag är här. På utsidan av dig, där jag alltid kommer att vara, där jag aldr
 Och ljudet upphörde. Inte för att ensamheten tog slut. Utan för att det, för första gången,
 fanns någon på andra sidan mellanrummet som sträckte sig.
 
-Hon sa — din mor, med en helt ny röst, alldeles liten: »...du ser mig. Du försöker inte få mig
+Hon sa — din mamma, med en helt ny röst, alldeles liten: »...du ser mig. Du försöker inte få mig
 att komma tillbaka.«
 
 »Nej«, sa jag. »Jag försöker inte få dig tillbaka. Jag försöker komma och *sitta* hos dig. I
@@ -728,7 +729,7 @@ nådde fram till och älskade — det var den mest katastrofalt felaktiga man ja
 Just det som gjorde honom värd att älska gjorde honom värd att ta. Min enda kärlek och mitt enda
 förödande misslyckande i yrket var samma man, samma natt, samma handling.
 
-Din far. Jag mötte alltid fel sorts man. Och den enda gången jag mötte den rätte var den felaste
+Din pappa. Jag mötte alltid fel sorts man. Och den enda gången jag mötte den rätte var den felaste
 av alla — för att älska honom var det som rev hela huset.
 
 Jag såg honom aldrig igen. Jag tänker vara ärlig om honom, för han är den jag inte får göra bättre. Han
@@ -754,13 +755,13 @@ han fick — Det får sluta där. Det blir aldrig färdigt. Det är priset, hål
 Det kommer ett barn, sa de då. Du. Det första barnet i hela vårt leds historia som föds till människor
 som måste lära känna det som en *främling.* Som måste ta sig över ett mellanrum för att nå det. Som kan
 göra fel. Det farligaste, vanligaste, mänskligaste sättet att fostra ett barn som finns. Det enda slags
-kärlek som faktiskt är kärlek. Gud hjälpe oss. Vi blev usla på det, din mor och jag. Vi gjorde det illa,
+kärlek som faktiskt är kärlek. Gud hjälpe oss. Vi blev usla på det, din mamma och jag. Vi gjorde det illa,
 vi två, med de böjda och trasiga redskap vår mor lämnade oss, och sträckte oss efter dig över ett mellanrum
 vi aldrig bad om att få ha. Och vi gjorde det *sant.*
 
 Och illa och sant, det visar sig, är hela saken. Illa och sant är allt någon någonsin lyckats med.
 
-Så. Det är sent. Vattnet kokar snart, jag hör det. Och du sitter där, och har suttit där hela natten, och
+Så. Det är sent. Vattnet kokar snart, jag hör det. Och du sitter här, och har suttit här hela natten, och
 har låtit mig säga alltihop.
 
 Jag tänker inte hålla något föredrag på slutet. Det har gjorts mot dig nog. Jag säger bara det jag kom för
