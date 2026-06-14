@@ -10,7 +10,8 @@ and what is heard from outside the door. See the README.*
 ---
 
 **Saturday. Evening coming on. The house warmer than we have ever heard it — fire-warm,
-except there is no fire; lamps, wine breathing, something in the oven, music low and old.
+except there is no fire — there never is, not in any house of ours — lamps, wine breathing,
+something in the oven, music low and old.
 It should sound like the best night of someone's life. Under it, the thin hum, the hole. And
 something else now, rising as the evening settles: a low, almost-pleasant resonance in the
 house itself, a warmth that has nothing to do with the lamps. The house, getting ready to be
@@ -121,11 +122,10 @@ beginning to die. *(beat)* It didn't sound like dying. It sounded like the wine 
 It sounded like everyone, all at once, holding their breath. *(beat)* But somewhere above me,
 in the room I was never let into, in the language I was born without — *(beat)* — a wall had
 just felt something. *(beat)* For the first time in longer than there have been words for time
-— one of them had been touched by an *outside,* and the outside had stuck, and the bonding had
-done the one thing bonding is *for,* the thing it does to every other mammal that has ever
-lived — *(beat)* — it had made another creature *real* to her. *(beat)* And in my family, a
-creature for whom another creature is real is not a daughter anymore. *(beat)* It's a wound
-the whole body can feel.
+— one of them had been touched by an *outside,* and the outside had *stuck.* *(beat)* Something
+had got in that the *we* had no word for and no door against. *(beat)* Another creature had
+become *real* to her. *(beat)* And in my family, a creature for whom another creature is real
+is not a daughter anymore. *(beat)* It's a wound the whole body can feel.
 
 ---
 

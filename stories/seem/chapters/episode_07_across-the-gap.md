@@ -124,12 +124,12 @@ even after all of it, that I wouldn't still choose theirs.
 
 NARRATOR *(quieter):* And here's the mercy in it — the only mercy, and it took me longest of all to
 believe — *(beat)* — it was always going to die. *(beat)* Not because of me. Not really, not in the
-end. *(beat)* Every man we ever took left a little of himself in us, the thing we couldn't help
-needing him for; a drop a generation, the very thing coming in on the tide we lived on. *(beat)* The
-duds had been coming more often. The houses we fled, more often. We were an old, narrow, failing
-thing, older than the word for old, and getting thinner every life. *(beat)* I wasn't the flaw that
-broke us. *(beat)* I was the tide, finally, all the way in. *(beat)* My one act of mercy didn't doom
-a thing that would have lasted forever. *(beat)* It only chose the night. *(very quiet)* I've had to
+end. *(beat)* We were old. Older than the word for old. *(beat)* The duds had been coming more
+often; the houses we fled, more often; we never did learn to unpack a room like we meant to stay.
+*(beat)* Whatever we were, it was thinning — the way a fire goes to embers, then to smoke, then to a
+smell in the curtains you can't find. *(beat)* I wasn't the flaw that broke us. *(beat)* I was just
+where the cold finally got in. *(beat)* My one act of mercy didn't doom a thing that would have
+lasted forever. *(beat)* It only chose the night. *(very quiet)* I've had to
 hold both of those, all this time, and never let go of either: that I did it — and that it was
 always, always coming. The grief is mine. The fault was the world's.
 

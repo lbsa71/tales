@@ -34,6 +34,12 @@ the absence of a CHORD cue to know it is the real one.
 - **The receipt** and its kin (§2 pitch craft note) — useless human noticing that goes nowhere; her "defect."
 - **The chord's gap** (Edda dead, §4/§8) — the missing voice, heard, never filled.
 - **Honor both griefs** (§3, §10) — the chord's peace is real; Wren *would still go back.*
+- **Folk-memory substratum** (§13 fork 6 — *they know; never named*): stray atmosphere only —
+  no fire in any house of theirs, matches hidden, houses fled and rooms never unpacked, smoke /
+  fire run from. Lock-pass call: let it *accumulate* (a few tiny echoes across the arc), never
+  explained. And keep the **mechanism cold** — Wren gives hindsight and grief, never the operating
+  manual (no biology of bonding, no tide / drop-a-generation); render decline as image/sound (a
+  fire to embers, then smoke), not physics.
 - **Never:** say "witch"; let anyone explain the system; make Vala a villain; make the budding force; tie Daniel's bow.
 
 ---
