@@ -189,7 +189,7 @@ Hon avslutade den aldrig. Hon behövde inte.
 Du måste ha vuxit upp som jag växte upp för att veta vad den meningen gör med en kropp. Jag
 kände den gå hela vägen ner. Jag skulle ha tagit hem hundra män till för att få höra den
 bakre halvan. Och det är det svåraste jag har att säga om henne, så jag säger det långsamt,
-för jag kan inte lägga ner någon av halvorna: hon *menade* det. Det var ingen som ljög. Det
+för jag kan inte släppa någon av halvorna: hon *menade* det. Det var ingen som ljög. Det
 var min mor, som älskade mig, som sa att jag varit duktig. Det var det snällaste hon varit mot
 mig på ett år. Och jag svävade uppför trappan på det, som en flicka som fått höra att hon är
 vacker.
