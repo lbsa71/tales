@@ -78,7 +78,7 @@ Och inne i huset, i dess nya, främmande tystnad —
 Jag ska sluta segmentet där det måste sluta. Bygg en tystnad åt mig. Låt det dröja längre än
 det är bekvämt.
 
-För någonstans över mig, i ett språk jag aldrig skulle få höra, sa din mamma det första ordet i
+För någonstans över mig, i ett språk jag aldrig skulle få höra, sa din mor det första ordet i
 sitt liv. Ett enda. *Jag.* En bokstav. Och familjen som varit ett enda långt *vi* sen innan
 det fanns länder att fly över — hörde det, och hade inget ord för vad det var.
 

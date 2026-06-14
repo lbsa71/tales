@@ -98,7 +98,7 @@ på någon som visar sig ha stått, hela sitt liv, på fel sida av det enda som 
 och var precis lika ensam i det som jag, och aldrig ens fick veta om det.
 
 Min mor sa det om mig som om hon läste av vädret, när jag var liten. *Hon möter alltid fel sorts man.* Det är
-tredje gången du hör den. Hör hela den nu. Den betydde, först, det jag trodde: att jag var den sortens
+tredje gången du hör mig säga den. Hör hela den nu. Den betydde, först, det jag trodde: att jag var den sortens
 kvinna det inte ordnar sig för. Den betydde, sen: att de aldrig gick fel — att jag levererade varenda
 en. Och sist — den sak jag skulle ge mitt liv för att inte ha lärt mig: den enda gång jag mötte den
 *rätte* — den ende som det hjärta jag föddes med, det de aldrig kunde smälta bort ur mig, faktiskt
@@ -107,7 +107,7 @@ nådde fram till och älskade — det var den mest katastrofalt felaktiga man ja
 Just det som gjorde honom värd att älska gjorde honom värd att ta. Min enda kärlek och mitt enda
 förödande misslyckande i yrket var samma man, samma natt, samma handling.
 
-Din pappa. Jag mötte alltid fel sorts man. Och den enda gången jag mötte den rätte var den felaste
+Din far. Jag mötte alltid fel sorts man. Och den enda gången jag mötte den rätte var den felaste
 av alla — för att älska honom var det som rev hela huset.
 
 Jag såg honom aldrig igen. Jag tänker vara ärlig om honom, för han är den jag inte får göra bättre. Han
