@@ -5,7 +5,7 @@ Tjugo år senare
 
 Gautam var inte ett svar.
 
-Det är frestande att skriva honom så. Som om berättelsen behövde en punkt där allt som dittills varit misstänksamhet, skam och turistisk förvirring plötsligt samlades i en enkel handling. Jag var rädd. Jag bad om hjälp. Jag gick tillbaka. Jag litade. Jag gav pengar. Något öppnade sig.
+Det är frestande att skildra honom så. Som om berättelsen behövde en punkt där allt som dittills varit misstänksamhet, skam och turistisk förvirring plötsligt samlades i en enkel handling. Jag var rädd. Jag bad om hjälp. Jag gick tillbaka. Jag litade. Jag gav pengar. Något öppnade sig.
 
 Allt det är sant.
 
@@ -15,7 +15,7 @@ Gautam fanns inte där för att jag skulle förstå mig själv. Han var inte en 
 
 Det var det jag inte riktigt kunde bära då.
 
-Jag ville så gärna göra rätt att själva viljan blev högljudd. Jag ville hjälpa utan att köpa honom. Jag ville lita utan att bli lurad. Jag ville vara generös utan att göra min generositet till ännu ett sätt att känna mig större. Jag ville att min skam skulle omsättas i något användbart, och kanske gjorde den det, en stund.
+Jag ville så gärna göra rätt att själva viljan blev högljudd. Jag ville hjälpa utan att köpa honom. Jag ville lita på utan att bli lurad. Jag ville vara generös utan att göra min generositet till ännu ett sätt att känna mig större och honom mindre. Jag ville att min skam skulle omsättas i något användbart, och kanske gjorde den det, en stund.
 
 Men skam är inte ett rent bränsle.
 
@@ -23,7 +23,7 @@ Den kan göra en människa vaken. Den kan också göra henne självupptagen. Jag
 
 Men jag ser också hur snabbt han gör berättelse av det.
 
-Det är kanske ofrånkomligt. Det här är ju vad jag gjorde. Jag reste, upplevde, skrev. Jag gjorde människor till språk. En del av det var kärlek, eller i alla fall uppmärksamhet. En del av det var hunger.
+Det är kanske ofrånkomligt. Det här är ju vad jag gjorde. Jag reste, upplevde, skrev. Jag gjorde människor till text. En del av det var kärlek, eller i alla fall uppmärksamhet. En del av det var hunger.
 
 När jag tänker på Gautam nu är det inte tempelbönen jag först minns. Det är rummet där han och Namila åt med mig på golvet. Det är riset, tomatsåsen, skammen när jag tog fel hand, deras skratt. Det är hans blick när han bad om ursäkt för en dag jag själv hade förstört inuti mitt huvud. Det är explosionerna över dalen och hans nästan vardagliga sätt att fortsätta gå.
 

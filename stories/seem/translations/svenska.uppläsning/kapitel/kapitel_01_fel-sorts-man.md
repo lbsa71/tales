@@ -39,8 +39,8 @@ varje gång. Det här är första gången. Håll den i huvudet.
 Jag tog hem män. Så enkelt är det, så har jag sagt det. I trettio år tog jag hem ensamma män till
 min familj. Och efteråt — var och en av dem — var de aldrig riktigt män igen.
 
-Jag vet inte hur jag ska få dig att höra det utan att det låter som något ur en dålig film, så jag
-ger dig en av dem i stället. Det fanns en man. Han var — när jag hittade honom var han
+Jag vet inte hur jag ska få dig att förstå utan att det låter som något ur en dålig film, så jag
+berättar om en av dem i stället. Det fanns en man. Han var — när jag hittade honom var han
 *högljudd*. Tvärsäker, full av åsikter, ett band han sett en gång, en exfru han inte var
 klar med. Han kom in i min familj en söndag som en karl som kommer in ur regnet. Och han gick
 ut igen, efteråt. De gick alltid ut igen, efteråt. Levande. På sina egna ben.
@@ -55,7 +55,7 @@ jag gjorde då, längre fram, för det är det värsta jag vet om mig själv. Me
 jag bara att du vet att det var sant. Att de gick ut nedskruvade. Att jag såg det med egna
 ögon och lät bli att förstå det i trettio år.
 
-För — och det här är det jag räknade mig fram till, alldeles för sent —
+För — och det här är det jag räknade ut, alldeles för sent —
 
 jag hade inte otur.
 
@@ -63,8 +63,7 @@ Jag valde inte fel.
 
 Jag var ett bete.
 
-Det är vad meningen betydde, den första betydelsen: jag var den de skickade ut. Jag kunde gå
-in i en främmande man med ingenting annat än prat och bli så tyst inne i mig själv, för hans
+Det är vad meningen betydde, i den första betydelsen: jag var den de skickade ut. Jag kunde komma nära en främmande man med ingenting annat än prat och genom att bli så tyst inne i mig själv, för hans
 skull, att han kände sig sedd kanske för första gången i sitt liv — och sen, när min familj
 kom och tog honom, kunde jag försvinna så fullständigt att han glömde att jag ens varit i
 rummet. Man agnar inte en krok som fisken hela tiden ligger och stirrar på. Och jag var —
