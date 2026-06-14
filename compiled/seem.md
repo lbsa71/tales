@@ -15,8 +15,7 @@ MAN *(SURFACE — flat, patient, the colour turned down out of him):* No — no,
 ahead. I'm grand. *(beat)* I'm always grand. *(beat)* ...Funny. I used to be such good
 company.
 
-**Silence. Let that sit. Then NARRATOR — close, dry, certain. This is the contract; do not
-hurry it.**
+**Silence. Let that sit. Then NARRATOR — close, dry, certain. Do not hurry it.**
 
 NARRATOR: That's a man I brought home to my family. *(beat)* I brought a lot of men home,
 over the years. And afterwards — every one of them — they were never quite men again.
@@ -32,29 +31,25 @@ NARRATOR: I did it for thirty years, and thought it was the one thing wrong with
 couldn't keep one. That I always picked the kind who'd drift off toward somebody else the
 moment they got warm. *(a small dry sound)* *I always meet the wrong kind of man.* My mother
 used to say it like a weather report, and I believed her, because she was never wrong about
-anything. *(beat)* It took me thirty years and one funeral to understand. I wasn't unlucky.
-I wasn't picking them wrong. *(very quiet)* I was the bait.
+anything. *(beat)* It took one funeral to understand. I wasn't unlucky. I wasn't picking them
+wrong. *(very quiet)* I was the bait.
 
 **The faintest hum begins under her — low, layered, many voices breathing as one, no words
 in them. And in the hum, a hole. A place a voice should sit, and doesn't.**
 
-NARRATOR: It only ever worked because nobody looked at me twice. *(beat)* That was the gift,
-they told me — the only one I had. I could go quiet inside for a man until he felt seen for
-the first time in his life — and then, when my family came and took him, I could disappear
-so completely he'd forget I was ever in the room. *(beat)* You can't bait a hook the fish
-keeps staring at. *(beat)* I was good at not being seen. I'd had a lifetime's practice. In
-my own house.
+NARRATOR: It only ever worked because nobody looked at me twice. *(beat)* I could go quiet
+inside for a man until he felt seen for the first time in his life — and then disappear, when
+my family took him, so completely he'd forget I was ever in the room. *(beat)* You can't bait
+a hook the fish keeps staring at. *(beat)* A lifetime's practice at not being seen. In my own
+house.
 
 **A beat.**
 
-NARRATOR: This is the last man I ever brought home. His name was Daniel. *(beat)* And I'm
-going to tell you the worst of it now, so you don't sit there hoping: he walked out the way
-they all walked out. Turned down. He's alive somewhere this minute, not knowing what he
-lost, or that he lost it. *(beat)* He was the last because he was the only one who ever
-turned it around. The only man who looked *back* at me. Who saw me — when seeing me was the
-one thing the whole house was built to prevent. *(beat)* And that. Not a knife, not a drug,
-nothing with a name. *That* is what brought it all down. *(very quiet)* My one good man. I
-should have left him in the rain.
+NARRATOR: This is the last man I ever brought home. His name was Daniel. *(beat)* He was the
+last because he was the only one who ever looked *back* at me. Who saw me — when seeing me was
+the one thing the whole house was built to prevent. *(beat)* And that. Not a knife, not a
+drug, nothing with a name. *That* is what brought it all down. *(very quiet)* My one good man.
+I should have left him in the rain.
 
 ---
 
@@ -282,7 +277,7 @@ of them, and this is the only stream the listener can fully trust.**
 DANIEL *(SURFACE, warmer, looser, the wine in it):* Can I say a weird thing. *(beat)* Your
 sister's — your whole family's lovely, they really are, they've been so —
 
-WREN *(SURFACE — and this is the first we hear her *in scene,* younger, lighter, careful):*
+WREN *(SURFACE — younger, lighter, careful):*
 But.
 
 DANIEL *(SURFACE):* No, not but. *(beat)* It's just — you're the one who talked to me. Like,
@@ -292,7 +287,7 @@ know. I keep wanting to check you're still there.
 **A beat. Rain. And here — crucially — no CHORD line comes before this. Nothing is planted.
 It is only him.**
 
-DANIEL *(HIM — quiet, unforced, and the listener must be able to tell this one is real):*
+DANIEL *(HIM — quiet, unforced, and unmistakably true):*
 She's got the saddest, kindest face. Why would they keep someone like that at the edge of
 everything.
 
@@ -530,7 +525,7 @@ You're not no use. When you're useful you're so —
 
 **She doesn't finish it. She doesn't have to.**
 
-NARRATOR *(present-day, and this is the wound the whole show turns on):* *You're not no use.*
+NARRATOR *(present-day, quiet):* *You're not no use.*
 *(beat)* You'd have to have grown up the way I grew up to know what that sentence does to a
 body. I felt it go all the way down. I'd have brought her a hundred men to hear the back
 half of it. *(beat)* The thing is — and I need you to hold both of these at once, because I
@@ -1040,8 +1035,7 @@ LISS *(SURFACE — soft, leaning, the whole given face):* Then don't wake up. *(
 CHORD *(cold, layered, roomless; the envelopment beginning — one voice to hold him, the rest
 to work beneath):* The daughter holds his attention and his spoken self. *(beat)* The mother
 takes the rest — the breath, the blood, the wanting. He will feel one field, seamless, fated.
-He will call it *I couldn't help myself.* There is no seam because there is no seam in us.
-*(flat)* Bring him up. Gently. Let it be his idea.
+He will call it *I couldn't help myself.* *(flat)* Bring him up. Gently. Let it be his idea.
 
 DANIEL *(HIM — and the bloom is almost instant now, he is so far in):* ...stay. *(beat)* Yeah.
 God, yes. When does a feeling like this come round again — never, it comes round never — *(a
@@ -1082,8 +1076,7 @@ DANIEL *(HIM — through it, and the listener must hold both at once: his joy, a
 it):* ...she's shaking. *(tender, mistaking everything)* She's shaking, she's as gone as I am,
 nobody's ever — I'd do anything for her, I'd —
 
-NARRATOR *(present-day, and this is her imagining her way in, and it is unbearable, and it is
-love):* He thought her shaking was for him. *(beat)* I've made myself picture it. His whole
+NARRATOR *(present-day — imagining her way in):* He thought her shaking was for him. *(beat)* I've made myself picture it. His whole
 kind heart, reading the one true thing in that room — *something is happening that's bigger
 than her* — and getting it exactly, catastrophically wrong. *(beat)* He made love to a wall.
 A warm wall, a willing wall, a wall that said his name. *(beat)* And the wall was studying
@@ -1359,7 +1352,7 @@ play)* I'm sorry, love. *(beat)* I'm sorry we couldn't fix you.
 
 **Silence. Above, Liss, flickering, in and out, in and out.**
 
-NARRATOR *(present-day, and it is a wound and a key at once):* *I'm sorry we couldn't fix you.*
+NARRATOR *(present-day):* *I'm sorry we couldn't fix you.*
 *(beat)* She meant it kindly. *(beat)* That's the thing I need you to hold, the thing the whole
 story is — she has never once, in my whole life, been unkind to me. She loved me. *(beat)* She
 just loved me the only way the thing inside her could: as a part of itself that wouldn't heal.
@@ -1444,8 +1437,8 @@ LISS *(peeling out, roomed, terrified, and *furious* with the terror of the newl
 and there's no — when I reach for home there's just *me,* it's *me* all the way down now, I'm
 the only one in here —
 
-CHORD *(the two voices smoothing, clamping, and failing):* — there is no *me.* Smooth it. The
-seam is not real. There has never been a seam —
+CHORD *(the two voices smoothing, clamping, and failing):* — there is no *me.* Smooth it. Let
+it go flat. There is nothing there to smooth —
 
 NARRATOR *(over it, present-day):* My mother was trying to save her the only way she had.
 *(beat)* And the way she had was the thing that was killing her. *(beat)* *Come home. Let go.
@@ -1485,20 +1478,11 @@ trying to make me come back.
 WREN *(SURFACE):* No. *(beat)* I'm trying to come and *sit with you.* In it. *(beat)* That's all
 anyone can ever really do. *(beat)* I didn't know that until tonight either.
 
-NARRATOR *(present-day, and this is the hinge of the whole work):* That's the moment. *(beat)*
-If you take one thing out of all of this, take that — because it took me thirty years and it
-nearly killed everyone I loved, and I'd like it not to have been for nothing. *(beat)* My sister
-had been *included* her whole life. Folded in, dissolved, carried, never for one second alone.
-*(beat)* And not once, in all of it, had anyone ever *seen* her. *(beat)* Because you cannot see
-what you will not let be separate from you. *(beat)* You can only ever see yourself in it.
-*(beat)* The most loving family that ever lived, and it had never once perceived a single one of
-its own. *(beat)* And the thing they threw out — the gap, the separateness, the lonely defective
-*me* they tried to melt out of me with love — *(beat)* — turned out to be the one and only
-instrument in that whole long bloodline that could do it. *(very quiet)* Love isn't the holding.
-*(beat)* I thought my whole life that love was the holding, because I'd been starved of it.
-*(beat)* It isn't. *(beat)* Love is the *seeing.* And you can only see across a gap. *(beat)* The
-ones who never feel alone never see anyone at all. *(beat)* They just feel themselves, in a
-larger and larger room, and call the feeling family.
+NARRATOR *(present-day, very quiet):* My sister had been *included* her whole life. Folded in,
+carried, never for one second alone. *(beat)* And not once had anyone ever *seen* her. *(beat)*
+The most loving family that ever lived. *(beat)* And the thing they threw out — the gap, the
+lonely defective *me* they'd tried to melt out of me with love — *(beat)* — turned out to be
+the one thing in that whole long line that could.
 
 ---
 
@@ -1616,9 +1600,8 @@ it.**
 
 NARRATOR *(close):* My mother said it like a weather report, when I was a girl. *There she goes
 again. She always meets the wrong kind of man.* *(beat)* And I believed her, because she was never
-wrong about anything. *(beat)* Let me tell you, now, at the end, everything that sentence means.
-*(beat)* It meant, first, the thing I thought it meant: that I was the sort of woman things don't
-work out for. The one men don't stay pointed at. *(beat)* It meant, second — and I worked this out
+wrong about anything. *(beat)* It meant, first, the thing I thought it meant: that I was the sort
+of woman things don't work out for. The one men don't stay pointed at. *(beat)* It meant, second — and I worked this out
 too late to stop a single thing — that they *never went wrong at all.* Every man I "lost," every
 one who "went nowhere," went exactly where I'd been sent to take him. *(beat)* My whole romantic
 life, every failure my mother clucked over — that was my *job,* succeeding. I never once lost a
@@ -1690,42 +1673,27 @@ Bereavement and consolation in one breath.**
 **A quiet room. Two women. Ordinary sounds — a kettle, maybe, far off; a child, very faint,
 somewhere in the house. No hum. No hole. Just the world.**
 
-LISS *(SURFACE — older now, separate, and loving Wren the way only a self can love another self —
-across the distance, on purpose, getting it slightly wrong):* You've gone all quiet again. *(beat)*
+LISS *(SURFACE — older now, separate; reaching across the distance, on purpose, getting it
+slightly wrong):* You've gone all quiet again. *(beat)*
 You do that. *(beat, gentle)* Come back. *(a small breath — she hears the old word, fixes it)* No —
 not *come back.* I always say it wrong. *(beat)* I mean — *(searching, reaching)* — stay where you
 are. I can see you from here. *(beat)* I just wanted you to know I can see you.
 
 **A silence. And then WREN — who has spent her whole life filing every warmth pointed at her under
 *mistake* or *they want something* — does the thing she has never once been able to do. She lets it
-land. She receives it.**
+land.**
 
-NARRATOR *(close, and for the first time, unguarded, the verdict-scanner finally switched off):*
-And I let her. *(beat)* That's it. That's the whole of what I learned, the only thing I have to
-give you, after all of it. *(beat)* Someone said *I can see you* — and for the first time in my
-life I didn't check it for a trap, didn't translate it into pity or a mistake or a thing somebody
-wanted. *(beat)* I just — let it be true. *(beat)* I let myself be seen. *(beat)* It's the hardest
-thing I have ever done. *(beat)* It's harder than the loving. *(beat)* Anyone can do the loving
-once they know they're allowed. *(beat)* It's the *being seen* that you have to learn last, if you
-were the one who grew up certain there was something in you that, if anyone ever really looked,
-they'd have to turn away from. *(a long beat)*
+NARRATOR *(close, unguarded):* And I let her. *(beat)* Someone said *I can see you* — and I didn't
+check it for a trap. Didn't turn it into pity, or a mistake, or a thing somebody wanted. *(beat)*
+I just — let it be true. *(very quiet)* I let myself be seen. *(beat)* It's the hardest thing I
+have ever done.
 
-NARRATOR *(softer):* So here's what I know, and then I'll let you go. *(beat)* If you were ever
-told that the ache in you — the too-much, the needing-people, the noticing — was the thing wrong
-with you — *(beat)* — it wasn't the defect. *(beat)* It was the organ. *(beat)* The ones who never
-felt the gap never had to learn the one thing you've known since you were small: that another
-person is real, and far away, and worth reaching for anyway. *(beat)* You were the one who could
-love all along. *(beat)* You. The one at the edge of the kitchen. *(beat)* The only one who ever
-noticed the receipt.
+**A long beat. Somewhere in the house, a child. A kettle, far off, coming up to the boil. And no
+hum under any of it. Two separate people, in a quiet room.**
 
-**A pause. The faint child, somewhere. The kettle. The world, with no hum under it.**
+WREN *(SURFACE — rough, unpractised; four words she has never once managed to say to anyone):*
+...I can see you too. *(beat)* From here.
 
-NARRATOR *(the last thing, quiet, almost a smile):* Go on. *(beat)* You know the one I mean. The
-person you've been not-quite-reaching, because the gap felt like proof you'd get it wrong. *(beat)*
-The gap isn't the proof you can't. *(beat)* The gap is the *only place it's ever happened.* *(beat)*
-Go and stand on the far side of it from someone, tonight, and let them be real, and be wrecked by
-it, and reach. *(beat)* Badly. *(beat)* And truly. *(beat)* That's the whole of it.
-
-**A breath. The room. And then —**
+**The room. The kettle. The world, going on. And then —**
 
 **Out.**
