@@ -168,7 +168,7 @@ en växt vänder sig mot ett fönster. Och jag satt kvar i min egen familj som e
 hängt av sig och glömt. Och jag berättade för mig själv att jag bara inte var av det slaget
 som män blir kvar hos. Att det var synd om mig, lite. Att jag hade — fel sorts tur.
 
-Det är andra gången du hör mig säga det. *Hon möter alltid fel sorts man.* Hör den nu med det du
+Andra gången jag säger det, *Hon möter alltid fel sorts man.* lyssna nu med det du
 vet: varje man jag »förlorade«, varenda en som »inte blev något«, gick precis dit jag var
 skickad att ta honom. Jag förlorade aldrig en man. Jag *levererade* varenda en. Det min mor
 suckade över som min otur — det var jag som lyckades i mitt arbete.
@@ -372,11 +372,11 @@ Med dem den använde och med dem den bar. Samma — samma *prydlighet.* Den ömm
 nånsin mött, och den lade undan sina egna söner som man fimpar en cigarett, och skördade
 främlingar på samma sätt, och kände aldrig skillnaden, för det *fanns* ingen skillnad för den.
 Det fanns *vi:et,* och det andra som inte var det, och allt som inte var det var antingen
-till nytta eller också så städades det undan.
+till nytta eller så städades det undan.
 
 Jag vet inte varför jag fick vara kvar. Jag har tänkt att det var för att de inte kunde
 avgöra det om mig snabbt nog. Att jag lever på ett tekniskt fel. Det är inte självömkan. Det
-är bara den plats jag talar ifrån.
+är bara ett konstaterande.
 
 Och eftersom jag stannade upp — eftersom lockbetet sviktade, eftersom den odugliga blev opålitlig,
 eftersom jag kostade dem tid de trodde att de inte hade —
@@ -392,7 +392,7 @@ Hon sa:
 här skälen.« Och hon suckade, nästan ömt. »Jag skulle inte ha lagt det på dig. Det var för
 mycket, efter mormor, att be dig sköta alltihop. Du höll av henne. Så jag tar vid härifrån. Du
 har gjort din del — du tog hem honom, du tar alltid hem dem, du är så bra på att ta hem dem.
-Låt din gamla mor sköta resten. Lördag. Du behöver inte göra något. Du kan bara — vara här.
+Låt din gamla mor sköta resten. Du behöver inte göra något på Lördag. Du kan bara — vara här.
 Med din familj.«
 
 Ser du vad jag gjorde? Jag stannade upp för att rädda honom. Det är det enda sanna jag kan
