@@ -27,7 +27,7 @@ dig. Det är nästan det enda jag kan göra.
 
 Ja. Början.
 
-Min mor — din mormor — sa en sak om mig som om hon läste av vädret. *Där går hon igen. Hon
+Min mor — din mormor — sa en sak om mig som om hon pratade om vädret. *Där går hon igen. Hon
 möter alltid fel sorts man.* Hon sa det med en suck, lite ömt till och med, som man säger om
 någon man håller av men inte kan hjälpa. Och jag trodde henne. Det gjorde jag i trettio år.
 Hon hade ju aldrig fel om något.
