@@ -27,8 +27,6 @@ lbsa71
 
 
 ========
-
-
 # 01. Bombay
 
 _Dag 1. Bombay. 2 oktober 2003._
@@ -53,8 +51,6 @@ Ja jävlar.
 
 Kärlek,
 Stefan
-
-
 # 02. Learning To Say No
 
 _Dag 6-7. Jaipur och New Delhi. 7-9 oktober 2003._
@@ -128,8 +124,6 @@ Så. Nu är det norra Indien som gäller. Leh/Ladakh, Daramsala, Himachal Prades
 
 Love,
 Stefan
-
-
 # 03. Nobody Listens To Poor People
 
 _Dag 15. Srinagar, Kashmir och Leh. 16 oktober 2003._
@@ -283,8 +277,6 @@ Jag funderar ett tag, och svarar sedan
 "Yeah."
 
 Nobody listens to poor people.
-
-
 # 04. The Last Bus Out
 
 _Dag 21. Leh till Vashisht. 22 oktober 2003._
@@ -544,8 +536,6 @@ Tänker på er.
 
 Kram,
 Stefan
-
-
 # 05. Ten Rupees
 
 _Dag 24. Vashisht. 25 oktober 2003._
@@ -654,8 +644,6 @@ Efter Chandigarh blir det Dehradun, sedan vidare längs Ganges till Varanasi.
 
 Puss på er!
 Stefan
-
-
 # 06. Manu
 
 _Dag 29. Delhi och Agra. 30 oktober 2003._
@@ -895,8 +883,6 @@ Well, hoppas ni mår bra, jag börjar må bättre...
 
 Love,
 Stefan
-
-
 # 07. Taj Aftertaste
 
 _Dag 33. Agra. 3 november 2003._
@@ -1143,8 +1129,6 @@ Kanske kan jag komma underfund med ett och annat där.
 
 Kram,
 Stefan
-
-
 # 07b. Serge
 
 _Dag 39. Varanasi. 9 november 2003._
@@ -1242,8 +1226,6 @@ Tre par ögonbryn höjs.
 "Yeah," säger Suse.
 
 Vi sitter i fundersam tystnad ett tag.
-
-
 ---
 
 
@@ -1275,8 +1257,6 @@ For a while we sat in the same silence.
 
 lbsa71
 Gothenburg, 2026
-
-
 RESEBREV
 ========
 
@@ -1313,8 +1293,6 @@ lbsa71
 2003 and 2026
 
 ========
-
-
 # 08. Ganges
 
 _Dag 42. Varanasi. 12 november 2003._
@@ -1370,8 +1348,6 @@ Lägg till detta ett Varanasi, en av de äldsta städerna i världen, insvept i 
 En av de största båtarna rammade oss nästan och till min förtjusning ser jag Loi och Noreen på den. Jag var inbjuden att fira med dem, men tackade nej. Det var nog lika bra.
 
 Så jag skriker på Loi, tredje gången rycker hon till, vänder sig om, ler och vinkar, så jag ropar på Uma. Hon vänder sig om och ler, jag hinner bara skrika ’this is madness’ innan vi skiljs åt.
-
-
 # 09. Uma
 
 _Dag 42. Varanasi. 12 november 2003._
@@ -1517,8 +1493,6 @@ Och nu är jag i Pokhara, Nepal - det är grönt, skönt och stilla om än turis
 Jag funderar på att flytta till det tibetanska flyktinglägret när jag blir bättre och bo med en familj där. Gotta get off the beaten track. Vi får se.
 
 Kramar, Stefan
-
-
 # 10. Aili
 
 _Dag 49. Pokhara. 19 november 2003._
@@ -1914,8 +1888,6 @@ De kramas. Den här gången känns det alltigenom bra. Han går, vinkar hejdå, 
 Vid lunch återvänder han för att se om hon är kvar.
 
 Men hon har gett sig av.
-
-
 # 11. Bhaktapur
 
 _Dag 51. Bhaktapur. 21 november 2003._
@@ -2062,8 +2034,6 @@ Perfekt.
 Förresten har jag bestämt mig för att i viss mån dumpa sydost-asien-ambitionerna till förmån för att göra Indien ordentligt. Jag menar, Thailand, Malaysia, Vietnam, Laos, Kambodja kan man göra vilken semester som helst men Indien kräver exceptionellt med tid.
 
 Love, Stefan
-
-
 # 12. Gautam
 
 _Dag 53. Bhaktapur. 23 november 2003._
@@ -2338,8 +2308,6 @@ Han ville förresten inte ha några pengar. Han hade snarare gått back på mig,
 Så varför göra så mycket väsen av en fattig silversmed när jag inte skrivit något om de hemlösa tiggarna i New Delhi? Det handlar om att kunna relatera. Gautam berörde mig för att jag kunde sätta mig in i hans situation. Han var av fattig medelklass, hade en affär, ett hem, en gravid hustru med komplikationer jag kände igen. Det var inte en hopplös situation, bara svår.
 
 När jag till slut sa adjö lämnade jag 600 rupier på hans disk och gick till five storey temple för att tacka Shidde Laxmi för att hon sänt mig mod att lita på honom.
-
-
 ---
 
 Postscript To Part 2
@@ -2383,8 +2351,6 @@ For a little while, that was enough.
 
 lbsa71
 Gothenburg, 2026
-
-
 # 14. Lost In Goa
 
 _Dag 101. Mandrem. 10 januari 2004._
@@ -2584,8 +2550,6 @@ Now I will spend quite some time digesting the events of the last days and piece
 
 Love,
 Stefan
-
-
 # 15. Flock Animals
 
 _Dag 120. Mandrem. 29 januari 2004._
@@ -2745,8 +2709,6 @@ And in this moment in time, only god knows when and how who is going where.
 
 Love,
 Crabman
-
-
 # 16. Leaving India
 
 _Dag 143. Bangkok. 21 februari 2004._
@@ -2797,8 +2759,6 @@ Love,
 Stefan
 
 PS. The list of topics not yet covered by these travel diaries is getting quite long.
-
-
 # 17. Bangkok Show
 
 _Dag 156. Bangkok och Chiang Mai. 5 mars 2004._
@@ -3035,8 +2995,6 @@ Now the whole show starts all over with the first woman coming onstage with an u
 I’ve had enough. I thank Mai and Yo, get up and pay my bill. After giving them a tip of a couple of hundred bath, I scurry for the street like a rat out of a maze.
 
 There, ’Schumacher’ stands waiting. I get into his tuk-tuk, and immediately he wants me to tell every detail of the night. It’s quite apparent that he’s heard it all several times before, but anyway he takes great delight in hearing about it, laughing like a happy child at every detail.
-
-
 # 18. Cheyenne
 
 _Dag 172. Siem Reap och Phnom Penh. 5 mars 2004._
@@ -3223,8 +3181,6 @@ Lite som när jag en gång i sällskap av min yngsta bror undrade högt över hu
 
 Kram,
 Stefan
-
-
 # 19. Ordinary Horror
 
 _Dag 183. Phnom Penh. 2 april 2004._
@@ -3298,8 +3254,6 @@ Pizzan är svindyr, USD 10, jag är hungrig men klarar inte mer än två slices 
 På så sätt kommer det sig att jag, när jag försöker pruta ner motorcykeln tillbaka till gästhuset från 2500 till 2000 riel, inser att jag bitchar om ganska exakt en procent av priset på pizzan jag just håller i handen.
 
 En procent. Jag rodnar faktiskt lite lätt när jag inser det, men då sitter jag bakpå hojen så föraren ser mig inte.
-
-
 # 20. Party People
 
 _Dag 183. Sihanoukville, Mekong och Ho Chi Minh. 2 april 2004._
@@ -3410,8 +3364,6 @@ Stefan
 PS. Jag tänkte ju tatuera mig i Ho Chi Minh, det är ju trots allt gamla ’Saigon’ i Vietnam, liksom. Turns out det är olagligt att tatuera folk här, eftersom tatueringar i huvudsak är kopplade till undre världen:
 
 http://www.thingsasian.com/browse/stories/contributors/goto_article/article.2490.html
-
-
 # 21. Home
 
 _Dag 252. Göteborg. 9 juni 2004._
@@ -3493,8 +3445,6 @@ Thank you all.
 
 Love,
 Stefan
-
-
 # 22. Coda
 
 _2026. Redaktionell slutpunkt att pröva._
@@ -3504,5 +3454,3 @@ Det här är platsen där den färdiga boken senare behöver bestämma om 2026 �
 Just nu räcker det att låta arkivet vila här: efter hemkomsten, efter slutsatserna, efter behovet att få resan att betyda något.
 
 Frågan är inte bara vad berättaren lärde sig. Frågan är vad läsaren ville att han skulle lära sig, och varför.
-
-
