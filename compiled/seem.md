@@ -487,10 +487,8 @@ MAN *(SURFACE):* Anyway. *(beat)* You take care. *(beat)* Whoever you are.
 
 **His footsteps go. The automatic doors. WREN, not moving.**
 
-NARRATOR: I stood there a long time. *(beat)* And I want you to watch what I did next,
-because it's the whole of me, it's the thing I did my entire life until it killed the people
-I loved. *(beat)* I thought: *poor man. Life does that to people.* And I picked up my
-shopping. *(beat)* There was a question, right there, with its hand up. I could feel it. The
+NARRATOR: I stood there a long time. *(beat)* And I want you to watch what I did next. *(beat)*
+I thought: *poor man. Life does that to people.* And I picked up my shopping. *(beat)* There was a question, right there, with its hand up. I could feel it. The
 question was: *every man you have ever brought to that house — where are they now? What do
 they sound like now?* *(beat)* And something in me reached out, very gently, the way you'd
 settle a child, and put the question back to sleep. *(beat)* I called that being good. I'd
@@ -528,8 +526,8 @@ You're not no use. When you're useful you're so —
 NARRATOR *(present-day, quiet):* *You're not no use.*
 *(beat)* You'd have to have grown up the way I grew up to know what that sentence does to a
 body. I felt it go all the way down. I'd have brought her a hundred men to hear the back
-half of it. *(beat)* The thing is — and I need you to hold both of these at once, because I
-can't seem to put them down — the thing is, she *meant* it. That's not a monster talking.
+half of it. *(beat)* The thing is — and I can't seem to put either of them down — she *meant*
+it. That's not a monster talking.
 That's my mother, who loved me, telling me I'd been good. *(beat)* It was the kindest she'd
 been to me in a year. *(beat)* And I floated up those stairs on it like a girl who'd been
 told she was pretty.
@@ -662,19 +660,15 @@ DANIEL *(SURFACE — light, but he means it):* Most men who come here are here f
 **Silence. The tap, off. Rain.**
 
 NARRATOR *(present-day, and it costs her everything to say it level):* There it is again.
-*(beat)* And here's what I did with it, because I want you to see the machine I was, the
-machine they made me — I heard *I keep ending up in the kitchen with you,* and I translated
-it, instantly, the way you translate a language you think in, into: *he feels sorry for me.*
-*(beat)* That's not modesty. I want to be clear it isn't modesty, it isn't even sadness,
-really. It's a — a fact-checker. There's a thing in me, they put it there, that takes any
-warmth pointed my way and runs it through a filter that only ever returns one of two
-answers: *they want something,* or *they've made a mistake.* *(beat)* Warmth toward me is an
-error. The system corrects it. *(beat)* So a man stood in my kitchen and told me the truest
-thing anyone had said to me in years, and I filed it under *mistake,* and dried my hands, and
-went to wake my sister so he could go and be with the person he'd come for. *(beat)* I built
-the morning around getting myself out of that kitchen. *(very quiet)* I have wondered, since,
-what he heard in that. Whether he learned, that morning, that there was no point. I taught
-men there was no point in me. I was so good at it I taught the only one who meant it.
+*(beat)* And I heard *I keep ending up in the kitchen with you* — and turned it, before it
+could land, into *he feels sorry for me.* *(beat)* It wasn't modesty. *(beat)* I don't know
+how to — it was faster than modesty. Any warmth pointed my way, something in me caught it and
+set it down again as a mistake, or a thing somebody wanted. Every time. *(beat)* So a man
+stood in my kitchen and told me the truest thing anyone had said to me in years, and I filed
+it under *mistake,* and dried my hands, and went to wake my sister so he could go and be with
+the person he'd come for. *(very quiet)* I've wondered, since, what he heard in that. Whether
+he learned, that morning, that there was no point. *(beat)* I taught men there was no point in
+me. I was so good at it I taught the only one who meant it.
 
 ---
 
@@ -884,10 +878,9 @@ DANIEL *(SURFACE — and he lets her have the joke, but):* It's the best thing I
 anyone in years. *(beat)* You'll see, one day. Or you won't, and that'll be the saddest thing
 about you.
 
-NARRATOR *(present-day, level, and it nearly takes her under):* He trusted me. *(beat)* That's
-what I have to make you understand, because it's the engine of the whole thing, it's the
-sin I can't ever set down. The reason the lure worked — the reason it always worked, the
-reason I was good at it — was that I was the realest thing in that family. The one who
+NARRATOR *(present-day, level, and it nearly takes her under):* He trusted me. *(beat)* The
+reason the lure worked — the reason it always worked, the reason I was good at it — was that I
+was the realest thing in that family. The one who
 actually listened. The one who actually saw you. *(beat)* So he did the sanest thing a person
 could do. He trusted the realest one. *(beat)* He told the truth to the only honest person in
 the house. *(beat)* And the only honest person in the house was the bait. *(a long beat)* I
@@ -967,8 +960,8 @@ have to do a thing. You can just — be here. With your family.
 **A silence that is the bottom dropping out of the world, except it sounds exactly like a
 mother being kind.**
 
-NARRATOR *(present-day, and her voice is barely holding):* Do you see it? *(beat)* Do you see
-what I did. *(beat)* I stalled to save him. That's the only true thing I can say about myself
+NARRATOR *(present-day, and her voice is barely holding):* Do you see what I did. *(beat)* I
+stalled to save him. That's the only true thing I can say about myself
 in this whole story — that once, once in my life, my body said no to handing a person over,
 and I listened to it for a week. *(beat)* And because I stalled — *(beat)* — because the lure
 faltered, because the dud got unreliable, because I cost them time they thought they didn't
@@ -979,8 +972,7 @@ after, I learned it in the only way you ever learn anything in that house, which
 *(beat)* I tried to slow it down and I am the reason it came early. *(very quiet)* If I'd been
 the machine they made me — if I'd just done my job, closed the lure on schedule, handed him
 over cold like all the others — my sister would have been readier, and the thing that
-happened to her might not have. *(beat)* It was my love that rushed them. *(beat)* Hold onto
-that, because everyone always wants the part where love saves somebody. *(beat)* This is the
+happened to her might not have. *(beat)* It was my love that rushed them. *(beat)* This is the
 other story. This is the one where the first loving thing I ever did is the thing that brought
 the whole house down.
 
@@ -1353,9 +1345,9 @@ play)* I'm sorry, love. *(beat)* I'm sorry we couldn't fix you.
 **Silence. Above, Liss, flickering, in and out, in and out.**
 
 NARRATOR *(present-day):* *I'm sorry we couldn't fix you.*
-*(beat)* She meant it kindly. *(beat)* That's the thing I need you to hold, the thing the whole
-story is — she has never once, in my whole life, been unkind to me. She loved me. *(beat)* She
-just loved me the only way the thing inside her could: as a part of itself that wouldn't heal.
+*(beat)* She meant it kindly. *(beat)* She has never once, in my whole life, been unkind to me.
+She loved me. *(beat)* She just loved me the only way the thing inside her could: as a part of
+itself that wouldn't heal.
 *(beat)* And in that hallway, with my sister coming apart upstairs and Daniel fading out
 somewhere down a road none of us would ever drive again, my mother looked at me — *really*
 looked, for the first time in thirty years — *(beat)* — and what she saw, the thing she finally
@@ -1581,8 +1573,8 @@ nothing coming through. *(beat, plaintive, a being with no organ for what is bei
 can't I feel you, love. *(beat)* Everyone's gone so quiet.
 
 NARRATOR *(present-day):* I held my mother's hands and loved her with everything the disease in
-me could do — *(beat)* — and she couldn't feel a thing. *(beat)* Do you see it? *(beat)* My whole
-life, I stood outside the room and couldn't get in. *(beat)* And at the very end, I got as close
+me could do — *(beat)* — and she couldn't feel a thing. *(beat)* My whole life, I stood outside
+the room and couldn't get in. *(beat)* And at the very end, I got as close
 as a person can get, I reached all the way across with the one good thing I had — *(beat)* — and
 it was *her* turn to be on the wrong side of the glass. *(beat)* The merged can't be loved. That's
 the thing nobody tells you about the people who never feel alone. *(beat)* You can love them till
