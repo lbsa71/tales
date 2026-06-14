@@ -445,7 +445,7 @@ som inte tystnar, för den är inte i rummet, den är inne i ett huvud, och den 
 han ger bort sig själv.
 
 *Bra. Han är frikostig. Han ger mer än man ber om.* — och här kom det första stråket av
-ansträngning i den — *Kör fullt nu. Inget hållande igen — det här är inte repetitionen. Håll
+ansträngning i den — *Kör fullt nu. Håll inte igen — det här är inte repetitionen. Håll
 spärren. Det här är det hon inte fick öva nog. Håll. Håll —*
 
 Han trodde att hela hennes uppmärksamhet var hans. Det var den inte. Det var det de gör som
@@ -455,15 +455,15 @@ Jag borde veta. Jag hade gjort det mot män på kaféer i trettio år.
 Och så höll spärren inte.
 
 Jag kan inte ge dig det inifrån; ingen kan; jag ger dig det jag hörde, där nere, med handen på
-trappräcket. Min mor gav ifrån sig ett ljud jag aldrig hört henne ge. Jag trodde att någon
-skadat sig. Jag började uppför trappan. Och huset — du vet hur ett rum låter när alla i det
+trappräcket. Min mor gav ifrån sig ett ljud jag aldrig hört förut. Jag trodde att någon
+skadat sig. Jag sprang uppför trappan. Och huset — du vet hur ett rum låter när alla i det
 hejdar sig på en gång? När ett helt sällskap hör ett glas gå sönder? Hela huset gjorde det.
 Varje golvplanka. Som om själva byggnaden ryckte till.
 
 Jag visste inte vad som hänt. Jag vet nu. Det jag hörde, på tredje trappsteget, var ljudet av
 en familj som börjat dö.
 
-Det lät inte som att dö. Det lät som att vinet tystnade. Men någonstans där uppe hade något
+Det lät inte som att dö. Det lät som att allt tystnade. Men någonstans där uppe hade något
 kommit in som *vi:et* inte hade ord för och ingen dörr emot. En annan människa hade blivit
 *verklig* för henne. Och i min familj är den för vilken en annan blivit verklig inte längre en
 dotter. Hon är ett sår som hela kroppen känner.
