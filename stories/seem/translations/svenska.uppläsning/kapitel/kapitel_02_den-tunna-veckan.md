@@ -70,7 +70,7 @@ en växt vänder sig mot ett fönster. Och jag satt kvar i min egen familj som e
 hängt av sig och glömt. Och jag berättade för mig själv att jag bara inte var av det slaget
 som män blir kvar hos. Att det var synd om mig, lite. Att jag hade — fel sorts tur.
 
-Det är andra gången du hör mig säga det. *Hon möter alltid fel sorts man.* Hör den nu med det du
+Andra gången jag säger det, *Hon möter alltid fel sorts man.* lyssna nu med det du
 vet: varje man jag »förlorade«, varenda en som »inte blev något«, gick precis dit jag var
 skickad att ta honom. Jag förlorade aldrig en man. Jag *levererade* varenda en. Det min mor
 suckade över som min otur — det var jag som lyckades i mitt arbete.
