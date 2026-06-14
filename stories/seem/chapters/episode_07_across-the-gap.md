@@ -42,8 +42,8 @@ LISS *(peeling out, roomed, terrified, and *furious* with the terror of the newl
 and there's no — when I reach for home there's just *me,* it's *me* all the way down now, I'm
 the only one in here —
 
-CHORD *(the two voices smoothing, clamping, and failing):* — there is no *me.* Smooth it. The
-seam is not real. There has never been a seam —
+CHORD *(the two voices smoothing, clamping, and failing):* — there is no *me.* Smooth it. Let
+it go flat. There is nothing there to smooth —
 
 NARRATOR *(over it, present-day):* My mother was trying to save her the only way she had.
 *(beat)* And the way she had was the thing that was killing her. *(beat)* *Come home. Let go.
@@ -83,20 +83,11 @@ trying to make me come back.
 WREN *(SURFACE):* No. *(beat)* I'm trying to come and *sit with you.* In it. *(beat)* That's all
 anyone can ever really do. *(beat)* I didn't know that until tonight either.
 
-NARRATOR *(present-day, and this is the hinge of the whole work):* That's the moment. *(beat)*
-If you take one thing out of all of this, take that — because it took me thirty years and it
-nearly killed everyone I loved, and I'd like it not to have been for nothing. *(beat)* My sister
-had been *included* her whole life. Folded in, dissolved, carried, never for one second alone.
-*(beat)* And not once, in all of it, had anyone ever *seen* her. *(beat)* Because you cannot see
-what you will not let be separate from you. *(beat)* You can only ever see yourself in it.
-*(beat)* The most loving family that ever lived, and it had never once perceived a single one of
-its own. *(beat)* And the thing they threw out — the gap, the separateness, the lonely defective
-*me* they tried to melt out of me with love — *(beat)* — turned out to be the one and only
-instrument in that whole long bloodline that could do it. *(very quiet)* Love isn't the holding.
-*(beat)* I thought my whole life that love was the holding, because I'd been starved of it.
-*(beat)* It isn't. *(beat)* Love is the *seeing.* And you can only see across a gap. *(beat)* The
-ones who never feel alone never see anyone at all. *(beat)* They just feel themselves, in a
-larger and larger room, and call the feeling family.
+NARRATOR *(present-day, very quiet):* My sister had been *included* her whole life. Folded in,
+carried, never for one second alone. *(beat)* And not once had anyone ever *seen* her. *(beat)*
+The most loving family that ever lived. *(beat)* And the thing they threw out — the gap, the
+lonely defective *me* they'd tried to melt out of me with love — *(beat)* — turned out to be
+the one thing in that whole long line that could.
 
 ---
 
@@ -214,9 +205,8 @@ it.**
 
 NARRATOR *(close):* My mother said it like a weather report, when I was a girl. *There she goes
 again. She always meets the wrong kind of man.* *(beat)* And I believed her, because she was never
-wrong about anything. *(beat)* Let me tell you, now, at the end, everything that sentence means.
-*(beat)* It meant, first, the thing I thought it meant: that I was the sort of woman things don't
-work out for. The one men don't stay pointed at. *(beat)* It meant, second — and I worked this out
+wrong about anything. *(beat)* It meant, first, the thing I thought it meant: that I was the sort
+of woman things don't work out for. The one men don't stay pointed at. *(beat)* It meant, second — and I worked this out
 too late to stop a single thing — that they *never went wrong at all.* Every man I "lost," every
 one who "went nowhere," went exactly where I'd been sent to take him. *(beat)* My whole romantic
 life, every failure my mother clucked over — that was my *job,* succeeding. I never once lost a
@@ -288,42 +278,27 @@ Bereavement and consolation in one breath.**
 **A quiet room. Two women. Ordinary sounds — a kettle, maybe, far off; a child, very faint,
 somewhere in the house. No hum. No hole. Just the world.**
 
-LISS *(SURFACE — older now, separate, and loving Wren the way only a self can love another self —
-across the distance, on purpose, getting it slightly wrong):* You've gone all quiet again. *(beat)*
+LISS *(SURFACE — older now, separate; reaching across the distance, on purpose, getting it
+slightly wrong):* You've gone all quiet again. *(beat)*
 You do that. *(beat, gentle)* Come back. *(a small breath — she hears the old word, fixes it)* No —
 not *come back.* I always say it wrong. *(beat)* I mean — *(searching, reaching)* — stay where you
 are. I can see you from here. *(beat)* I just wanted you to know I can see you.
 
 **A silence. And then WREN — who has spent her whole life filing every warmth pointed at her under
 *mistake* or *they want something* — does the thing she has never once been able to do. She lets it
-land. She receives it.**
+land.**
 
-NARRATOR *(close, and for the first time, unguarded, the verdict-scanner finally switched off):*
-And I let her. *(beat)* That's it. That's the whole of what I learned, the only thing I have to
-give you, after all of it. *(beat)* Someone said *I can see you* — and for the first time in my
-life I didn't check it for a trap, didn't translate it into pity or a mistake or a thing somebody
-wanted. *(beat)* I just — let it be true. *(beat)* I let myself be seen. *(beat)* It's the hardest
-thing I have ever done. *(beat)* It's harder than the loving. *(beat)* Anyone can do the loving
-once they know they're allowed. *(beat)* It's the *being seen* that you have to learn last, if you
-were the one who grew up certain there was something in you that, if anyone ever really looked,
-they'd have to turn away from. *(a long beat)*
+NARRATOR *(close, unguarded):* And I let her. *(beat)* Someone said *I can see you* — and I didn't
+check it for a trap. Didn't turn it into pity, or a mistake, or a thing somebody wanted. *(beat)*
+I just — let it be true. *(very quiet)* I let myself be seen. *(beat)* It's the hardest thing I
+have ever done.
 
-NARRATOR *(softer):* So here's what I know, and then I'll let you go. *(beat)* If you were ever
-told that the ache in you — the too-much, the needing-people, the noticing — was the thing wrong
-with you — *(beat)* — it wasn't the defect. *(beat)* It was the organ. *(beat)* The ones who never
-felt the gap never had to learn the one thing you've known since you were small: that another
-person is real, and far away, and worth reaching for anyway. *(beat)* You were the one who could
-love all along. *(beat)* You. The one at the edge of the kitchen. *(beat)* The only one who ever
-noticed the receipt.
+**A long beat. Somewhere in the house, a child. A kettle, far off, coming up to the boil. And no
+hum under any of it. Two separate people, in a quiet room.**
 
-**A pause. The faint child, somewhere. The kettle. The world, with no hum under it.**
+WREN *(SURFACE — rough, unpractised; four words she has never once managed to say to anyone):*
+...I can see you too. *(beat)* From here.
 
-NARRATOR *(the last thing, quiet, almost a smile):* Go on. *(beat)* You know the one I mean. The
-person you've been not-quite-reaching, because the gap felt like proof you'd get it wrong. *(beat)*
-The gap isn't the proof you can't. *(beat)* The gap is the *only place it's ever happened.* *(beat)*
-Go and stand on the far side of it from someone, tonight, and let them be real, and be wrecked by
-it, and reach. *(beat)* Badly. *(beat)* And truly. *(beat)* That's the whole of it.
-
-**A breath. The room. And then —**
+**The room. The kettle. The world, going on. And then —**
 
 **Out.**

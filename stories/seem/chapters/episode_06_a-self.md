@@ -168,7 +168,7 @@ play)* I'm sorry, love. *(beat)* I'm sorry we couldn't fix you.
 
 **Silence. Above, Liss, flickering, in and out, in and out.**
 
-NARRATOR *(present-day, and it is a wound and a key at once):* *I'm sorry we couldn't fix you.*
+NARRATOR *(present-day):* *I'm sorry we couldn't fix you.*
 *(beat)* She meant it kindly. *(beat)* That's the thing I need you to hold, the thing the whole
 story is — she has never once, in my whole life, been unkind to me. She loved me. *(beat)* She
 just loved me the only way the thing inside her could: as a part of itself that wouldn't heal.

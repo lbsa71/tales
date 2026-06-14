@@ -41,8 +41,7 @@ LISS *(SURFACE — soft, leaning, the whole given face):* Then don't wake up. *(
 CHORD *(cold, layered, roomless; the envelopment beginning — one voice to hold him, the rest
 to work beneath):* The daughter holds his attention and his spoken self. *(beat)* The mother
 takes the rest — the breath, the blood, the wanting. He will feel one field, seamless, fated.
-He will call it *I couldn't help myself.* There is no seam because there is no seam in us.
-*(flat)* Bring him up. Gently. Let it be his idea.
+He will call it *I couldn't help myself.* *(flat)* Bring him up. Gently. Let it be his idea.
 
 DANIEL *(HIM — and the bloom is almost instant now, he is so far in):* ...stay. *(beat)* Yeah.
 God, yes. When does a feeling like this come round again — never, it comes round never — *(a
@@ -83,8 +82,7 @@ DANIEL *(HIM — through it, and the listener must hold both at once: his joy, a
 it):* ...she's shaking. *(tender, mistaking everything)* She's shaking, she's as gone as I am,
 nobody's ever — I'd do anything for her, I'd —
 
-NARRATOR *(present-day, and this is her imagining her way in, and it is unbearable, and it is
-love):* He thought her shaking was for him. *(beat)* I've made myself picture it. His whole
+NARRATOR *(present-day — imagining her way in):* He thought her shaking was for him. *(beat)* I've made myself picture it. His whole
 kind heart, reading the one true thing in that room — *something is happening that's bigger
 than her* — and getting it exactly, catastrophically wrong. *(beat)* He made love to a wall.
 A warm wall, a willing wall, a wall that said his name. *(beat)* And the wall was studying

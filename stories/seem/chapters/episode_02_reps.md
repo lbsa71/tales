@@ -182,7 +182,7 @@ You're not no use. When you're useful you're so —
 
 **She doesn't finish it. She doesn't have to.**
 
-NARRATOR *(present-day, and this is the wound the whole show turns on):* *You're not no use.*
+NARRATOR *(present-day, quiet):* *You're not no use.*
 *(beat)* You'd have to have grown up the way I grew up to know what that sentence does to a
 body. I felt it go all the way down. I'd have brought her a hundred men to hear the back
 half of it. *(beat)* The thing is — and I need you to hold both of these at once, because I

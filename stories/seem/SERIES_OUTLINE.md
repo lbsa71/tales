@@ -42,8 +42,10 @@ the absence of a CHORD cue to know it is the real one.
 - **Cold open (the contract):** drained-man hook (a turned-down voice) → Wren states the deal
   plain — *I was the bait; the men walk out alive but turned down; it only worked because nobody
   looked at me; Daniel was the last because he was the only one who looked back.* All four handrail
-  points by ~min 3, as residue not mechanism. Daniel's fate (living wound) named up front to make
-  warmth suspenseful and kill false hope.
+  points by ~min 3, as residue not mechanism. **Hook, not synopsis** (restraint pass): trimmed to the
+  essential five (men brought home → diminished → thought unlucky → was bait → Daniel last because he
+  looked back); Daniel's *specific* fate is left a question (shown via the drained-man, never
+  pre-narrated) so the listener forms curiosity rather than being handed the ending.
 - **Spine:** trap closing — contract → amputated post-funeral house (the gap seeded) → the lure
   demonstrated on a disposable man (teach the **seam** once, cleanly) + drained-man recurring-image
   flash → Daniel: the exception who keeps drifting to the wrong daughter.
@@ -98,5 +100,6 @@ the absence of a CHORD cue to know it is the real one.
 - **Detonations:** "I always meet the wrong kind of man" — all three levels (§6). "She would still go back" — dramatized: offered dissolution, Wren would say yes, gratefully, and chooses the gap anyway. Tragic, not triumphant.
 - **The honest cost:** Daniel carried out **unresolved** — hollowed, alive, unreachable; her grief for him = grief for her father, for herself, for the next dud. Do **not** tie his bow (§11).
 - **The frame closes:** the whole play was Wren, after everything, finally managing to *hear* him — reconstructing the interior no one granted him. Form and theme collapse into one (§8). The receipt button returns.
-- **The usable truth, never preached** (§11, §15): the ache was never the defect; it was the organ; you were the one who could love all along. Two damaged sisters loving each other badly and truly through templates their mother bent — and managing it anyway (§10).
+- **The usable truth, never preached** (§11, §15): the ache was never the defect; it was the organ; you were the one who could love all along. Two damaged sisters loving each other badly and truly through templates their mother bent — and managing it anyway (§10). **Carried by drama, not narration** (restraint pass): the post-gap "love is the seeing" thesis aria and the two closing listener-sermons (the "ache/organ" benediction and the "go and stand on the far side" instruction) are **cut**. The truth is now only *enacted* — never stated to the audience.
+- **The ending (restraint pass):** lands on *heard* drama, not benediction — Liss's "I can see you from here," Wren letting it be true ("I let myself be seen — the hardest thing I have ever done"), then Wren's four plain, unpractised words back: *"…I can see you too. From here."* — over a room with **no hum.** Then the world going on. Trust the listener; do not explain the moral.
 - **Serves:** §9, §10, §11, §15, §3. **Earns:** every rave — above all *Mercer* (lead) and *Static* (the second-listen tenderness; the call to a relative).
