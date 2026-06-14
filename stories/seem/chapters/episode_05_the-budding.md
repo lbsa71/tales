@@ -145,8 +145,10 @@ That was — *(beat)* — I don't even — I'll call you. Tomorrow. *(beat)* I h
 
 DANIEL *(HIM — and even his interior is quieter now, the room around it draining):* ...I
 should feel — *(beat)* — I had the best night of my — why do I feel like I left something
-here. *(beat)* Like I came in with more than I'm leaving with. *(beat)* Tired. God, I'm so —
-I'm so tired all of a sudden. *(beat)* It's nothing. It's just — it's late.
+here. *(beat)* Like I came in with more than I'm leaving with. *(beat)* That chill again.
+*(beat)* And the tiredness — not happy-tired, this time. *(beat)* Wrung right out. Like
+there's less of me than there was when I came in. *(beat)* It's nothing. It's just — it's
+late.
 
 NARRATOR *(present-day, very quiet):* He drove off into the dark with his colours turned down,
 saying *I'll call you tomorrow* in a voice that already had less of him in it. *(beat)* I stood

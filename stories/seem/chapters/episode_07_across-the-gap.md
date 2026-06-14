@@ -277,8 +277,7 @@ reach it. Who can get it wrong. *(beat)* The most dangerous, most ordinary, most
 to raise a child. *(beat)* The only kind of love that's actually love. *(very quiet)* God help us.
 We'll be terrible at it. *(beat)* We'll do it badly, the two of us, with the bent and broken tools
 our mother left us, reaching for that child across a gap we never asked to have. *(beat)* And we'll
-do it *truly.* *(beat)* And badly and truly, it turns out, is the whole of it. Badly and truly is all
-anyone has ever managed.
+do it *truly.*
 
 ---
 
@@ -309,16 +308,13 @@ once they know they're allowed. *(beat)* It's the *being seen* that you have to 
 were the one who grew up certain there was something in you that, if anyone ever really looked,
 they'd have to turn away from. *(a long beat)*
 
-NARRATOR *(softer):* So here's what I know, and then I'll let you go. *(beat)* If you were ever the
-one who couldn't merge — who never quite belonged, who felt the gap where everyone else seemed to
-feel the warmth, who was told, in a hundred small ways, that the ache in you, the too-much, the
-needing-people, the noticing — was what was wrong with you — *(beat)* — listen to me. *(beat)* That
-ache was never the defect. *(beat)* It was the organ. *(beat)* It was the gap that lets the light
-in and the love out. *(beat)* The ones who never felt it — the ones who never felt alone — they
-weren't whole. *(beat)* They just never had to learn the one thing you've known since you were
-small: that another person is real, and far away, and worth reaching for anyway. *(beat)* You were
-the one who could love all along. *(beat)* You. The cast-out one. The one at the edge of the
-kitchen. *(beat)* The only one who ever really noticed the receipt.
+NARRATOR *(softer):* So here's what I know, and then I'll let you go. *(beat)* If you were ever
+told that the ache in you — the too-much, the needing-people, the noticing — was the thing wrong
+with you — *(beat)* — it wasn't the defect. *(beat)* It was the organ. *(beat)* The ones who never
+felt the gap never had to learn the one thing you've known since you were small: that another
+person is real, and far away, and worth reaching for anyway. *(beat)* You were the one who could
+love all along. *(beat)* You. The one at the edge of the kitchen. *(beat)* The only one who ever
+noticed the receipt.
 
 **A pause. The faint child, somewhere. The kettle. The world, with no hum under it.**
 

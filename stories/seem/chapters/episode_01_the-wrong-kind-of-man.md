@@ -18,22 +18,22 @@ company.
 **Silence. Let that sit. Then NARRATOR — close, dry, certain. This is the contract; do not
 hurry it.**
 
-NARRATOR: That's a man I brought home to my mother. *(beat)* Years before. He was *loud*
-when I found him — loud and lonely and full of himself, opinions on everything, a band he'd
-seen, an ex-wife he wasn't over. He walked into my family one Sunday like a man coming in
-out of the rain. *(beat)* And he walked out again, after. They always walked out after.
-Alive. On their own two feet. *(beat)* Just — turned down. Like that. Like a radio in
-another room. All the words still in them. No song left underneath.
+NARRATOR: That's a man I brought home to my family. *(beat)* I brought a lot of men home,
+over the years. And afterwards — every one of them — they were never quite men again.
+*(beat)* That one was *loud* when I found him. Loud and lonely and full of himself, opinions
+on everything, a band he'd seen, an ex-wife he wasn't over. He walked into my family one
+Sunday like a man coming in out of the rain. *(beat)* And he walked out again, after. They
+all walked out after. Alive. On their own two feet. *(beat)* Just — turned down. Like a
+radio in another room. All the words still in them. No song left underneath.
 
 **A breath.**
 
-NARRATOR: For thirty years I brought lonely men home to my family. *(beat)* I thought it
-was the one thing wrong with me — that I couldn't keep one. That I always picked the kind
-who'd drift off toward somebody else the moment they got warm. *(a small dry sound)* *I
-always meet the wrong kind of man.* My mother used to say it like a weather report, and I
-believed her, because she was never wrong about anything. *(beat)* It took me thirty years
-and one funeral to understand. I wasn't unlucky. I wasn't picking them wrong. *(very
-quiet)* I was the bait.
+NARRATOR: I did it for thirty years, and thought it was the one thing wrong with me — that I
+couldn't keep one. That I always picked the kind who'd drift off toward somebody else the
+moment they got warm. *(a small dry sound)* *I always meet the wrong kind of man.* My mother
+used to say it like a weather report, and I believed her, because she was never wrong about
+anything. *(beat)* It took me thirty years and one funeral to understand. I wasn't unlucky.
+I wasn't picking them wrong. *(very quiet)* I was the bait.
 
 **The faintest hum begins under her — low, layered, many voices breathing as one, no words
 in them. And in the hum, a hole. A place a voice should sit, and doesn't.**
@@ -203,6 +203,12 @@ don't mind a sad story. We've heard worse.
 CHORD: The mother is right. We have heard worse. *(a flat ripple — the nearest this voice
 comes to amusement)* He answers to being needed. So. Need him.
 
+DANIEL *(HIM — a flicker, almost nothing, gone before he can hold it):* ...funny how they
+all — they answer like one person. The mother, the sister, like they've already had the
+conversation somewhere I can't hear it. *(and he waves it off, warming it into the thing he
+wants)* No. That's just close. That's what close looks like. *(quieter)* I've never had
+that. I'd give anything to be let inside something that close.
+
 LISS *(SURFACE):* Then stay. Sit with us a while. It's filthy out there, and you'd be doing
 us a kindness — it's been a hard week.
 
@@ -296,8 +302,14 @@ WREN *(SURFACE — and she misreads it, the way she always will):* I'm always st
 NARRATOR *(over, present-day, and it costs her):* He said a true thing to me, in the rain,
 and I made a joke, because a true thing said to me had to be a mistake. Someone had got the
 wrong girl. *(beat)* I have gone back to that sentence — *I keep wanting to check you're still
-there* — more nights than I'll admit. *(very quiet)* I'll never know if it was real. I
-couldn't hear the part of him that would've told me. *(beat)* I only ever got the room.
+there* — more nights than I'll admit. *(beat)* And here is the one thing I'd stake what's
+left of me on: nobody *gave* him that. *(beat)* The warmth my family aimed at my sister —
+every soft word of it — was *made.* I'd watched it being made a hundred times. *(beat)* But
+no one ever stood at a man's shoulder and told him to wonder where I'd gone. *(very quiet)*
+That he did on his own. It was the one feeling in that whole house that was nobody's idea but
+his. *(beat)* What I'll never know is whether it would have grown into the thing I've spent
+thirty years calling it. I couldn't hear the part of him that might have told me. *(beat)* I
+only ever got the room.
 
 ---
 

@@ -10,6 +10,10 @@ walk out alive but *turned down.* 3. Daniel is different because he truly *sees*
 4. The family depends on Wren *not* being seen. These are stated as **behaviour/residue, never
 mechanism** (§12) — front-loaded in Ep1's cold open, then kept legible every episode. Simplify
 the *route in*, not the ideas: the metaphysics (the *we*, the how, the budding) stays mysterious.
+Premise stated outright in the first ~minute: *I brought men home to my family; afterwards, they
+were never quite men again.* And the one un-engineered feeling (Daniel turning to Wren) is named
+*plainly* at least once (Ep1: "nobody *gave* him that") so a first-time listener needn't track
+the absence of a CHORD cue to know it is the real one.
 
 **Through-lines to keep alive in every episode:**
 - **The seam** (§8) — at least one plant→bloom with *varying* lag; never metronomic; at
@@ -18,6 +22,12 @@ the *route in*, not the ideas: the metaphysics (the *we*, the how, the budding) 
 - **The drained man** (the dread-object) — introduced Ep1 (cold open + recurring-image flash),
   dwelt on in full Ep2 (supermarket); *whoever you are* to a girl he used to know loud. Makes
   Daniel's warmth suspenseful, not just atmospheric.
+- **Daniel's unease — the route into fearing the family** (legibility): the family's cost shows
+  on *him* before he is deep — an unsourced chill (Ep2), happy-tiredness / being wrung out (Ep3),
+  losing the edges of time (Ep4) — each rationalised into gratitude, never suspicion, so his
+  romance-belief stays intact. Pays off in the diminishment (Ep5: "not happy-tired, this time")
+  and the phone call (Ep6: "he sounded like me"). The listener dreads *through* him, not only
+  through Wren's narration.
 - **They need her unseen** — the chord redirects every man off Wren onto the daughter; "no man
   we keep is to look at the sister twice." Daniel breaking this is the danger.
 - **Wren scans voices for the verdict** (§5) — she reads tone for warmth turning to disappointment.

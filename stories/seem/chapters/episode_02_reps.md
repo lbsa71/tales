@@ -38,6 +38,12 @@ the count is off and the channel notes it without feeling it):* Three. *(flat)* 
 is wrong. Proceed as if it is not. He must find a whole house. A house missing a voice asks
 to be looked at. We do not get looked at.
 
+DANIEL *(HIM — a flicker of cold he can't account for, then gone):* ...why have I got a
+chill on me. *(beat)* The heating's on, the place is warm, and there's a draught coming off
+it like a window's open somewhere I can't see. *(he shrugs it off, straight into gratitude)*
+Big old house. Doesn't matter. *(warmer)* I've not been this glad to be let in anywhere in
+years.
+
 NARRATOR *(over it):* I carried the flowers to the kitchen. That was a job I could do.
 
 ---

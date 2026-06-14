@@ -95,6 +95,11 @@ betrayal was already most of the way done. I'd done the worst of it being kind.
 
 ---
 
+DANIEL *(HIM — easy, half to himself, the warmth blurring the edges of things):* ...how long
+have I even been coming here. Weeks? Feels like no time. Feels like always. *(beat)* I can't
+find the edges of it — the days all run warm together, one long afternoon. *(and he lets them
+stay blurred)* Don't count it. Good things don't like being counted.
+
 **A turn. DANIEL, lighter, changing the subject — and he asks the innocent question that
 triggers the flat, late, never-staged revelation. This must be thrown away, not performed.**
 

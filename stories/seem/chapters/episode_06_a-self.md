@@ -91,11 +91,9 @@ same kindness that damns him):* She's just got a chill, Daniel. *(beat)* She'll 
 
 NARRATOR *(present-day):* He didn't call again after that. *(beat)* I used to wonder if he was
 angry. *(beat)* He wasn't angry. There wasn't enough of him left to be angry. *(beat)* He just
-— faded out of it, the way they all faded, off into a life with the colour turned down, and
-somewhere in that life there's a man who sometimes gets a feeling he can't place, standing in a
-kitchen, that he once had a night that mattered and left something behind in a house he can't
-remember the road to. *(beat)* And here is the thing I heard in his voice on that phone — the
-thing that finally, finally did it — *(beat)* — he sounded *like me.* *(beat)* That flat,
+— faded out of it, the way they all faded, off into a life with the colour turned down.
+*(beat)* And here is the thing I heard in his voice on that phone — the thing that finally,
+finally did it — *(beat)* — he sounded *like me.* *(beat)* That flat,
 tired, can't-quite-feel-the-good-thing, what's-the-matter-with-me — *(beat)* — that was my
 voice. That had always been my voice. *(very quiet)* I'd spent my life delivering men to be
 made into the thing I already was. *(beat)* And I'd called it the family business. And I'd been

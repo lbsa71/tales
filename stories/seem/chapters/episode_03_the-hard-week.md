@@ -33,6 +33,11 @@ warmest. Wine. Rain returning at the window. And underneath, for the first time,
 suppression as a live thing: the CHORD working Liss like a hand on a dial, and a flicker
 where it almost slips.**
 
+DANIEL *(HIM — settling into the warmth, and under it a thread he can't place):* ...God, I'm
+tired. *(beat)* I come up that path light as anything and drive home wrung right out. Sleep
+ten hours and wake like I've not slept at all. *(he smiles it off)* Happy-tired. That's a
+thing, though, isn't it. I'd forgotten what it is to have something worth being worn out for.
+
 LISS *(SURFACE — low, warm, the lamp turned full on him):* Stay tonight. *(beat)* I'm not
 being — I just don't want the day to be over. Is that mad.
 
