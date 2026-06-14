@@ -1,35 +1,34 @@
 # 3 · Daniel
 
-Nu blir jag rädd igen, så jag ska gå sakta. Det här är den delen jag övat mest och kan
-sämst.
+Nu blir jag rädd och osäker igen, så jag får ta det sakta. Det här är den delen som jag övat mest och kan minst.
 
-Han hette Daniel. Det får du ha — namnet. Jag vet inte om någon någonsin gett dig det.
+Han hette Daniel. Det får du av mig — namnet. Jag vet inte om någon någonsin gett dig det.
 Daniel.
 
 Det var ett regnigt kafé, sent, nästan tomt, en kaffemaskin som suckade och tystnade. Och
-jag gjorde det jag kunde. Jag satte mig och pratade. Det var alltid min del — resten, det som
-kom efter pratet, var aldrig min att göra. Och inom tjugo minuter berättade han de sanna
-sakerna för en främling i en död bar.
+jag gjorde det jag var bra på. Jag satte mig och pratade. Det var alltid min roll — resten, det som
+kom efter pratet, var aldrig mitt att göra. Och inom tjugo minuter berättade han de sanna
+sakerna för en främling i en tom lokal.
 
-Men nu ska jag säga vad jag minns av honom, och du ska höra att jag inte minns hans ansikte.
+Men nu borde jag säga vad jag minns av honom, och skäms att jag inte minns hans ansikte.
 Det förlåter jag mig aldrig — att jag kan ge dig allt det andra och inte hans ansikte. Det
 jag minns är hans händer. Han vek ett kvitto medan han pratade. Vek det och vek det, mindre
 och mindre, till en hård liten fyrkant, som om han försökte få det att försvinna innan han
 blev tvungen att be någon om något. Jag lade märke till det. Ingen hade bett mig lägga märke
-till det. Det var precis det som var fel på mig — att lägga märke till sådant. Att se det lilla
+till det. Det var precis det som var min grej — att lägga märke till sådant. Att se det lilla
 hos en människa som hon inte vet att hon visar.
 
-Håll det där kvittot. Jag ger tillbaka det till dig i slutet.
+Håll kvar det där kvittot i tanken. Jag ger tillbaka det till dig i slutet.
 
 Min syster — din mamma — kom in i värmen, så som hon skulle, med hela sitt ansikte vänt mot
-honom som en lampa. Hon hade en gåva jag avundades så att jag låg vaken om nätterna: hon
+honom som en lampa. Hon hade en gåva jag avundades så jag låg vaken om nätterna: hon
 kunde ge dig hela sitt ansikte. Och det tog mig halva livet att förstå vad som var fel med
 sättet hon gjorde det på, och när jag väl förstod kunde jag inte ha satt ord på det. Det var
 bara — du vet hur ett hotellrum är varmt? Värmen är på, det är ett fullt varmt rum, och ändå
 skulle du aldrig kalla det hemtrevligt, för ingen *bor* där. Hon var ett varmt rum som ingen
 bodde i. Och män klev in i henne som man kommer in ur regnet.
 
-Och han vände sig mot henne. Så som de alla vände sig. Och jag steg tillbaka, så som man
+Och han vände sig mot henne. Så som de alla vände sig. Och jag drog mig tillbaka, som man
 ska, och satt i min egen familj som en jacka någon hängt av sig.
 
 Men.
@@ -39,17 +38,17 @@ Han vände sig *tillbaka.*
 Det hade aldrig hänt förr. Mitt i en mening till henne tittade han bort, mot köksbänken där
 jag stod med mjölken ingen bett om, och —
 
-Jag måste vara noggrann här, för det är det enda jag äger av honom som var rent. Hör på hur
+Det här är viktigt, för det är det enda jag äger av honom som var rent. Hör hur
 jag säger det: ingen gav honom det. Värmen min familj riktade mot din mamma — varje mjukt ord
-av den — den var *gjord.* Jag hade sett den göras hundra gånger. Men ingen stod någonsin vid
+av den — den var *konstruerad.* Jag hade sett den göras hundra gånger. Men ingen stod någonsin vid
 en mans axel och sa åt honom att undra var jag tagit vägen. Det gjorde han av sig själv. Det
 var den enda känslan i hela det huset som var ingens påhitt utom hans.
 
 Senare, ute i regnet — vi gick, bara vi två en stund — sa han en sak till mig. Han sa: »Det
 är konstigt. Det var du som pratade med mig. Och sen liksom — försvann du. Och jag — « och han
-skrattade åt sig själv, »jag vill hela tiden kolla att du är kvar.«
+skrattade åt sig själv, »jag ville hela tiden kolla att du var kvar.«
 
-Och jag gjorde ett skämt. Jag sa något om att jag var möbeln, att det vande man sig vid. För
+Och jag gjorde det till ett skämt. Jag sa något om att jag var möbeln, att det vande man sig vid. För
 en sann sak sagd till mig måste vara ett misstag. Någon hade tagit fel flicka. Det var så jag
 var byggd — jag tog varje värme som riktades mot mig och vände den, fortare än jag hann tänka,
 till antingen *de vill något* eller *de har tagit fel.* Värme mot mig var ett fel. Och något i
