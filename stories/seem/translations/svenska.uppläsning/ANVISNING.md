@@ -289,7 +289,9 @@ litterärt.**
 
 8. **Trimma småorden.** Skär bort det redundanta där substantivet redan bär: *slippa vägen
    dit* (ej *slippa gå vägen dit*); predikativt *jag var ett bete* (ej *jag var betet*);
-   undvik klumpig dubblering: *en bra åt oss* (ej *en bra en åt oss*).
+   undvik klumpig dubblering: *en bra åt oss* (ej *en bra en åt oss*); och trimma anaforer —
+   namnge tanken en gång och låt resten kaskada (*Tanken gick: … …* ej upprepat *Den gick: …
+   Den gick: …*).
 
 9. **Idiomatisk svenska — rätt kollokation.** Undvik pleonastiskt *ner* (*sittande*, ej
    *sittande ner*); *uppfostrad att* (ej *uppvuxen i att*); *kylan
@@ -313,7 +315,9 @@ litterärt.**
     betona givandet (*det får du av mig*); och fler ur kap 4: *önskar jag kunde säga*
     (ruelse), *lade i fel låda* (ej *slängde*), *viftade bort* (ej *lade ner*), *undviker
     att öppna* (ej *hela tiden inte öppnar*), *hände* (ej *kom*) om en händelse, *innan*
-    (ej *förr*), *lydig* (ej *dresserad*), och i den muntliga ramen *få höra* (ej *få veta*).
+    (ej *förr*), *lydig* (ej *dresserad*), och i den muntliga ramen *få höra* (ej *få veta*);
+    samt ur kap 6: *samma sak* (ej *samma mening* när »mening« blir tvetydigt), *behöver att
+    du förstår* (ej *håller*), *fick mig att falla ihop* (ej det vaga *gjorde det*).
 
 12. **Lokalisering — återgrunda det som hänger på språket.** Fakta och ordlek som bara
     stämmer på engelska måste göras om på svenska: *»Jag«* är **tre bokstäver**, inte »en
