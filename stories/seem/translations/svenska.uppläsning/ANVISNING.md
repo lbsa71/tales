@@ -242,7 +242,11 @@ litterärt.**
    varma vardagsminnet (*Han var din pappa*; *din pappa var lycklig*; *Min mamma förvarade
    tändstickorna*). Det gäller alla led — *din far/pappa*, *din mor/mamma*, *min mor/mamma*.
    (Barnets *mormor* är redan intimt och behålls; andra personers repliker har sitt eget
-   register, t.ex. modern som säger *din gamla mor*.)
+   register, t.ex. modern som säger *din gamla mor*.) **Läs scenens temperatur, inte bara
+   meningens:** systern (barnets mor) bär *din mamma* genom den varma berättelsen —
+   uppvaktningen, introduktionen, den ömma skulden — och *din mor* bara i de kliniskt kalla
+   partierna (sjukdomskapitlet; det mytiskt-högtidliga). Fadern, den förlorade, lutar
+   tvärtom mot *din far* utom vid de direkta sorgetopparna.
 
 2. **Barnet är närvarande — säg *här*, inte *där*.** Allt sker vid bordet, nu. Använd *här*
    om barnets och scenens närvaro (*du sitter här*; *här vid ett köksbord*). *Där*
@@ -264,7 +268,9 @@ litterärt.**
 
 4. **Allt i barnets tjänst — kärlek, inte självfokus.** Formulera framåtlutat och för
    barnet, inte om hennes eget uthärdande: *jag vill inte att du ska behöva räkna ut det
-   själv* (ej *jag tänker inte sitta still och se dig räkna…*).
+   själv* (ej *jag tänker inte sitta still och se dig räkna…*). Ersätt regi-tilltal som
+   berättar vad lyssnaren ska uppfatta (*du ska höra att jag inte minns hans ansikte*) med
+   hennes egen känsla (*skäms att jag inte minns hans ansikte*).
 
 5. **Tala tydligt — namnge syftningen.** Föredra explicit syftning framför naken pronomen
    där det kan bli oklart, och undvik konstruerade kvantifieringar: *den saken är inte
@@ -283,12 +289,19 @@ litterärt.**
    dit* (ej *slippa gå vägen dit*); predikativt *jag var ett bete* (ej *jag var betet*);
    undvik klumpig dubblering: *en bra åt oss* (ej *en bra en åt oss*).
 
-9. **Idiomatisk svenska — rätt kollokation och preposition.** *vända sig till* en person /
-   *vända sig mot* en riktning; *uppfostrad att* (ej *uppvuxen i att*); *kylan berodde på
-   att det var fel på mig* (ej det kalkerade *var något det var fel på mig*); *sväva* (genom
-   luft) ej *flyta* (på vatten); *åt vilket håll* man vrider.
+9. **Idiomatisk svenska — rätt kollokation.** *uppfostrad att* (ej *uppvuxen i att*); *kylan
+   berodde på att det var fel på mig* (ej det kalkerade *var något det var fel på mig*);
+   *sväva* (genom luft) ej *flyta* (på vatten); *åt vilket håll* man vrider. (Prepositioner
+   som *vända sig mot* / *till* avgörs på gehör per ställe — ingen blankettregel.)
 
 10. **Låt ordvalet tjäna såret och de återkommande bilderna.** Välj den formulering som
     fördjupar och binder ihop motiven framför den flackare bokstavliga: räkne-motivet —
     *om jag var värd att räknas* (ej *den hon kunde skicka*); lyssnandet — *hela vägen ner,
     hela vägen in* (knyter till mellanrummet, till att *se in i* en människa).
+
+11. **Precision och ägande i ordvalet — hon äger sin skicklighet och sin skuld.** Välj det
+    exakta, ärliga, ägande ordet: *det jag var bra på* (ej *det jag kunde*); *min roll* /
+    *min uppgift* (ej *min del*); värmen var *konstruerad* (ej *gjord*); *gjorde det till
+    ett skämt* (ej *gjorde ett skämt*); *kan minst* (ej *kan sämst*); konkreta, samtida,
+    vardagliga ord (*en tom lokal* ej *en död bar*; *min grej*; *håll kvar det i tanken*);
+    och betona givandet (*det får du av mig*).

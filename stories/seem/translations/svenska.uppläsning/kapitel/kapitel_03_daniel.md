@@ -21,7 +21,7 @@ hos en människa som hon inte vet att hon visar.
 Håll kvar det där kvittot i tanken. Jag ger tillbaka det till dig i slutet.
 
 Min syster — din mamma — kom in i värmen, så som hon skulle, med hela sitt ansikte vänt mot
-honnom som en lampa. Hon hade en gåva jag avundades så jag låg vaken om nätterna: hon
+honom som en lampa. Hon hade en gåva jag avundades så jag låg vaken om nätterna: hon
 kunde ge dig hela sitt ansikte. Och det tog mig halva livet att förstå vad som var fel med
 sättet hon gjorde det på, och när jag väl förstod kunde jag inte ha satt ord på det. Det var
 bara — du vet hur ett hotellrum är varmt? Värmen är på, det är ett fullt varmt rum, och ändå
