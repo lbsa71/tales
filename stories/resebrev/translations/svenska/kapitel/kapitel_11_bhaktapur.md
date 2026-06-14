@@ -23,11 +23,11 @@ Det visar sig att han heter Robert, är invandrad amerikan, har bott tretton år
 
 Jag förklarar mitt predikament, att jag inte vet något om Nepal, men vill vidare, han säger; "Tja, du skulle kunna åka till Bhaktapur. Det är en underbar plats, ren och stillsam."
 
-Så, Bhaktapur it is. Jag återvänder till hotellet, packar mina saker, checkar ut.
+Så, Bhaktapur får det bli. Jag återvänder till hotellet, packar mina saker, checkar ut.
 
 På bussen läser jag dagstidningen "The Himalayan" jag norpat med mig från caféet; kan bara nicka instämmande när jag i en artikel om frivilligorganisationen Human Rights and Peace Society läser ordföranden stolt deklamera: "Vi tror att HURPES kan göra skillnad!"
 
-Bhaktapur är fantastiskt. En riktigt gammal liten stad späckad med tempel, gårdar av olika storlekar och trånga gränder. Jag knakar min ryggsäck längs huvudgatan, det är så vackert, cd-affärerna spelar ’om mani padme om’-spåret man hör överallt i Nepal på rimlig volym och för en gångs skull kan inte ens försäljarna av billigt krimskrams dra ner intrycket. Lovely!
+Bhaktapur är fantastiskt. En riktigt gammal liten stad späckad med tempel, gårdar av olika storlekar och trånga gränder. Jag knakar min ryggsäck längs huvudgatan, det är så vackert, cd-affärerna spelar ’om mani padme om’-spåret man hör överallt i Nepal på rimlig volym och för en gångs skull kan inte ens försäljarna av billigt krimskrams dra ner intrycket. Härligt!
 
 Jag tar in på gästhuset Robert rekommenderade, det är grymt lågt i tak i hela huset, så jag får gå halvböjd hela tiden. Jag förhandlar ner priset till 250 rupees om dagen mot att jag betalar en vecka i förväg. Det är samtidigt en intern säkerhetsåtgärd mot att jag ska få för mig att sticka innan jag fått vila ut ordentligt.
 
@@ -39,7 +39,7 @@ En snorig smutsig pojke, kanske 4-5 år gammal, skriker till när han ser mig oc
 
 Jag sätter mig tittar ut genom ett fönster utan glas med gröna fönsterluckor.
 
-Pojken sätter sig mittemot. Jag ignorerar honom så gott det går, inte på humör för sånt idag. Jag beställer chow mein och plain lassi till frukost och servitören undrar om jag vill beställa något åt pojken.
+Pojken sätter sig mittemot. Jag ignorerar honom så gott det går, inte på humör för sånt idag. Jag beställer chow mein och en vanlig lassi till frukost och servitören undrar om jag vill beställa något åt pojken.
 
 "Tja, borde jag det?" frågar jag. Servitören ser osäker ut.
 
@@ -47,7 +47,7 @@ Pojken sätter sig mittemot. Jag ignorerar honom så gott det går, inte på hum
 
 Servitören noterar ner min beställning, försvinner. Efter ett tag kommer han tillbaka med min lassi och kör bort pojken.
 
-Det är höstkallt, rök står ur mun och näsa. Utanför sorlar torget, handlarna lägger ut sina varor på filtar längs torgkanterna, som de antagligen gjort i tusentals år. Till vänster ’five storey temple’ vars långa trappa på båda sidor flankeras av statyer av i tur och ordning, apor, getter, lejon, elefanter och till sist två människofigurer; en alternativ evolutionsteori.
+Det är höstkallt, rök står ur mun och näsa. Utanför sorlar torget, handlarna lägger ut sina varor på filtar längs torgkanterna, som de antagligen gjort i tusentals år. Till vänster ’femvåningstemplet’ vars långa trappa på båda sidor flankeras av statyer av i tur och ordning, apor, getter, lejon, elefanter och till sist två människofigurer; en alternativ evolutionsteori.
 
 Ett dimdammigt morgondis ligger som ett mjukt täcke över torget, solens första strålar bildar horisontella Jakobsstegar kring hörn och tak.
 
@@ -83,7 +83,7 @@ Det är sött att se en annan äldre kille cirkla runt henne. Han är uppenbart 
 
 När bussen kommer är jag bland de första på, men eftersom jag är så förvirrad hinner jag inte ta någon sittplats. Bussen är grymt låg i tak, så jag får stå nästan helt framåtböjd. Jag börjar förtvivla när flickan säger något till pojken och han ger motvilligt upp sin sittplats åt mig.
 
-Bussresan kostade 20 rupier, vilket jag misstänker var ’tourist price’, inte ’nepali price’. Nåja, två kronor, det kan jag leva med.
+Bussresan kostade 20 rupier, vilket jag misstänker var ’turistpris’, inte ’nepalipris’. Nåja, två kronor, det kan jag leva med.
 
 När vi kommer till Narangkot förbereder jag mig för att återvända, när hon frågar om jag vill följa med och hälsa på i hennes skola. Jag tackar glatt ja. Som tur är, för annars hade jag missat hela poängen med Narangkot. Man måste nämligen gå genom hela samhället och ut på andra sidan för att få se vyn: Himalayakedjan på avstånd.
 
@@ -129,7 +129,7 @@ Följt av en kommentar om ditt land, "Jag har en vän i Sverige!", "Kallt land, 
 
 Kanske vart femte människa du stöter på kör drillen. Och det är ganska många på en dag.
 
-Min kurva börjar bli bra brant nu. Buffelkurvan, alltså. Jag har börjat med ’go away’ som Svar Direkt. Bara ignorera funkar inte.
+Min kurva börjar bli bra brant nu. Buffelkurvan, alltså. Jag har börjat med ’försvinn’ som Svar Direkt. Bara ignorera funkar inte.
 
 Försäljare, civilklädda eller i full uniform, är som affischer på väggen; kasta en blick på dem och du får ta del av deras budskap.
 
@@ -143,4 +143,4 @@ Perfekt.
 
 Förresten har jag bestämt mig för att i viss mån dumpa sydost-asien-ambitionerna till förmån för att göra Indien ordentligt. Jag menar, Thailand, Malaysia, Vietnam, Laos, Kambodja kan man göra vilken semester som helst men Indien kräver exceptionellt med tid.
 
-Love, Stefan
+Kram, Stefan

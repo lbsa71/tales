@@ -46,7 +46,7 @@ Hon skrattar kort, avbryter,
 
 "Ja, tja, jag har en timme att slå ihjäl - jag väntar på att en skjorta ska bli broderad i en butik på andra sidan gatan."
 
-"Oh. An hour to kill," syrligt leende.
+"Åh. En timme att slå ihjäl," syrligt leende.
 
 "Ja. Trevligt att träffas. Har du varit i Pokara länge?"
 
@@ -114,17 +114,17 @@ Han förklarar,
 
 "Och lyckades du?"
 
-"No. I failed. I chickened out. I met a woman eight months after the divorce, and we had a passionate love affair. It was all-consuming, you know, with her I felt I could actually succeed. And I bailed. Now I’m kind of glad I did.
+"Nej. Jag misslyckades. Jag fegade ur. Jag träffade en kvinna åtta månader efter skilsmässan, och vi hade en passionerad kärleksaffär. Den var fullständigt uppslukande, du vet, med henne kände jag att jag faktiskt skulle kunna lyckas. Och jag drog mig ur. Nu är jag faktiskt glad att jag gjorde det.
 
-So, the only thing I know for sure about myself," upprepar han, "is that I strive. I think of life as a series of challenges. I’ve had a life full of security, and my current challenge is to be able to live without it. Or, rather, I’ve realized just a few days ago, to regain it.
+Så, det enda jag vet med säkerhet om mig själv," upprepar han, "är att jag strävar. Jag tänker på livet som en rad utmaningar. Jag har haft ett liv fyllt av trygghet, och min nuvarande utmaning är att kunna leva utan den. Eller, snarare, det insåg jag för bara några dagar sedan, att vinna tillbaka den.
 
-I’ve done that my whole life, tried to become more, become something else. So that I will finally be loved. I think my whole life I’ve strived to find something worth striving for. I feel devoid, empty."
+Det har jag gjort hela mitt liv, försökt bli mer, bli något annat. För att jag till slut ska bli älskad. Jag tror att jag hela mitt liv har strävat efter att hitta något värt att sträva efter. Jag känner mig urgröpt, tom."
 
 "Men det är något," säger hon och rör vid hans hand. Han rör inte en min.
 
 "Nej. Jag tycker att strävan utan mål är ganska meningslös. Det handlar om viljan att vara ett verktyg."
 
-"Exactly!" utropar hon och rör vid hans hand igen. Hon kunde lika väl sagt det med ord; ‘jag vill att du rör vid mig’.
+"Precis!" utropar hon och rör vid hans hand igen. Hon kunde lika väl sagt det med ord; ‘jag vill att du rör vid mig’.
 
 "Jag har alltid tänkt på det så," fortsätter hon, ett finger ligger kvar på hans hand, "du vet, jag är en healer, det är då jag känner salighet, när jag hjälper människor, helar dem."
 
@@ -168,12 +168,12 @@ Han tar MC:n ut på en slumpmässig väg, mot bergen, den blir snabbt en jeep-st
 
 Det gör honom gott. När han kommer tillbaka till hotellet är klumpen glömd, och receptionisten ger honom en lapp med ett menande leende; "Ett meddelande till dig, sir."
 
-"12:45 pm
+"12:45
 
 Stefan,
-Hello! Sorry to miss you this am. I slept horribly last night & needed to sleep in. Thank you for the book! I am obviously still here + will leave tomorrow for Annapurna Sanctuary. Love to meet tonight if you desire – I will be at my hotel between 6-7 pm & wait for you + will go for dinner on the "main drag" if I miss you.
+Hej! Tråkigt att jag missade dig i morse. Jag sov fruktansvärt i natt och behövde sova ut. Tack för boken! Jag är som synes kvar än, åker imorgon till Annapurna Sanctuary. Träffas gärna i kväll om du vill – jag är på mitt hotell mellan klockan sex och sju och väntar på dig, går annars ut och äter på huvudgatan om jag missar dig.
 
-Love
+Kram
 Aili"
 
 "Om du önskar," underligt ordval tänker han, duschar, sover en timme, byter kläder. Står en stund stilla mitt i rummet, stirrar tomt framför sig, väger för och emot, tar sedan en kondom ur necessären och stoppar i fickan.
@@ -242,11 +242,11 @@ Han tar ner fingret.
 
 Han håller fingret still, säger
 
-"Now, lean backwards."
+"Luta dig bakåt nu."
 
 Hon lutar sig tillräckligt mycket bakåt för att fingret inte längre ska nudda henne.
 
-"Lean forward."
+"Luta dig framåt."
 
 Hon lutar sig mot hans finger.
 
@@ -288,7 +288,7 @@ De kommer till en vägkrok, hon stannar upp, han vänder sig mot henne.
 
 "Det här är så långt jag vill gå."
 
-"Okay," svarar han och drar henne intill sig.
+"Okej," svarar han och drar henne intill sig.
 
 "Jag slits mellan att vilja ge mig ut på min vandring och att stanna här, tillbringa tid med dig."
 
@@ -298,13 +298,13 @@ Han kramar henne, innesluter henne, lägger sitt huvud på hennes. De står så 
 
 "Mmm," spinner hon, "du är mysig!"
 
-"Yeah."
+"Mm."
 
 Han ler. Det är dags att gå. De håller hand, fingrarna vill inte riktigt lösa sig från varandra trots att de går varsitt steg bort. Det är ganska patetiskt.
 
 De kramas igen, en sista gång, lösgör sig. Återigen vill inte fingrarna samarbeta, men tillslut ger de sig.
 
-"See ya."
+"Vi ses."
 
 "Ja, god natt!"
 
@@ -326,7 +326,7 @@ Han hinner inte läsa en halv sida förrän hon kommer till hans bord, säger
 
 "God morgon," svarar han, och efter att hon satt sig ner ler han och fortsätter,
 
-"Du vet, jag är lite besviken på att du kom ner - jag fantiserade om att knacka på din dörr och ropa Room service; en varm och mysig Stefan enligt beställning."
+"Du vet, jag är lite besviken på att du kom ner - jag fantiserade om att knacka på din dörr och ropa rumsservice; en varm och mysig Stefan enligt beställning."
 
 "Jag ville inte prata med dig i morse. Jag såg dig, och tänkte, borde jag vända och gå tillbaka till mitt rum?"
 
@@ -356,7 +356,7 @@ Han sätter händerna ut från tinningarna,
 
 "Vad kallar man de där sakerna man sätter på hästar?"
 
-"Blinders?"
+"Skygglappar?"
 
 "Ja, skygglappar. När jag är i ett seriöst förhållande sätter jag på skygglapparna, jag ser inte ens andra kvinnor. Jag är väldigt monogam."
 

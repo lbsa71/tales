@@ -36,10 +36,10 @@ När jag kommer tillbaka inspekterar han ringen, börjar såga i den. Jag tittar
 "Ja."
 "Skulle du kunna göra ett mönster på den blanka delen av ringen?"
 "Inte så här. Den här är maskingjord. Ingen människa kan göra det."
-"But another pattern like it?"
+"Men ett annat mönster i samma stil?"
 "Ja. Men inte jag. Jag är ingen hantverkare. Jag kan ta dig till hantverkare imorgon."
 "Ja tack. När?"
-"Eight o’clock tomorrow morning."
+"Klockan åtta i morgon bitti."
 "Ok."
 
 Så, åtta morgonen efter promenerade vi ut ur gamla staden till ett kyffe i ett gammalt hus, det fanns inte ens dörrar mellan lägenheterna, bara draperier.
@@ -79,7 +79,7 @@ Han nickar.
 "Men du vet, när du får ditt barn kommer du att älska det mer på grund av det här."
 Han missförstår, svarar,
 "Jag älskade min fru i två år innan vi gifte oss."
-"Oh," hakar jag på, "so it’s a love marriage?"
+"Jaha," hakar jag på, "så det är ett kärleksäktenskap?"
 "Ja. Det är mycket ovanligt. Alla mina systrar och bröder har arrangerade äktenskap. Det var hemligt. Alla sa, varför gifter du dig inte, varför hittar du inte en flicka. De visste inte."
 "Så, vad sa dina föräldrar när du kom hem och sa, jag vill gifta mig med den här flickan?"
 "För dem var det okej. Hon var av samma kast. Jag är bajracharya."
@@ -93,7 +93,7 @@ Han missförstår, svarar,
 
 Han ler lite.
 
-"But my father-in-law doesn’t like me."
+"Men min svärfar gillar mig inte."
 
 Jag flinar hundflinet, erkänner
 
@@ -111,12 +111,12 @@ Vi återvänder till gamla staden. Vi pratar hela vägen tillbaka, om livet i Ne
 
 "Hur mycket för de här?"
 Han tittar på dem, tittar på mig, säger
-"For two? 300 rupees."
+"För två? 300 rupier."
 Jag höjer ögonbrynen. Det är misstänkt billigt.
 "300 rupier? Det är turistpris?"
 "Nej. Nepalesiskt pris. Jag vill inte lura dig."
 "Så, vad är turistpris?"
-"300 rupees each."
+"300 rupier styck."
 "Så. Jag köper de här för 600 rupier. Och jag ger dig 50 rupier extra för att du visade mig till hantverkaren."
 
 Han tittar på mig, konstaterar snabbt,
@@ -161,7 +161,7 @@ Till slut stormar jag ut ur gästhuset iväg till cybercaféet runt hörnet, log
 
 "Jag önskar du kunde gå naken i Nepal," avslutar hon.
 
-Fan ta henne tänker jag och flyr, flyr upp för trapporna till ’five storey temple’, sitter där, tittar ut över det vidsträckta människohavet och gråter hjälplöst.
+Fan ta henne tänker jag och flyr, flyr upp för trapporna till ’femvåningstemplet’, sitter där, tittar ut över det vidsträckta människohavet och gråter hjälplöst.
 
 Jag gråter för att jag har blivit så instängd, att jag inte längre vågar lita på någon, på att det finns en plan, en mening. Jag gråter för att jag varit så oförskämd mot Gautam, gjort honom illa. Återblickar som vita blixtar;
 
@@ -176,7 +176,7 @@ Hans näst högsta dröm är att äga en motorcykel. Han älskar motorcyklar.
 "Har du en motorcykel?" frågar han.
 "Nej. Eller, ja. Men det är ingen riktig motorcykel, det är bara en 250 kubik."
 "Här har vi bara 100 eller 150 kubik."
-"Wow. Jag tycker att en 750 är en riktig motorcykel."
+"Oj. Jag tycker att en 750 är en riktig motorcykel."
 
 Finfint. Now add insult to injury:
 
@@ -190,7 +190,7 @@ Hans min och tystnad talade om skam över både sig själv och sitt folk.
 
 Och hur jag bara smet iväg, flydde, inte ville vara med, delta, längre.
 
-Så där satt jag längst uppe på den långa trappan till ’five storey temple’.
+Så där satt jag längst uppe på den långa trappan till ’femvåningstemplet’.
 
 Jag är så ledsen, Gautam, så fruktansvärt ledsen.
 
@@ -206,7 +206,7 @@ Och får svar.
 
 Över mig kommer ett lugn; jag vet vad jag ska göra.
 
-Jag ska gå till Gautams shop nästa morgon, låtsas som ingenting, be om ursäkt för att jag lämnade honom så abrupt, slå mig ner och se vad som händer.
+Jag ska gå till Gautams affär nästa morgon, låtsas som ingenting, be om ursäkt för att jag lämnade honom så abrupt, slå mig ner och se vad som händer.
 
 Sedan ska jag ta mig fan låta honom visa mig sitt Bhaktapur, ta hand om mig, ge mig mat bättre än restaurangmat, hänga med mig, berätta om hur det är att vara fattig silversmed i Nepal och sedan vackert betala honom för att han ägnat timmar av sitt liv för att göra detta om det är det han vill. Och jag ska ta mig fan lita på att han när han sätter priset sätter det hederligt, för jag ska ta mig fan lita på min känsla att han är en hederlig man. Och om det så handlar om 1000 rupier per dag, så är det fortfarande inte mer än 200 kronor - en sketen t-shirt på H&M.
 
@@ -214,7 +214,7 @@ Fylld av tacksamhet rör jag vid templet, sedan vid pannan, som jag sett Nepales
 
 Så; i morse slog jag mig ner hos Gautam i hans affär, bad om ursäkt, åt lunch i hans hem, lika god den här gången, lät honom ta mig till Assarpur, en lika lång och underbar trek som den kring Telankoth.
 
-På vägen frågar jag honom om hans ’business’. Den är låg, han har problem, har fått pantsätta sin frus smycken och skäms för det. Han är inte affärsskolad på något sätt så jag ger honom en crash course; längs vindlande fotstigar och i branta uppförsbackar förklarar jag för honom varför en ’budget’ är ett kraftfullt verktyg, varför han bör föra bok över vilken sorts smycken han säljer mest av samt en diskussion kring materialkostnad, timpris, marginal och profit. Jag toppar av med att beskriva exakt hur mycket pengar turister har att svänga sig med, eftersom han tveksamt invänt att han inte vill ta ut omoraliskt hög profit.
+På vägen frågar jag honom om hans ’rörelse’. Den är låg, han har problem, har fått pantsätta sin frus smycken och skäms för det. Han är inte affärsskolad på något sätt så jag ger honom en snabbkurs; längs vindlande fotstigar och i branta uppförsbackar förklarar jag för honom varför en ’budget’ är ett kraftfullt verktyg, varför han bör föra bok över vilken sorts smycken han säljer mest av samt en diskussion kring materialkostnad, timpris, marginal och vinst. Jag toppar av med att beskriva exakt hur mycket pengar turister har att svänga sig med, eftersom han tveksamt invänt att han inte vill ta ut omoraliskt hög vinst.
 
 My god, I’ve created a monster.
 
@@ -265,10 +265,10 @@ avslutar,
 
 "Kanske läser vi om det i tidningen imorgon."
 
-Gudinnan som svarade på min bön där på trappen upp till five storey temple heter Shidde Laxmi. Enligt Gautam står hon för välstånd genom rätt handling. Det låter rimligt.
+Gudinnan som svarade på min bön där på trappan upp till femvåningstemplet heter Shidde Laxmi. Enligt Gautam står hon för välstånd genom rätt handling. Det låter rimligt.
 
-Han ville förresten inte ha några pengar. Han hade snarare gått back på mig, eftersom han envisades med att betala för allt under våra vandringar. Vid ett tillfälle tog han mig till en skyltlös shop där de sålde chayng, ett mellanting mellan vin och öl gjort på ris. Ägaren satt avdomnad i ett fönstersmyg, pratade släpigt och kort med låg röst och hängande underläpp. Hans fru serverade. Gautam konstaterade att mannen var som hans far: han sålde en och drack en. Sedan skällde han på honom för hans uppsvällda diabetesfot och berättade att byns doktor bara blåste på foten när mannen behövde riktig medicin.
+Han ville förresten inte ha några pengar. Han hade snarare gått back på mig, eftersom han envisades med att betala för allt under våra vandringar. Vid ett tillfälle tog han mig till en skyltlös butik där de sålde chayng, ett mellanting mellan vin och öl gjort på ris. Ägaren satt avdomnad i ett fönstersmyg, pratade släpigt och kort med låg röst och hängande underläpp. Hans fru serverade. Gautam konstaterade att mannen var som hans far: han sålde en och drack en. Sedan skällde han på honom för hans uppsvällda diabetesfot och berättade att byns doktor bara blåste på foten när mannen behövde riktig medicin.
 
 Så varför göra så mycket väsen av en fattig silversmed när jag inte skrivit något om de hemlösa tiggarna i New Delhi? Det handlar om att kunna relatera. Gautam berörde mig för att jag kunde sätta mig in i hans situation. Han var av fattig medelklass, hade en affär, ett hem, en gravid hustru med komplikationer jag kände igen. Det var inte en hopplös situation, bara svår.
 
-När jag till slut sa adjö lämnade jag 600 rupier på hans disk och gick till five storey temple för att tacka Shidde Laxmi för att hon sänt mig mod att lita på honom.
+När jag till slut sa adjö lämnade jag 600 rupier på hans disk och gick till femvåningstemplet för att tacka Shidde Laxmi för att hon sänt mig mod att lita på honom.
