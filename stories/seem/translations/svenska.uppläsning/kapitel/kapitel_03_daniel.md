@@ -39,12 +39,11 @@ Det hade aldrig hänt förr. Mitt i en mening till henne tittade han bort, mot k
 jag stod med mjölken ingen bett om, och —
 
 Det här är viktigt, för det är det enda jag äger av honom som var rent. Hör hur
-jag säger det: ingen gav honom det. Värmen min familj riktade mot din mamma — varje mjukt ord
-av den — den var *konstruerad.* Jag hade sett den göras hundra gånger. Men ingen stod någonsin vid
+jag säger det: ingen gav honom det. Värmen min familj riktade mot din pappa — varje mjukt ord — den var *konstruerad.* Jag hade sett den göras hundra gånger. Men ingen stod någonsin vid
 en mans axel och sa åt honom att undra var jag tagit vägen. Det gjorde han av sig själv. Det
 var den enda känslan i hela det huset som var ingens påhitt utom hans.
 
-Senare, ute i regnet — vi gick, bara vi två en stund — sa han en sak till mig. Han sa: »Det
+Senare, i regnet där vi gick, bara vi två en stund, sa han en sak till mig. Han sa: »Det
 är konstigt. Det var du som pratade med mig. Och sen liksom — försvann du. Och jag — « och han
 skrattade åt sig själv, »jag ville hela tiden kolla att du var kvar.«
 
