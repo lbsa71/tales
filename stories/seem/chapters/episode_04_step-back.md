@@ -81,10 +81,9 @@ DANIEL *(SURFACE — and he lets her have the joke, but):* It's the best thing I
 anyone in years. *(beat)* You'll see, one day. Or you won't, and that'll be the saddest thing
 about you.
 
-NARRATOR *(present-day, level, and it nearly takes her under):* He trusted me. *(beat)* That's
-what I have to make you understand, because it's the engine of the whole thing, it's the
-sin I can't ever set down. The reason the lure worked — the reason it always worked, the
-reason I was good at it — was that I was the realest thing in that family. The one who
+NARRATOR *(present-day, level, and it nearly takes her under):* He trusted me. *(beat)* The
+reason the lure worked — the reason it always worked, the reason I was good at it — was that I
+was the realest thing in that family. The one who
 actually listened. The one who actually saw you. *(beat)* So he did the sanest thing a person
 could do. He trusted the realest one. *(beat)* He told the truth to the only honest person in
 the house. *(beat)* And the only honest person in the house was the bait. *(a long beat)* I
@@ -164,8 +163,8 @@ have to do a thing. You can just — be here. With your family.
 **A silence that is the bottom dropping out of the world, except it sounds exactly like a
 mother being kind.**
 
-NARRATOR *(present-day, and her voice is barely holding):* Do you see it? *(beat)* Do you see
-what I did. *(beat)* I stalled to save him. That's the only true thing I can say about myself
+NARRATOR *(present-day, and her voice is barely holding):* Do you see what I did. *(beat)* I
+stalled to save him. That's the only true thing I can say about myself
 in this whole story — that once, once in my life, my body said no to handing a person over,
 and I listened to it for a week. *(beat)* And because I stalled — *(beat)* — because the lure
 faltered, because the dud got unreliable, because I cost them time they thought they didn't
@@ -176,8 +175,7 @@ after, I learned it in the only way you ever learn anything in that house, which
 *(beat)* I tried to slow it down and I am the reason it came early. *(very quiet)* If I'd been
 the machine they made me — if I'd just done my job, closed the lure on schedule, handed him
 over cold like all the others — my sister would have been readier, and the thing that
-happened to her might not have. *(beat)* It was my love that rushed them. *(beat)* Hold onto
-that, because everyone always wants the part where love saves somebody. *(beat)* This is the
+happened to her might not have. *(beat)* It was my love that rushed them. *(beat)* This is the
 other story. This is the one where the first loving thing I ever did is the thing that brought
 the whole house down.
 

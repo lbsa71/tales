@@ -144,10 +144,8 @@ MAN *(SURFACE):* Anyway. *(beat)* You take care. *(beat)* Whoever you are.
 
 **His footsteps go. The automatic doors. WREN, not moving.**
 
-NARRATOR: I stood there a long time. *(beat)* And I want you to watch what I did next,
-because it's the whole of me, it's the thing I did my entire life until it killed the people
-I loved. *(beat)* I thought: *poor man. Life does that to people.* And I picked up my
-shopping. *(beat)* There was a question, right there, with its hand up. I could feel it. The
+NARRATOR: I stood there a long time. *(beat)* And I want you to watch what I did next. *(beat)*
+I thought: *poor man. Life does that to people.* And I picked up my shopping. *(beat)* There was a question, right there, with its hand up. I could feel it. The
 question was: *every man you have ever brought to that house — where are they now? What do
 they sound like now?* *(beat)* And something in me reached out, very gently, the way you'd
 settle a child, and put the question back to sleep. *(beat)* I called that being good. I'd
@@ -185,8 +183,8 @@ You're not no use. When you're useful you're so —
 NARRATOR *(present-day, quiet):* *You're not no use.*
 *(beat)* You'd have to have grown up the way I grew up to know what that sentence does to a
 body. I felt it go all the way down. I'd have brought her a hundred men to hear the back
-half of it. *(beat)* The thing is — and I need you to hold both of these at once, because I
-can't seem to put them down — the thing is, she *meant* it. That's not a monster talking.
+half of it. *(beat)* The thing is — and I can't seem to put either of them down — she *meant*
+it. That's not a monster talking.
 That's my mother, who loved me, telling me I'd been good. *(beat)* It was the kindest she'd
 been to me in a year. *(beat)* And I floated up those stairs on it like a girl who'd been
 told she was pretty.

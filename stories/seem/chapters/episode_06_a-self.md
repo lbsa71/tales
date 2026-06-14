@@ -169,9 +169,9 @@ play)* I'm sorry, love. *(beat)* I'm sorry we couldn't fix you.
 **Silence. Above, Liss, flickering, in and out, in and out.**
 
 NARRATOR *(present-day):* *I'm sorry we couldn't fix you.*
-*(beat)* She meant it kindly. *(beat)* That's the thing I need you to hold, the thing the whole
-story is — she has never once, in my whole life, been unkind to me. She loved me. *(beat)* She
-just loved me the only way the thing inside her could: as a part of itself that wouldn't heal.
+*(beat)* She meant it kindly. *(beat)* She has never once, in my whole life, been unkind to me.
+She loved me. *(beat)* She just loved me the only way the thing inside her could: as a part of
+itself that wouldn't heal.
 *(beat)* And in that hallway, with my sister coming apart upstairs and Daniel fading out
 somewhere down a road none of us would ever drive again, my mother looked at me — *really*
 looked, for the first time in thirty years — *(beat)* — and what she saw, the thing she finally

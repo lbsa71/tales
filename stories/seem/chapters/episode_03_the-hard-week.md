@@ -101,19 +101,15 @@ DANIEL *(SURFACE — light, but he means it):* Most men who come here are here f
 **Silence. The tap, off. Rain.**
 
 NARRATOR *(present-day, and it costs her everything to say it level):* There it is again.
-*(beat)* And here's what I did with it, because I want you to see the machine I was, the
-machine they made me — I heard *I keep ending up in the kitchen with you,* and I translated
-it, instantly, the way you translate a language you think in, into: *he feels sorry for me.*
-*(beat)* That's not modesty. I want to be clear it isn't modesty, it isn't even sadness,
-really. It's a — a fact-checker. There's a thing in me, they put it there, that takes any
-warmth pointed my way and runs it through a filter that only ever returns one of two
-answers: *they want something,* or *they've made a mistake.* *(beat)* Warmth toward me is an
-error. The system corrects it. *(beat)* So a man stood in my kitchen and told me the truest
-thing anyone had said to me in years, and I filed it under *mistake,* and dried my hands, and
-went to wake my sister so he could go and be with the person he'd come for. *(beat)* I built
-the morning around getting myself out of that kitchen. *(very quiet)* I have wondered, since,
-what he heard in that. Whether he learned, that morning, that there was no point. I taught
-men there was no point in me. I was so good at it I taught the only one who meant it.
+*(beat)* And I heard *I keep ending up in the kitchen with you* — and turned it, before it
+could land, into *he feels sorry for me.* *(beat)* It wasn't modesty. *(beat)* I don't know
+how to — it was faster than modesty. Any warmth pointed my way, something in me caught it and
+set it down again as a mistake, or a thing somebody wanted. Every time. *(beat)* So a man
+stood in my kitchen and told me the truest thing anyone had said to me in years, and I filed
+it under *mistake,* and dried my hands, and went to wake my sister so he could go and be with
+the person he'd come for. *(very quiet)* I've wondered, since, what he heard in that. Whether
+he learned, that morning, that there was no point. *(beat)* I taught men there was no point in
+me. I was so good at it I taught the only one who meant it.
 
 ---
 

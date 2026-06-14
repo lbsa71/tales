@@ -186,8 +186,8 @@ nothing coming through. *(beat, plaintive, a being with no organ for what is bei
 can't I feel you, love. *(beat)* Everyone's gone so quiet.
 
 NARRATOR *(present-day):* I held my mother's hands and loved her with everything the disease in
-me could do — *(beat)* — and she couldn't feel a thing. *(beat)* Do you see it? *(beat)* My whole
-life, I stood outside the room and couldn't get in. *(beat)* And at the very end, I got as close
+me could do — *(beat)* — and she couldn't feel a thing. *(beat)* My whole life, I stood outside
+the room and couldn't get in. *(beat)* And at the very end, I got as close
 as a person can get, I reached all the way across with the one good thing I had — *(beat)* — and
 it was *her* turn to be on the wrong side of the glass. *(beat)* The merged can't be loved. That's
 the thing nobody tells you about the people who never feel alone. *(beat)* You can love them till
