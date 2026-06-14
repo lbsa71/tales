@@ -116,8 +116,8 @@ MAN *(SURFACE, lower, opening):* Can I tell you something I haven't — I don't 
 NARRATOR: And then I'd bring him home. And then —
 
 **The café noise drops away abruptly, replaced by that cold, layered, roomless CHORD — and
-the hole in it. This is the first time the listener hears the channel. Make it feel like a
-door opening onto a room with no air in it.**
+the hole in it. The channel, for the first time. Make it feel like a door opening onto a room
+with no air in it.**
 
 CHORD *(cold, layered, close, no room around it; one voice short):* Adequate. *(beat)* Not
 for the budding. For the table. Bring him to the daughter. The daughter will take it from
@@ -178,7 +178,7 @@ The moment I'd warmed a man up, he'd swing toward whoever I'd brought him to, an
 myself I just wasn't the kind men stay pointed at. *(beat)* I had the cause backwards. But
 that took me thirty years and one funeral to work out.
 
-**A small thing — and the listener should clock that no CHORD line precedes it.**
+**A small thing. No CHORD before this — let the silence before Daniel's thought be clean.**
 
 DANIEL *(HIM — interior, warm, slightly wondering):* ...God. The sister. How did I not — she
 was right there when we came in. How did I not *see* her?
@@ -217,8 +217,8 @@ NARRATOR: He said yes to the rain, really. To not being alone in it. *(beat)* An
 be clear: I knew exactly what was happening. I'd done it a hundred times. I just couldn't,
 for the life of me, work out why this time it felt like watching someone walk into traffic.
 
-CHORD: The daughter has him. *(beat)* Step back. *(and now — the one instruction the listener
-already understands has teeth)* Step back.
+CHORD: The daughter has him. *(beat)* Step back. *(colder now — the same words as before, but
+with teeth in them)* Step back.
 
 **A pause. A chair, very slightly, moves back from the table. LISS and DANIEL's voices
 continue underneath now — warm, indistinct, a private weather forming without our narrator
@@ -272,7 +272,7 @@ NARRATOR: I'm guessing at the words. But I'd bet my life on them. *(a breath)* I
 
 **Outside now. The café door, a bell. Rain on the street. DANIEL and WREN, walking, the
 acoustic open and wet. Liss and Vala gone ahead or behind — for a moment it is just the two
-of them, and this is the only stream the listener can fully trust.**
+of them, with no channel underneath — the one exchange that is only what it sounds like.**
 
 DANIEL *(SURFACE, warmer, looser, the wine in it):* Can I say a weird thing. *(beat)* Your
 sister's — your whole family's lovely, they really are, they've been so —
@@ -318,8 +318,7 @@ Daniel, you're staying for tea, I won't hear otherwise —
 DANIEL *(SURFACE, swept, happy):* I — okay, yeah, okay —
 
 CHORD: Good. He comes willingly. *(beat)* But mark it: he turned to the sister, twice. He
-*looks* at her. *(flat — and for the first time, something the listener should hear as a
-threat)* That cannot be. The daughter will hold him closer. The sister will be kept further
+*looks* at her. *(flat — and for the first time, with a threat in it)* That cannot be. The daughter will hold him closer. The sister will be kept further
 back. No man we keep is ever to look at the sister twice.
 
 **A beat. Then, into the gap where the third voice is not —**
@@ -428,7 +427,7 @@ for the milk nobody had asked for, so I'd have a reason to stand.
 
 ---
 
-**A small thing now — and the listener must catch that no CHORD line precedes it. DANIEL,
+**A small thing now. No CHORD before this — keep it clean of the channel. DANIEL,
 mid-sentence to Liss, glances off — toward where Wren is standing with the milk.**
 
 DANIEL *(SURFACE — to the room, to Wren really):* Sorry — Wren, is it? You've barely — come
@@ -631,8 +630,8 @@ that was going to take her. And I lay there and envied it.
 ---
 
 **Morning. Kitchen. The ordinary clatter. And now a true small scene between WREN and
-DANIEL — and the listener must hear: nothing is planted. The CHORD is silent through this.
-This is the seam-free thread, the one real thing.**
+DANIEL — nothing is planted here. The CHORD is silent throughout: the seam-free thread, the
+one real thing.**
 
 DANIEL *(SURFACE — easy, drying a cup he wasn't asked to dry):* She's still asleep. Your
 mum's — I don't actually know where your mum goes. She's like weather. She's just suddenly
@@ -645,7 +644,7 @@ anything in this house. You seem like a guest who's been here longest.
 
 **A beat. Water running. WREN doesn't answer that.**
 
-DANIEL *(HIM — quiet, true, un-planted, and the listener can hear it is the real one):*
+DANIEL *(HIM — quiet, true, un-planted; the real one):*
 ...don't push it. She'll bolt. *(beat)* She's lovely, the sister. She's the loveliest one
 and she doesn't know it and somebody's seen to it that she'll never find out. *(beat)* It
 makes me — I don't know what it makes me. Sad. Sad in a way that wants to do something about
@@ -674,7 +673,7 @@ me. I was so good at it I taught the only one who meant it.
 
 **Later. WREN low — you can hear it in her, the supermarket man still on her, the grief, the
 tiredness. VALA finds her. And this is the feeding: rendered as the tenderest thing in the
-episode, an embrace, and the listener must hear Wren's voice go *greyer* coming out of it.**
+episode, an embrace — and Wren's voice comes out of it *greyer,* a notch of colour gone.**
 
 VALA *(SURFACE — warm, real, a mother):* Oh, look at you. *(beat)* Come here. Come here to
 me. You've gone all — you get like this, you always have, since you were tiny. Come here.
@@ -690,8 +689,8 @@ Gently. She mistakes it for love and is soothed by it; this is convenient; it is
 always been kept calm. *(a beat)* Never finish her. She is not prey. *(flat)* She is the
 pantry we do not empty.
 
-VALA *(SURFACE — still holding her, and this is real, this is the curdle, the warmth that was
-true before the we ate it):* You were such a serious little thing. *(beat)* Before you —
+VALA *(SURFACE — still holding her, and this is real — the warmth that was true before the we
+ate it):* You were such a serious little thing. *(beat)* Before you —
 *(she stops; something in her reaches for a memory and the we closes over it)* — you used
 to hold my finger so hard. Both hands. Like you'd fall off the world. *(beat)* I used to —
 
@@ -704,7 +703,7 @@ face. We've a man to think about.
 
 **The embrace ends. WREN's voice, when it comes, is greyer. The colour a notch down.**
 
-NARRATOR *(and the timbre is flatter than before — the listener should feel it):* I always
+NARRATOR *(and the timbre is flatter than before):* I always
 felt worse after she held me. *(beat)* I never told anyone that, because what kind of person
 feels worse after their mother holds them? *(beat)* I decided it was me. Obviously I decided
 it was me. I decided I was the kind of broken that can't even take comfort right — that takes
@@ -770,9 +769,8 @@ that I couldn't see it. That every time I got close, seeing it felt like sinning
 
 ---
 
-**The stairs. WREN climbing. And VALA's voice, from a doorway below, stopping her — and this
-is the dread-button: the order to close the lure, and Wren's first, wordless inability to say
-yes to it.**
+**The stairs. WREN climbing. And VALA's voice, from a doorway below, stopping her — the order
+to close the lure, and Wren's first, wordless inability to say yes to it.**
 
 VALA *(SURFACE — mild, loving, ordinary as asking her to fetch milk):* Wren, love. Before you
 go up. *(beat)* The man. *(beat)* It's time you brought him all the way in. Properly. This
@@ -848,8 +846,8 @@ it. I did not know why, the way you don't know why you keep not opening a letter
 
 **A scene with DANIEL — the deepest yet, and the cruelest, because it is real and she is
 stalling his delivery even as it happens. A pub, maybe, or a walk; the two of them; LISS not
-here. The CHORD silent throughout — this thread is un-worked, and the listener must feel
-the betrayal forming under the realness.**
+here. The CHORD silent throughout — this thread is un-worked; let the betrayal form under
+the realness, unspoken.**
 
 DANIEL *(SURFACE — easier with her than with anyone, which is the horror):* Can I tell you a
 thing I haven't told her. *(beat)* Liss. *(beat)* Don't — it's not bad, it's just —
@@ -934,8 +932,8 @@ was inside it. Until it was him.
 ---
 
 **Back to the house. The held-breath quiet, harder now. VALA has run out of patience — the
-grief in her gone quick and hot, the hunger up. This is the override, and it must read as
-love rushing, not malice deciding. The dread-button.**
+grief in her gone quick and hot, the hunger up. It must read as love rushing, not malice
+deciding.**
 
 **Footsteps — VALA's, certain, finding Wren. The CHORD beneath, decided.**
 
@@ -960,8 +958,7 @@ have to do a thing. You can just — be here. With your family.
 **A silence that is the bottom dropping out of the world, except it sounds exactly like a
 mother being kind.**
 
-NARRATOR *(present-day, and her voice is barely holding):* Do you see what I did. *(beat)* I
-stalled to save him. That's the only true thing I can say about myself
+NARRATOR *(present-day, and her voice is barely holding):* I stalled to save him. That's the only true thing I can say about myself
 in this whole story — that once, once in my life, my body said no to handing a person over,
 and I listened to it for a week. *(beat)* And because I stalled — *(beat)* — because the lure
 faltered, because the dud got unreliable, because I cost them time they thought they didn't
@@ -1046,7 +1043,7 @@ part of the transaction he was let in on was the part where he was happy.
 
 ---
 
-**The stairs. Two sets of feet, unhurried. A door. And then — this is the discipline — we do
+**The stairs. Two sets of feet, unhurried. A door. And then: we do
 not follow them in. The door closes. We stay on the landing, and what we hear is the contrast
 that is the entire horror: through the wood, the muffled warmth of the surface — and in our
 ear, close and roomless and cold, the channel, which does not stop, which is not in the room
@@ -1064,8 +1061,7 @@ the rehearsal; she must run it to the top to conceive. *(a beat, and the first e
 strain)* Full load. *(beat)* Hold the latch. *(beat)* This is the part she did not get to
 practise enough. Hold it. Hold the —
 
-DANIEL *(HIM — through it, and the listener must hold both at once: his joy, and the cold over
-it):* ...she's shaking. *(tender, mistaking everything)* She's shaking, she's as gone as I am,
+DANIEL *(HIM — through it: his joy, and under it the cold, both in the mix at once):* ...she's shaking. *(tender, mistaking everything)* She's shaking, she's as gone as I am,
 nobody's ever — I'd do anything for her, I'd —
 
 NARRATOR *(present-day — imagining her way in):* He thought her shaking was for him. *(beat)* I've made myself picture it. His whole
@@ -1330,8 +1326,8 @@ love)* — give it *back,* give yourself back, come *home* —
 **And then — VALA stops. Because she has turned, in the hall, and seen WREN. And something in
 her, in extremity, perceives — for the first time in thirty years — that the dud has edges
 too. That there is, and has always been, an *I* standing in her hallway. The disease, in the
-one she'd kept and called family and never once seen. This is the dread-button: recognition
-arriving the wrong way round.**
+one she'd kept and called family and never once seen. Recognition, arriving the wrong way
+round.**
 
 VALA *(SURFACE — quiet now, a terrible quiet, looking at Wren as if at a stranger who has been
 in her house for thirty years):* ...you. *(beat)* You've got one too. *(beat)* Haven't you.
@@ -1531,7 +1527,7 @@ VALA *(SURFACE — lost, a child in a grandmother's voice, holding her arms out 
 daughter she has left):* Wren. *(beat)* Wren, love, come here. *(beat)* Come here to me. *(beat)*
 Don't leave me in here on my own, I've never — I don't know how to — *come here.*
 
-**A silence. Hold it. This is the hardest second in the play.**
+**A silence. Hold it longer than feels safe.**
 
 NARRATOR *(present-day, barely):* I want to lie to you about what I felt. *(beat)* I want to tell
 you I felt nothing, or pity, or the clean cold of a person who's finally free. *(beat)* I felt my
