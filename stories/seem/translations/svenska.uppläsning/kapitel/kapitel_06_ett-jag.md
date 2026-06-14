@@ -3,7 +3,7 @@
 Din mor blev sjuk. Så såg det ut, från där jag stod — utifrån, där jag stod. Hon slutade
 komma ner. Hon slutade äta. Hon kunde vara sig själv, alldeles vanlig, och så gjorde
 ansiktet en sak — blev stilla, och skrämt, som hos någon som just känt en knöl som inte fanns
-där förra veckan. Min mor sa att det var en förkylning. Sa att det var nerver inför bröllopet —
+där igår. Min mor sa att det var en förkylning. Sa att det var nerver inför bröllopet —
 hon hade börjat kalla det ett bröllop, fast ingen sagt ett ord till din far, och din far hade
 slutat ringa. Och jag trodde henne. Jag bar upp soppa till en dörr som inte gick att öppna och
 intalade mig att det var en förkylning, medan din mor på andra sidan föddes, i plåga, mot sin
@@ -18,7 +18,7 @@ människorna på andra sidan att komma och riva den, och de kunde inte, för vä
 det var det första 'hon' som någonsin funnits.
 
 Hon var det ensammaste som någonsin levt i det huset. Och jag hade avundats henne. Jag hade
-legat i mörkret och avundats just det som nu åt henne levande — det jag fötts redan innanför,
+legat i mörkret och avundats just det som nu åt henne levande — det jag fötts med innanför,
 och kallat min defekt, och bett om ursäkt för, varje dag, i trettio år.
 
 Och mitt i allt det ringde telefonen. Det var din pappa. Och lyssna noga nu, för det är
@@ -77,14 +77,14 @@ i mig — och de ägnade hela mitt liv åt att vända det bästa jag hade till d
 Det finns ingen befrielse i det. Domen var riktig. Jag var verkligen den som inte kunde smälta
 in. Det är bara det att den sak jag inte kunde — det är den sak som gör att jag kan älska. Och
 det fick jag veta samma vecka som jag räknade ut att jag använt den hela mitt liv till att mata
-människor till något som inte kan fånga själv.
+människor till något som inte kan fånga dom själv.
 
 Min mor höll på att gå sönder. Inte i vrede. I något värre: en mor som känner en del av sin
 egen kropp dö, och som inte har begreppet »dotter som en egen, skild människa« att begripa
 sorgen med, och därför upplever den som sin egen död, som börjar.
 
 Och så vände hon sig, i hallen, och såg mig. Och något i henne, i det yttersta, uppfattade —
-för första gången på trettio år — att den odugliga också hade kanter. Att det stod, och alltid hade
+för första gången på trettio år — att den odugliga också hade konturer. Att det stod, och alltid hade
 stått, ett *jag* i hennes hall. Hon såg på mig som på en främling som bott i hennes hus i
 trettio år, och hon sa, alldeles stilla:
 
