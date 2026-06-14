@@ -96,7 +96,7 @@ Det var jag, ser du. Systern. Det var jag han såg på. Och i mitt hus var det a
 enda sak jag aldrig, aldrig fick vara.
 
 Det är där jag stannar i kväll med honom. En man som sa ja en gång till — ja till teet, ja
-till värmen, ja till alltihop — och jag ett steg bakom, avundsjuk, oduglig, *läggande märke.*
+till värmen, ja till alltihop — och jag ett steg bakom, avundsjuk, oduglig, *uppmärksam.*
 De hade redan bestämt vad han var till för. Jag hade inte ordet för det än. Allt jag visste
 var att han hade sett på mig, en gång, i regnet, som om jag var en människa.
 

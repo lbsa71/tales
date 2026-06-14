@@ -24,8 +24,8 @@ väckte min syster så att han kunde få vara med den han kommit för.
 Jag lärde män att det inte var någon idé med mig. Jag var så bra på det att jag lärde det till
 och med den enda som menade allvar.
 
-Min mor frågade: »Kommer han på lördag, då?« Och jag — för snabbt, för slätt, hela
-lockerskans skicklighet vänd till något nytt — jag sa: »Jag skulle inte pressa lördag. Han har
+Min mor frågade: »Kommer han på lördag, då?« Och jag — för snabbt, för slätt, med hela den skicklighet jag haft i att locka nu vänd åt
+ett nytt håll — jag sa: »Jag skulle inte pressa lördag. Han har
 en sak, brodern är nere, och du vet hur han är, han skyggar, pressar man honom blir han tyst en
 vecka. Låt honom komma till det själv. Bättre att han tror att det var hans idé.«
 
@@ -59,9 +59,9 @@ jag någonsin fick.
 
 Jag säger det för en enda saks skull, och sen är vi färdiga med det. Den mannen jag tog hem,
 och bröderna som föddes och sen inte fanns — min familj gjorde precis samma sak med dem båda.
-Med dem den använde och med dem den bar. Samma — samma *snygga ordning.* Den ömmaste familj du
+Med dem den använde och med dem den bar. Samma — samma *prydlighet.* Den ömmaste familj du
 nånsin mött, och den lade undan sina egna söner som man fimpar en cigarett, och skördade
-främlingar på samma sätt, och kände aldrig skillnaden, för för den *fanns* det ingen skillnad.
+främlingar på samma sätt, och kände aldrig skillnaden, för det *fanns* ingen skillnad för den.
 Det fanns *vi:et,* och det fanns allt som inte var det, och allt som inte var det var antingen
 till nytta eller också städades det undan.
 
@@ -69,7 +69,7 @@ Jag vet inte varför jag fick vara kvar. Jag har tänkt att det var för att de 
 avgöra det om mig snabbt nog. Att jag lever på ett tekniskt fel. Det är inte självömkan. Det
 är bara den plats jag talar ifrån.
 
-Och eftersom jag stannade upp — eftersom lockbetet sviktade, eftersom duden blev opålitlig,
+Och eftersom jag stannade upp — eftersom lockbetet sviktade, eftersom den odugliga blev opålitlig,
 eftersom jag kostade dem tid de trodde att de inte hade —
 
 slutade de vänta.
