@@ -294,8 +294,11 @@ litterärt.**
 9. **Idiomatisk svenska — rätt kollokation.** Undvik pleonastiskt *ner* (*sittande*, ej
    *sittande ner*); *uppfostrad att* (ej *uppvuxen i att*); *kylan
    berodde på att det var fel på mig* (ej det kalkerade *var något det var fel på mig*);
-   *sväva* (genom luft) ej *flyta* (på vatten); *åt vilket håll* man vrider. (Prepositioner
-   som *vända sig mot* / *till* avgörs på gehör per ställe — ingen blankettregel.)
+   *sväva* (genom luft) ej *flyta* (på vatten); *åt vilket håll* man vrider; *ta det sakta*
+   (ej *gå sakta*); *släppa* en känsla eller börda (ej *lägga ner*); *fly genom* (ej *fly
+   över*); *ovanför* (ej *över* om läge); *huvud* (ej *skalle*, utom som medveten dödsbild).
+   (Prepositioner som *vända sig mot* / *till* avgörs på gehör per ställe — ingen
+   blankettregel.)
 
 10. **Låt ordvalet tjäna såret och de återkommande bilderna.** Välj den formulering som
     fördjupar och binder ihop motiven framför den flackare bokstavliga: räkne-motivet —
@@ -311,3 +314,14 @@ litterärt.**
     (ruelse), *lade i fel låda* (ej *slängde*), *viftade bort* (ej *lade ner*), *undviker
     att öppna* (ej *hela tiden inte öppnar*), *hände* (ej *kom*) om en händelse, *innan*
     (ej *förr*), *lydig* (ej *dresserad*), och i den muntliga ramen *få höra* (ej *få veta*).
+
+12. **Lokalisering — återgrunda det som hänger på språket.** Fakta och ordlek som bara
+    stämmer på engelska måste göras om på svenska: *»Jag«* är **tre bokstäver**, inte »en
+    bokstav« (engelskans *I*); och *själv* bär på svenska både *jaget* och *ensamheten* —
+    därför *behövde den aldrig ordet själv* (ej *ensam*) vid systerns första *jag*. Läs
+    varje sifferuppgift, bokstavslek och idiom mot svenskan, inte mot källan.
+
+13. **Allt i hennes enda röst — inga regi- eller strukturord i den talade texten.** Det
+    talade är *hennes*, aldrig en pjäs- eller maskinetikett: *den här delen* (ej *segmentet*);
+    och regi-imperativ absorberas i hennes egen avsikt — *[jag ska] … bygga en tystnad …
+    låta det dröja* (ej det utropade *Bygg en tystnad. Låt det dröja.*).

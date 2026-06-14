@@ -189,7 +189,7 @@ Hon avslutade den aldrig. Hon behövde inte.
 Du måste ha vuxit upp som jag växte upp för att veta vad den meningen gör med en kropp. Jag
 kände den gå hela vägen ner. Jag skulle ha tagit hem hundra män till för att få höra den
 bakre halvan. Och det är det svåraste jag har att säga om henne, så jag säger det långsamt,
-för jag kan inte lägga ner någon av halvorna: hon *menade* det. Det var ingen som ljög. Det
+för jag kan inte släppa någon av halvorna: hon *menade* det. Det var ingen som ljög. Det
 var min mor, som älskade mig, som sa att jag varit duktig. Det var det snällaste hon varit mot
 mig på ett år. Och jag svävade uppför trappan på det, som en flicka som fått höra att hon är
 vacker.
@@ -418,7 +418,7 @@ Lördagen kom. Och jag — jag var bara där. Med min familj. Som hon sagt.
 
 Nu kommer den delen där jag måste vara försiktigast av allt, och det är just för att jag
 talar till dig som jag blir det. Det vore lättare att berätta det för någon främmande. Men du
-har rätt till det, och det är ditt, mer ditt än någon annans, och därför går jag sakta.
+har rätt till det, och det är ditt, mer ditt än någon annans, och därför tar jag det sakta.
 
 Jag var där nere. Det måste jag börja med — allt jag nu säger om det rummet, det var jag inte
 i. Jag har byggt det rummet i trettio år av det jag hörde genom ett golv och det jag fick veta
@@ -443,7 +443,7 @@ kväll. Det de tog visste han aldrig ens att han behövde vakta.
 Dörren stängdes. Och jag följer dem inte in. Vi stannar på trappavsatsen, du och jag, och det
 vi hör är den kontrast som *är* hela skräcken: genom dörren, den dämpade värmen — och alldeles
 nära, kall och utan rum omkring sig, den röst jag aldrig hörde och ändå satsar mitt liv på,
-som inte tystnar, för den är inte i rummet, den är i en skalle, och den *studerar* honom medan
+som inte tystnar, för den är inte i rummet, den är inne i ett huvud, och den *studerar* honom medan
 han ger bort sig själv.
 
 *Bra. Han är frikostig. Han ger mer än man ber om.* — och här kom det första stråket av
@@ -463,7 +463,7 @@ hejdar sig på en gång? När ett helt sällskap hör ett glas gå sönder? Hela
 Varje golvplanka. Som om själva byggnaden ryckte till.
 
 Jag visste inte vad som hänt. Jag vet nu. Det jag hörde, på tredje trappsteget, var ljudet av
-min familj som började dö.
+en familj som börjat dö.
 
 Det lät inte som att dö. Det lät som att vinet tystnade. Men någonstans där uppe hade något
 kommit in som *vi:et* inte hade ord för och ingen dörr emot. En annan människa hade blivit
@@ -471,13 +471,13 @@ kommit in som *vi:et* inte hade ord för och ingen dörr emot. En annan människ
 dotter. Hon är ett sår som hela kroppen känner.
 
 Och här måste jag stanna och säga dig en sak rakt, för du har rätt till den och ingen annan
-kommer någonsin att säga den till dig. Den natten började du. Där, mitt i det orätta. Jag
+kommer någonsin att säga den till dig. Den natten började du. Där, mitt i det fula och orätta. Jag
 tänker inte göra det vackrare än det var, och jag tänker inte låta dig bära det heller — så
-hör båda sakerna på en gång, för jag har aldrig kunnat lägga ner någon av dem: det som gjordes
+hör båda sakerna på en gång, för jag har aldrig kunnat släppa något av dem: det som gjordes
 mot din pappa var orätt, han fick aldrig välja det, han fick aldrig ens veta om det. *Och* du var
 inte det orätta. Du var det enda rätta som kom ur det. Du var det de aldrig räknade med — den
 verkliga människan, den de inte kunde göra om till sig själva. Du ska aldrig en dag i ditt liv
-känna att du borde be om ursäkt för att du finns. Hör du mig. Det är därför hela den här
+känna att du borde be om ursäkt för att du finns. Hör du mig!? Det är därför hela den här
 kvällen finns.
 
 Han gick därifrån i de små timmarna. Och rösten i honom hade redan börjat plana ut. Han sa
@@ -491,14 +491,14 @@ aldrig fick veta varför.
 
 Och inne i huset, i dess nya, främmande tystnad —
 
-Jag ska sluta segmentet där det måste sluta. Bygg en tystnad åt mig. Låt det dröja längre än
+Jag ska sluta den här delen där det måste sluta. Bygga en tystnad åt mig. Låta det dröja längre än
 det är bekvämt.
 
-För någonstans över mig, i ett språk jag aldrig skulle få höra, sa din mor det första ordet i
-sitt liv. Ett enda. *Jag.* En bokstav. Och familjen som varit ett enda långt *vi* sen innan
-det fanns länder att fly över — hörde det, och hade inget ord för vad det var.
+För någonstans ovanför mig, i ett språk jag aldrig skulle få höra, sa din mor det första ordet i
+sitt liv. Ett enda. *Jag.* Tre bokstäver. Och familjen som varit ett enda långt *vi* sen innan
+det fanns länder att fly genom — hörde det, och hade inget ord för vad det var.
 
-För i all den tiden, i alla de kropparna, hade den aldrig en enda gång behövt ordet *ensam.*
+För i all den tiden, i alla de kropparna, hade den aldrig en enda gång behövt ordet *själv.*
 # 6 · Ett jag
 
 Din mor blev sjuk. Så såg det ut, från där jag stod — utifrån, där jag bodde. Hon slutade
