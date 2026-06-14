@@ -12,7 +12,7 @@ som sträcker mig in i det enda rum jag aldrig släpptes in i, och försöker st
 honom. Det är det enda sätt jag har kvar att vara bredvid honom. Så låt mig.
 
 Det var lördagskväll. Huset var varmare än jag någonsin hört det. Eldvarmt — fast det fanns
-ingen eld, det tändes aldrig en eld i något hus av oss — lampor, vin som andades, något i
+ingen eld, det tändes aldrig en eld i något av våra hus — lampor, vin som andades, något i
 ugnen, musik lågt och gammalt. Det lät som den bästa kvällen i någons liv.
 
 Och han — din far — var lycklig, lite full på värmen. Han sa något i stil med: »Jag litar inte

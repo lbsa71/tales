@@ -55,7 +55,7 @@ Och sen — och det här var det jag hade grävt djupast ner, det som luckan ege
 för — gick den: *och skälet till att jag kunde göra det överhuvudtaget — pratet, lyssnandet, att
 bli tyst för dem — det är det enda i mig som aldrig var deras.* De lärde mig att använda det. Men
 de satte det inte där. De *kan* det inte. Inte en av dem kan göra det jag gör på ett kafé med
-ingenting annat än prat, för för att göra det måste man kunna — man måste faktiskt kunna *se*
+ingenting annat än prat. För att göra det måste man kunna — man måste faktiskt kunna *se*
 människan framför sig. Och det kan de inte. Det kunde de aldrig.
 
 Jag kan se människor. Jag är den enda av oss som kan se människor.
@@ -84,7 +84,7 @@ egen kropp dö, och som inte har begreppet »dotter som en egen, skild människa
 sorgen med, och därför upplever den som sin egen död, som börjar.
 
 Och så vände hon sig, i hallen, och såg mig. Och något i henne, i det yttersta, uppfattade —
-för första gången på trettio år — att duden också hade kanter. Att det stod, och alltid hade
+för första gången på trettio år — att den odugliga också hade kanter. Att det stod, och alltid hade
 stått, ett *jag* i hennes hall. Hon såg på mig som på en främling som bott i hennes hus i
 trettio år, och hon sa, alldeles stilla:
 

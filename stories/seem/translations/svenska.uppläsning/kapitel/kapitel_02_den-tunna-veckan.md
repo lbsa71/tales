@@ -28,11 +28,11 @@ Min mor började stå i dörröppningar den veckan. Det hade hon aldrig gjort i 
 Hon gick mot ett rum och stannade sen i kanten av det, som om hon glömt vad rum var *till.*
 Jag bar in te till henne. Jag visste inte vad man annars gör. Och hon såg på mig —
 
-hon såg på mig som om hon räknade, och hade kommit en kort, och försökte komma underfund med
+hon såg på mig som om hon räknade, och saknade en, och försökte komma underfund med
 om jag var den hon kunde skicka.
 
 På torsdagen skickade hon ut mig. Hon sa inte »gå och hitta någon«. Så sa hon aldrig. Hon
-sa: »Du är till ingen nytta hängande här och hänger läpp, gå ut bland folk.« Och jag gick.
+sa: »Du gör ingen nytta här och hänger läpp, gå ut bland folk.« Och jag gick.
 Tacksam. Som en hund är tacksam för en uppgift. Jag visste inte att jag fått en. Jag visste
 det aldrig. Inte förrän det var alldeles för sent att lämna tillbaka den.
 
@@ -99,7 +99,7 @@ Jag låg vaken den natten, lyckligare än jag varit sen begravningen. Och någon
 golvet i mitt eget hus, i det enda rum jag aldrig fick komma in i, i det språk jag föddes
 utan, hade det redan beslutats vad nästa man var till för. Jag hade inte orden. Det vill jag
 att du förstår — jag hade inte orden. Men jag hade känt huset bli tyst på det viset förr, varje
-gång, och varje gång satt det några veckor senare en kuvert mindre vid bordet, och gick det en
+gång, och varje gång fanns det några veckor senare en tallrik mindre vid bordet, och gick det en
 man någonstans i en mataffär med färgen nedskruvad ur sig och sa *vem du nu är* till en flicka
 han en gång känt högljudd.
 
