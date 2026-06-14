@@ -228,32 +228,39 @@ Slipningen är dess motsats. När du tvekar: famla mer, förklara mindre, och li
 
 ---
 
-## 11 · SPRÅKREGISTER — regler ur genomgången av kapitel 1
+## 11 · SPRÅKREGISTER — regler ur genomgångarna av kapitel 1–2
 
-Dessa regler härleddes ur författarens revidering av segment 1 och gäller hela verket.
-Grundtonen i dem alla är densamma: **mer talad, närvarande, intim svenska — mindre
-skrivet, mindre litterärt.**
+Dessa regler härleddes ur författarens revideringar och gäller hela verket. Grundtonen i
+dem alla är densamma: **mer talad, närvarande, intim svenska — mindre skrivet, mindre
+litterärt.**
 
-1. **Intima släktskapsord i tilltalet till barnet.** När berättaren talar till barnet om
-   barnets föräldrar heter det *din pappa* och *din mamma* — aldrig *din far* / *din mor*.
-   (Barnets *mormor* är redan intimt och behålls.) Berättarens *egna* relationer i hennes
-   reflekterande röst behåller det vuxnare avståndet: *min mor*, *vår mor*, *min mormor*.
-   Andra personers repliker har sitt eget register (modern kan kalla sig *din gamla mor*).
+1. **Föräldraord är en registerratt — ställd av stundens temperatur, inte av vems relation
+   det är.** *Far* / *mor* är grundregistret: berättande, sakligt, kliniskt, högtidligt,
+   distanserat (*den sista mannen jag tog hem — din far —*; *din far kom in ur regnet*;
+   *Min mor — din mormor — sa…*; *jag kände inte min egen far*). *Pappa* / *mamma* sparas
+   för stunder av **direkt ömhet, värme eller sorg** mot barnets förälder, och för det
+   varma vardagsminnet (*Han var din pappa*; *din pappa var lycklig*; *Min mamma förvarade
+   tändstickorna*). Det gäller alla led — *din far/pappa*, *din mor/mamma*, *min mor/mamma*.
+   (Barnets *mormor* är redan intimt och behålls; andra personers repliker har sitt eget
+   register, t.ex. modern som säger *din gamla mor*.)
 
 2. **Barnet är närvarande — säg *här*, inte *där*.** Allt sker vid bordet, nu. Använd *här*
    om barnets och scenens närvaro (*du sitter här*; *här vid ett köksbord*). *Där*
    distanserar det barn som faktiskt sitter mitt emot.
 
-3. **Talad svenska, inte skriven.** Föredra det talade och personliga framför det litterära
-   och opersonliga:
-   - talspråkliga inledningar/återhämtningar: *Nej men sitt.* (ej *Sitt kvar.*); *Ja.
-     Början.* (ej *Börja, då.*)
-   - aktivt och personligt: *så har jag sagt det* (ej det passiva *så är det sagt*)
+3. **Talad svenska, inte skriven.** Föredra det talade, personliga och aktiva framför det
+   litterära, opersonliga och passiva:
+   - talspråkliga inledningar/återhämtningar och torra markörer: *Nej men sitt.* (ej *Sitt
+     kvar.*); *Ja. Början.* (ej *Börja, då.*); *hah, titta på mig* (ej *för titta på mig*)
+   - aktivt, personligt subjekt: *så har jag sagt det* (ej *så är det sagt*); *det var jag
+     som lyckades i mitt arbete* (ej *det var mitt arbete som lyckades*); *du hör mig säga
+     det* (ej *du hör meningen*)
    - fasta idiom: *se det komma* (ej *se den komma*)
    - vardagsverb framför stela: *det enda jag kan göra* (ej *det enda jag har att ge*)
    - jordnära, samtida bilder framför sago-/litterära: *som något ur en dålig film* (ej
      *ur en saga*)
-   - full form framför klippt: *varje gång* (ej *var gång*)
+   - korta, kärva fragment där rösten är säker: *Inget famlande.* (ej *Ingen famlar där.*)
+   - (*var gång* och *varje gång* är båda gångbara — välj på gehör; ingen blankettregel.)
 
 4. **Allt i barnets tjänst — kärlek, inte självfokus.** Formulera framåtlutat och för
    barnet, inte om hennes eget uthärdande: *jag vill inte att du ska behöva räkna ut det
@@ -262,6 +269,7 @@ skrivet, mindre litterärt.**
 5. **Tala tydligt — namnge syftningen.** Föredra explicit syftning framför naken pronomen
    där det kan bli oklart, och undvik konstruerade kvantifieringar: *den saken är inte
    sann* (ej bara *den är inte sann*); *inte något av detta* (ej *inte en mening av det*).
+   Även den kalla rösten ska gå att följa när den hörs högt: *Han duger* (ej bara *Duger*).
 
 6. **Synlig självrättelse som avslöjar (jfr §5).** När hon hejdar sig ska avbrottet bära
    mening — hon *namnger* vad som höll på att hända: *Nu höll jag på att säga något
@@ -272,4 +280,15 @@ skrivet, mindre litterärt.**
    tankstreck: *medan jag —*; *Han var —*.
 
 8. **Trimma småorden.** Skär bort det redundanta där substantivet redan bär: *slippa vägen
-   dit* (ej *slippa gå vägen dit*); predikativt *jag var ett bete* (ej *jag var betet*).
+   dit* (ej *slippa gå vägen dit*); predikativt *jag var ett bete* (ej *jag var betet*);
+   undvik klumpig dubblering: *en bra åt oss* (ej *en bra en åt oss*).
+
+9. **Idiomatisk svenska — rätt kollokation och preposition.** *vända sig till* en person /
+   *vända sig mot* en riktning; *uppfostrad att* (ej *uppvuxen i att*); *kylan berodde på
+   att det var fel på mig* (ej det kalkerade *var något det var fel på mig*); *sväva* (genom
+   luft) ej *flyta* (på vatten); *åt vilket håll* man vrider.
+
+10. **Låt ordvalet tjäna såret och de återkommande bilderna.** Välj den formulering som
+    fördjupar och binder ihop motiven framför den flackare bokstavliga: räkne-motivet —
+    *om jag var värd att räknas* (ej *den hon kunde skicka*); lyssnandet — *hela vägen ner,
+    hela vägen in* (knyter till mellanrummet, till att *se in i* en människa).

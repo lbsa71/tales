@@ -21,7 +21,7 @@ hos en människa som hon inte vet att hon visar.
 
 Håll det där kvittot. Jag ger tillbaka det till dig i slutet.
 
-Min syster — din mamma — kom in i värmen, så som hon skulle, med hela sitt ansikte vänt mot
+Min syster — din mor — kom in i värmen, så som hon skulle, med hela sitt ansikte vänt mot
 honom som en lampa. Hon hade en gåva jag avundades så att jag låg vaken om nätterna: hon
 kunde ge dig hela sitt ansikte. Och det tog mig halva livet att förstå vad som var fel med
 sättet hon gjorde det på, och när jag väl förstod kunde jag inte ha satt ord på det. Det var
@@ -29,7 +29,7 @@ bara — du vet hur ett hotellrum är varmt? Värmen är på, det är ett fullt 
 skulle du aldrig kalla det hemtrevligt, för ingen *bor* där. Hon var ett varmt rum som ingen
 bodde i. Och män klev in i henne som man kommer in ur regnet.
 
-Och han vände sig mot henne. Så som de alla vände sig. Och jag steg tillbaka, så som man
+Och han vände sig till henne. Så som de alla vände sig. Och jag steg tillbaka, så som man
 ska, och satt i min egen familj som en jacka någon hängt av sig.
 
 Men.
@@ -40,7 +40,7 @@ Det hade aldrig hänt förr. Mitt i en mening till henne tittade han bort, mot k
 jag stod med mjölken ingen bett om, och —
 
 Jag måste vara noggrann här, för det är det enda jag äger av honom som var rent. Hör på hur
-jag säger det: ingen gav honom det. Värmen min familj riktade mot din mamma — varje mjukt ord
+jag säger det: ingen gav honom det. Värmen min familj riktade mot din mor — varje mjukt ord
 av den — den var *gjord.* Jag hade sett den göras hundra gånger. Men ingen stod någonsin vid
 en mans axel och sa åt honom att undra var jag tagit vägen. Det gjorde han av sig själv. Det
 var den enda känslan i hela det huset som var ingens påhitt utom hans.

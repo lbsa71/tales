@@ -16,8 +16,9 @@ historien. Sju segment, ett andetag emellan vart och ett. Helheten och villkoren
   citerar ur minnet, trettio år efteråt.
 
 **Relationer** (hon talar till barnet, så namnen löses upp i släktskap): *jag* = mostern;
-*din mamma* = systern; *din pappa* = mannen; *din mormor* = modern; *min mormor* = den som
-dör i början. Berättarens *egna* relationer behåller det vuxnare *min mor* / *vår mor*. Den
-kalla rösten säger aldrig namn — den säger *dottern*, *kvinnan*. Avståndet är kränkningen.
+systern = *din mor/mamma*; mannen = *din far/pappa*; modern = *din mormor*; *min mormor* =
+den som dör i början. Registret *far/mor* mot *pappa/mamma* ställs av stundens temperatur,
+inte av vems relation det är (se ANVISNING §11.1). Den kalla rösten säger aldrig namn — den
+säger *dottern*, *kvinnan*. Avståndet är kränkningen.
 
 Titel: **SEEM** (arbetstitel).

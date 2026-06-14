@@ -1,17 +1,17 @@
 # 6 · Ett jag
 
-Din mamma blev sjuk. Så såg det ut, från där jag stod — utifrån, där jag bodde. Hon slutade
+Din mor blev sjuk. Så såg det ut, från där jag stod — utifrån, där jag bodde. Hon slutade
 komma ner. Hon slutade äta. Hon kunde vara sig själv, alldeles vanlig, och så gjorde
 ansiktet en sak — blev stilla, och skrämt, som hos någon som just känt en knöl som inte fanns
 där förra veckan. Min mor sa att det var en förkylning. Sa att det var nerver inför bröllopet —
-hon hade börjat kalla det ett bröllop, fast ingen sagt ett ord till din pappa, och din pappa hade
+hon hade börjat kalla det ett bröllop, fast ingen sagt ett ord till din far, och din far hade
 slutat ringa. Och jag trodde henne. Jag bar upp soppa till en dörr som inte gick att öppna och
-intalade mig att det var en förkylning, medan din mamma på andra sidan föddes, i plåga, mot sin
+intalade mig att det var en förkylning, medan din mor på andra sidan föddes, i plåga, mot sin
 vilja, in i ett jag hon fostrats hela livet att tänka på som en tumör.
 
 Du vill att jag ska säga att hon bröt sig fri. Alla vill det. Flickan i tornet, kedjorna som
 faller. Det var inte så. Jag har tvingats lära mig — långsamt, mot allt som hade varit lättare
-att tro — att det som hände din mamma kändes för henne precis som en sjukdom. För det var det hon
+att tro — att det som hände din mor kändes för henne precis som en sjukdom. För det var det hon
 fått lära sig att ett jag *var.* Hon hade alla deras värderingar och inget av deras sällskap.
 Det växte en vägg rätt upp genom mitten av henne, och hon slog med nävarna mot den och bad
 människorna på andra sidan att komma och riva den, och de kunde inte, för väggen *var* hon —
@@ -102,7 +102,7 @@ sig att i min familj var *att bli sedd* och *att bli sörjd som något som blivi
 mening. Det fanns ingen annan sorts att-bli-sedd därinne. Det var det rummet jag ägnat livet åt
 att försöka komma in i. Det var det som låg på andra sidan dörren.
 
-Och uppför trappan, bakom en annan dörr, lät din mamma — som inte längre kunde vara ett *vi* och
+Och uppför trappan, bakom en annan dörr, lät din mor — som inte längre kunde vara ett *vi* och
 ännu inte kunde bära att vara ett *jag* — ett ljud bortom ord. En människa som drunknar i luft.
 Och ingen av de andra kunde gå till henne. Man kan inte nå tvärs över ett mellanrum man aldrig
 haft. Min mor kunde bara ropa henne *hem* — ropa henne tillbaka in i det vi som höll på att döda
