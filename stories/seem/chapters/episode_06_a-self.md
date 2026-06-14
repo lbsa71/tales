@@ -154,8 +154,8 @@ love)* — give it *back,* give yourself back, come *home* —
 **And then — VALA stops. Because she has turned, in the hall, and seen WREN. And something in
 her, in extremity, perceives — for the first time in thirty years — that the dud has edges
 too. That there is, and has always been, an *I* standing in her hallway. The disease, in the
-one she'd kept and called family and never once seen. This is the dread-button: recognition
-arriving the wrong way round.**
+one she'd kept and called family and never once seen. Recognition, arriving the wrong way
+round.**
 
 VALA *(SURFACE — quiet now, a terrible quiet, looking at Wren as if at a stranger who has been
 in her house for thirty years):* ...you. *(beat)* You've got one too. *(beat)* Haven't you.

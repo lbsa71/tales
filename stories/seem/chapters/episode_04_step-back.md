@@ -51,8 +51,8 @@ it. I did not know why, the way you don't know why you keep not opening a letter
 
 **A scene with DANIEL — the deepest yet, and the cruelest, because it is real and she is
 stalling his delivery even as it happens. A pub, maybe, or a walk; the two of them; LISS not
-here. The CHORD silent throughout — this thread is un-worked, and the listener must feel
-the betrayal forming under the realness.**
+here. The CHORD silent throughout — this thread is un-worked; let the betrayal form under
+the realness, unspoken.**
 
 DANIEL *(SURFACE — easier with her than with anyone, which is the horror):* Can I tell you a
 thing I haven't told her. *(beat)* Liss. *(beat)* Don't — it's not bad, it's just —
@@ -137,8 +137,8 @@ was inside it. Until it was him.
 ---
 
 **Back to the house. The held-breath quiet, harder now. VALA has run out of patience — the
-grief in her gone quick and hot, the hunger up. This is the override, and it must read as
-love rushing, not malice deciding. The dread-button.**
+grief in her gone quick and hot, the hunger up. It must read as love rushing, not malice
+deciding.**
 
 **Footsteps — VALA's, certain, finding Wren. The CHORD beneath, decided.**
 
@@ -163,8 +163,7 @@ have to do a thing. You can just — be here. With your family.
 **A silence that is the bottom dropping out of the world, except it sounds exactly like a
 mother being kind.**
 
-NARRATOR *(present-day, and her voice is barely holding):* Do you see what I did. *(beat)* I
-stalled to save him. That's the only true thing I can say about myself
+NARRATOR *(present-day, and her voice is barely holding):* I stalled to save him. That's the only true thing I can say about myself
 in this whole story — that once, once in my life, my body said no to handing a person over,
 and I listened to it for a week. *(beat)* And because I stalled — *(beat)* — because the lure
 faltered, because the dud got unreliable, because I cost them time they thought they didn't

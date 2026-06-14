@@ -60,7 +60,7 @@ part of the transaction he was let in on was the part where he was happy.
 
 ---
 
-**The stairs. Two sets of feet, unhurried. A door. And then — this is the discipline — we do
+**The stairs. Two sets of feet, unhurried. A door. And then: we do
 not follow them in. The door closes. We stay on the landing, and what we hear is the contrast
 that is the entire horror: through the wood, the muffled warmth of the surface — and in our
 ear, close and roomless and cold, the channel, which does not stop, which is not in the room
@@ -78,8 +78,7 @@ the rehearsal; she must run it to the top to conceive. *(a beat, and the first e
 strain)* Full load. *(beat)* Hold the latch. *(beat)* This is the part she did not get to
 practise enough. Hold it. Hold the —
 
-DANIEL *(HIM — through it, and the listener must hold both at once: his joy, and the cold over
-it):* ...she's shaking. *(tender, mistaking everything)* She's shaking, she's as gone as I am,
+DANIEL *(HIM — through it: his joy, and under it the cold, both in the mix at once):* ...she's shaking. *(tender, mistaking everything)* She's shaking, she's as gone as I am,
 nobody's ever — I'd do anything for her, I'd —
 
 NARRATOR *(present-day — imagining her way in):* He thought her shaking was for him. *(beat)* I've made myself picture it. His whole

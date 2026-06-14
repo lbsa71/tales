@@ -116,8 +116,8 @@ MAN *(SURFACE, lower, opening):* Can I tell you something I haven't — I don't 
 NARRATOR: And then I'd bring him home. And then —
 
 **The café noise drops away abruptly, replaced by that cold, layered, roomless CHORD — and
-the hole in it. This is the first time the listener hears the channel. Make it feel like a
-door opening onto a room with no air in it.**
+the hole in it. The channel, for the first time. Make it feel like a door opening onto a room
+with no air in it.**
 
 CHORD *(cold, layered, close, no room around it; one voice short):* Adequate. *(beat)* Not
 for the budding. For the table. Bring him to the daughter. The daughter will take it from
@@ -178,7 +178,7 @@ The moment I'd warmed a man up, he'd swing toward whoever I'd brought him to, an
 myself I just wasn't the kind men stay pointed at. *(beat)* I had the cause backwards. But
 that took me thirty years and one funeral to work out.
 
-**A small thing — and the listener should clock that no CHORD line precedes it.**
+**A small thing. No CHORD before this — let the silence before Daniel's thought be clean.**
 
 DANIEL *(HIM — interior, warm, slightly wondering):* ...God. The sister. How did I not — she
 was right there when we came in. How did I not *see* her?
@@ -217,8 +217,8 @@ NARRATOR: He said yes to the rain, really. To not being alone in it. *(beat)* An
 be clear: I knew exactly what was happening. I'd done it a hundred times. I just couldn't,
 for the life of me, work out why this time it felt like watching someone walk into traffic.
 
-CHORD: The daughter has him. *(beat)* Step back. *(and now — the one instruction the listener
-already understands has teeth)* Step back.
+CHORD: The daughter has him. *(beat)* Step back. *(colder now — the same words as before, but
+with teeth in them)* Step back.
 
 **A pause. A chair, very slightly, moves back from the table. LISS and DANIEL's voices
 continue underneath now — warm, indistinct, a private weather forming without our narrator
@@ -272,7 +272,7 @@ NARRATOR: I'm guessing at the words. But I'd bet my life on them. *(a breath)* I
 
 **Outside now. The café door, a bell. Rain on the street. DANIEL and WREN, walking, the
 acoustic open and wet. Liss and Vala gone ahead or behind — for a moment it is just the two
-of them, and this is the only stream the listener can fully trust.**
+of them, with no channel underneath — the one exchange that is only what it sounds like.**
 
 DANIEL *(SURFACE, warmer, looser, the wine in it):* Can I say a weird thing. *(beat)* Your
 sister's — your whole family's lovely, they really are, they've been so —
@@ -318,8 +318,7 @@ Daniel, you're staying for tea, I won't hear otherwise —
 DANIEL *(SURFACE, swept, happy):* I — okay, yeah, okay —
 
 CHORD: Good. He comes willingly. *(beat)* But mark it: he turned to the sister, twice. He
-*looks* at her. *(flat — and for the first time, something the listener should hear as a
-threat)* That cannot be. The daughter will hold him closer. The sister will be kept further
+*looks* at her. *(flat — and for the first time, with a threat in it)* That cannot be. The daughter will hold him closer. The sister will be kept further
 back. No man we keep is ever to look at the sister twice.
 
 **A beat. Then, into the gap where the third voice is not —**

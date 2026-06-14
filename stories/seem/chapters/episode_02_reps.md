@@ -85,7 +85,7 @@ for the milk nobody had asked for, so I'd have a reason to stand.
 
 ---
 
-**A small thing now — and the listener must catch that no CHORD line precedes it. DANIEL,
+**A small thing now. No CHORD before this — keep it clean of the channel. DANIEL,
 mid-sentence to Liss, glances off — toward where Wren is standing with the milk.**
 
 DANIEL *(SURFACE — to the room, to Wren really):* Sorry — Wren, is it? You've barely — come

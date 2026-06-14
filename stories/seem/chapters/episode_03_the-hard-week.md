@@ -72,8 +72,8 @@ that was going to take her. And I lay there and envied it.
 ---
 
 **Morning. Kitchen. The ordinary clatter. And now a true small scene between WREN and
-DANIEL — and the listener must hear: nothing is planted. The CHORD is silent through this.
-This is the seam-free thread, the one real thing.**
+DANIEL — nothing is planted here. The CHORD is silent throughout: the seam-free thread, the
+one real thing.**
 
 DANIEL *(SURFACE — easy, drying a cup he wasn't asked to dry):* She's still asleep. Your
 mum's — I don't actually know where your mum goes. She's like weather. She's just suddenly
@@ -86,7 +86,7 @@ anything in this house. You seem like a guest who's been here longest.
 
 **A beat. Water running. WREN doesn't answer that.**
 
-DANIEL *(HIM — quiet, true, un-planted, and the listener can hear it is the real one):*
+DANIEL *(HIM — quiet, true, un-planted; the real one):*
 ...don't push it. She'll bolt. *(beat)* She's lovely, the sister. She's the loveliest one
 and she doesn't know it and somebody's seen to it that she'll never find out. *(beat)* It
 makes me — I don't know what it makes me. Sad. Sad in a way that wants to do something about
@@ -115,7 +115,7 @@ me. I was so good at it I taught the only one who meant it.
 
 **Later. WREN low — you can hear it in her, the supermarket man still on her, the grief, the
 tiredness. VALA finds her. And this is the feeding: rendered as the tenderest thing in the
-episode, an embrace, and the listener must hear Wren's voice go *greyer* coming out of it.**
+episode, an embrace — and Wren's voice comes out of it *greyer,* a notch of colour gone.**
 
 VALA *(SURFACE — warm, real, a mother):* Oh, look at you. *(beat)* Come here. Come here to
 me. You've gone all — you get like this, you always have, since you were tiny. Come here.
@@ -131,8 +131,8 @@ Gently. She mistakes it for love and is soothed by it; this is convenient; it is
 always been kept calm. *(a beat)* Never finish her. She is not prey. *(flat)* She is the
 pantry we do not empty.
 
-VALA *(SURFACE — still holding her, and this is real, this is the curdle, the warmth that was
-true before the we ate it):* You were such a serious little thing. *(beat)* Before you —
+VALA *(SURFACE — still holding her, and this is real — the warmth that was true before the we
+ate it):* You were such a serious little thing. *(beat)* Before you —
 *(she stops; something in her reaches for a memory and the we closes over it)* — you used
 to hold my finger so hard. Both hands. Like you'd fall off the world. *(beat)* I used to —
 
@@ -145,7 +145,7 @@ face. We've a man to think about.
 
 **The embrace ends. WREN's voice, when it comes, is greyer. The colour a notch down.**
 
-NARRATOR *(and the timbre is flatter than before — the listener should feel it):* I always
+NARRATOR *(and the timbre is flatter than before):* I always
 felt worse after she held me. *(beat)* I never told anyone that, because what kind of person
 feels worse after their mother holds them? *(beat)* I decided it was me. Obviously I decided
 it was me. I decided I was the kind of broken that can't even take comfort right — that takes
@@ -211,9 +211,8 @@ that I couldn't see it. That every time I got close, seeing it felt like sinning
 
 ---
 
-**The stairs. WREN climbing. And VALA's voice, from a doorway below, stopping her — and this
-is the dread-button: the order to close the lure, and Wren's first, wordless inability to say
-yes to it.**
+**The stairs. WREN climbing. And VALA's voice, from a doorway below, stopping her — the order
+to close the lure, and Wren's first, wordless inability to say yes to it.**
 
 VALA *(SURFACE — mild, loving, ordinary as asking her to fetch milk):* Wren, love. Before you
 go up. *(beat)* The man. *(beat)* It's time you brought him all the way in. Properly. This

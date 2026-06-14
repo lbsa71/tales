@@ -144,7 +144,7 @@ VALA *(SURFACE — lost, a child in a grandmother's voice, holding her arms out 
 daughter she has left):* Wren. *(beat)* Wren, love, come here. *(beat)* Come here to me. *(beat)*
 Don't leave me in here on my own, I've never — I don't know how to — *come here.*
 
-**A silence. Hold it. This is the hardest second in the play.**
+**A silence. Hold it longer than feels safe.**
 
 NARRATOR *(present-day, barely):* I want to lie to you about what I felt. *(beat)* I want to tell
 you I felt nothing, or pity, or the clean cold of a person who's finally free. *(beat)* I felt my
