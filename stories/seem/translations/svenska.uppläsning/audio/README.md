@@ -30,11 +30,25 @@ approximationen. Audition-jämförelsen finns sparad i
 
 ## Status
 
-Kapitel 1 (`Fel sorts man`) och kapitel 2 (`Den tunna veckan`) är
-renderade i chunks och ihopsatta till `*_full`-filer i `dist/`.
-Boksammansättningen är på plats: `seem-svenska-upplasning_full.wav`
-(~19 min hittills). `book` plockar automatiskt upp fler kapitel när de
-renderats. Kapitel 3–7 är ännu inte renderade.
+Alla 7 kapitel är renderade i chunks, ihopsatta till `*_full`-filer och
+assemblerade till `seem-svenska-upplasning_full.wav` (~79 min) i `dist/`.
+
+## Rendera om efter textredigeringar
+
+Renderaren cachar per chunk på **textens innehållshash** (`text_sha256` i
+`chunks.json`), inte bara på om `.pcm` finns. Så efter att ha redigerat en
+kapiteltext: kör `synth` igen och bara de chunks vars text faktiskt ändrats
+renderas om — resten skippas. Föräldralösa chunks (om en redigering krymper
+kapitlet) städas bort automatiskt.
+
+Förhandsgranska vad som skulle renderas om, utan API-anrop eller kostnad:
+
+```bash
+python3 tools/voice-renderer/reader.py synth \
+  --language sv \
+  --input stories/seem/translations/svenska.uppläsning/kapitel/ \
+  --check
+```
 
 ## Kommandon
 

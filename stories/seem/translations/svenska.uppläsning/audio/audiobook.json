@@ -2,7 +2,7 @@
   "title": "Seem (uppläsning)",
   "edition": "svenska.uppläsning",
   "language": "sv",
-  "status": "in-production-chapters-1-2-rendered",
+  "status": "complete-all-7-chapters-rendered",
   "source_dir": "stories/seem/translations/svenska.uppläsning/kapitel",
   "output_dir": "dist/stories/seem/audio/sv",
   "renderer": "tools/voice-renderer/reader.py",

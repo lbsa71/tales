@@ -23,9 +23,11 @@ from __future__ import annotations
 
 import argparse
 import dataclasses
+import hashlib
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 import urllib.error
@@ -53,6 +55,11 @@ ELEVENLABS_TTS_URL = "https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
 # 'eleven_v3' model." We detect this client-side so we can fall back to
 # non-stitched synthesis automatically instead of failing every chunk.
 MODELS_WITHOUT_STITCHING: frozenset[str] = frozenset({"eleven_v3"})
+
+# Manifest chunk statuses that mean "valid audio on disk for this text":
+# a fresh render ("ok") or a kept earlier render ("skipped-existing").
+# Anything else (an "error: ..." status) means the .pcm is absent or stale.
+_VALID_CHUNK_STATUSES: frozenset[str] = frozenset({"ok", "skipped-existing"})
 
 # ----- Language profiles ---------------------------------------------------
 #
@@ -805,6 +812,8 @@ def cmd_synth(args) -> int:
     total_chunks = 0
     total_bytes = 0
     total_chars = 0
+    check_total = 0          # --check: chunks examined
+    check_stale = 0          # --check: chunks that would be (re-)rendered
     for p in paths:
         text = p.read_text(encoding="utf-8")
         chunks = chunk_chapter(
@@ -812,23 +821,78 @@ def cmd_synth(args) -> int:
         )
         stem = chapter_stem(p)
         chapter_out = out_root / stem
+        manifest_path = chapter_out / "chunks.json"
+        prev_by_index = _load_manifest_chunks(manifest_path)
 
-        # File-level fast path: if every expected chunk already exists on
-        # disk and --force was not passed, skip the whole file without
-        # touching its manifest. Delete any chunk_*.pcm to force a
-        # single-chunk re-render, or pass --force to redo everything.
-        if not args.force and chunks:
-            expected = [chapter_out / f"chunk_{c.index:03d}.pcm" for c in chunks]
-            if all(pcm.exists() for pcm in expected):
-                print(f"=== {stem}: complete ({len(chunks)}/{len(chunks)} chunks), skipping ===")
-                continue
+        def chunk_current(c) -> bool:
+            """True iff this chunk's .pcm exists and was rendered from the
+            same text the source now produces (and that render succeeded).
+            This is the cache key: text drift, not mere file existence."""
+            pcm = chapter_out / f"chunk_{c.index:03d}.pcm"
+            prev = prev_by_index.get(c.index)
+            return (
+                pcm.exists()
+                and bool(prev) and prev.get("status") in _VALID_CHUNK_STATUSES
+                and _chunk_rendered_sha(prev) == _text_sha256(c.text)
+            )
+
+        # Orphaned chunk files from a now-shorter chapter (an edit merged or
+        # removed chunks): chunk_NNN.{pcm,wav} for N >= len(chunks). Left in
+        # place they would be stitched into concat/book as dead audio.
+        orphans = []
+        if chapter_out.exists():
+            for f in sorted(chapter_out.glob("chunk_*.pcm")):
+                try:
+                    idx = int(f.stem.split("_")[1])
+                except (IndexError, ValueError):
+                    continue
+                if idx >= len(chunks):
+                    orphans.append((idx, f))
+
+        # Decide what needs (re-)rendering BEFORE touching anything on disk.
+        stale = [c for c in chunks if args.force or not chunk_current(c)]
+
+        if args.check:
+            print(f"\n=== {stem}: {len(chunks)} chunks ===")
+            for c in chunks:
+                if chunk_current(c):
+                    print(f"  [{c.index:03d}] ok  current")
+                    continue
+                prev = prev_by_index.get(c.index)
+                pcm = chapter_out / f"chunk_{c.index:03d}.pcm"
+                if not pcm.exists():
+                    why = "missing audio" if not prev else f"not rendered ({prev.get('status')})"
+                elif not prev:
+                    why = "no manifest record"
+                elif prev.get("status") not in _VALID_CHUNK_STATUSES:
+                    why = f"previous render {prev.get('status')!r}"
+                else:
+                    why = "TEXT CHANGED since render"
+                print(f"  [{c.index:03d}] ->  {why}")
+            for idx, _f in orphans:
+                print(f"  [{idx:03d}] ->  ORPHAN (chapter now {len(chunks)} chunks) — would delete")
+            check_total += len(chunks)
+            check_stale += len(stale)
+            continue
+
+        # File-level fast path: nothing stale and no orphans → leave the
+        # chapter and its manifest untouched.
+        if not args.force and not stale and not orphans:
+            print(f"=== {stem}: complete ({len(chunks)}/{len(chunks)} chunks current), skipping ===")
+            continue
 
         chapter_out.mkdir(parents=True, exist_ok=True)
+        for idx, f in orphans:
+            f.unlink()
+            wav = f.with_suffix(".wav")
+            if wav.exists():
+                wav.unlink()
+            print(f"  [{idx:03d}] removed orphan chunk (chapter now {len(chunks)} chunks)")
 
-        manifest_path = chapter_out / "chunks.json"
         manifest = {
             "chapter": stem,
             "source": str(p.relative_to(REPO_ROOT)) if p.is_relative_to(REPO_ROOT) else str(p),
+            "source_git": _git_provenance(p),
             "provider": "elevenlabs",
             "language": args.language,
             "model": effective_model,
@@ -864,18 +928,19 @@ def cmd_synth(args) -> int:
                 "part": c.part,
                 "chars": len(c.text),
                 "text": c.text,
+                "text_sha256": _text_sha256(c.text),
                 "pcm": pcm_name,
             }
             if args.also_wav:
                 entry["wav"] = wav_name
 
-            if pcm_path.exists() and not args.force:
+            if chunk_current(c) and not args.force:
                 size = pcm_path.stat().st_size
                 entry["bytes"] = size
                 entry["duration_sec"] = round(pcm_duration_seconds(size), 3)
                 entry["status"] = "skipped-existing"
                 manifest["chunks"].append(entry)
-                print(f"  [{c.index:03d}] skip (exists, {size} B, {entry['duration_sec']}s)")
+                print(f"  [{c.index:03d}] skip (current, {size} B, {entry['duration_sec']}s)")
                 continue
 
             # Request-stitching context. previous_text/next_text are
@@ -947,6 +1012,13 @@ def cmd_synth(args) -> int:
 
         _save_manifest(manifest_path, manifest)
 
+    if args.check:
+        print(
+            f"\ncheck: {check_stale}/{check_total} chunk(s) would be (re-)rendered "
+            f"across {len(paths)} chapter(s). No API calls, nothing written."
+        )
+        return 0
+
     print(
         f"\ndone: {total_chunks} new chunks, "
         f"{total_chars} chars billed, "
@@ -958,6 +1030,65 @@ def cmd_synth(args) -> int:
 
 def _save_manifest(path: Path, manifest: dict) -> None:
     path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def _text_sha256(text: str) -> str:
+    """Stable content fingerprint of a chunk's exact text. Used to detect
+    when a source edit has drifted a chunk away from the audio that was
+    rendered for it, so synth can re-render only what actually changed."""
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()
+
+
+def _load_manifest_chunks(manifest_path: Path) -> dict[int, dict]:
+    """Return {index: chunk_entry} from an existing chunks.json, or {} if
+    absent/unreadable. The recorded `text`/`text_sha256` is what the
+    on-disk .pcm was actually rendered from."""
+    if not manifest_path.exists():
+        return {}
+    try:
+        data = json.loads(manifest_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    out: dict[int, dict] = {}
+    for e in data.get("chunks", []):
+        if isinstance(e, dict) and "index" in e:
+            out[e["index"]] = e
+    return out
+
+
+def _chunk_rendered_sha(entry: dict | None) -> str | None:
+    """The sha256 of the text a recorded chunk was rendered from. Prefers
+    the stored `text_sha256`; falls back to hashing the stored `text` for
+    manifests written before text_sha256 existed."""
+    if not entry:
+        return None
+    sha = entry.get("text_sha256")
+    if sha:
+        return sha
+    text = entry.get("text")
+    return _text_sha256(text) if text is not None else None
+
+
+def _git_provenance(path: Path) -> dict | None:
+    """Best-effort git provenance for a source file: the current commit and
+    whether the file has uncommitted changes. None if not in a git repo or
+    git is unavailable. Recorded once per render for traceability only —
+    staleness detection uses per-chunk text hashes, not this."""
+    try:
+        repo = str(path.resolve().parent)
+        commit = subprocess.run(
+            ["git", "-C", repo, "rev-parse", "HEAD"],
+            capture_output=True, text=True, timeout=5,
+        )
+        if commit.returncode != 0:
+            return None
+        status = subprocess.run(
+            ["git", "-C", repo, "status", "--porcelain", "--", str(path)],
+            capture_output=True, text=True, timeout=5,
+        )
+        return {"commit": commit.stdout.strip(), "dirty": bool(status.stdout.strip())}
+    except (OSError, subprocess.SubprocessError):
+        return None
 
 
 def cmd_concat(args) -> int:
@@ -1173,7 +1304,11 @@ def build_parser() -> argparse.ArgumentParser:
     sp.add_argument("--also-wav", action="store_true",
                     help="also write a .wav next to each .pcm for easy preview")
     sp.add_argument("--force", action="store_true",
-                    help="re-synth chunks even if the .pcm already exists")
+                    help="re-synth chunks even if the .pcm already exists and matches")
+    sp.add_argument("--check", action="store_true",
+                    help="dry-run staleness report: list which chunks would be "
+                         "(re-)rendered — text changed since last render, missing, "
+                         "failed, or orphaned — without any API calls or file writes")
     sp.add_argument("--limit-chunks", type=int, default=None,
                     help="render only the first N chunks of each input "
                          "(cost-conserving first-pass renders; rest can be "
