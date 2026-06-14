@@ -1646,3 +1646,52 @@ it, and reach. *(beat)* Badly. *(beat)* And truly. *(beat)* That's the whole of 
 **A breath. The room. And then —**
 
 **Out.**
+ce, in its present. And LISS, separate,
+real, reaching back across the gap toward the sister who can, at last, receive it. The two of them.
+Bereavement and consolation in one breath.**
+
+**A quiet room. Two women. Ordinary sounds — a kettle, maybe, far off; a child, very faint,
+somewhere in the house. No hum. No hole. Just the world.**
+
+LISS *(SURFACE — older now, separate, and loving Wren the way only a self can love another self —
+across the distance, on purpose, getting it slightly wrong):* You've gone all quiet again. *(beat)*
+You do that. *(beat, gentle)* Come back. *(a small breath — she hears the old word, fixes it)* No —
+not *come back.* I always say it wrong. *(beat)* I mean — *(searching, reaching)* — stay where you
+are. I can see you from here. *(beat)* I just wanted you to know I can see you.
+
+**A silence. And then WREN — who has spent her whole life filing every warmth pointed at her under
+*mistake* or *they want something* — does the thing she has never once been able to do. She lets it
+land. She receives it.**
+
+NARRATOR *(close, and for the first time, unguarded, the verdict-scanner finally switched off):*
+And I let her. *(beat)* That's it. That's the whole of what I learned, the only thing I have to
+give you, after all of it. *(beat)* Someone said *I can see you* — and for the first time in my
+life I didn't check it for a trap, didn't translate it into pity or a mistake or a thing somebody
+wanted. *(beat)* I just — let it be true. *(beat)* I let myself be seen. *(beat)* It's the hardest
+thing I have ever done. *(beat)* It's harder than the loving. *(beat)* Anyone can do the loving
+once they know they're allowed. *(beat)* It's the *being seen* that you have to learn last, if you
+were the one who grew up certain there was something in you that, if anyone ever really looked,
+they'd have to turn away from. *(a long beat)*
+
+NARRATOR *(softer):* So here's what I know, and then I'll let you go. *(beat)* If you were ever the
+one who couldn't merge — who never quite belonged, who felt the gap where everyone else seemed to
+feel the warmth, who was told, in a hundred small ways, that the ache in you, the too-much, the
+needing-people, the noticing — was what was wrong with you — *(beat)* — listen to me. *(beat)* That
+ache was never the defect. *(beat)* It was the organ. *(beat)* It was the gap that lets the light
+in and the love out. *(beat)* The ones who never felt it — the ones who never felt alone — they
+weren't whole. *(beat)* They just never had to learn the one thing you've known since you were
+small: that another person is real, and far away, and worth reaching for anyway. *(beat)* You were
+the one who could love all along. *(beat)* You. The cast-out one. The one at the edge of the
+kitchen. *(beat)* The only one who ever really noticed the receipt.
+
+**A pause. The faint child, somewhere. The kettle. The world, with no hum under it.**
+
+NARRATOR *(the last thing, quiet, almost a smile):* Go on. *(beat)* You know the one I mean. The
+person you've been not-quite-reaching, because the gap felt like proof you'd get it wrong. *(beat)*
+The gap isn't the proof you can't. *(beat)* The gap is the *only place it's ever happened.* *(beat)*
+Go and stand on the far side of it from someone, tonight, and let them be real, and be wrecked by
+it, and reach. *(beat)* Badly. *(beat)* And truly. *(beat)* That's the whole of it.
+
+**A breath. The room. And then —**
+
+**Out.**
