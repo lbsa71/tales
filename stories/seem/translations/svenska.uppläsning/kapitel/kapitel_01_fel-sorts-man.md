@@ -20,8 +20,8 @@ Han var din pappa.
 Jag vet. Du har frågat, ända sen du var liten, och ingen har sagt något, och nu säger jag
 det fel och för fort, här vid ett köksbord. Men du ska ha haft honom. Åtminstone så här. Det är
 det andra skälet till att jag berättar — eller det första, jag vet faktiskt inte längre
-vilket som är vilket. Om jag inte ger dig honom får du honom aldrig. För han — det här
-måste jag säga först, så att du inte sitter och hoppas — han lever, och han vet inte om
+vilket som är vilket. Om jag inte ger dig honom får du honom aldrig. För han — det
+måste jag säga så du inte sitter och hoppas — han lever, och han vet inte om
 dig, och det går inte att laga. Inget av det går att laga. Men vem han var, det kan jag ge
 dig. Det är nästan det enda jag kan göra.
 
