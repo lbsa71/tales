@@ -430,7 +430,7 @@ ingen eld, det tändes aldrig en eld i något av våra hus — lampor, vin som a
 ugnen, musik lågt och gammalt. Det lät som den bästa kvällen i någons liv.
 
 Och han — din pappa — var lycklig, lite full på värmen. Han sa något i stil med: »Jag litar inte
-på bra saker. Jag har aldrig litat på bra saker. Och det här är den första på — jag vet inte
+på bra saker. Jag har aldrig litat på bra saker. Och det här är första gången på — jag vet inte
 hur länge — som jag bara har låtit mig —« och han avslutade den inte, han bara skrattade och
 lät sig dras med uppför trappan som en man på väg till sitt eget goda liv. Det är viktigt att
 du hör det så: ingen *släpade* honom. Den enkla, ohyggliga versionen vore en man som tvingas
