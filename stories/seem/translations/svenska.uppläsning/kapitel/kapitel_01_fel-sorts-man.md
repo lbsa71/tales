@@ -33,7 +33,7 @@ någon man håller av men inte kan hjälpa. Och jag trodde henne. Det gjorde jag
 Hon hade ju aldrig fel om något.
 
 Det tog mig — det tog mig hela livet och en begravning att förstå vad den meningen egentligen
-betydde. Jag kommer att ge dig den tre gånger i natt, samma mening, och den betyder något nytt
+betydde. Jag kommer att säga den tre gånger i natt, samma mening, och den betyder något nytt
 varje gång. Det här är första gången. Håll den i huvudet.
 
 Jag tog hem män. Så enkelt är det, så har jag sagt det. I trettio år tog jag hem ensamma män till
