@@ -108,7 +108,8 @@ The bible left nine tuning forks open and made the manuscript decide them. It di
 
 ## EPISODE INDEX
 
-1. **The Wrong Kind of Man** — the lure; the amputated house; the seam, heard.
+1. **The Wrong Kind of Man** — the contract, stated cold (she's the bait; the men walk out
+   *turned down*; Daniel is the one who saw her); the lure; the amputated house; the seam, heard.
 2. **Reps** — Daniel returns; a colder, older pattern shown plainly; a man with his colours turned down.
 3. **The Hard Week** — the courtship deepens; the crack: *he thinks he's wanted; I know that feeling.*
 4. **Step Back** — the stall; the smallest, most cowardly mercy there is.

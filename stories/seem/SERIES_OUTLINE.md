@@ -4,10 +4,22 @@ Each episode is tagged to the bible sections it serves and the Appendix-A rave i
 written to deserve. If a draft stops being able to earn its rave, return to the section.
 The spine is bible §6; the tragedy's mechanism is §7; the device is §8.
 
+**The handrail (legibility pass) — the four things a first-time listener must hold by min ~10:**
+1. Wren brings vulnerable men home to her family. 2. The family takes something — the men
+walk out alive but *turned down.* 3. Daniel is different because he truly *sees* Wren.
+4. The family depends on Wren *not* being seen. These are stated as **behaviour/residue, never
+mechanism** (§12) — front-loaded in Ep1's cold open, then kept legible every episode. Simplify
+the *route in*, not the ideas: the metaphysics (the *we*, the how, the budding) stays mysterious.
+
 **Through-lines to keep alive in every episode:**
 - **The seam** (§8) — at least one plant→bloom with *varying* lag; never metronomic; at
   least once let Daniel resist and hear the channel adjust; at least once give him a true
   thought the chord didn't plant. His thread toward **Wren** is *never* preceded by a CHORD line.
+- **The drained man** (the dread-object) — introduced Ep1 (cold open + recurring-image flash),
+  dwelt on in full Ep2 (supermarket); *whoever you are* to a girl he used to know loud. Makes
+  Daniel's warmth suspenseful, not just atmospheric.
+- **They need her unseen** — the chord redirects every man off Wren onto the daughter; "no man
+  we keep is to look at the sister twice." Daniel breaking this is the danger.
 - **Wren scans voices for the verdict** (§5) — she reads tone for warmth turning to disappointment.
 - **The receipt** and its kin (§2 pitch craft note) — useless human noticing that goes nowhere; her "defect."
 - **The chord's gap** (Edda dead, §4/§8) — the missing voice, heard, never filled.
@@ -17,11 +29,20 @@ The spine is bible §6; the tragedy's mechanism is §7; the device is §8.
 ---
 
 ### EP1 · The Wrong Kind of Man
-- **Spine:** the lure (pitch packet §2, near-verbatim) + the amputated post-funeral house.
-- **Horror-reveal:** the seam — feelings installed a beat before he claims them.
-- **Emotional turn:** Wren's jealousy/ache — "that was the rot they could never cut out of me."
-- **Plant:** "I always meet the wrong kind of man" (§6 capstone, to detonate in Ep7); a compact, cold, un-named **prior rep** memory so the listener learns the shape without naming it; the chord's gap.
-- **Dread-button:** the receipt — "by the end of it I was the only person left alive who'd noticed it at all."
+- **Cold open (the contract):** drained-man hook (a turned-down voice) → Wren states the deal
+  plain — *I was the bait; the men walk out alive but turned down; it only worked because nobody
+  looked at me; Daniel was the last because he was the only one who looked back.* All four handrail
+  points by ~min 3, as residue not mechanism. Daniel's fate (living wound) named up front to make
+  warmth suspenseful and kill false hope.
+- **Spine:** trap closing — contract → amputated post-funeral house (the gap seeded) → the lure
+  demonstrated on a disposable man (teach the **seam** once, cleanly) + drained-man recurring-image
+  flash → Daniel: the exception who keeps drifting to the wrong daughter.
+- **Horror-reveal:** the seam — feelings installed a beat before he claims them ("I could be useful").
+- **Emotional turn:** Daniel *sees* Wren ("I keep wanting to check you're still there"); her jealousy/ache.
+- **Plant:** "I always meet the wrong kind of man" (§6 capstone, to detonate in Ep7); the chord's gap.
+- **Dread-button / hook:** the family has marked him *for the line* AND clocked that he looks at the
+  sister — "no man we keep is to look at the sister twice"; then the receipt — "by the end of it I was
+  the only person left alive who'd noticed it at all." Clean forward question: *will she hand him over?*
 - **Serves:** §0, §8, §5, §6. **Earns:** *Reverb* (form), *Hollow* (withholding), *Mercer* (lead).
 
 ### EP2 · Reps

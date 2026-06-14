@@ -115,6 +115,9 @@ supermarket's automatic doors. WREN, present in the past, mid-errand. And then a
 half-knows — a man's, but wrong. Flattened. The colour turned down out of it, like a
 photograph left in a window.**
 
+NARRATOR *(quiet, present-day):* I told you I'd see them again. After. *(beat)* This is the
+one I could never put back to sleep.
+
 MAN *(SURFACE — and his voice should be audibly *diminished:* the words intact, the life
 under them drained; warm content, no warmth):* — sorry, do I — you look so — have we —
 
