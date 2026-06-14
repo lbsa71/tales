@@ -21,7 +21,7 @@ hos en människa som hon inte vet att hon visar.
 
 Håll det där kvittot. Jag ger tillbaka det till dig i slutet.
 
-Min syster — din mor — kom in i värmen, så som hon skulle, med hela sitt ansikte vänt mot
+Min syster — din mamma — kom in i värmen, så som hon skulle, med hela sitt ansikte vänt mot
 honom som en lampa. Hon hade en gåva jag avundades så att jag låg vaken om nätterna: hon
 kunde ge dig hela sitt ansikte. Och det tog mig halva livet att förstå vad som var fel med
 sättet hon gjorde det på, och när jag väl förstod kunde jag inte ha satt ord på det. Det var
@@ -40,7 +40,7 @@ Det hade aldrig hänt förr. Mitt i en mening till henne tittade han bort, mot k
 jag stod med mjölken ingen bett om, och —
 
 Jag måste vara noggrann här, för det är det enda jag äger av honom som var rent. Hör på hur
-jag säger det: ingen gav honom det. Värmen min familj riktade mot din mor — varje mjukt ord
+jag säger det: ingen gav honom det. Värmen min familj riktade mot din mamma — varje mjukt ord
 av den — den var *gjord.* Jag hade sett den göras hundra gånger. Men ingen stod någonsin vid
 en mans axel och sa åt honom att undra var jag tagit vägen. Det gjorde han av sig själv. Det
 var den enda känslan i hela det huset som var ingens påhitt utom hans.
@@ -60,7 +60,7 @@ nätter än jag tänker erkänna. Det jag aldrig får veta är om den skulle ha 
 ägnat trettio år åt att kalla den. Jag kunde inte höra den delen av honom som kunnat säga mig
 det. Jag fick bara rummet.
 
-Han började komma nästan varje dag. Och — det här ska du veta, för det är din far och du ska
+Han började komma nästan varje dag. Och — det här ska du veta, för det är din pappa och du ska
 få ha det goda också — han var *lycklig.* Jag såg honom komma uppför vägen med axlarna nere
 från öronen för en gångs skull, den här mannen som vek sina kvitton till intet, och han var
 lätt. Vad vi än gjorde med honom kändes det inte för honom som att något gjordes med honom.

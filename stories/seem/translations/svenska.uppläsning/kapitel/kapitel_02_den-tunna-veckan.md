@@ -37,7 +37,7 @@ Tacksam. Som en hund är tacksam för en uppgift. Jag visste inte att jag fått 
 det aldrig. Inte förrän det var alldeles för sent att lämna tillbaka den.
 
 Nu ska jag göra något jag inte är säker på att jag borde göra inför dig. Jag tänker visa dig
-hur det gick till. Med en som inte spelar någon roll — inte din far, inte än, någon helt
+hur det gick till. Med en som inte spelar någon roll — inte din pappa, inte än, någon helt
 annan, en jag glömt namnet på. Jag vill att du ska veta att jag inte gör honom värre än han
 var, och jag vill inte att du ska behöva tro mig på mitt ord senare, när det gäller någon du
 älskar. Så jag ger dig en jag inte älskade. Titta på honom i stället.
@@ -54,7 +54,7 @@ Nu ska du höra en annan röst. Och du ska veta exakt vad det är du hör, för 
 sätt jag har att vara ärlig mot dig: jag hörde den aldrig. Inte en stavelse. Jag föddes utan
 det som band dem samman, så det enda rummet i mitt eget hem som betydde något, det enda
 språket — det var stängt för mig. Jag har gissat mig till den här rösten i trettio år. Jag
-hittar på den. Säg det till dig själv hela natten, var gång den kommer: *hon hittar på det
+hittar på den. Säg det till dig själv hela natten, varje gång den kommer: *hon hittar på det
 här.* Och ändå satsar jag mitt liv på att det lät ungefär så här. Kallt. Utan rum omkring
 sig. Och den sa aldrig något namn. Den sa *kvinnan.* Den sa *dottern.* Aldrig *hon,* aldrig
 ett namn. Det var det som var grymheten — att hålla en på avstånd även inne i tanken.
@@ -105,4 +105,4 @@ han en gång känt högljudd.
 
 Jag visste. På det sätt man vet en sak man bestämt sig hela livet för att inte veta.
 
-Och det var i den veckan, in i det tunna, tysta, väntande huset, som din far kom in ur regnet.
+Och det var i den veckan, in i det tunna, tysta, väntande huset, som din pappa kom in ur regnet.

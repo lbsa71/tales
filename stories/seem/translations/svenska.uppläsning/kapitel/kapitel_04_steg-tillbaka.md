@@ -96,7 +96,7 @@ betydde att min syster inte var redo.
 
 Min enda barmhärtighet. Min enda goda gärning. Jag försökte sakta ner det, och jag är skälet
 till att det kom för tidigt. Hade jag varit maskinen de gjorde mig till — bara skött mitt jobb,
-lämnat över honom kallt som alla andra — hade din mor varit redo, och det som hände henne hade
+lämnat över honom kallt som alla andra — hade din mamma varit redo, och det som hände henne hade
 kanske inte hänt. Det var min kärlek som forcerade dem.
 
 Och det värsta — det jag får svara för — är inte att jag inte kunde stoppa det. Det är att när

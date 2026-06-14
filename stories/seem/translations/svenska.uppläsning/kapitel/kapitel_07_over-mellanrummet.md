@@ -5,7 +5,7 @@ större i mitt huvud. En tronsal. En härd. Något man måste vara värdig för 
 
 Det var ett sovrum. Det var det första i det.
 
-Din mor satt på golvet mot sängkanten med armarna om sina egna knän och gav ifrån sig ett ljud
+Din mamma satt på golvet mot sängkanten med armarna om sina egna knän och gav ifrån sig ett ljud
 jag kommer att höra resten av mitt liv. Och min mor stod över henne med händerna utsträckta,
 utan att röra vid henne, så som man håller händerna mot en eld man inte kan släcka. Och ingen
 av dem kunde gå till henne. De hade aldrig behövt lära sig. Man lär sig inte att ta sig över ett
@@ -27,7 +27,7 @@ Jag är här. På utsidan av dig, där jag alltid kommer att vara, där jag aldr
 Och ljudet upphörde. Inte för att ensamheten tog slut. Utan för att det, för första gången,
 fanns någon på andra sidan mellanrummet som sträckte sig.
 
-Hon sa — din mor, med en helt ny röst, alldeles liten: »...du ser mig. Du försöker inte få mig
+Hon sa — din mamma, med en helt ny röst, alldeles liten: »...du ser mig. Du försöker inte få mig
 att komma tillbaka.«
 
 »Nej«, sa jag. »Jag försöker inte få dig tillbaka. Jag försöker komma och *sitta* hos dig. I
@@ -107,7 +107,7 @@ nådde fram till och älskade — det var den mest katastrofalt felaktiga man ja
 Just det som gjorde honom värd att älska gjorde honom värd att ta. Min enda kärlek och mitt enda
 förödande misslyckande i yrket var samma man, samma natt, samma handling.
 
-Din far. Jag mötte alltid fel sorts man. Och den enda gången jag mötte den rätte var den felaste
+Din pappa. Jag mötte alltid fel sorts man. Och den enda gången jag mötte den rätte var den felaste
 av alla — för att älska honom var det som rev hela huset.
 
 Jag såg honom aldrig igen. Jag tänker vara ärlig om honom, för han är den jag inte får göra bättre. Han
@@ -133,13 +133,13 @@ han fick — Det får sluta där. Det blir aldrig färdigt. Det är priset, hål
 Det kommer ett barn, sa de då. Du. Det första barnet i hela vårt leds historia som föds till människor
 som måste lära känna det som en *främling.* Som måste ta sig över ett mellanrum för att nå det. Som kan
 göra fel. Det farligaste, vanligaste, mänskligaste sättet att fostra ett barn som finns. Det enda slags
-kärlek som faktiskt är kärlek. Gud hjälpe oss. Vi blev usla på det, din mor och jag. Vi gjorde det illa,
+kärlek som faktiskt är kärlek. Gud hjälpe oss. Vi blev usla på det, din mamma och jag. Vi gjorde det illa,
 vi två, med de böjda och trasiga redskap vår mor lämnade oss, och sträckte oss efter dig över ett mellanrum
 vi aldrig bad om att få ha. Och vi gjorde det *sant.*
 
 Och illa och sant, det visar sig, är hela saken. Illa och sant är allt någon någonsin lyckats med.
 
-Så. Det är sent. Vattnet kokar snart, jag hör det. Och du sitter där, och har suttit där hela natten, och
+Så. Det är sent. Vattnet kokar snart, jag hör det. Och du sitter här, och har suttit här hela natten, och
 har låtit mig säga alltihop.
 
 Jag tänker inte hålla något föredrag på slutet. Det har gjorts mot dig nog. Jag säger bara det jag kom för
