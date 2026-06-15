@@ -1502,7 +1502,7 @@ Hon skrattar kort, avbryter,
 
 "Ja, tja, jag har en timme att slå ihjäl - jag väntar på att en skjorta ska bli broderad i en butik på andra sidan gatan."
 
-"Oh. An hour to kill," syrligt leende.
+"Åh. En timme att slå ihjäl," syrligt leende.
 
 "Ja. Trevligt att träffas. Har du varit i Pokara länge?"
 
@@ -1570,17 +1570,17 @@ Han förklarar,
 
 "Och lyckades du?"
 
-"No. I failed. I chickened out. I met a woman eight months after the divorce, and we had a passionate love affair. It was all-consuming, you know, with her I felt I could actually succeed. And I bailed. Now I’m kind of glad I did.
+"Nej. Jag misslyckades. Jag fegade ur. Jag träffade en kvinna åtta månader efter skilsmässan, och vi hade en passionerad kärleksaffär. Den var fullständigt uppslukande, du vet, med henne kände jag att jag faktiskt skulle kunna lyckas. Och jag drog mig ur. Nu är jag faktiskt glad att jag gjorde det.
 
-So, the only thing I know for sure about myself," upprepar han, "is that I strive. I think of life as a series of challenges. I’ve had a life full of security, and my current challenge is to be able to live without it. Or, rather, I’ve realized just a few days ago, to regain it.
+Så, det enda jag vet med säkerhet om mig själv," upprepar han, "är att jag strävar. Jag tänker på livet som en rad utmaningar. Jag har haft ett liv fyllt av trygghet, och min nuvarande utmaning är att kunna leva utan den. Eller, snarare, det insåg jag för bara några dagar sedan, att vinna tillbaka den.
 
-I’ve done that my whole life, tried to become more, become something else. So that I will finally be loved. I think my whole life I’ve strived to find something worth striving for. I feel devoid, empty."
+Det har jag gjort hela mitt liv, försökt bli mer, bli något annat. För att jag till slut ska bli älskad. Jag tror att jag hela mitt liv har strävat efter att hitta något värt att sträva efter. Jag känner mig urgröpt, tom."
 
 "Men det är något," säger hon och rör vid hans hand. Han rör inte en min.
 
 "Nej. Jag tycker att strävan utan mål är ganska meningslös. Det handlar om viljan att vara ett verktyg."
 
-"Exactly!" utropar hon och rör vid hans hand igen. Hon kunde lika väl sagt det med ord; ‘jag vill att du rör vid mig’.
+"Precis!" utropar hon och rör vid hans hand igen. Hon kunde lika väl sagt det med ord; ‘jag vill att du rör vid mig’.
 
 "Jag har alltid tänkt på det så," fortsätter hon, ett finger ligger kvar på hans hand, "du vet, jag är en healer, det är då jag känner salighet, när jag hjälper människor, helar dem."
 
@@ -1624,12 +1624,12 @@ Han tar MC:n ut på en slumpmässig väg, mot bergen, den blir snabbt en jeep-st
 
 Det gör honom gott. När han kommer tillbaka till hotellet är klumpen glömd, och receptionisten ger honom en lapp med ett menande leende; "Ett meddelande till dig, sir."
 
-"12:45 pm
+"12:45
 
 Stefan,
-Hello! Sorry to miss you this am. I slept horribly last night & needed to sleep in. Thank you for the book! I am obviously still here + will leave tomorrow for Annapurna Sanctuary. Love to meet tonight if you desire – I will be at my hotel between 6-7 pm & wait for you + will go for dinner on the "main drag" if I miss you.
+Hej! Tråkigt att jag missade dig i morse. Jag sov fruktansvärt i natt och behövde sova ut. Tack för boken! Jag är som synes kvar än, åker imorgon till Annapurna Sanctuary. Träffas gärna i kväll om du vill – jag är på mitt hotell mellan klockan sex och sju och väntar på dig, går annars ut och äter på huvudgatan om jag missar dig.
 
-Love
+Kram
 Aili"
 
 "Om du önskar," underligt ordval tänker han, duschar, sover en timme, byter kläder. Står en stund stilla mitt i rummet, stirrar tomt framför sig, väger för och emot, tar sedan en kondom ur necessären och stoppar i fickan.
@@ -1698,11 +1698,11 @@ Han tar ner fingret.
 
 Han håller fingret still, säger
 
-"Now, lean backwards."
+"Luta dig bakåt nu."
 
 Hon lutar sig tillräckligt mycket bakåt för att fingret inte längre ska nudda henne.
 
-"Lean forward."
+"Luta dig framåt."
 
 Hon lutar sig mot hans finger.
 
@@ -1744,7 +1744,7 @@ De kommer till en vägkrok, hon stannar upp, han vänder sig mot henne.
 
 "Det här är så långt jag vill gå."
 
-"Okay," svarar han och drar henne intill sig.
+"Okej," svarar han och drar henne intill sig.
 
 "Jag slits mellan att vilja ge mig ut på min vandring och att stanna här, tillbringa tid med dig."
 
@@ -1754,13 +1754,13 @@ Han kramar henne, innesluter henne, lägger sitt huvud på hennes. De står så 
 
 "Mmm," spinner hon, "du är mysig!"
 
-"Yeah."
+"Mm."
 
 Han ler. Det är dags att gå. De håller hand, fingrarna vill inte riktigt lösa sig från varandra trots att de går varsitt steg bort. Det är ganska patetiskt.
 
 De kramas igen, en sista gång, lösgör sig. Återigen vill inte fingrarna samarbeta, men tillslut ger de sig.
 
-"See ya."
+"Vi ses."
 
 "Ja, god natt!"
 
@@ -1782,7 +1782,7 @@ Han hinner inte läsa en halv sida förrän hon kommer till hans bord, säger
 
 "God morgon," svarar han, och efter att hon satt sig ner ler han och fortsätter,
 
-"Du vet, jag är lite besviken på att du kom ner - jag fantiserade om att knacka på din dörr och ropa Room service; en varm och mysig Stefan enligt beställning."
+"Du vet, jag är lite besviken på att du kom ner - jag fantiserade om att knacka på din dörr och ropa rumsservice; en varm och mysig Stefan enligt beställning."
 
 "Jag ville inte prata med dig i morse. Jag såg dig, och tänkte, borde jag vända och gå tillbaka till mitt rum?"
 
@@ -1812,7 +1812,7 @@ Han sätter händerna ut från tinningarna,
 
 "Vad kallar man de där sakerna man sätter på hästar?"
 
-"Blinders?"
+"Skygglappar?"
 
 "Ja, skygglappar. När jag är i ett seriöst förhållande sätter jag på skygglapparna, jag ser inte ens andra kvinnor. Jag är väldigt monogam."
 
@@ -1874,11 +1874,11 @@ Det visar sig att han heter Robert, är invandrad amerikan, har bott tretton år
 
 Jag förklarar mitt predikament, att jag inte vet något om Nepal, men vill vidare, han säger; "Tja, du skulle kunna åka till Bhaktapur. Det är en underbar plats, ren och stillsam."
 
-Så, Bhaktapur it is. Jag återvänder till hotellet, packar mina saker, checkar ut.
+Så, Bhaktapur får det bli. Jag återvänder till hotellet, packar mina saker, checkar ut.
 
 På bussen läser jag dagstidningen "The Himalayan" jag norpat med mig från caféet; kan bara nicka instämmande när jag i en artikel om frivilligorganisationen Human Rights and Peace Society läser ordföranden stolt deklamera: "Vi tror att HURPES kan göra skillnad!"
 
-Bhaktapur är fantastiskt. En riktigt gammal liten stad späckad med tempel, gårdar av olika storlekar och trånga gränder. Jag knakar min ryggsäck längs huvudgatan, det är så vackert, cd-affärerna spelar ’om mani padme om’-spåret man hör överallt i Nepal på rimlig volym och för en gångs skull kan inte ens försäljarna av billigt krimskrams dra ner intrycket. Lovely!
+Bhaktapur är fantastiskt. En riktigt gammal liten stad späckad med tempel, gårdar av olika storlekar och trånga gränder. Jag knakar min ryggsäck längs huvudgatan, det är så vackert, cd-affärerna spelar ’om mani padme om’-spåret man hör överallt i Nepal på rimlig volym och för en gångs skull kan inte ens försäljarna av billigt krimskrams dra ner intrycket. Härligt!
 
 Jag tar in på gästhuset Robert rekommenderade, det är grymt lågt i tak i hela huset, så jag får gå halvböjd hela tiden. Jag förhandlar ner priset till 250 rupees om dagen mot att jag betalar en vecka i förväg. Det är samtidigt en intern säkerhetsåtgärd mot att jag ska få för mig att sticka innan jag fått vila ut ordentligt.
 
@@ -1890,7 +1890,7 @@ En snorig smutsig pojke, kanske 4-5 år gammal, skriker till när han ser mig oc
 
 Jag sätter mig tittar ut genom ett fönster utan glas med gröna fönsterluckor.
 
-Pojken sätter sig mittemot. Jag ignorerar honom så gott det går, inte på humör för sånt idag. Jag beställer chow mein och plain lassi till frukost och servitören undrar om jag vill beställa något åt pojken.
+Pojken sätter sig mittemot. Jag ignorerar honom så gott det går, inte på humör för sånt idag. Jag beställer chow mein och en vanlig lassi till frukost och servitören undrar om jag vill beställa något åt pojken.
 
 "Tja, borde jag det?" frågar jag. Servitören ser osäker ut.
 
@@ -1898,7 +1898,7 @@ Pojken sätter sig mittemot. Jag ignorerar honom så gott det går, inte på hum
 
 Servitören noterar ner min beställning, försvinner. Efter ett tag kommer han tillbaka med min lassi och kör bort pojken.
 
-Det är höstkallt, rök står ur mun och näsa. Utanför sorlar torget, handlarna lägger ut sina varor på filtar längs torgkanterna, som de antagligen gjort i tusentals år. Till vänster ’five storey temple’ vars långa trappa på båda sidor flankeras av statyer av i tur och ordning, apor, getter, lejon, elefanter och till sist två människofigurer; en alternativ evolutionsteori.
+Det är höstkallt, rök står ur mun och näsa. Utanför sorlar torget, handlarna lägger ut sina varor på filtar längs torgkanterna, som de antagligen gjort i tusentals år. Till vänster ’femvåningstemplet’ vars långa trappa på båda sidor flankeras av statyer av i tur och ordning, apor, getter, lejon, elefanter och till sist två människofigurer; en alternativ evolutionsteori.
 
 Ett dimdammigt morgondis ligger som ett mjukt täcke över torget, solens första strålar bildar horisontella Jakobsstegar kring hörn och tak.
 
@@ -1934,7 +1934,7 @@ Det är sött att se en annan äldre kille cirkla runt henne. Han är uppenbart 
 
 När bussen kommer är jag bland de första på, men eftersom jag är så förvirrad hinner jag inte ta någon sittplats. Bussen är grymt låg i tak, så jag får stå nästan helt framåtböjd. Jag börjar förtvivla när flickan säger något till pojken och han ger motvilligt upp sin sittplats åt mig.
 
-Bussresan kostade 20 rupier, vilket jag misstänker var ’tourist price’, inte ’nepali price’. Nåja, två kronor, det kan jag leva med.
+Bussresan kostade 20 rupier, vilket jag misstänker var ’turistpris’, inte ’nepalipris’. Nåja, två kronor, det kan jag leva med.
 
 När vi kommer till Narangkot förbereder jag mig för att återvända, när hon frågar om jag vill följa med och hälsa på i hennes skola. Jag tackar glatt ja. Som tur är, för annars hade jag missat hela poängen med Narangkot. Man måste nämligen gå genom hela samhället och ut på andra sidan för att få se vyn: Himalayakedjan på avstånd.
 
@@ -1980,7 +1980,7 @@ Följt av en kommentar om ditt land, "Jag har en vän i Sverige!", "Kallt land, 
 
 Kanske vart femte människa du stöter på kör drillen. Och det är ganska många på en dag.
 
-Min kurva börjar bli bra brant nu. Buffelkurvan, alltså. Jag har börjat med ’go away’ som Svar Direkt. Bara ignorera funkar inte.
+Min kurva börjar bli bra brant nu. Buffelkurvan, alltså. Jag har börjat med ’försvinn’ som Svar Direkt. Bara ignorera funkar inte.
 
 Försäljare, civilklädda eller i full uniform, är som affischer på väggen; kasta en blick på dem och du får ta del av deras budskap.
 
@@ -1994,7 +1994,7 @@ Perfekt.
 
 Förresten har jag bestämt mig för att i viss mån dumpa sydost-asien-ambitionerna till förmån för att göra Indien ordentligt. Jag menar, Thailand, Malaysia, Vietnam, Laos, Kambodja kan man göra vilken semester som helst men Indien kräver exceptionellt med tid.
 
-Love, Stefan
+Kram, Stefan
 # 12. Gautam
 
 _Dag 53. Bhaktapur. 23 november 2003._
@@ -2033,10 +2033,10 @@ När jag kommer tillbaka inspekterar han ringen, börjar såga i den. Jag tittar
 "Ja."
 "Skulle du kunna göra ett mönster på den blanka delen av ringen?"
 "Inte så här. Den här är maskingjord. Ingen människa kan göra det."
-"But another pattern like it?"
+"Men ett annat mönster i samma stil?"
 "Ja. Men inte jag. Jag är ingen hantverkare. Jag kan ta dig till hantverkare imorgon."
 "Ja tack. När?"
-"Eight o’clock tomorrow morning."
+"Klockan åtta i morgon bitti."
 "Ok."
 
 Så, åtta morgonen efter promenerade vi ut ur gamla staden till ett kyffe i ett gammalt hus, det fanns inte ens dörrar mellan lägenheterna, bara draperier.
@@ -2076,7 +2076,7 @@ Han nickar.
 "Men du vet, när du får ditt barn kommer du att älska det mer på grund av det här."
 Han missförstår, svarar,
 "Jag älskade min fru i två år innan vi gifte oss."
-"Oh," hakar jag på, "so it’s a love marriage?"
+"Jaha," hakar jag på, "så det är ett kärleksäktenskap?"
 "Ja. Det är mycket ovanligt. Alla mina systrar och bröder har arrangerade äktenskap. Det var hemligt. Alla sa, varför gifter du dig inte, varför hittar du inte en flicka. De visste inte."
 "Så, vad sa dina föräldrar när du kom hem och sa, jag vill gifta mig med den här flickan?"
 "För dem var det okej. Hon var av samma kast. Jag är bajracharya."
@@ -2090,7 +2090,7 @@ Han missförstår, svarar,
 
 Han ler lite.
 
-"But my father-in-law doesn’t like me."
+"Men min svärfar gillar mig inte."
 
 Jag flinar hundflinet, erkänner
 
@@ -2108,12 +2108,12 @@ Vi återvänder till gamla staden. Vi pratar hela vägen tillbaka, om livet i Ne
 
 "Hur mycket för de här?"
 Han tittar på dem, tittar på mig, säger
-"For two? 300 rupees."
+"För två? 300 rupier."
 Jag höjer ögonbrynen. Det är misstänkt billigt.
 "300 rupier? Det är turistpris?"
 "Nej. Nepalesiskt pris. Jag vill inte lura dig."
 "Så, vad är turistpris?"
-"300 rupees each."
+"300 rupier styck."
 "Så. Jag köper de här för 600 rupier. Och jag ger dig 50 rupier extra för att du visade mig till hantverkaren."
 
 Han tittar på mig, konstaterar snabbt,
@@ -2158,7 +2158,7 @@ Till slut stormar jag ut ur gästhuset iväg till cybercaféet runt hörnet, log
 
 "Jag önskar du kunde gå naken i Nepal," avslutar hon.
 
-Fan ta henne tänker jag och flyr, flyr upp för trapporna till ’five storey temple’, sitter där, tittar ut över det vidsträckta människohavet och gråter hjälplöst.
+Fan ta henne tänker jag och flyr, flyr upp för trapporna till ’femvåningstemplet’, sitter där, tittar ut över det vidsträckta människohavet och gråter hjälplöst.
 
 Jag gråter för att jag har blivit så instängd, att jag inte längre vågar lita på någon, på att det finns en plan, en mening. Jag gråter för att jag varit så oförskämd mot Gautam, gjort honom illa. Återblickar som vita blixtar;
 
@@ -2173,7 +2173,7 @@ Hans näst högsta dröm är att äga en motorcykel. Han älskar motorcyklar.
 "Har du en motorcykel?" frågar han.
 "Nej. Eller, ja. Men det är ingen riktig motorcykel, det är bara en 250 kubik."
 "Här har vi bara 100 eller 150 kubik."
-"Wow. Jag tycker att en 750 är en riktig motorcykel."
+"Oj. Jag tycker att en 750 är en riktig motorcykel."
 
 Finfint. Now add insult to injury:
 
@@ -2187,7 +2187,7 @@ Hans min och tystnad talade om skam över både sig själv och sitt folk.
 
 Och hur jag bara smet iväg, flydde, inte ville vara med, delta, längre.
 
-Så där satt jag längst uppe på den långa trappan till ’five storey temple’.
+Så där satt jag längst uppe på den långa trappan till ’femvåningstemplet’.
 
 Jag är så ledsen, Gautam, så fruktansvärt ledsen.
 
@@ -2203,7 +2203,7 @@ Och får svar.
 
 Över mig kommer ett lugn; jag vet vad jag ska göra.
 
-Jag ska gå till Gautams shop nästa morgon, låtsas som ingenting, be om ursäkt för att jag lämnade honom så abrupt, slå mig ner och se vad som händer.
+Jag ska gå till Gautams affär nästa morgon, låtsas som ingenting, be om ursäkt för att jag lämnade honom så abrupt, slå mig ner och se vad som händer.
 
 Sedan ska jag ta mig fan låta honom visa mig sitt Bhaktapur, ta hand om mig, ge mig mat bättre än restaurangmat, hänga med mig, berätta om hur det är att vara fattig silversmed i Nepal och sedan vackert betala honom för att han ägnat timmar av sitt liv för att göra detta om det är det han vill. Och jag ska ta mig fan lita på att han när han sätter priset sätter det hederligt, för jag ska ta mig fan lita på min känsla att han är en hederlig man. Och om det så handlar om 1000 rupier per dag, så är det fortfarande inte mer än 200 kronor - en sketen t-shirt på H&M.
 
@@ -2211,7 +2211,7 @@ Fylld av tacksamhet rör jag vid templet, sedan vid pannan, som jag sett Nepales
 
 Så; i morse slog jag mig ner hos Gautam i hans affär, bad om ursäkt, åt lunch i hans hem, lika god den här gången, lät honom ta mig till Assarpur, en lika lång och underbar trek som den kring Telankoth.
 
-På vägen frågar jag honom om hans ’business’. Den är låg, han har problem, har fått pantsätta sin frus smycken och skäms för det. Han är inte affärsskolad på något sätt så jag ger honom en crash course; längs vindlande fotstigar och i branta uppförsbackar förklarar jag för honom varför en ’budget’ är ett kraftfullt verktyg, varför han bör föra bok över vilken sorts smycken han säljer mest av samt en diskussion kring materialkostnad, timpris, marginal och profit. Jag toppar av med att beskriva exakt hur mycket pengar turister har att svänga sig med, eftersom han tveksamt invänt att han inte vill ta ut omoraliskt hög profit.
+På vägen frågar jag honom om hans ’rörelse’. Den är låg, han har problem, har fått pantsätta sin frus smycken och skäms för det. Han är inte affärsskolad på något sätt så jag ger honom en snabbkurs; längs vindlande fotstigar och i branta uppförsbackar förklarar jag för honom varför en ’budget’ är ett kraftfullt verktyg, varför han bör föra bok över vilken sorts smycken han säljer mest av samt en diskussion kring materialkostnad, timpris, marginal och vinst. Jag toppar av med att beskriva exakt hur mycket pengar turister har att svänga sig med, eftersom han tveksamt invänt att han inte vill ta ut omoraliskt hög vinst.
 
 My god, I’ve created a monster.
 
@@ -2262,13 +2262,13 @@ avslutar,
 
 "Kanske läser vi om det i tidningen imorgon."
 
-Gudinnan som svarade på min bön där på trappen upp till five storey temple heter Shidde Laxmi. Enligt Gautam står hon för välstånd genom rätt handling. Det låter rimligt.
+Gudinnan som svarade på min bön där på trappan upp till femvåningstemplet heter Shidde Laxmi. Enligt Gautam står hon för välstånd genom rätt handling. Det låter rimligt.
 
-Han ville förresten inte ha några pengar. Han hade snarare gått back på mig, eftersom han envisades med att betala för allt under våra vandringar. Vid ett tillfälle tog han mig till en skyltlös shop där de sålde chayng, ett mellanting mellan vin och öl gjort på ris. Ägaren satt avdomnad i ett fönstersmyg, pratade släpigt och kort med låg röst och hängande underläpp. Hans fru serverade. Gautam konstaterade att mannen var som hans far: han sålde en och drack en. Sedan skällde han på honom för hans uppsvällda diabetesfot och berättade att byns doktor bara blåste på foten när mannen behövde riktig medicin.
+Han ville förresten inte ha några pengar. Han hade snarare gått back på mig, eftersom han envisades med att betala för allt under våra vandringar. Vid ett tillfälle tog han mig till en skyltlös butik där de sålde chayng, ett mellanting mellan vin och öl gjort på ris. Ägaren satt avdomnad i ett fönstersmyg, pratade släpigt och kort med låg röst och hängande underläpp. Hans fru serverade. Gautam konstaterade att mannen var som hans far: han sålde en och drack en. Sedan skällde han på honom för hans uppsvällda diabetesfot och berättade att byns doktor bara blåste på foten när mannen behövde riktig medicin.
 
 Så varför göra så mycket väsen av en fattig silversmed när jag inte skrivit något om de hemlösa tiggarna i New Delhi? Det handlar om att kunna relatera. Gautam berörde mig för att jag kunde sätta mig in i hans situation. Han var av fattig medelklass, hade en affär, ett hem, en gravid hustru med komplikationer jag kände igen. Det var inte en hopplös situation, bara svår.
 
-När jag till slut sa adjö lämnade jag 600 rupier på hans disk och gick till five storey temple för att tacka Shidde Laxmi för att hon sänt mig mod att lita på honom.
+När jag till slut sa adjö lämnade jag 600 rupier på hans disk och gick till femvåningstemplet för att tacka Shidde Laxmi för att hon sänt mig mod att lita på honom.
 ---
 
 Tjugo år senare
