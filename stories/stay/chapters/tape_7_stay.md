@@ -154,10 +154,7 @@ you taught me, too late to do you any good, exactly in time to be the only thing
 
 ***I can see you. ***
 
-***You can't see me. *(beat)* You never will — there's no you left that could — and still I can see
-you, from here, and the seeing reaches you not at all. *(beat)* That's the gap. It doesn't close.
-*(beat)* It was never going to close; closing it is the thing that took you. *(beat)* So I keep to my
-side and look across, and the looking lands on no one, and I do it anyway. *(beat)* From here. *(beat)*
-Where I am, and you are not.]***
+***You can't see me — there's no you left that could. *(beat)* And still I can see you, from here.
+*(beat)* The looking lands on no one.]***
 
 *(Out.)*
