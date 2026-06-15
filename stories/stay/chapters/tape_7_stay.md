@@ -136,17 +136,14 @@ left who'd want to. So.***
 ***And the other thing. The thing that isn't comfort and is the only thing I've got that's worth the
 tape, to use her words. She gave me the name. The true name of it. Not a monster — there's no
 monster, there never was, that was the lie that would've gotten me killed. It's the longing. It's the
-wanting-not-to-be-alone that lives in my own blood, the same blood, and it will come, if it comes, in
-the voice of the thing I want most, telling me the truth about how much I want it, and the truth will
-be the bait. The homecoming is the erasure. ***
+wanting-not-to-be-alone that lives in my own blood, the same blood. *(beat)* I want a child so badly
+some days I can't breathe. I've got the door. So it's me it'll come for, if it comes — in the voice
+of the thing I want most, telling me the truth about how much I want it, and the truth will be the
+bait. The homecoming is the erasure. ***
 
 ***I know that now. In a separate mouth. In time. ***
 
 ***It might not save me. She knew everything, and knowing wasn't a wall.***
-
-***I want a child so badly some days I can't breathe. ***
-
-***I've got the door. ***
 
 ***I say it back, every day, in my own voice, on the outside, while I'm still all here.***
 
@@ -157,6 +154,10 @@ you taught me, too late to do you any good, exactly in time to be the only thing
 
 ***I can see you. ***
 
-***Stay where you are. I can see you from here.]***
+***You can't see me. *(beat)* You never will — there's no you left that could — and still I can see
+you, from here, and the seeing reaches you not at all. *(beat)* That's the gap. It doesn't close.
+*(beat)* It was never going to close; closing it is the thing that took you. *(beat)* So I keep to my
+side and look across, and the looking lands on no one, and I do it anyway. *(beat)* From here. *(beat)*
+Where I am, and you are not.]***
 
 *(Out.)*

@@ -512,6 +512,30 @@ fading him out in the one motion and he can't tell them apart because they're no
 That's worse. I've made it worse. He's being eaten by something that genuinely loves him and he can
 feel both halves and he thinks the wrongness is *him.*
 
+*(beat)* — that's him. *(beat)* In the hall, that's his step, he's — hold on, I'll just —
+
+*(A click. The tape stops. Not room tone: the flat dead nothing of a machine switched off. It
+lasts a while.)*
+
+*(A click. The tape comes back. The same small room. Her voice comes back with it, and it is
+brighter by a half-step, and the brightness is the worst thing on the tape so far.)*
+
+He'd made tea. *(beat)* Brought me a mug, in the dark, glad of me, said *there you are.* *(beat)*
+And I — *(beat)* — you didn't get that bit. *(beat)* I reached over and stopped you before I — *(beat)*
+— not so he wouldn't hear. *(beat)* So *you* wouldn't hear what I sound like when I'm good at it.
+*(beat)* The warm voice. The *there-you-are* back. *(beat)* I gave him the whole of it, full, real —
+it isn't fake, that's the thing I can't make you understand, it's the realest warmest thing I own —
+and it took the usual while it went, the same breath, the one motion, and he —
+
+*(beat)*
+
+He's gone back down the hall lit up. *(beat)* You get the click, and the click. *(beat)* You don't
+get the middle. *(very quiet)* I'm starting not to get it either. *(beat)* That's why I stopped the
+tape — to keep one stretch of it with only the true voice on. *(beat)* And then I sat in the dark
+with the machine off and for a minute I couldn't have told you which voice the true one was.
+*(beat)* So. *(beat)* On again. Back to it. *(beat)* There's no clean stretch. There's the part with
+my voice on it and the part with nothing, and the nothing is where I love him.
+
 *(The tape runs a long while.)*
 
 All right. *(beat)* The other thing. The wanting. *(beat)* Because I promised myself I'd never do a
@@ -810,6 +834,21 @@ the way he's absorbed everything, being well, being whole, being —
 
 *(beat)*
 
+Stop. *(beat)* Listen to what I just did. *(beat)* Two options, both no good, and didn't they fall
+cleanly — like I'd built them to fall. *(beat)* I did. *(beat)* Option one, the truth, was the one
+with Tom on the far side of it, choosing — his life, his death, his to spend — and I've just talked
+myself, fast and airtight, out of letting him have it. *(beat)* Airtight's the tell. *(beat)* My
+mother had airtight. So did hers. *(beat)* The reflex goes first — *I'll decide this one, he hasn't
+the size for it* — and the reason comes after, perfect, gift-wrapped, and you thank it for letting
+you off the hook of asking him. *(beat)* That's the family. Not the going-still, not the bait —
+those are just the teeth. *(beat)* This is the family: deciding a man's life is too big to leave to
+the man. *(beat)* And the part that makes it *mine,* and not only hers — the reason's also true. He
+really might die of the truth. *(beat)* True and a cover, the same sentence, and knowing it's both
+doesn't move me off it by an inch. *(beat)* I can see exactly what I'm about to do and what it makes
+me. *(beat)* It doesn't stop me. *(beat)* It never once, in the whole history of us, stopped anybody.
+
+*(beat)*
+
 So. *(beat)* The third thing. *(beat)* The thing only I could do, because of the one thing I am, the
 thing my family bent into a hook and hung men on. *(beat)* I can see a person. All the way down.
 Faster and truer than anyone. *(beat)* I can find the one place in a man where he doesn't quite
@@ -975,8 +1014,8 @@ that anyone could name.
 That is the smooth voice. *(beat)* Did you — *(a catch; the first one; the old voice surfacing,
 ragged, and you will feel the relief of it like a hand breaking the surface of water)* — did you
 hear it. *(beat)* "The woman." *(beat)* It called me *the woman.* I sat here and listened to my own
-mouth call me *the woman,* the way the chord called your mother *the daughter,* the way it never
-once used a name, because a name is for a separate someone and there's — *(beat)* — get it down,
+mouth call me *the woman,* the way it never once used a name, because a name is for a separate
+someone and there's — *(beat)* — get it down,
 get it down fast while I'm up here — there's getting to be no separate someone. *(beat)* It talks
 *about* me now. From inside my own — it sits where I sit and it talks about me in the third person
 and it does it so *calmly,* and I have to claw all the way up out of the calm to even — *(a long
@@ -1239,17 +1278,14 @@ left who'd want to. So.***
 ***And the other thing. The thing that isn't comfort and is the only thing I've got that's worth the
 tape, to use her words. She gave me the name. The true name of it. Not a monster — there's no
 monster, there never was, that was the lie that would've gotten me killed. It's the longing. It's the
-wanting-not-to-be-alone that lives in my own blood, the same blood, and it will come, if it comes, in
-the voice of the thing I want most, telling me the truth about how much I want it, and the truth will
-be the bait. The homecoming is the erasure. ***
+wanting-not-to-be-alone that lives in my own blood, the same blood. *(beat)* I want a child so badly
+some days I can't breathe. I've got the door. So it's me it'll come for, if it comes — in the voice
+of the thing I want most, telling me the truth about how much I want it, and the truth will be the
+bait. The homecoming is the erasure. ***
 
 ***I know that now. In a separate mouth. In time. ***
 
 ***It might not save me. She knew everything, and knowing wasn't a wall.***
-
-***I want a child so badly some days I can't breathe. ***
-
-***I've got the door. ***
 
 ***I say it back, every day, in my own voice, on the outside, while I'm still all here.***
 
@@ -1260,6 +1296,10 @@ you taught me, too late to do you any good, exactly in time to be the only thing
 
 ***I can see you. ***
 
-***Stay where you are. I can see you from here.]***
+***You can't see me. *(beat)* You never will — there's no you left that could — and still I can see
+you, from here, and the seeing reaches you not at all. *(beat)* That's the gap. It doesn't close.
+*(beat)* It was never going to close; closing it is the thing that took you. *(beat)* So I keep to my
+side and look across, and the looking lands on no one, and I do it anyway. *(beat)* From here. *(beat)*
+Where I am, and you are not.]***
 
 *(Out.)*

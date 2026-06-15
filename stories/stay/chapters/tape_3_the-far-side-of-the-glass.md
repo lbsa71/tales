@@ -105,6 +105,30 @@ fading him out in the one motion and he can't tell them apart because they're no
 That's worse. I've made it worse. He's being eaten by something that genuinely loves him and he can
 feel both halves and he thinks the wrongness is *him.*
 
+*(beat)* — that's him. *(beat)* In the hall, that's his step, he's — hold on, I'll just —
+
+*(A click. The tape stops. Not room tone: the flat dead nothing of a machine switched off. It
+lasts a while.)*
+
+*(A click. The tape comes back. The same small room. Her voice comes back with it, and it is
+brighter by a half-step, and the brightness is the worst thing on the tape so far.)*
+
+He'd made tea. *(beat)* Brought me a mug, in the dark, glad of me, said *there you are.* *(beat)*
+And I — *(beat)* — you didn't get that bit. *(beat)* I reached over and stopped you before I — *(beat)*
+— not so he wouldn't hear. *(beat)* So *you* wouldn't hear what I sound like when I'm good at it.
+*(beat)* The warm voice. The *there-you-are* back. *(beat)* I gave him the whole of it, full, real —
+it isn't fake, that's the thing I can't make you understand, it's the realest warmest thing I own —
+and it took the usual while it went, the same breath, the one motion, and he —
+
+*(beat)*
+
+He's gone back down the hall lit up. *(beat)* You get the click, and the click. *(beat)* You don't
+get the middle. *(very quiet)* I'm starting not to get it either. *(beat)* That's why I stopped the
+tape — to keep one stretch of it with only the true voice on. *(beat)* And then I sat in the dark
+with the machine off and for a minute I couldn't have told you which voice the true one was.
+*(beat)* So. *(beat)* On again. Back to it. *(beat)* There's no clean stretch. There's the part with
+my voice on it and the part with nothing, and the nothing is where I love him.
+
 *(The tape runs a long while.)*
 
 All right. *(beat)* The other thing. The wanting. *(beat)* Because I promised myself I'd never do a

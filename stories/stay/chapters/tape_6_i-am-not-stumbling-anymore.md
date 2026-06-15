@@ -22,8 +22,8 @@ that anyone could name.
 That is the smooth voice. *(beat)* Did you — *(a catch; the first one; the old voice surfacing,
 ragged, and you will feel the relief of it like a hand breaking the surface of water)* — did you
 hear it. *(beat)* "The woman." *(beat)* It called me *the woman.* I sat here and listened to my own
-mouth call me *the woman,* the way the chord called your mother *the daughter,* the way it never
-once used a name, because a name is for a separate someone and there's — *(beat)* — get it down,
+mouth call me *the woman,* the way it never once used a name, because a name is for a separate
+someone and there's — *(beat)* — get it down,
 get it down fast while I'm up here — there's getting to be no separate someone. *(beat)* It talks
 *about* me now. From inside my own — it sits where I sit and it talks about me in the third person
 and it does it so *calmly,* and I have to claw all the way up out of the calm to even — *(a long

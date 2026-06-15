@@ -61,6 +61,21 @@ the way he's absorbed everything, being well, being whole, being —
 
 *(beat)*
 
+Stop. *(beat)* Listen to what I just did. *(beat)* Two options, both no good, and didn't they fall
+cleanly — like I'd built them to fall. *(beat)* I did. *(beat)* Option one, the truth, was the one
+with Tom on the far side of it, choosing — his life, his death, his to spend — and I've just talked
+myself, fast and airtight, out of letting him have it. *(beat)* Airtight's the tell. *(beat)* My
+mother had airtight. So did hers. *(beat)* The reflex goes first — *I'll decide this one, he hasn't
+the size for it* — and the reason comes after, perfect, gift-wrapped, and you thank it for letting
+you off the hook of asking him. *(beat)* That's the family. Not the going-still, not the bait —
+those are just the teeth. *(beat)* This is the family: deciding a man's life is too big to leave to
+the man. *(beat)* And the part that makes it *mine,* and not only hers — the reason's also true. He
+really might die of the truth. *(beat)* True and a cover, the same sentence, and knowing it's both
+doesn't move me off it by an inch. *(beat)* I can see exactly what I'm about to do and what it makes
+me. *(beat)* It doesn't stop me. *(beat)* It never once, in the whole history of us, stopped anybody.
+
+*(beat)*
+
 So. *(beat)* The third thing. *(beat)* The thing only I could do, because of the one thing I am, the
 thing my family bent into a hook and hung men on. *(beat)* I can see a person. All the way down.
 Faster and truer than anyone. *(beat)* I can find the one place in a man where he doesn't quite
