@@ -1,0 +1,73 @@
+{
+  "_doc": "Cast + cue mapping for multi-voice rendering of the SEEM radio play via tools/voice-renderer/play.py. Voice keys are SPEAKER or SPEAKER@STREAM (DANIEL@HIM = Daniel's interior). 'fallback' redirects a key to another's voice. 'cueMap' turns *(delivery cues)* into eleven_v3 audio tags; unmapped cues are dropped. POC casting — swap voice_ids freely, the renderer re-renders only the changed character (voice_id is part of the cache key).",
+  "model": "eleven_v3",
+  "defaults": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.25,
+    "use_speaker_boost": true,
+    "speed": 1.0
+  },
+  "voices": {
+    "NARRATOR": {
+      "_who": "Wren, years later, reconstructing — intimate, dry, close as a confession",
+      "voice_id": "DVxf8tkOIac2UAoDXYVS",
+      "_name": "Mira — Calm Grounded British",
+      "stability": 0.5, "style": 0.22, "speed": 0.95
+    },
+    "DANIEL": {
+      "_who": "the Man, out loud (SURFACE) — warm, ordinary, the one true human",
+      "voice_id": "H4VXXfVgAPNVY69qmQEt",
+      "_name": "Beacon — Warm British Narrator",
+      "stability": 0.45, "style": 0.35
+    },
+    "DANIEL@HIM": {
+      "_who": "Daniel's interior — same voice, warmer and fully-roomed",
+      "voice_id": "H4VXXfVgAPNVY69qmQEt",
+      "_name": "Beacon (interior settings)",
+      "stability": 0.4, "style": 0.5, "speed": 0.97
+    },
+    "CHORD": {
+      "_who": "the channel — cold, procedural, appraising; flat by design",
+      "voice_id": "2qQJWjw5XdG80GreshqG",
+      "_name": "Eleanor — Gracious and Authoritative",
+      "stability": 0.9, "style": 0.0, "speed": 1.0
+    },
+    "VALA": {
+      "_who": "the Mother — mild, grandmotherly, almost nothing there; Lear not monster",
+      "voice_id": "wGcFBfKz5yUQqhqr0mVy",
+      "_name": "Maria Moody — Grandmotherly Storykeeper",
+      "stability": 0.6, "style": 0.18
+    },
+    "LISS": {
+      "_who": "the Maiden — warm, easy, bright, younger",
+      "voice_id": "Rvv3PaL7OEWNGWdvwS62",
+      "_name": "Phoebe — Warm, Refined & Professional",
+      "stability": 0.4, "style": 0.4
+    },
+    "MAN": {
+      "_who": "the opening lonely man — friendly surface, the colour turned down",
+      "voice_id": "ut7UKU5ay2YlOVgnr9uw",
+      "_name": "Douglas — Warm & Wry",
+      "stability": 0.6, "style": 0.15
+    }
+  },
+  "fallback": {
+    "WREN": "NARRATOR"
+  },
+  "cueMap": {
+    "very quiet": "[whispers]",
+    "quieter": "[whispers]",
+    "quieter, to himself": "[whispers]",
+    "small laugh at himself": "[laughs]",
+    "a laugh, a little nervous": "[laughs nervously]",
+    "she catches it — almost laughs at herself": "[laughs]",
+    "he stops himself": "[stops]"
+  },
+  "timing": {
+    "beatRepr": "…",
+    "utteranceGapMs": 250,
+    "sceneGapMs": 1400,
+    "sfxGapMs": 900
+  }
+}
