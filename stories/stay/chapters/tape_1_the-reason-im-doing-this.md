@@ -115,15 +115,11 @@ could win it in front of anyone. *(beat)* I've been winning it in front of mysel
 *(The tape runs.)*
 
 Here's the crack in it. *(beat)* The one I can't quite — *(beat)* They open the door from the
-other side. With somebody who's already through. That's the rule, that's how they wake a baby:
-an open door wakes a shut one. *(beat)* But it works the other way too. I learned that the way I
-learn everything, too late, reading between the lines of a thing nobody meant me to read. *(beat)*
-A shut door, grown up, no one ever opened it — if *she* has a baby, and the baby's got the door,
-and the baby reaches for her the way they all reach — *(beat)* — the baby can open the mother.
-*(beat)* From the inside. Backwards. *(beat)* A child can wake a grown woman who was never woken.
-That's how a new line starts, on the rare, terrible, one-in-a-thousand-years times one ever does.
-A castaway. A woman with a shut door, living an ordinary life, who has a baby, and the baby turns
-the key.
+other side. With somebody who's already through; an open door wakes a shut one. *(beat)* But it
+works the other way too. I learned that the way I learn everything, too late, reading between the
+lines of a thing nobody meant me to read. *(beat)* A shut door, grown up, no one ever opened it —
+if *she* has a baby, and the baby's got the door, and the baby reaches for her the way they all
+reach — *(beat)* — the baby can open the mother. *(beat)* From the inside. Backwards.
 
 *(beat)*
 

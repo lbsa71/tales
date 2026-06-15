@@ -142,18 +142,13 @@ be the bait. The homecoming is the erasure. ***
 
 ***I know that now. In a separate mouth. In time. ***
 
-***It might not save me. She knew everything and knowing wasn't a wall. So I won't tell you it's a
-happy ending; I'll tell you it's the only ending there is, which is that one frightened separate
-person managed, at terrible cost, with no hope of saving herself, to hand the next frightened separate
-person the true name of the thing in the dark — and that the handing was love, and the love crossed
-the gap, even though it saved no one, because love that helps no one is the only kind there is.***
+***It might not save me. She knew everything, and knowing wasn't a wall.***
 
 ***I want a child so badly some days I can't breathe. ***
 
 ***I've got the door. ***
 
-***I say it back, every day, in my own voice, on the outside, while I'm still all here: the
-homecoming is the erasure. Stay a self. The staying is the love.***
+***I say it back, every day, in my own voice, on the outside, while I'm still all here.***
 
 ***And, Wren — *(this part isn't for you, the listener; forgive me; I've earned one line that isn't
 for the record)* — I can see you. From here. I'm not trying to make you come back. I know you can't.
