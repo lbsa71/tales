@@ -1,0 +1,49 @@
+{
+  "_doc": "Cast + cue mapping for STAY (Book Two, the dictaphone book). Unlike SEEM, STAY is one degrading voice plus a sparse frame. WREN = the living, groping, self-correcting voice of the early tapes. WREN@WE = the same woman late, after the famble is gone: flat, roomless, fluent — the chord-voice from SEEM turned into the first person. The degradation is the whole point, so the two keys deliberately share nothing but the speaker; render late passages tagged @WE to hear the self leave. ASSEMBLER = Liss's daughter, who reconstructs the tapes (the bracketed-italics frame). For audio, label Wren's late passages SPEAKER WREN@WE; the reading text carries the degradation in the prose itself.",
+  "model": "eleven_v3",
+  "defaults": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.25,
+    "use_speaker_boost": true,
+    "speed": 1.0
+  },
+  "voices": {
+    "WREN": {
+      "_who": "Wren into the dictaphone, early — dry, self-correcting, groping for the word; a living separate self reaching across a gap. The SEEM narrator, older, frightened, lucid.",
+      "voice_id": "DVxf8tkOIac2UAoDXYVS",
+      "_name": "Mira — Calm Grounded British",
+      "stability": 0.45, "style": 0.28, "speed": 0.95
+    },
+    "WREN@WE": {
+      "_who": "Wren late — the famble gone, the groping gone; flat, smooth, roomless, fluent. The chord-voice from SEEM, now speaking as 'I' and then as 'we'. Same speaker, no longer a separate self. The not-stumbling is the horror.",
+      "voice_id": "DVxf8tkOIac2UAoDXYVS",
+      "_name": "Mira (flattened — the we settings)",
+      "stability": 0.95, "style": 0.0, "speed": 1.0
+    },
+    "ASSEMBLER": {
+      "_who": "Liss's daughter, never-woken, reconstructing the tapes too late and with love. The frame. Younger than Wren, carries her own dread, sees people. Never names herself.",
+      "voice_id": "Rvv3PaL7OEWNGWdvwS62",
+      "_name": "Phoebe — Warm, Refined & Professional",
+      "stability": 0.5, "style": 0.3, "speed": 0.97
+    }
+  },
+  "fallback": {
+    "NARRATOR": "WREN"
+  },
+  "cueMap": {
+    "very quiet": "[whispers]",
+    "quiet": "[whispers]",
+    "barely": "[whispers]",
+    "a small dry sound": "[exhales]",
+    "almost a laugh": "[laughs softly]",
+    "a long breath": "[sighs]",
+    "she stops": "[stops]"
+  },
+  "timing": {
+    "beatRepr": "…",
+    "utteranceGapMs": 300,
+    "sceneGapMs": 1600,
+    "sfxGapMs": 1000
+  }
+}

@@ -49,6 +49,7 @@ jobs:
             "resebrev-svenska|Resebrev|sv|stories/resebrev/translations/svenska/kapitel/kapitel_*.md"
             "seem|Seem|en|stories/seem/chapters/episode_*.md"
             "seem-upplasning-sv|Seem (uppläsning)|sv|stories/seem/translations/svenska.uppläsning/kapitel/kapitel_*.md"
+            "stay|Stay|en|stories/stay/chapters/tape_*.md"
           )
 
           for entry in "${STORIES[@]}"; do
