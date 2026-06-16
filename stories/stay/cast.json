@@ -31,6 +31,10 @@
   "fallback": {
     "NARRATOR": "WREN"
   },
+  "ramp": {
+    "_doc": "The degradation clock: WREN's numeric settings interpolate toward WREN@WE across the tapes (tape 1 = full WREN, last tape = full WREN@WE). Same voice_id; you hear the separate self flatten into the we. Per-tape gradient — coarse but it tracks the book's own ramp (Tape 6 = 'I Am Not Stumbling Anymore').",
+    "WREN": { "to": "WREN@WE" }
+  },
   "cueMap": {
     "very quiet": "[whispers]",
     "quiet": "[whispers]",
@@ -44,6 +48,8 @@
     "beatRepr": "…",
     "utteranceGapMs": 300,
     "sceneGapMs": 1600,
-    "sfxGapMs": 1000
+    "sfxGapMs": 1000,
+    "beatGapMs": 650,
+    "tapeGapMs": 2800
   }
 }

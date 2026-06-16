@@ -78,6 +78,7 @@ class Element:
     tts_text: str = ""      # cleaned text actually sent to TTS
     cues: list[str] = field(default_factory=list)   # cues seen (mapped or dropped)
     dropped_cues: list[str] = field(default_factory=list)
+    tape: int = 0           # STAY: which tape (1..7) this element belongs to
     # sfx / episode:
     note: str = ""          # bold sound-design text, or episode title
 
@@ -229,6 +230,132 @@ _KNOWN_SPEAKERS = {"NARRATOR", "WREN", "DANIEL", "CHORD", "VALA", "LISS", "MAN",
 
 
 # --------------------------------------------------------------------------
+# STAY format — one voice (Wren) into a dictaphone, plus a sparse frame
+# (the assembler, in **[bracketed italics]**). No SPEAKER: labels.
+# --------------------------------------------------------------------------
+
+TAPE_RE = re.compile(r"^#\s+Tape\s+(\d+)\s*:?\s*(.*)$", re.I | re.S)
+# A frame interjection: **[...]** or ***[...]*** (bold/bold-italic brackets).
+ASSEMBLER_RE = re.compile(r"^\*{2,3}\[(?P<text>.*)\]\*{2,3}$", re.S)
+# A whole paragraph that is a single *(...)* cue = room tone / the tape running.
+WHOLE_CUE_RE = re.compile(r"^\*\((?P<cue>[^)]*)\)\*$", re.S)
+
+
+# An assembler interjection: **[...]** or ***[...]***, NON-greedy, may cross
+# blank lines. The literal "[Bracketed italics]" is the legend's format key,
+# not an interjection — left in place so its paragraph drops as legend.
+_ASM_SPAN = re.compile(r"\*{2,3}\[(?P<inner>.+?)\]\*{2,3}", re.S)
+
+
+def parse_stay(text: str, cue_map: dict, beat_repr: str) -> list[Element]:
+    """Parse the dictaphone format. Plain text -> WREN; a **[...]** / ***[...]***
+    frame (which may span several paragraphs) -> ASSEMBLER; a standalone
+    *(beat)* -> a pause; a standalone *(room tone)*, the opening legend, and the
+    per-tape "[Bracketed italics]…" format reminders -> dropped sound-design."""
+    # 1. Lift real assembler spans out to placeholders so block-splitting can't
+    #    tear a multi-paragraph interjection apart.
+    spans: dict[str, str] = {}
+
+    def _lift(m: re.Match) -> str:
+        inner = re.sub(r"\*{2,3}", " ", m.group("inner"))   # inter-paragraph emphasis runs
+        inner = re.sub(r"\s+", " ", inner).strip()
+        if inner.lower().startswith("bracketed italics"):
+            return m.group(0)                                # legend key — leave in place
+        key = f"\x00ASM{len(spans)}\x00"
+        spans[key] = inner
+        return f"\n\n{key}\n\n"
+
+    marked = _ASM_SPAN.sub(_lift, text)
+
+    elements: list[Element] = []
+    i = 0
+    tape = 0
+    seen_body = False
+    for b in (x.strip() for x in re.split(r"\n[ \t]*\n", marked) if x.strip()):
+        if b in spans:
+            tts, used, dropped = clean_tts_text(spans[b], cue_map, beat_repr)
+            elements.append(Element("utterance", i, speaker="ASSEMBLER", voice_key="ASSEMBLER",
+                                    raw_text=spans[b], tts_text=tts, cues=used,
+                                    dropped_cues=dropped, tape=tape))
+            i += 1; seen_body = True
+            continue
+        m = TAPE_RE.match(b)
+        if m:
+            tape = int(m.group(1))
+            elements.append(Element("episode", i, tape=tape, note=f"Tape {tape}: {m.group(2).strip()}"))
+            i += 1; seen_body = False
+            continue
+        if re.fullmatch(r"-{3,}", b):
+            elements.append(Element("scene_break", i, tape=tape))
+            i += 1
+            continue
+        cm = WHOLE_CUE_RE.match(b)
+        if cm:
+            cue = cm.group("cue").strip().lower()
+            kind = "beat" if cue in BEAT_CUES else "sfx"
+            elements.append(Element(kind, i, tape=tape, note=_strip_md(b)))
+            i += 1
+            continue
+        # legend key reminder, or the opening legend (italic before any spoken
+        # body) -> dropped sound-design.
+        if b.startswith("**[") or b.startswith("***[") or (not seen_body and b.startswith("*")):
+            elements.append(Element("sfx", i, tape=tape, note=_strip_md(b)))
+            i += 1
+            continue
+        # otherwise: Wren, spoken into the machine
+        tts, used, dropped = clean_tts_text(b, cue_map, beat_repr)
+        if not tts:
+            elements.append(Element("sfx", i, tape=tape, note=_strip_md(b)))
+        else:
+            elements.append(Element("utterance", i, speaker="WREN", voice_key="WREN",
+                                    raw_text=b, tts_text=tts, cues=used,
+                                    dropped_cues=dropped, tape=tape))
+            seen_body = True
+        i += 1
+    return elements
+
+
+def _parse_tape_selection(spec: str | None) -> set[int] | None:
+    """'1,7' -> {1,7}; '1-3' -> {1,2,3}; None/'' -> None (all)."""
+    if not spec:
+        return None
+    out: set[int] = set()
+    for part in spec.split(","):
+        part = part.strip()
+        if "-" in part:
+            a, b = part.split("-", 1)
+            out.update(range(int(a), int(b) + 1))
+        elif part:
+            out.add(int(part))
+    return out or None
+
+
+def _lerp(a: float, b: float, t: float) -> float:
+    return a + (b - a) * t
+
+
+def effective_voice(cast: dict, voice_key: str, tape: int, num_tapes: int) -> dict | None:
+    """Resolve a voice, applying the STAY degradation ramp: a voice listed in
+    cast['ramp'] interpolates its numeric settings from itself (tape 1) toward
+    its 'to' key (last tape) across the book. Same voice_id, settings drift —
+    so you hear Wren flatten into the we."""
+    base = resolve_voice(cast, voice_key)
+    if base is None:
+        return None
+    spec = cast.get("ramp", {}).get(voice_key)
+    if spec and num_tapes > 1 and tape >= 1:
+        target = resolve_voice(cast, spec["to"])
+        if target:
+            t = max(0.0, min(1.0, (tape - 1) / (num_tapes - 1)))
+            base = dict(base)
+            for f in ("stability", "similarity_boost", "style", "speed"):
+                if f in base and f in target:
+                    base[f] = round(_lerp(base[f], target[f], t), 4)
+            base["_ramp_t"] = round(t, 3)
+    return base
+
+
+# --------------------------------------------------------------------------
 # cast.json
 # --------------------------------------------------------------------------
 
@@ -273,35 +400,52 @@ def resolve_voice(cast: dict, voice_key: str) -> dict | None:
 # commands
 # --------------------------------------------------------------------------
 
-def _read_input(args) -> tuple[str, str]:
-    p = Path(args.input)
-    if not p.exists():
-        raise SystemExit(f"input not found: {p}")
-    text = split_episode(p.read_text(encoding="utf-8"), args.episode)
-    stem = f"episode_{args.episode:02d}" if args.episode else p.stem
-    return text, stem
+def _cast_path(args) -> Path:
+    if args.cast:
+        return Path(args.cast)
+    story = "stay" if getattr(args, "format", "seem") == "stay" else "seem"
+    return REPO_ROOT / "stories" / story / "cast.json"
 
 
 def _cast_or_empty(args) -> dict:
-    p = Path(args.cast)
+    p = _cast_path(args)
     return load_cast(p) if p.exists() else {"voices": {}, "cueMap": {}, "defaults": {}}
 
 
-def _parse_with_cast(args) -> tuple[list[Element], dict, str]:
+def _parse_with_cast(args) -> tuple[list[Element], dict, str, int]:
+    """Returns (elements, cast, stem, num_tapes). num_tapes is the TOTAL tapes
+    in the file (the ramp denominator), even when --tapes selects a subset."""
     cast = _cast_or_empty(args)
     cue_map = {k.lower(): v for k, v in cast.get("cueMap", {}).items()}
     beat_repr = cast.get("timing", {}).get("beatRepr", "…")
-    text, stem = _read_input(args)
+    p = Path(args.input)
+    if not p.exists():
+        raise SystemExit(f"input not found: {p}")
+    raw = p.read_text(encoding="utf-8")
+
+    if getattr(args, "format", "seem") == "stay":
+        els_all = parse_stay(raw, cue_map, beat_repr)
+        num_tapes = max((e.tape for e in els_all), default=1)
+        sel = _parse_tape_selection(getattr(args, "tapes", None))
+        # One output dir for the whole book ("stay"); utterance indices are
+        # global, so rendering tapes one at a time accumulates in place and a
+        # later mix across any selection finds them. --tapes only filters which
+        # utterances this invocation touches.
+        els = [e for e in els_all if e.tape in sel] if sel else els_all
+        return els, cast, "stay", num_tapes
+
+    text = split_episode(raw, getattr(args, "episode", None))
     els = parse_script(text, cue_map, beat_repr)
-    return els, cast, stem
+    stem = f"episode_{args.episode:02d}" if getattr(args, "episode", None) else p.stem
+    return els, cast, stem, 1
 
 
 def cmd_parse(args) -> int:
-    els, cast, stem = _parse_with_cast(args)
+    els, cast, stem, num_tapes = _parse_with_cast(args)
     utts = [e for e in els if e.kind == "utterance"]
     print(f"=== {stem}: {len(utts)} utterances, "
           f"{sum(1 for e in els if e.kind == 'sfx')} sound-design blocks, "
-          f"{sum(1 for e in els if e.kind == 'scene_break')} scene breaks ===\n")
+          f"{sum(1 for e in els if e.kind in ('scene_break', 'beat'))} breaks/beats ===\n")
     for e in els:
         if e.kind == "utterance":
             tag = e.voice_key
@@ -315,6 +459,10 @@ def cmd_parse(args) -> int:
             print(f"  [{e.index:03d}] {tag:16} {head!r}{extra}")
         elif e.kind == "scene_break":
             print(f"  [{e.index:03d}] {'—— scene break ——':16}")
+        elif e.kind == "beat":
+            print(f"  [{e.index:03d}] {'(beat)':16} {e.note!r}")
+        elif e.kind == "episode":
+            print(f"  [{e.index:03d}] {'## ' + e.note:16}")
         elif e.kind == "sfx":
             note = (e.note[:60] + "…") if len(e.note) > 61 else e.note
             print(f"  [{e.index:03d}] {'(sfx)':16} {note!r}")
@@ -342,7 +490,7 @@ def cmd_parse(args) -> int:
 
 
 def cmd_cast(args) -> int:
-    els, cast, stem = _parse_with_cast(args)
+    els, cast, stem, num_tapes = _parse_with_cast(args)
     utts = [e for e in els if e.kind == "utterance"]
     missing = sorted({e.voice_key for e in utts if not resolve_voice(cast, e.voice_key)})
     print(f"=== {stem}: cast resolution ===")
@@ -356,7 +504,7 @@ def cmd_cast(args) -> int:
             print(f"  {k:16} -> (unassigned)")
     if missing:
         print(f"\nUNCAST voice keys: {missing}\n"
-              f"Add them to {args.cast} before synth.")
+              f"Add them to {_cast_path(args)} before synth.")
         return 1
     print("\nAll voice keys cast.")
     return 0
@@ -365,11 +513,12 @@ def cmd_cast(args) -> int:
 def _out_dir(args, stem: str) -> Path:
     if args.out:
         return Path(args.out).resolve()
-    return REPO_ROOT / "dist" / "stories" / "seem" / "audio" / "play-en" / stem
+    story = "stay" if getattr(args, "format", "seem") == "stay" else "seem"
+    return REPO_ROOT / "dist" / "stories" / story / "audio" / "play-en" / stem
 
 
 def cmd_synth(args) -> int:
-    els, cast, stem = _parse_with_cast(args)
+    els, cast, stem, num_tapes = _parse_with_cast(args)
     utts = [e for e in els if e.kind == "utterance"]
     out = _out_dir(args, stem)
     out.mkdir(parents=True, exist_ok=True)
@@ -387,40 +536,53 @@ def cmd_synth(args) -> int:
 
     manifest = {"episode": stem, "source": str(args.input), "provider": "elevenlabs",
                 "source_git": reader._git_provenance(Path(args.input)), "utterances": []}
+    # Carry prior entries forward so rendering tapes one at a time accumulates
+    # into one manifest instead of each run clobbering the others' records.
+    records: dict[int, dict] = dict(prev)
+
+    def _save():
+        manifest["utterances"] = [records[k] for k in sorted(records)]
+        reader._save_manifest(manifest_path, manifest)
+
     new = stale = skipped = 0
     total_bytes = 0
     for e in utts:
         if args.limit and new >= args.limit:
             break
-        voice = resolve_voice(cast, e.voice_key)
-        pcm_path = out / f"utt_{e.index:04d}.pcm"
-        sha = reader._text_sha256(e.tts_text)
-        rec = prev.get(e.index)
-        current = (pcm_path.exists() and rec
-                   and rec.get("status") in reader._VALID_CHUNK_STATUSES
-                   and reader._chunk_rendered_sha(rec) == sha
-                   and rec.get("voice_id") == voice["voice_id"])
-        entry = {"index": e.index, "voice_key": e.voice_key, "voice_id": voice["voice_id"],
-                 "speaker": e.speaker, "stream": e.stream, "chars": len(e.tts_text),
-                 "text": e.tts_text, "text_sha256": sha, "pcm": pcm_path.name}
-        if current and not args.force:
-            size = pcm_path.stat().st_size
-            entry.update(bytes=size, duration_sec=round(reader.pcm_duration_seconds(size), 3),
-                         status="skipped-existing")
-            manifest["utterances"].append(entry)
-            skipped += 1
-            continue
-        if args.dry_run:
-            entry["status"] = "would-render"
-            manifest["utterances"].append(entry)
-            stale += 1
-            print(f"  [{e.index:04d}] {e.voice_key:16} would render ({len(e.tts_text)} chars)")
-            continue
+        voice = effective_voice(cast, e.voice_key, e.tape, num_tapes)
         vs = {"stability": voice.get("stability", 0.5),
               "similarity_boost": voice.get("similarity_boost", 0.75),
               "style": voice.get("style", 0.3),
               "use_speaker_boost": voice.get("use_speaker_boost", True),
               "speed": voice.get("speed", 1.0)}
+        settings_sha = reader._text_sha256(json.dumps(vs, sort_keys=True))
+        pcm_path = out / f"utt_{e.index:04d}.pcm"
+        sha = reader._text_sha256(e.tts_text)
+        rec = prev.get(e.index)
+        # Cache key = text + voice_id + settings: a re-cast OR a shifted ramp
+        # position both correctly invalidate just the affected utterances.
+        current = (pcm_path.exists() and rec
+                   and rec.get("status") in reader._VALID_CHUNK_STATUSES
+                   and reader._chunk_rendered_sha(rec) == sha
+                   and rec.get("voice_id") == voice["voice_id"]
+                   and rec.get("settings_sha256") == settings_sha)
+        entry = {"index": e.index, "voice_key": e.voice_key, "voice_id": voice["voice_id"],
+                 "speaker": e.speaker, "stream": e.stream, "tape": e.tape,
+                 "ramp_t": voice.get("_ramp_t"), "chars": len(e.tts_text),
+                 "text": e.tts_text, "text_sha256": sha,
+                 "settings_sha256": settings_sha, "pcm": pcm_path.name}
+        if current and not args.force:
+            size = pcm_path.stat().st_size
+            entry.update(bytes=size, duration_sec=round(reader.pcm_duration_seconds(size), 3),
+                         status="skipped-existing")
+            records[e.index] = entry
+            skipped += 1
+            continue
+        if args.dry_run:
+            stale += 1
+            rt = f" ramp_t={voice.get('_ramp_t')}" if voice.get("_ramp_t") is not None else ""
+            print(f"  [{e.index:04d}] {e.voice_key:16} would render ({len(e.tts_text)} chars){rt}")
+            continue
         print(f"  [{e.index:04d}] {e.voice_key:16} synth {len(e.tts_text):4} chars  "
               f"{e.tts_text[:48]!r}")
         try:
@@ -428,10 +590,10 @@ def cmd_synth(args) -> int:
                                         voice_id=voice["voice_id"], voice_settings=vs)
         except reader.SynthError as ex:
             entry["status"] = f"error: {ex}"
-            manifest["utterances"].append(entry)
+            records[e.index] = entry
             print(f"    FAILED: {ex}", file=sys.stderr)
             if args.stop_on_error:
-                reader._save_manifest(manifest_path, manifest)
+                _save()
                 return 2
             continue
         reader.write_pcm(pcm_path, raw)
@@ -439,22 +601,25 @@ def cmd_synth(args) -> int:
             reader.write_wav(pcm_path.with_suffix(".wav"), raw)
         entry.update(bytes=len(raw), duration_sec=round(reader.pcm_duration_seconds(len(raw)), 3),
                      status="ok")
-        manifest["utterances"].append(entry)
+        records[e.index] = entry
         new += 1
         total_bytes += len(raw)
-    reader._save_manifest(manifest_path, manifest)
+    if not args.dry_run:
+        _save()
     print(f"\ndone: {new} rendered, {skipped} cached, {stale} would-render; "
           f"{reader.pcm_duration_seconds(total_bytes):.1f}s new audio -> {out}")
     return 0
 
 
 def cmd_mix(args) -> int:
-    els, cast, stem = _parse_with_cast(args)
+    els, cast, stem, num_tapes = _parse_with_cast(args)
     out = _out_dir(args, stem)
     timing = cast.get("timing", {})
     utt_gap = reader._silence_bytes(timing.get("utteranceGapMs", 250))
     scene_gap = reader._silence_bytes(timing.get("sceneGapMs", 1400))
     sfx_gap = reader._silence_bytes(timing.get("sfxGapMs", 900))
+    beat_gap = reader._silence_bytes(timing.get("beatGapMs", 600))
+    tape_gap = reader._silence_bytes(timing.get("tapeGapMs", 2500))
 
     combined = bytearray()
     used = missing = 0
@@ -469,15 +634,21 @@ def cmd_mix(args) -> int:
                 missing += 1
         elif e.kind == "scene_break":
             combined += scene_gap
+        elif e.kind == "beat":
+            combined += beat_gap
+        elif e.kind == "episode":
+            combined += tape_gap
         elif e.kind == "sfx":
             combined += sfx_gap
     if missing:
         print(f"WARNING: {missing} utterance(s) not yet rendered — mix is incomplete",
               file=sys.stderr)
-    mix_pcm = out / f"{stem}_mix.pcm"
+    sel = _parse_tape_selection(getattr(args, "tapes", None))
+    suffix = ("_tapes_" + "-".join(str(s) for s in sorted(sel))) if sel else ""
+    mix_pcm = out / f"{stem}{suffix}_mix.pcm"
     mix_pcm.write_bytes(bytes(combined))
     if not args.no_wav:
-        reader.write_wav(out / f"{stem}_mix.wav", bytes(combined))
+        reader.write_wav(out / f"{stem}{suffix}_mix.wav", bytes(combined))
     print(f"mix: {used} utterances, {len(combined)} B, "
           f"{reader.pcm_duration_seconds(len(combined)):.1f}s -> {mix_pcm}")
     return 0
@@ -489,11 +660,16 @@ def build_parser() -> argparse.ArgumentParser:
 
     def common(sp):
         sp.add_argument("--input", required=True,
-                        help="script file: compiled/seem.md or a chapters/episode_*.md")
+                        help="script file: compiled/seem.md, compiled/stay.md, or a chapter md")
+        sp.add_argument("--format", choices=("seem", "stay"), default="seem",
+                        help="page format: 'seem' = 3-stream SPEAKER: radio play; "
+                             "'stay' = one-voice dictaphone + **[assembler]** frame")
         sp.add_argument("--episode", type=int, default=None,
-                        help="if --input is a multi-episode file, render just this episode")
-        sp.add_argument("--cast", default=str(REPO_ROOT / "stories" / "seem" / "cast.json"),
-                        help="cast.json mapping voice keys -> voice_id + settings")
+                        help="SEEM: if --input is multi-episode, render just this episode")
+        sp.add_argument("--tapes", default=None,
+                        help="STAY: tape selection, e.g. '1,7' or '1-3' (default: all)")
+        sp.add_argument("--cast", default=None,
+                        help="cast.json (default: stories/<seem|stay>/cast.json by --format)")
 
     sp = sub.add_parser("parse", help="show parsed elements + cleaned TTS text (no API)")
     common(sp); sp.set_defaults(func=cmd_parse)
