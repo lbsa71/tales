@@ -24,6 +24,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          # Full history so each story's last-commit time is resolvable below.
+          fetch-depth: 0
 
       - name: Install Pandoc and LaTeX
         run: |
@@ -64,8 +66,15 @@ jobs:
             # Concatenated markdown (truncates compiled/$stem.md)
             cat "${CHAPTERS[@]}" > "compiled/$stem.md"
 
+            # Deterministic PDF dates/IDs so unchanged stories don't churn.
+            # pdfTeX bakes wall-clock CreationDate/ModDate plus a time-seeded
+            # trailer /ID into every build; pin them to the story's last commit
+            # so identical prose produces byte-identical output.
+            EPOCH="$(git log -1 --format=%ct -- "${CHAPTERS[@]}")"
+            : "${EPOCH:=1700000000}"
+
             # PDF via pandoc — keep going if one story fails, but flag it
-            if ! pandoc "${CHAPTERS[@]}" \
+            if ! SOURCE_DATE_EPOCH="$EPOCH" FORCE_SOURCE_DATE=1 pandoc "${CHAPTERS[@]}" \
                 -o "compiled/$stem.pdf" \
                 --pdf-engine=pdflatex \
                 --resource-path="$(dirname "${CHAPTERS[0]}")" \
