@@ -158,6 +158,22 @@ unexplained habit — the moving, the unlit fire, the mother who knows things no
 **[ANCHOR]** The current and final wave: **the Crone (placeholder: Edda / "grandmother"), the
 Mother (Vala), the Maiden (Liss)** — and the kept failed-wake daughter, **Wren,** the bait.
 
+**[ANCHOR — the sisters' birth order, load-bearing.]** Wren and Liss are both Vala's budded
+daughters, and **Wren is the elder.** She was the wave's *first* attempt to refill the Maiden
+slot: budded, and the chord's wake **did not take** (the dud — Lore Preface §6). A failed-wake
+does not fill the slot, so the chord, still owed a Maiden, **budded again — and Liss is that
+second attempt, the one that took.** *Liss exists because Wren failed:* she is the do-over,
+conceived only because the elder daughter came out wrong. The gap between them is a few years —
+long enough that the wave spent Wren's early childhood *trying* to wake her, and failing, before
+giving up and budding her replacement; long enough that Wren remembers being the sole focus of
+that waking before the successful sister arrived and the focus moved to her. Wren's wound is
+therefore not only *I was kept at the edge* but *I was the draft, they made the finished version,
+and I was kept on as the tool — and I had to watch the younger one be the thing I could not be.*
+This is **required** by the one-at-a-time waking of Lore Preface §1 (the slot cannot be filled
+twice at once, so a failed first attempt forces a younger second), and it sharpens the mercy of
+the collapse below: the failed elder, who had every reason to resent her replacement, is the one
+who crosses the gap to the dying Liss.
+
 The chain of the collapse, mechanically (all from the Lore Preface):
 
 - **The grandmother/Crone dies.** The wave is amputated — a voice short, thinned, grieving,

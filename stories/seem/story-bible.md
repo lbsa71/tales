@@ -274,6 +274,14 @@ someone explains it, the dread dies.
 Born solitary; raised inside the chord's worldview; the one consciousness native to *both*
 the alien and the human. Detached by *training,* not nature (§3).
 
+**She is the *elder* sister.** Wren was the wave's first budded daughter and its first failed
+wake; Liss is the younger, budded only because Wren came out wrong — *Liss exists because Wren
+failed.* So the family kept the draft on as a tool and raised the do-over beside her, and Wren
+spent her childhood watching the younger, successful sister be the thing she could not be. This
+sharpens everything below — and the reaching at the end (§10–11): the failed elder, with every
+reason to resent her replacement, is the one who reaches across the gap to save her. (Required by
+the one-at-a-time waking, Lore Preface §1; see Lineage Chronicle §6.)
+
 **Her heart is, literally, her father's — switched on (§4).** She can love because she
 inherited the active bonding hardware her family suppresses, from an outside father whose own
 was fully online. Her lifelong, "defective" **ache for closeness** is not weakness or trauma
@@ -338,7 +346,9 @@ in motion.*
 > contains no one who could ever love her, only more of themselves.*
 
 ### The Maiden — the linked sister  **[LOAD-BEARING]**
-The current vessel; "prepared" (under-trained, §4); going through the budding. Her arc is
+The current vessel; "prepared" (under-trained, §4); going through the budding. **She is the
+*younger* sister** — the successful do-over budded after Wren's wake failed (see The Failed
+Sister, above; Lineage Chronicle §6). Her arc is
 **individuation as a symptom, not a want** — the bonding cascade fires and infects her against
 her will; she grows the self the line bred out, and she has the chord's *values,* so she meets
 it with horror (she knows a self is a tumor; feels herself growing one; cannot give it back).

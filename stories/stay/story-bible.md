@@ -73,7 +73,9 @@ outcomes, decided by one variable — *was a live link present to wake them?*
 The Wren of *SEEM*, years on: the failed-wake who became a separate, loving self — dry,
 self-correcting, clear-sighted, the one who learned to *see* people (the bait-skill turned to
 love). She has built a life: a marriage, a self, a place across-a-gap with Liss and Liss's
-daughter. She believes — with good evidence — that she is **safe**, because she watched Liss's
+daughter. (**Wren is Liss's elder sister** — the wave's first, failed budded daughter; Liss the
+younger, budded only because Wren's wake failed. *Liss exists because Wren failed.* See Lineage
+Chronicle §6.) She believes — with good evidence — that she is **safe**, because she watched Liss's
 daughter stay dormant with no chord to wake her, and reasons that with the chord dead, the
 waking mechanism is dead. **Her own correct reasoning disarms her.** (See §4.)
 

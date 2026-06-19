@@ -247,7 +247,10 @@ When a Maiden is budded, the outside genes + the waking produce one of:
    link should have come online and didn't — by which time she is a raised child. Kept as
    **function** (the bait/lure — she reads as a real separate person *because the dormant
    machinery still leaves her able to perceive others; the failed-wake left her separateness
-   intact*), or culled. **This is Wren.**
+   intact*), or culled. **This is Wren.** A dud does **not** fill the Maiden-slot the budding was
+   meant to fill, so the wave is still owed a Maiden and **buds again;** the Maiden who finally
+   takes is therefore **necessarily younger than the dud who preceded her.** (In the Wren line:
+   Wren is the elder failed-wake; Liss is the younger Maiden budded to replace her — Chronicle §6.)
 
 **The genetic floor (Medea model).** For thousands of years, every budding has incorporated
 outside genes — fresh DNA from the man whose child the Maiden bears. With each generation, the
