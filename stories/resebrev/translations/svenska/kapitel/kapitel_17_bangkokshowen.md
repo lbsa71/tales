@@ -22,9 +22,9 @@ Hon tar tag i min handled med båda händerna och snurrar runt mig. Jag är på 
 
 Helt som den nedlåtande jävel som försöker vara snäll som jag alltid varit rädd för att vara.
 
-När jag svänger in på Khao San Road kommer en tuk-tuk-förare fram och frågar om jag vill åka. När jag säger nej frågar han om jag vill ha något annat, flinar och formar vänsterhanden till en cylinder, klappar över hålet med högerhanden och gör ett tyst ’popp’-ljud. Nej, jag tror inte jag vill det.
+När jag svänger in på Khao San Road kommer en tuk-tuk-förare fram och frågar om jag vill åka. När jag säger nej frågar han om jag vill ha något annat, flinar och formar vänsterhanden till en cylinder, klappar över hålet med högerhanden och gör ett tyst poppljud. Nej, jag tror inte jag vill det.
 
-När jag försöker ta mig till ett internetkafé sticker en tjej ut armen och stoppar mig, bara det att det inte är en tjej, det kan det inte vara. Det är en ladyboy. Jesus, tänker jag, som stor och uppenbart ensam kille i Bangkoks turistdistrikt verkar jag gå omkring med en skylt klistrad i pannan.
+När jag försöker ta mig till ett internetkafé sticker en tjej ut armen och stoppar mig, bara det att det inte är en tjej, det kan det inte vara. Det är en kathoey, en transkvinna. Jesus, tänker jag, som stor och uppenbart ensam kille i Bangkoks turistdistrikt verkar jag gå omkring med en skylt klistrad i pannan.
 
 Jag lyfter försiktigt hennes arm, ler och säger: "Nej, jag ska till internet." Hon ger mig några hjälpsamma tips om hur man använder kaféet, jag tackar och går vidare.
 
@@ -38,7 +38,7 @@ Till slut ser jag en kvinna vid en bil. Jag frågar henne efter bussen till Rano
 
 Bussen kommer, tar mig till Ranong, jag somnar med kvinnan i sätet bredvid och får ett ögonblicks panik när jag vaknar och hon är borta. Det visar sig att hon klev av tidigare. I Ranong får jag skjuts till piren av en rynkig gammal man på moped. Föreställ er den lilla mopeden, hukande under vikten av den lilla gamle mannen böjd över styret och mig med två ryggsäckar, fastklamrad vid honom och försöker att inte falla av sätet. Mopeden puttrar, väser och är allmänt underdimensionerad för uppgiften.
 
-Koh betyder ’ö’.
+Koh betyder "ö".
 
 Två och en halv timmes båtresa från Ranong ligger Koh Payam. Det är en av öarna längst ut i skärgården, så vågorna är rätt höga. Tillräckligt höga för bodysurfing i alla fall. Det finns två betongvägar som korsar ön, och man kan hyra motorcyklar; små 125-kubikare som kan göra ungefär 100 km/h. Att susa genom vegetationen, väja för hål i vägen och ducka för alldeles för låga grenar på metervida vägar kändes precis som scenen med flyghojarna i Star Wars: Jedins återkomst. Mycket kul.
 
@@ -61,7 +61,7 @@ Taxichauffören som kör mig till Khao San Road är fullständigt knäpp. Han up
 
 "Hallå från London. Vädret är 15 grader fahrenheit, 10 grader celsius. Jag lär engelska från radio, lyssna. Vädret är 15 grader. Sverige kallt. Jag är musiker. Lyssna."
 
-Sedan sätter han på en karaoke-powerballad från åttiotalet och sjunger med i en fruktansvärd imitation av engelska, överartikulerar varje ord, träffar inte en enda ton utan istället mitt knä för att försäkra sig om att han har min fulla uppmärksamhet.
+Sedan sätter han på en karaokepowerballad från åttiotalet och sjunger med i en fruktansvärd imitation av engelska. Han överartikulerar varje ord och träffar inte en enda ton, men däremot mitt knä, för att försäkra sig om att han har min fulla uppmärksamhet.
 
 "Ingen dricks?" frågar han surt när jag till slut kliver ur bilen och betalar.
 
@@ -73,7 +73,7 @@ På kvällen ska jag på en omgång traditionell thaimassage. Becky gav mig en p
 
 När jag frågar receptionisten var det ligger och hur lång tid det tar säger hon två timmar. Jag blir förbryllad. Hon förklarar: trafiken.
 
-Och trafik var det. Klockan sex tar jag en tuk-tuk. Föraren presenterar sig som Schumacher, vilket rimligen måste vara fel. Hur som helst inser jag när vi kör genom Bangkok att receptionisten hade rätt. Trafiken är tät. Schumacher säger att det bara är 20 kilometer till massagesalongen, men det tar oss nästan exakt två timmar.
+Och trafik var det. Klockan sex tar jag en tuk-tuk. Föraren presenterar sig som Schumacher, vilket rimligen måste vara fel. Hur som helst inser jag när vi kör genom Bangkok att receptionisten hade rätt. Trafiken är tät. Schumacher säger att det bara är tjugo kilometer till massagesalongen, men det tar oss nästan exakt två timmar.
 
 De två timmarna går åt till att läsa och socialisera med tuk-tuk-föraren. Jag kan verkligen inte bestämma mig för om jag gillar honom eller avskyr honom. Först frågar han vart jag ska, jag säger massage, han svarar "bom-bom" med ett b någonstans mellan b och p och jag frågar, mest för sakens skull:
 
@@ -108,7 +108,7 @@ När jag kommer fram till salongen tar jag en timmes fotmassage och två timmars
 
 Det finns inte mycket att säga om fotmassagen, förutom att den var så välbehövlig efter fem månaders resande. Jag bad om pedikyr, men det gjorde de inte där.
 
-Efter att ha bytt kläder leds jag in i ett rum för två timmars thaimassage. En liten thailändsk kvinna, ganska kraftigt byggd, kommer in med ett blygt leende och nedslagna ögon. Hon talar ingen engelska alls, så vi kommunicerar med teckenspråk. Och så börjar det som bäst måste beskrivas som en korsning mellan thaiboxning och brottningsmatch, där jag låses in i de mest löjliga positioner och hon använder varje lem för att pressa ut varenda sista bit luft och spänning ur kroppen på mig. Definitivt den mest actionpackade och akrobatiska massage jag någonsin fått. Imponerande.
+Efter att ha bytt kläder leds jag in i ett rum för två timmars thaimassage. En liten thailändsk kvinna, ganska kraftigt byggd, kommer in med ett blygt leende och nedslagna ögon. Hon talar ingen engelska alls, så vi kommunicerar med teckenspråk. Och så börjar det som bäst måste beskrivas som en korsning mellan thaiboxning och brottningsmatch, där jag låses in i de mest löjliga positioner och hon använder varje lem för att pressa ut varenda sista bit luft och spänning ur kroppen på mig. Definitivt den mest actionfyllda och akrobatiska massage jag någonsin fått. Imponerande.
 
 Taxichauffören som kör mig tillbaka till Khao San Road är fullständigt knäpp. Han upprepar hela tiden:
 
@@ -118,13 +118,13 @@ Jag sitter bara där tyst och undrar om Bangkoks taxibolag kanske har startat n�
 
 Han ger mig snyfthistorien om hur fattig han är, att han har fyra döttrar och en son, så jag ger honom ganska bra dricks.
 
-Dagen efter fortsätter jag beta av min att göra-lista och köper en paket-trekkingtur till Chiang Mai. Det blir den första paketaktiviteten jag köpt under resan, och jag är lite nervös för hur det ska bli. I Indien utvecklade jag en djup misstro mot reseagenter.
+Dagen efter fortsätter jag beta av min att-göra-lista och köper en paketresa med vandring i Chiang Mai. Det blir den första paketaktiviteten jag köpt under resan, och jag är lite nervös för hur det ska bli. I Indien utvecklade jag en djup misstro mot reseagenter.
 
-Och det är en av de saker som börjat gå upp för mig, att det här inte är Indien. Egentligen skulle det här kunna vara Grekland. Jag hör svenska talas runt omkring mig på Khao San Road, och långsamt börjar jag acceptera att mina hardcore-resedagar är över. Eller åtminstone verkar det så. Det är den där märkliga blandningen av en suck, en del lättnad, en del eftertanke.
+Och det är en av de saker som börjat gå upp för mig: det här är inte Indien. Egentligen skulle det här kunna vara Grekland. Jag hör svenska talas runt omkring mig på Khao San Road och långsamt börjar jag acceptera att mina hårda resedagar är över. Eller åtminstone verkar det så. Det är den där märkliga blandningen av en suck, en del lättnad, en del eftertanke.
 
 På kvällen klär jag upp mig för showen. Jag tar på mig mina fina byxor och skjortan. Den är skrynklig som fan, så nere på tvätteriet frågar jag om de kan stryka den. Det kan de inte. Jag frågar dem, och sedan hotellreceptionen, om det finns ett strykjärn jag kan låna. Nej, det finns det inte. Vet de var jag kan få min skjorta struken? Nej.
 
-Tydligen finns sexuella tjänster lättillgängliga, men ingen vill stryka min skjorta, så jag går upp och byter till en av mina nyinköpta t-shirts.
+Tydligen finns sexuella tjänster lättillgängliga, men ingen vill stryka min skjorta, så jag går upp och byter till en av mina nyinköpta t-tröjor.
 
 Redo för kvällen.
 
@@ -143,96 +143,72 @@ Han ser häpen ut, sedan ler han.
 
 Vi skrattar.
 
-När vi kommer till stället betalar jag tusen baht. Klubben består av ett ganska litet rum med en bar längs bortre väggen, enkla stolar och bord placerade runt en upphöjd scen. Ljuset är rätt kalt och musiken fruktansvärd. Pumpande, ostig eurotechno som ibland avbryts av en halv minuts tystnad mitt i ett nummer.
+När vi kommer fram betalar jag tusen baht. Klubben är ett ganska litet rum med en bar längs bortre väggen och enkla stolar och bord runt en upphöjd scen. Ljuset är kalt, musiken fruktansvärd: pumpande, ostig eurotechno som ibland dör i en halv minuts tystnad mitt i ett nummer.
 
 Jag får ett bord längst bak, mitt emot baren.
 
-Den ganska grovlemmade thailändska kvinnan på scenen har just avslutat sitt nummer, som består av att öppna en Coca-Cola-flaska med fittan. Vilket är ordet jag kommer använda härifrån.
+Kvinnan på scenen har just avslutat ett nummer där hon öppnar en Coca-Cola-flaska med fittan. Vilket är ordet jag kommer använda härifrån.
 
-Efter henne går två kvinnor upp och dansar, eller snarare visar upp sig; de har varsitt nummer fäst vid ett bikiniband. Vi vet alla vad numret betyder. Jag skannar dem och bedömer dem som inte särskilt attraktiva. Särskilt hon närmast mig, hon är faktiskt för mager. Och gammal, hon ser faktiskt rätt sliten ut. Jag undviker ögonkontakt.
+Efter henne går två kvinnor upp och visar upp sig med varsitt nummer fäst vid bikinibandet. Vi vet alla vad numret betyder. Jag skannar dem och bedömer dem som inte särskilt attraktiva. Kvinnan närmast mig är för mager. Och gammal, tycker jag; rätt sliten. Jag undviker ögonkontakt.
 
-Musiken byter abrupt till någon vidrig sirapssöt ballad. Nästa nummer är två kvinnor som ägnar sig åt en fejkad och ganska mekaniskt framförd abstraktion av lesbisk sex, går igenom position efter position utan någon känsla alls och avslutar numret med att snabbt pressa höfterna mot varandra så att det uppstår en högljudd kroppsklatsch.
+Två kvinnor framför en mekanisk abstraktion av lesbisk sex till en vidrig sirapsballad. Position efter position, ingen känsla, sedan en högljudd kroppsklatsch när de pressar höfterna mot varandra.
 
-Jag bara ler, skrattar rakt ut, applåderar. Vilka rädslor jag än hade för att falla och ge efter för mina lägsta instinkter när jag gick in i denna syndens håla hade jag inte behövt ha dem. Det finns inget sexuellt upphetsande i det här, det är bara underligt, märkligt, galet. Show. Skandalöst, ja. Sorgligt, ja. Men åh, så mänskligt.
+Jag ler, skrattar rakt ut, applåderar. De farhågor jag haft om att falla för mina lägsta instinkter när jag gick in i denna syndens håla visar sig onödiga. Det finns inget sexuellt upphetsande här, bara något underligt, märkligt, galet.
 
-Den slitna kvinnan kommer och sätter sig hos mig. Jag smuttar på min gin och tonic, hon frågar var jag kommer ifrån, vi småpratar. Hon heter Mai. Jag vill se showen, hon vill ha min uppmärksamhet. Hon masserar mina axlar, masserar min arm, ganska bra, men jag vill egentligen inte att hon ska göra det, så jag skämtar om saken, att jag faktiskt fick tre timmars massage dagen innan. För att kompensera erbjuder jag henne en drink. Självklart accepterar hon, det är ju hennes jobb, så hon tar en rom och cola åt sig själv. Hon hämtar ett paket cigaretter åt mig också och jag kedjeröker tre stycken, mina föresatser ut genom entrédörren.
+Show.
 
-Coca-Cola-kvinnan kommer tillbaka upp på scenen med pingisbollar i en bricka vatten. Hon för in dem och skjuter ut dem igen, med brickan som mål. Jag ser henne göra det i någon sorts äcklad vördnad.
+Skandalöst, ja. Sorgligt, ja. Men åh, så mänskligt.
 
-Nu kommer en betydligt yngre och sötare kvinna upp på scenen. Hon dansar vid stången i ett par minuter, låst i ett mönster där hon vickar på rumpan på ett sätt som varken är sensuellt eller uttrycksfullt. Sedan producerar hon ungefär femton meter UV-fluorescerande snöre, lindar det runt de fyra stängerna i scenens hörn och skapar ganska avancerade effekter med det, vilket hade passat utmärkt på vilken technoklubb som helst om det inte vore för att snöret slutar mellan hennes ben.
+Den slitna kvinnan sätter sig hos mig. Jag dricker min gin och tonic, hon frågar var jag kommer ifrån och vi småpratar. Hon heter Mai. Jag vill se showen, hon vill ha min uppmärksamhet. Hon masserar mina axlar och min arm. Jag vill egentligen inte att hon ska göra det, så jag skämtar om att jag fick tre timmars massage dagen innan. Som kompensation erbjuder jag henne en drink. Självklart accepterar hon, det är ju hennes jobb. Hon hämtar också ett paket cigaretter åt mig och jag kedjeröker tre stycken, föresatserna rakt ut genom entrédörren.
 
-Återigen är min dominerande, nästan tvångsmässiga tanke: herregud, hoppas de håller dem riktigt rena.
+På scenen följer pingisbollar, fluorescerande snören, rakblad, cigaretter, tårta och en liten trumpet. Jag ser det i ett tillstånd av äcklad vördnad. Min dominerande, nästan tvångsmässiga tanke är: herregud, hoppas de håller allt riktigt rent.
 
-Jag frågar Mai hur lång showen är. Hon säger en timme, sedan börjar den om, ända till ett på natten. Klockan är nu åtta. Så mycket för att hålla rent.
+Jag frågar Mai hur lång showen är. En timme, sedan börjar den om, ända till ett på natten. Klockan är åtta.
 
-Hur länge har hon jobbat här? Fyra år. Är det ett bra ställe att jobba på? Tystnad. Jag förklarar att jag har stripparvänner och undrar om det här är ett bra ställe, om de behandlar tjejerna väl. Tom blick. Ibland.
+Så mycket för att hålla rent.
 
-Nästa nummer liknar det förra, men den här gången är snöret kantat av ganska stora tygblommor.
+Hur länge har hon jobbat här? Fyra år. Är det ett bra ställe att jobba på? Tystnad. Jag förklarar att jag har vänner som strippar och undrar om de behandlar kvinnorna väl.
 
-Bakom oss lutar en väninna till Mai, elegant klädd i svart, mot väggen. De pratar thailändska, skrattar, jag frågar vad de skämtade om. Mai säger "dig" och stryker mig över det halvkala huvudet. Hon säger att hennes väninna tycker att jag är en snygg man, att jag ser snäll ut.
+Tom blick.
 
-Den första kvinnan dyker upp på scenen igen, hon verkar vara huvudtalangen, något som understryks av att hon inte bär något nummer. Hon lägger sig på rygg, lyfter benen över huvudet, halvt hoprullad bakåt. Hon för in, tänder och röker två cigaretter och erbjuder det sista blosset till en man i publiken. Han ryggar tillbaka, vägrar, så hon fimpar dem i ett askfat.
+"Ibland."
 
-Jag frågar henne hur många tjejer som jobbar i showen. Sju, och tio på stället. Mai är med i showen, förklarar hon, hon gör något med en banan. Jag vill egentligen inte veta mer om det, så jag frågar om hennes väninna är med i showen.
+Bakom oss lutar en väninna till Mai, elegant klädd i svart, mot väggen. De pratar thailändska och skrattar. Jag frågar vad de skämtar om. Mai säger "dig", stryker mig över det halvkala huvudet och berättar att väninnan tycker att jag är snygg och ser snäll ut.
 
-"Nej, hon hör till hotellet. Hon gör massage på rummet. Massage och sek."
+Jag frågar hur många kvinnor som arbetar i showen. Sju, och tio på hela stället. Mai är med; hon gör något med en banan. Väninnan hör till hotellet.
+
+"Hon gör massage på rummet. Massage och sek."
 "Sek?"
 "Ja. Sek."
 
-Nästa nummer går ut på att tända ljusen på en födelsedagstårta, föra in ett sugrör och blåsa ut dem ett efter ett. Återigen erbjuds samma man i publiken att blåsa ut det sista ljuset. När han försöker drar hon undan tårtan och skrattar. Det gör honom lite avig, så han vägrar försöka en andra gång oavsett vad hon lovar. Hon erbjuder den till en annan kille, han blåser ut ljuset.
+En av kvinnorna misslyckas gång på gång med att suga upp ringar med ett sugrör och placera dem på en flaskhals. Till slut sätter hon dit dem med händerna, tittar ner i golvet med ett sorgset leende och ger sig själv en liten applåd.
 
-Den andra delen av hennes mininummer består av att spela en munter liten tvåtonsmelodi på en liten trumpet.
-
-När hon är på väg av scenen kommenterar hon något till Mai och kastar en snabb blick åt mitt håll. Än en gång måste jag be om översättning.
+När hon lämnar scenen säger hon något till Mai och kastar en snabb blick åt mitt håll.
 
 "Hon säger att du är den enda som ler. Ingen annan ler."
 
-Jag inser att hur skandalöst det här än är, måste det vara ett väldigt tråkigt jobb. Särskilt om publiken är spänd och obekväm. Jag bestämmer mig för att göra mitt bästa för att visa uppskattning för deras arbete.
+Jag inser att hur skandalöst det här än är måste det vara ett väldigt tråkigt jobb, särskilt med en spänd och obekväm publik. Jag bestämmer mig för att göra mitt bästa för att visa uppskattning för deras arbete.
 
-Tjejen på scenen suger upp ringar med ett sugrör och placerar dem på halsen på en flaska. Det ser omöjligt nog ut att göra med munnen, och mycket riktigt, eftersom det tydligen inte är hennes dag misslyckas hon så många gånger att hon till slut bara sätter ringarna på flaskan med händerna, tittar ner i golvet med ett sorgset leende och ger sig själv en liten applåd.
+Mais väninna heter Yo. Jag erbjuder henne en drink. Självklart. Hon hämtar en cola, sätter sig på min vänstra sida och börjar massera mig. Jag vänder mig mot Mai. Hon flinar utan att jag behöver säga något, säger något på thailändska och de skrattar.
 
-Jag frågar Mais väninna, hon heter Yo, om hon vill ha en drink. Självklart. Hon hämtar en cola och sätter sig på min vänstra sida. Hon börjar massera mig, så jag vänder mig mot Mai. Hon flinar utan att jag behöver säga något, säger något på thailändska och de skrattar.
+Jag har blivit något av uppmärksamhetens centrum. En tredje kvinna ställer sig bakom mig, stryker mig över det halvrakade huvudet och lägger sedan sitt långa svarta hår över det.
 
-En av de söta tjejerna, de är av obestämbar ålder och ganska lika varandra, gör snörtricket igen. Den här gången är det en rad sammankopplade rakblad hon drar ut ur vaginan.
-
-Efter det skjuter en grovlemmad kvinna heliumballonger med pilar. Sedan vänder hon sugröret mot mig som om hon ska spräcka min stora kala ballong. Jag reser mig långsamt, håller händerna framför ansiktet i en teatral gest och ropar: "Nej, nej!"
-
-Jag har blivit något av uppmärksamhetens centrum.
-
-Trots att rummet är välfyllt har jag nu en tredje tjej stående bakom mig. Hon kommenterar:
-
-"Två tjejer! Inklämd mellan två tjejer bra. Har du haft två tjejer någon gång?"
-"Nej," måste jag erkänna.
-Hon stryker mig över det halvrakade huvudet och kastar sedan sitt långa svarta hår över det, med näsan i min nacke, och ropar glatt:
 "Nu har du hår! Du måste ta mig med vart du än går!"
-"Du är galen," ropar jag tillbaka.
-Hon höjer nivån:
-"Du också!" och fortsätter:
-"Vi är alla galna!"
+"Du är galen."
+"Du också! Vi är alla galna!"
 
-Huvudtalangen går upp på scenen och visar oss ett vanligt vitt A4-papper. Sedan virar hon lite tyg runt en tuschpenna, för in den och hukar över pappret. Hennes skrev rör sig, ansiktet är en hårt knuten koncentration.
+Rummet är fullt och till min förvåning är mer än hälften av publiken kvinnor. Västerlänningarna har hårda eller skuldfyllda ansikten. De asiatiska besökarna ser intresserade eller uttråkade ut. Och så jag förstås: leende, skämtande med "mina" kvinnor, högljudd.
 
-Rummet är fullt av folk och till min förvåning är mer än hälften av publiken kvinnor. Det finns en eller två västerländska kvinnor, resten ser asiatiska ut.
+På scenen hukar huvudtalangen över ett vitt A4-papper med en tuschpenna mellan benen. Efter ansenlig tid visar hon upp ett kusligt vältecknat porträtt av en man i publiken. Med darrig men tydlig skrift står:
 
-"Det där är konstigt," kommenterar jag, "så många kvinnor. Svenska kvinnor gillar inte riktigt sånt här."
-"Ja, de är filippinska kvinnor. Och japanska. Många asiatiska kvinnor kommer hit, varje kväll."
-"Den där tjejen där borta, den riktigt söta med kort svart kjol, jobbar hon här eller är hon gäst?"
-"Nej, hon kommer hit för att titta."
+"Välkommen till Thailand."
 
-Som regel har västerlänningarna hårda och/eller skuldfyllda ansikten, asiaterna ser antingen intresserade eller ointresserade ut. Och så finns förstås jag, leende, skämtande med mina tjejer, högljudd.
+Sedan är det Mais tur. Hon gör Coca-Cola-tricket och banangrejen. När hon kommer tillbaka frågar jag hur fan hon bar sig åt. Hon pekar på sitt colafyllda glas och ler.
 
-Efter ansenlig tid närmar sig tuschpennenumret sitt slut. Konstverket är ett kusligt vältecknat porträtt av en av männen i publiken, och med lite darrig men mycket tydlig skrift står texten: "Välkommen till Thailand."
+"Hemligt, va?"
 
-Mai går hastigt iväg eftersom det är hennes tur härnäst. Hon kommer upp på scenen med två Coca-Cola-flaskor, en fylld med vatten, den andra tom. Hon för in vattenflaskan, rullar över på rygg med fötterna nästan i marken ovanför huvudet och tömmer flaskan. Med en liten handduk över sig för hon sedan in den tomma flaskan och fyller den med något som verkar vara Coca-Cola. Jag är häpen.
+Showen börjar om från början.
 
-Yo lägger huvudet på min axel, jag stryker henne över håret.
-
-Den andra delen av Mais nummer är banangrejen; liggande på rygg för hon in en halv banan och genom att stöta med höfterna samtidigt som hon kniper får hon den att flyga i en två meter lång båge, in i sin utsträckta hand så att hon kan upprepa hela manövern igen och igen.
-
-När hon kommer tillbaka frågar jag hur fan hon gjorde Coca-Cola-grejen. Hon pekar bara på sitt colafyllda glas och ler. "Hemligt, va?" inser jag.
-
-Nu börjar hela showen om från början med att den första kvinnan kommer upp på scenen med en oöppnad colaflaska. Hon skakar den kraftigt, hukar ner över den och öppnar den med ett högt popp.
-
-Jag har fått nog. Jag tackar Mai och Yo, reser mig och betalar notan. Efter att ha gett dem ett par hundra baht i dricks skyndar jag ut på gatan som en råtta ur en labyrint.
+Jag har fått nog. Jag tackar Mai och Yo, betalar notan och ger dem ett par hundra baht i dricks. Sedan skyndar jag ut på gatan som en råtta ur en labyrint.
 
 Där står Schumacher och väntar. Jag kliver in i hans tuk-tuk och genast vill han att jag berättar varje detalj från kvällen. Det är uppenbart att han har hört alltihop flera gånger förut, men ändå njuter han stort av att höra om det och skrattar som ett lyckligt barn åt varje detalj.

@@ -14,7 +14,9 @@ Själva ljudfilerna ska inte ligga här. Renderaren skriver arbetsfiler till:
 
 Ljudboksinfrastrukturen är på plats. Del 1 är renderad som egen lyssningsfil. Del 2 är ramlagd som `kapitel_07d_forsattsblad_del_2.md`, kapitel 8-12 och `kapitel_12b_eftertext_del_2.md`.
 
-Den svenska texten är ännu inte helt färdig för full produktion. Kapitel 14 och 17 har fått första ren-svenska översättningspasset; flera andra kapitel har fortfarande engelska repliker eller stycken som måste översättas innan slutrendering.
+Del 3 är ramlagd som `kapitel_12c_forsattsblad_del_3.md`, kapitel 14-21 och `kapitel_22_coda.md`. Den delen har fått ett sammanhållet editorial- och översättningspass och är textmässigt redo för chunkkontroll och provlyssning.
+
+Den svenska texten är ännu inte helt färdig för full produktion av hela boken. Tidigare delar har kapitel som behöver slutföras innan slutrendering av komplett ljudbok.
 
 ## Röstbeslut
 
@@ -95,6 +97,22 @@ python3 tools/voice-renderer/reader.py concat \
   --out dist/stories/resebrev/audio/sv \
   --wav \
   --gap-ms 450
+```
+
+Del 3 kan kontrolleras utan API-anrop:
+
+```bash
+python3 tools/voice-renderer/reader.py chunks \
+  --language sv \
+  --input stories/resebrev/translations/svenska/kapitel/kapitel_12c_forsattsblad_del_3.md
+
+for chapter in \
+  stories/resebrev/translations/svenska/kapitel/kapitel_{14,15,16,17,18,19,20,21,22}_*.md
+do
+  python3 tools/voice-renderer/reader.py chunks \
+    --language sv \
+    --input "$chapter"
+done
 ```
 
 ## Produktionsordning

@@ -10,22 +10,24 @@ stories/resebrev/tools/render-svenska-audio.sh chunks
 
 | Mått | Värde |
 |---|---:|
-| Kapitel | 22 |
-| TTS-chunks | 223 |
-| Tecken att rendera | 252 642 |
-| Max per chunk | 1 450 tecken |
+| Källfiler | 27 |
+| TTS-chunks | 202 |
+| Tecken att rendera | 247 545 |
+| Längsta chunk | 1 580 tecken |
 | Output | `dist/stories/resebrev/audio/sv/` |
 
 ## Status
 
-Renderaren hittar alla 22 svenska kapitel och kan chunk:a dem utan API-anrop.
+Renderaren hittar alla 27 svenska kapitel-, för- och eftertextfiler och kan chunka dem utan API-anrop.
 
-Detta är en infrastrukturkontroll, inte en produktionsklar ljudbokskontroll. Den rena svenska texten är fortfarande under översättning. Full rendering bör vänta tills kvarvarande engelska partier i kapitel 3, 6, 7, 9, 10, 12, 15, 16, 18, 20 och 21 är hanterade.
+Del 3 omfattar 10 källfiler, 82 TTS-chunks och 100 938 tecken. Den delen är helsvensk och har klarat editorial-, manifest- och chunkkontroll. Preview, full rendering och lyssnings-QA återstår.
+
+Detta är fortfarande en infrastrukturkontroll, inte en produktionsklar kontroll av hela ljudboken. Full rendering av komplett bok bör vänta tills kvarvarande arbetskapitel i de tidigare delarna är färdiga.
 
 ## Tekniska Noteringar
 
-- Kapitelrubriker blir ofta en egen kort chunk. Det är acceptabelt för preview, men vid slutproduktion kan vi överväga att lägga `---` efter rubriken eller justera text-preppen om rubrikpauserna känns onaturliga.
-- Kapitel 14 har en chunk över soft cap eftersom renderaren inte delar mitt i långa stycken. Det är väntat beteende.
+- Kapitelrubrikerna läses ihop med inledningen i del 3; försättsbladet bildar en egen chunk.
+- `voice.json` sätter ett mjukt tak på 1 450 tecken. En äldre chunk i kapitel 12 är 1 580 tecken eftersom renderaren inte delar mitt i långa stycken. Del 3 håller sig inom taket.
 - `preview` renderar endast första chunk i varje kapitel och är därför bäst för röst- och tempobeslut innan full kostnad tas.
 
 ## Rekommenderad Nästa Körning

@@ -712,8 +712,13 @@ def cmd_chunks(args) -> int:
             f"unknown --language {args.language!r}. "
             f"Known: {', '.join(sorted(LANGUAGE_PROFILES))}"
         )
-    max_chars = args.max_chars if args.max_chars is not None else profile["max_chars"]
     paths = resolve_chapter_paths(args)
+    overrides = load_story_overrides(paths, args.language)
+    max_chars = (
+        args.max_chars
+        if args.max_chars is not None
+        else overrides.get("max_chars", profile["max_chars"])
+    )
     for p in paths:
         text = p.read_text(encoding="utf-8")
         chunks = chunk_chapter(text, max_chars=max_chars, split_lists=args.split_lists)

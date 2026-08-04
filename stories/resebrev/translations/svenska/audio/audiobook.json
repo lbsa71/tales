@@ -2,7 +2,7 @@
   "title": "Resebrev",
   "edition": "svenska",
   "language": "sv",
-  "status": "infrastructure-ready-text-in-progress",
+  "status": "part-3-text-ready-audio-qa-pending",
   "source_dir": "stories/resebrev/translations/svenska/kapitel",
   "output_dir": "dist/stories/resebrev/audio/sv",
   "renderer": "tools/voice-renderer/reader.py",
@@ -11,7 +11,9 @@
     "This is the clean Swedish audience version, not the mixed-language original.",
     "Part 1 can be rendered as kapitel_00_forsattsblad through kapitel_07c_eftertext_del_1.",
     "Part 2 can be rendered as kapitel_07d_forsattsblad_del_2 through kapitel_12b_eftertext_del_2.",
-    "Do not final-render until remaining English dialogue/prose has been translated.",
+    "Part 3 can be rendered as kapitel_12c_forsattsblad_del_3 through kapitel_22_coda.",
+    "Part 3 has completed its editorial and clean-Swedish pass; audio preview and listening QA remain.",
+    "Do not final-render the complete book until remaining English dialogue/prose in earlier parts has been translated.",
     "Use PCM as canonical working audio; WAV is for listening QA."
   ],
   "chapters": [
@@ -32,6 +34,7 @@
     { "number": 11, "title": "Bhaktapur", "file": "kapitel_11_bhaktapur.md" },
     { "number": 12, "title": "Gautam", "file": "kapitel_12_gautam.md" },
     { "number": "after-2", "title": "Eftertext till del 2", "file": "kapitel_12b_eftertext_del_2.md" },
+    { "number": "front-3", "title": "Resebrev: Del 3 — Eftersmak", "file": "kapitel_12c_forsattsblad_del_3.md" },
     { "number": 14, "title": "Vilse i Goa", "file": "kapitel_14_vilse_i_goa.md" },
     { "number": 15, "title": "Flockdjur", "file": "kapitel_15_flockdjur.md" },
     { "number": 16, "title": "Att lämna Indien", "file": "kapitel_16_att_lamna_indien.md" },

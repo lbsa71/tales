@@ -2312,6 +2312,36 @@ En liten stund räckte det.
 
 lbsa71
 Göteborg, 2026
+RESEBREV
+========
+
+Del tre.
+
+Eftersmak.
+
+Efter Gautam ville jag tro att något hade vänt.
+
+Jag hade sett min misstänksamhet, gått tillbaka och gjort en sak som kändes riktig. Det är en farlig punkt i en berättelse. Den som lärt sig något vill gärna börja leva som den som har förstått.
+
+Det här är delen där jag försöker.
+
+Jag går vilse på syra i Goa och hittar en gud för de vilsegångna. Jag lämnar Indien som om en kontinent kunde lämnas bakom. I Bangkok går jag in i ett rum där människors kroppar är arbete och kallar min blick nyfikenhet. I Kambodja räknar jag hinkar, dollar, årsinkomster och dödsskallar, som om världen blev begriplig bara siffrorna stämde.
+
+Sedan söker jag flocken, festen, kvinnorna, ensamheten.
+
+Till sist kommer jag hem och försöker göra åtta månader till en slutsats.
+
+Det här är den del där resan blir min berättelse.
+
+Det betyder inte att berättelsen är falsk.
+
+Det betyder att den har ett pris.
+
+lbsa71
+
+2004 och 2026
+
+========
 # 14. Vilse i Goa
 
 _Dag 101. Mandrem. 10 januari 2004._
@@ -2382,11 +2412,11 @@ Jag går igenom en rytm av nyktra ögonblick, där jag bedömer min situation, t
 
 De nyktra ögonblicken blir kortare och kortare, verkligheten börjar hacka, minnet ger vika och det blir svårare och svårare att lägga ihop pusslet som är vägen tillbaka till verkligheten. Det känns artificiellt, inte lika verkligt som svampen gjorde, men ändå blir jag rädd att jag ska hamna i ett tillstånd där jag inte längre får några nyktra ögonblick alls. Det skulle faktiskt kunna leda till uttorkning och, med tanke på mängden syra, skador. Kokosnöten blir min trygghet, dess beröring påminner mig om verkligheten och den blir aldrig visuell. Jag ser till att ha den nära mig hela tiden.
 
-Jag får en vision av en full gammal gubbjävel som sitter bakåtlutad på en veranda, slagen av livet, flaska i vänster hand och pekar ett halvhjärtat dra åt helvete mot något i övre högra hörnet. Jag vet att det här är jag, det här är min essens. Han är så trött på det, han har kämpat samma kamp länge, och nu är det enda han kan göra den sista trotshandlingen, förlorarens patetiskt trötta dra åt helvete.
+Jag får en vision av en full gammal gubbjävel som sitter bakåtlutad på en veranda, slagen av livet, med flaskan i vänster hand och ett halvhjärtat dra åt helvete riktat mot något i övre högra hörnet. Jag vet att det här är jag, det här är min essens. Han är så trött på allt. Han har kämpat samma kamp länge och det enda han har kvar är denna sista trotshandling, förlorarens patetiskt trötta dra åt helvete.
 
-Men ändå gör han det. Och han är inte ensam. Runt honom sitter tiotusentals fulla gamla gubbjävlar som gör samma sak. Och den fulla gamla gubbjäveln är på något sätt demonformad, med vassa drag och utskjutande fraktala hörn, och när man kommer närmare ser man att han egentligen består av miljontals pyttesmå fulla gubbjävlar, stridskamrater, alla gör de dra åt helvete, och på varje spets av deras långfingrar finns ännu en miljon fulla gubbjävlar som gör dra åt helvete, och på var och en av deras fingrar finns ännu en miljon som gör...
+Men ändå gör han det. Och han är inte ensam. Runt honom sitter tiotusentals fulla gamla gubbjävlar som gör samma sak. Den fulla gamla gubbjäveln är på något sätt demonformad, med vassa drag och utskjutande fraktala hörn. När man kommer närmare ser man att han egentligen består av miljontals pyttesmå fulla gubbjävlar, stridskamrater, alla med långfingret höjt. På varje fingertopp finns ännu en miljon fulla gubbjävlar, och på vart och ett av deras fingrar ännu en miljon som ...
 
-Samtidigt förvandlas den fulla gamla gubbjäveln till den kraftfulle unge krigare han en gång var, höjer näven stolt, fortfarande fraktaliserad in i evigheten, och nu börjar ljudet stiga i tonhöjd, allt går in i en tät loop, det där ljudet när man spelar ett sample snabbare och snabbare tills det blir ett högspänt tjut, för att till slut explodera i det ultimata:
+Samtidigt förvandlas den fulla gamla gubbjäveln till den kraftfulle unge krigare han en gång var och höjer näven stolt, fortfarande fraktaliserad ut i evigheten. Ljudet stiger i tonhöjd. Allt går in i en tät slinga, det där ljudet när man spelar ett ljudprov snabbare och snabbare tills det blir ett högspänt tjut, för att till slut explodera i det ultimata:
 
 DRA ÅT HELVETE
 
@@ -2404,7 +2434,9 @@ Jag ser en kvinna på stranden och går till henne för att be om vatten. Hon ä
 "När du ser mig på stranden imorgon, ropa på mig och berätta att vi träffades."
 Jag ser en PET-flaska framför mig och säger, halvt skrattande:
 "Ja! Det är det... du är mitt... meddelande i en flaska! Snälla, minns detta åt mig tills jag är tillbaka."
-Hon tar fram sin dagbok för att skriva ner det och jag berättar om att vi alla är ett, om kampen som egentligen är med en själv, och till slut om visionen med den fulla gamla gubbjäveln. Eftersom det är mycket dra åt helvete och aggressivitet i den visionen lutar hon sig fram när jag är klar, halvler och säger:
+Hon tar fram sin dagbok för att skriva ner det. Jag berättar om att vi alla är ett, om kampen som egentligen är med en själv och till slut om visionen med den fulla gamla gubbjäveln.
+
+Eftersom den innehåller mycket dra åt helvete och aggressivitet lutar hon sig fram när jag är klar, halvler och säger:
 "Var bara inte aggressiv."
 Jag skrattar, liksom glatt, liksom sorgset, och säger:
 "Men det är ju det ni alltid säger till mig! Och det är ju det jag alltid måste kämpa mot! Ni vill alltid vara ett, komma samman, och jag vill alltid att vi ska vara åtskilda!"
@@ -2435,9 +2467,11 @@ Jag kramar, vaggar mina två liter liv medan jag försöker hitta nästa trygga 
 
 Motvilligt rör jag mig vidare för att hitta en annan plats. Jag går förbi några fiskenät, fastnar nästan i ett av dem men klarar mig. Jag blir allvarligt paranoid över att någon ska märka vilket tillstånd jag är i och utnyttja mig. Jag vet att jag är i närheten av mitt hem, men när jag tittar ner på baksidan av kullen ser alla träd likadana ut, alla hus identiska. Jag börjar på allvar undra: "var fan är jag?"
 
-Senare, nykter, kommer jag inse att jag inte rörde mig mer än 50 meter, men de kändes som att korsa Sahara.
+Senare, nykter, kommer jag inse att jag inte rörde mig mer än femtio meter, men det kändes som att korsa Sahara.
 
-Plötsligt ser jag en röd flagga under ett träd i en dunge. Den ser inbjudande ut, som om den placerats där för att fånga uppmärksamhet. Jag tar mig dit och upptäcker att det är den perfekta trygga platsen. En mjuk kulle, skuggad av träd, avskild, inga människor. Här kan jag sova av mig det. När jag slappnar av börjar jag uppfatta märkliga saker i omgivningen; på en utskjutande del av stammen ligger aska. På den finns röd färg, samma röda som jag sett utsmetad på heliga platser. På en annan gren är Shivas tre parallella linjer ritade. I förundrad dimma ser jag mig omkring. Vid trädets fot ligger små kokosnötter på rad, och där finns skålar som använts för att bränna olja. På andra sidan en smal stig står en liten helgedom med rökelsepinnar. Jag inser att jag är i ett tempel. Inte den stora tjusiga sortens tempel, utan den sort som reses av vanliga människor som känner igen en plats helighet.
+Plötsligt ser jag en röd flagga under ett träd i en dunge. Den ser inbjudande ut, som om den placerats där för att fånga uppmärksamhet. Jag tar mig dit och upptäcker att det är den perfekta trygga platsen. En mjuk kulle, skuggad av träd, avskild, inga människor. Här kan jag sova av mig det.
+
+När jag slappnar av börjar jag uppfatta märkliga saker i omgivningen. På en utskjutande del av stammen ligger aska. Där finns röd färg, samma röda som jag sett utsmetad på heliga platser. På en annan gren är Shivas tre parallella linjer ritade. I förundrad dimma ser jag mig omkring. Vid trädets fot ligger små kokosnötter på rad och skålar som använts för att bränna olja. På andra sidan en smal stig står en liten helgedom med rökelsepinnar. Jag inser att jag är i ett tempel. Inte den stora, tjusiga sortens tempel, utan den sort som reses av vanliga människor som känner igen en plats som helig.
 
 Jag inser med absolut visshet att detta är platsen de alla kommer tillbaka till, en manifestation av den ursprungliga trygga hamnen. Jag överväldigas av tacksamhet, visar min respekt genom att röra vid mitt huvud, trädet, mina läppar, trädet igen. Jag kissar, bra färg på kisset, lägger vattnet under nacken och slumrar till.
 
@@ -2458,7 +2492,7 @@ Och då går det upp för mig att killarna faktiskt försöker jävlas med mitt 
 
 Vi sätter oss på stranden. Först föreslår Gilad att vi ska sätta oss med några vackra tjejer och prata med dem, sedan föreslår han faktiskt att jag ska ta ett dopp. Jag upprepar: ta ett dopp. I mitt tillstånd. Jag inser att de här killarna är helt jävla galna, de försöker faktiskt försätta mig i allvarlig fara. Så jag säger: "Jag kan inte göra det här i mitt nuvarande tillstånd. Hej då." och går.
 
-Härifrån hittar jag faktiskt hem. Det är svårt att förklara exakt hur mycket lättnad man kan känna av att komma in genom en dörr, kunna regla den, duscha och lägga sig ner. Och hitta en klocka, så man vet var man är i trippen. Fem timmar, det ska vara på väg ner, men det är det inte. Jag har fortfarande starka synfenomen av att mitt kött ruttnar och maskar kryper över och in i mig. Irriterande, men inte alarmerande. Fläckar verkar sippra in och ut ur väggarna.
+Härifrån hittar jag faktiskt hem. Det är svårt att förklara exakt hur mycket lättnad man kan känna av att komma in genom en dörr, kunna regla den, duscha och lägga sig ner. Och hitta en klocka, så man vet var man befinner sig i trippen. Fem timmar. Det borde vara på väg ner, men det är det inte. Jag har fortfarande starka synfenomen av att mitt kött ruttnar och maskar kryper över och in i mig. Irriterande, men inte alarmerande. Fläckar verkar sippra in i och ut ur väggarna.
 
 ("Du måste ha ett väldigt starkt psyke", kommenterar Kelly, "de flesta skulle flippa ur om de hade en sådan första tripp.")
 
@@ -2476,7 +2510,7 @@ Det hade säkert gått bra med hennes pojkvän bredvid henne.
 
 Så nej, det gjorde jag inte. Istället nyktrade jag till lite mer, nyktrade till ännu mer, och gick sedan på mitt första rave i Goa. Fjorton timmar efter att jag tog syran hade jag fortfarande synfenomen.
 
-Ravet var väldigt bra, som det skulle vara. Mer om det någon annan gång, kanske. Påminn mig om att berätta om de läskiga speed-crack-indierna och chai-mammorna, dock.
+Ravet var väldigt bra, som det skulle vara. Mer om det någon annan gång, kanske. Påminn mig om att berätta om de läskiga speed-crack-indierna och chai-mammorna.
 
 Dagen efter sov jag i fjorton timmar och gick sedan för att leta efter templet. För tänk om templet var en hallucination? Tänk om Gilad och Bors bara var inbillningar? Läskig, mycket läskig tanke.
 
@@ -2494,7 +2528,7 @@ Jaha, där fick man så man teg. Jag bara flämtade och sa: "Jag blev räddad av
 "Fan!" ropar jag, "jag vet vilken kokosnöt jag borde ha offrat, och nu är den borta!"
 "Oroa dig inte," fortsätter han, "det spelar ingen roll för guden. Du ska offra en kokosnöt, två bananer och ett paket socker, inslaget i papper, och bränna rökelse. Och du ska låta mig förse dig med dessa saker."
 "Tack, åh, tack," babblar jag.
-"Och," avslutar han, "du ska inte fråga mig vad det kostar, för detta gör jag för dig utan betalning. Att du kom till mig, inte någon annan affär, betyder att guden tänker på mig också. Jag är välsignad att du kom till min affär. Du måste betala för ölen, dock."
+"Och," avslutar han, "du ska inte fråga mig vad det kostar, för detta gör jag för dig utan betalning. Att du kom till mig, inte någon annan affär, betyder att guden tänker på mig också. Jag är välsignad att du kom till min affär. Men du måste betala för ölen."
 "Åh, ja. Tack." Jag skakar hans hand och tar sakerna.
 "Du offrar detta, och du kommer aldrig gå vilse igen. Och kom förbi när som helst om du behöver något," avslutar affärsinnehavaren.
 "Så du har blivit hindu nu, va?" flinar den tjocka britten när jag går.
@@ -2515,67 +2549,67 @@ Stefan
 
 _Dag 120. Mandrem. 29 januari 2004._
 
-I’m having my usual milk coffee breakfast at the Arambol German Bakery. They make wicked baked vegetables, but today I settle for avocado/tomato bread rolls. Phoenix and Dogdog enters, have a look around and decide to join me.
+Jag äter min vanliga frukost med kaffe och mjölk på Arambol German Bakery. De gör grymma ugnsbakade grönsaker, men i dag nöjer jag mig med frallor med avokado och tomat. Phoenix och Dogdog kommer in, ser sig omkring och bestämmer sig för att slå sig ner hos mig.
 
-They’re an unlikely couple, I met them through my tai chi class. Dogdog is about my age, Phoenix a couple of years younger. He looks older, though. Stubble for hair, wide shoulders, one big fucking tattoo covering his back; a bit quirky but quite the nice guy. Dogdog looks far more docile, totally like a family man. Apparently they joined up some time ago and now they’re travel mates.
+De är ett osannolikt par. Jag lärde känna dem genom min tai chi-grupp. Dogdog är ungefär i min ålder, Phoenix ett par år yngre, fast han ser äldre ut. Stubb till hår, breda axlar och en enda stor jävla tatuering över hela ryggen; lite underlig men en riktigt trevlig kille. Dogdog ser mycket beskedligare ut, fullständigt som en familjefar. Tydligen slog de följe för ett tag sedan och reser nu tillsammans.
 
 "Så," börjar Phoenix, "du hoppade över chi kung igår?"
 "Ja," svarar jag, "du vet, för mig är det väldigt starkt, jag menar, jag har varit ganska manodepressiv sedan det började, massor av saker som kommer upp till ytan, jag känner mig ganska glad nu så ärligt talat vågade jag inte göra det. Jag har tillräckligt många processer igång, du vet?"
 
-Phoenix gives me one of his enigmatic smiles and say,
-"Red ut dem du redan har igång innan du startar nya. Låter som en bra idé. Själv är mitt största problem det där fluffiga new age-stoffet Panda lär ut. Det är inte att jag inte förstår, jag håller bara inte med."
+Phoenix ger mig ett av sina gåtfulla leenden och säger:
+"Red ut dem du redan har igång innan du startar nya. Låter som en bra idé. Själv är mitt största problem det där fluffiga nyandliga stoffet Panda lär ut. Det är inte att jag inte förstår, jag håller bara inte med."
 
-Panda is our tai chi teacher. Phoenix pauses, prepares himself and offer anyone to take over, nobody does, so he continues,
+Panda är vår tai chi-lärare. Phoenix stannar upp, samlar sig och lämnar en öppning för någon annan att ta över. Ingen gör det, så han fortsätter:
 "Jag menar, jag tycker att han gör för mycket av enkla tekniker. Det är som när en tonåring hittar droger och gör det till en andlig grej. Jag håller med om att det här är fantastiska tekniker för att lära känna sig själv, förbereda och stärka sig själv, men jag tycker inte att man kan dra de slutsatser han drar av det."
 
-I raise my eyebrows.
+Jag höjer på ögonbrynen.
 
-"Tja," förklarar han, "biten om att människans essens är enhet, skönhet, sanning, frid och kärlek. Det är att säga ’ena halvan av yin-yang är mer essentiell än den andra’ - och det är att förminska universum. Jag tror att separation, bedrägeri, disharmoni och rädsla också är integrerade delar av den mänskliga erfarenheten. Vissa, troligen de flesta, människor strävar efter enhet och frid, det är sant, men att därifrån härleda att det är människans essens, det är för mycket."
+"Tja," förklarar han, "biten om att människans essens är enhet, skönhet, sanning, frid och kärlek. Det är som att säga att ena halvan av yin och yang är mer grundläggande än den andra, och det förminskar universum. Jag tror att åtskillnad, bedrägeri, disharmoni och rädsla också är delar av den mänskliga erfarenheten. Vissa, troligen de flesta, människor strävar efter enhet och frid. Det är sant. Men att därifrån dra slutsatsen att detta är människans essens är för mycket."
 
-This is way to heavy for a breakfast conversation. The table falls silent. A waiter passes, Dogdog orders breakfast for them both.
+Det här är alldeles för tungt för ett frukostsamtal. Bordet tystnar. En servitör går förbi och Dogdog beställer frukost åt dem båda.
 
-"Hur som helst," byter jag ämne, "jag sov inte bra natten före igår. Hundarna höll mig vaken, gläfsade och ylade."
+"Hur som helst," byter jag ämne, "jag sov inte bra i förrgår natt. Hundarna höll mig vaken, gläfsade och ylade."
 
-Med sin långsamma, eftertänksamma röst säger Dogdog "Ja, minns ni hunden för några nätter sedan?"
+Med sin långsamma, eftertänksamma röst säger Dogdog: "Ja, minns ni hunden för några nätter sedan?"
 
-He looks at Phoenix, explains to me,
-"Jag vaknade mitt i natten, runt två på morgonen, en hund var i vår lilla hyttby. Den lät fruktansvärt. Den ylade och gnydde som om den hade någon sorts fysisk eller emotionell smärta. Och den måste ha haft någon tjock tung jävla kedja runt halsen, för hunden gick uppför trappan till vår hyttveranda och man hörde kedjan rassla. Det var som en jävla skräckfilm. Och den slutade bara inte med det där hemska jävla ylandet, helt rubbad, som om hunden blivit galen av smärta. Och jag tänkte för mig själv, är det här filmen där jag går upp, tröstar varelsen och befriar den från kedjan,"
+Han tittar på Phoenix och förklarar för mig:
+"Jag vaknade mitt i natten, runt två på morgonen. En hund hade kommit in bland våra små stugor. Den lät fruktansvärt. Den ylade och gnydde som om den hade någon sorts fysisk eller känslomässig smärta. Den måste ha haft en tjock, tung jävla kedja runt halsen, för när den gick uppför trappan till vår veranda hörde man kedjan rassla. Det var som en jävla skräckfilm. Den slutade bara inte med det där hemska ylandet, helt rubbad, som om den blivit galen av smärta. Och jag tänkte: är det här filmen där jag går upp, tröstar varelsen och befriar den från kedjan,"
 
 "Eller är det filmen där du går upp, tröstar varelsen och dör av rabies," avbryter Phoenix. Dogdog bryr sig inte, fortsätter,
 
 "eller är det här filmen där jag bara kastar en vattenflaska på den?"
 
-"Och lägger till mer smärta" föreslår jag,
+"Och lägger till mer smärta," föreslår jag.
 
 "Och lägger till mer smärta," håller Dogdog med, "Hur som helst, jag låg bara där och väntade på att den skulle gå därifrån, och till slut gjorde den det. Phoenix vände sig bara om och sov igenom allt."
 
-Their coffee arrives. It’s the Nescafe variety, even though some places serve perfectly good filter coffee.
+Deras kaffe kommer. Det är Nescafé-varianten, trots att en del ställen serverar fullkomligt anständigt bryggkaffe.
 
-"De har deprimerande bra västerländsk mat här i Arambol," säger jag, "har du ätit pizzan på Fellini’s än? Den är fantastisk. Riktig italiensk pizza."
+"De har deprimerande bra västerländsk mat här i Arambol," säger jag, "har du ätit pizzan på Fellini's än? Den är fantastisk. Riktig italiensk pizza."
 
 "Jag åt riktigt kaffe och äppelpaj med glass till lunch på Double Dutch häromdagen," säger Dogdog, "vidrigt, men utsökt."
 
 "För att inte tala om deras biffar," flikar Phoenix in, "riktiga biffar, med potatismos. Gud, när jag kom hit hade jag inte ätit riktig biff på fyra månader... du vet hur mat kan smaka fantastiskt de första tuggorna, men sedan blir allt bara mat? Tja, den här biffen, jag säger dig, jag njöt av den till sista biten."
 
-I remember something funny, smile and chuckle to myself, they turn their attention on me.
+Jag kommer att tänka på något roligt, ler och småskrattar för mig själv. De vänder uppmärksamheten mot mig.
 
 "Va?"
 
 "Du vet, på Double Dutch har de nät överallt för att skydda folk från fallande kokosnötter?"
 
-"Yeah?"
+"Ja?"
 
-"Tja, den här irländska killen, jag tror han hette Tim eller något, berättade att han en gång var två meter från kokosdöden. Tänk dig, sa han med sin Belfast-accent, när de skickar hem dig i en kista från Goa; ’Vad dog han av? Överdos? Motorcykelolycka? Nej... kokosnöt...’"
+"Tja, den här irländska killen, jag tror han hette Tim eller något, berättade att han en gång var två meter från kokosdöden. Tänk dig, sa han med sin Belfastaccent, när de skickar hem dig i en kista från Goa: 'Vad dog han av? Överdos? Motorcykelolycka? Nej ... kokosnöt ...'"
 
-They smile, then Phoenix go
+De ler. Sedan säger Phoenix:
 
 "Jag tror ändå att fler dör i motorcykelolyckor än av fallande kokosnötter. Jag menar, Jesus, med alla de här utlänningarna som kör som galningar, de flesta utan riktigt körkort och en hel del av dem höga som hus, stenade eller fulla... särskilt i mörkret. När jag hade plastfolien på mig för att skydda tatueringen frågade folk om jag hade varit med om en olycka. Det är tydligen den första förklaringen som dyker upp."
 
 "Förresten," hakar jag på, "hur gjorde du tatueringen?"
 
-"I Anjuna, för ett par veckor sedan. Det finns en riktigt bra studio där, Andys tattoo. Jag visste direkt när jag bläddrade igenom hans pärmar att, ’det här är killen!’"
+"I Anjuna, för ett par veckor sedan. Det finns en riktigt bra studio där, Andy's Tattoo. Jag visste direkt när jag bläddrade igenom hans pärmar: det här är killen!"
 
-"Det är en stor jävla tatuering," kommenterar jag, "jag minns när jag först såg den, jag tänkte ’fy fan’, sedan ’det där är läääskigt’ och till sist, ’wow, det där är coolt!’"
+"Det är en stor jävla tatuering," kommenterar jag. "Jag minns när jag först såg den. Först tänkte jag fy fan, sedan det där är läääskigt och till sist: wow, det där är häftigt!"
 
 "Ja, jag såg den inte själv förrän ett par dagar efter att den var gjord. En vän till mig tog en bild med digitalkamera och visade den för mig."
 
@@ -2583,65 +2617,65 @@ They smile, then Phoenix go
 
 "Nej, jag sa bara till mannen att jag ville ha en Phoenix och flammor över hela ryggen, han ritade den direkt på min rygg och tatuerade sedan in den."
 
-A moments awed silence, then I say,
+En stunds vördnadsfull tystnad. Sedan säger jag:
 
 "Det är... tillitsfullt..."
 
 "Lite vårdslöst," medger han, "men det är sådan jag är. Och det blev bra, eller hur?"
 
-"Yeah, it’s beautiful."
+"Ja, den är vacker."
 
-"Inte färdig dock," tillägger Phoenix något tankfullt, "det är bara konturen. Jag måste hitta en annan tatuerare som fyller i den. Det är nog ytterligare fem eller sex timmars jobb."
+"Inte färdig än," tillägger Phoenix tankfullt. "Det är bara konturen. Jag måste hitta en annan tatuerare som fyller i den. Det är nog ytterligare fem eller sex timmars jobb."
 
 "Hur lång tid tog det?"
 
-"Fem timmar totalt, ungefär två och en halv timme av det var tatuering. Halvvägs igenom satte Andy på riktigt bra Goa-trance på väldigt hög volym, det hjälpte. Mentalt flyttade jag smärtan från ryggen till mitten av huvudet, omvandlade den till en ljusshow och lät mitt sinne trancedansa till den. Det var sjukt coolt. Det lämnade mig i ett allvarligt uppskruvat tillstånd, dock, att tranca in i smärta sådär. Gud, jag var primal efteråt."
+"Fem timmar totalt, ungefär två och en halv timme av det var själva tatuerandet. Halvvägs satte Andy på riktigt bra goatrance på väldigt hög volym. Det hjälpte. I tanken flyttade jag smärtan från ryggen till mitten av huvudet, gjorde om den till en ljusshow och lät medvetandet dansa trance till den. Sjukt häftigt. Jag var rejält uppskruvad efteråt av att gå in i smärtan så där. Gud, jag var helt urmänsklig."
 
 "Gjorde det så ont?"
 
 "Helvete ja," ler Phoenix, "självklart gjorde det det. Halva nöjet. Men det mest intressanta är att jag aldrig visste att man kunde känna så många sorters smärta över ryggen. Det här är min första tatuering, du vet. Det finns ställen på ryggen, särskilt längs ryggraden, där jag bara var tvungen att hindra mig själv från att skrika som en dam. Kroppen rycker och rör sig ofrivilligt. Det är som när jag gjorde min första piercing - det är inte smärtan i sig, utan sortens smärta."
 
-"Jag vet inte om jag skulle kunna göra det mot mig själv," säger jag, "jag menar, jag försöker tänka typ, ’på vilket sätt ska det här göra mig lycklig?’ Jag kan inte se det. Jag menar, jag försöker behandla mig själv som jag skulle behandla någon jag älskar, någon jag bryr mig om, kanske som jag skulle behandla en trogen hund, jag menar, jag skulle aldrig få min flickvän att göra något sådant, så varför skulle jag göra det mot mig själv?"
+"Jag vet inte om jag skulle kunna göra det mot mig själv," säger jag. "Jag menar, jag försöker tänka typ: 'På vilket sätt ska det här göra mig lycklig?' Jag kan inte se det. Jag försöker behandla mig själv som jag skulle behandla någon jag älskar, någon jag bryr mig om, kanske som en trogen hund. Jag skulle aldrig få min flickvän att göra något sådant, så varför skulle jag göra det mot mig själv?"
 
 "Jag tänkte inte så mycket på det. Jag tänkte bara att det skulle vara ännu en cool sak att göra. Jag betraktar det som en födelsedagspresent till mig själv."
 
-Dogdog’s been silent for a long time, finishing his coffee.
+Dogdog har varit tyst länge och druckit upp sitt kaffe.
 
 "Ibland," tillägger han till synes utan sammanhang, "tar man smärta för nyckerna hos den man älskar."
 
-Phoenix and I exchange glances. Clearly, he’s been somewhere else.
+Phoenix och jag utbyter blickar. Han har uppenbarligen varit någon annanstans.
 
-Outside the cafe, on the beach, dirty children play with garbage in the shade of a fishermans boat. Three boys, three girls, ranging from two to maybe nine. The girls are all clad in beautiful dresses despite their obviously poor living conditions. Their colors are cyan, yellow and green against the dry khaki and tea of the sand.
+Utanför kaféet, på stranden, leker smutsiga barn med skräp i skuggan av en fiskebåt. Tre pojkar, tre flickor, från två till kanske nio år. Flickorna bär vackra klänningar trots sina uppenbart fattiga levnadsförhållanden. Cyan, gult och grönt mot sandens torra kaki- och tefärger.
 
-"Du vet den där flickan jag berättade om," börjar Phoenix, "flickan jag överföll under min acid trip, sa till henne, du är mitt meddelande i en flaska? Och hon gav mig vatten?"
+"Du vet den där flickan jag berättade om," börjar Phoenix, "flickan jag antastade under min syratripp och sa var mitt meddelande i en flaska? Hon som gav mig vatten?"
 
-"Yeah?" I say, Dogdog clearly already knows whatever it is Phoenix is going to tell.
+"Ja?" säger jag. Dogdog vet uppenbarligen redan vad Phoenix tänker berätta.
 
-"I några dagar efter trippen letade jag alltid efter henne på stranden, väntade på att någon skulle komma och säga ’hej! minns du mig?’ men ingen gjorde det."
+"I några dagar efter trippen letade jag alltid efter henne på stranden, väntade på att någon skulle komma och säga: 'Hej! Minns du mig?' Men ingen gjorde det."
 
-A moments silence, then,
+En stunds tystnad. Sedan:
 
 "Tja, det visar sig vara Anja. I vår tai chi-grupp, tyska Anja."
 
-I half-open my mouth in surprise and smile wide,
+Jag gapar halvt av förvåning och ler brett.
 
 "Ahhh, då förstår jag varför du kom med vatten till henne de första gångerna!"
 
-Phoenix nods,
+Phoenix nickar.
 
 "Återbetalat i sin helhet. Hon är uppenbarligen förälskad i Panda."
 
 "Ja, jag såg det också, från början. Hon sväljer honom uppenbarligen hel."
 
-"Jag berättade för henne att människans tillstånd inte enbart är enhet och salighet," säger Phoenix, "och hon svarade uppriktigt, ’men han lever i det tillståndet hela tiden’, hennes ögon stora, blå och vidöppna. Stackarn. Han är lika trasig som resten av oss."
+"Jag berättade för henne att människans tillstånd inte enbart är enhet och salighet," säger Phoenix, "och hon svarade uppriktigt: 'Men han lever i det tillståndet hela tiden', med ögonen stora, blå och vidöppna. Stackarn. Han är lika trasig som resten av oss."
 
 "Det finns en suddig gräns mellan självbehärskning och självslaveri," nickar jag.
 
 "Jag tycker", säger Dogdog plötsligt, "att Panda är en bra lärare i bra saker."
 
-Nobody disagrees, really.
+Ingen säger egentligen emot.
 
-The children outside are putting garbage into a grocery bag, the youngest boy meticulously hands over a coke bottle to an older boy. He first accepts it then reconsider and throws it away. The younger boy picks it up again, fiddles with it seemingly trying to decide if it’s worth it since the older boy disapproved. Cooperatively, they hang the bag on the handle of a rusty bicycle, then fight over who’ll sit on the saddle. None of them are big enough to do it but that doesn’t keep them from wanting to.
+Barnen utanför lägger skräp i en plastpåse. Den yngste pojken räcker noggrant över en colaflaska till en äldre pojke. Först tar han emot den, sedan tänker han om och kastar bort den. Den yngre plockar upp den igen och fingrar på den, som om han försöker avgöra om den är värd något när den äldre underkänt den. Tillsammans hänger de påsen på styret till en rostig cykel och börjar sedan slåss om vem som ska sitta på sadeln. Ingen av dem är stor nog, men det hindrar dem inte från att vilja.
 
 "Har du sett den blinda hunden," frågar Phoenix mig.
 
@@ -2653,73 +2687,94 @@ The children outside are putting garbage into a grocery bag, the youngest boy me
 
 "Ja," tillägger jag, "det är därför jag tycker att hundflocken som det där paret alltid tar med sig till lektionen är en så uppfriskande kommentar till Pandas predikningar om kärlek och enhet - deras fientlighet mot alla utanför gruppen bevisar att hundens essens är hund, människans essens är människa."
 
-A thought strikes me, while we’re on the subject, I look at Dogdog, asks,
+När vi ändå är inne på ämnet slår mig en tanke. Jag tittar på Dogdog och frågar:
 "Förresten Dogdog, hur fick du det namnet?"
 
-Dogdog stays silent long enough for Phoenix to answer for him;
+Dogdog är tyst tillräckligt länge för att Phoenix ska svara åt honom:
 
-"Jag gav honom det. Det har med arketyper att göra. För ett tag sedan reste vi med en sydafrikansk tjej, hon brukade kalla hundar som såg ut som riktiga hundar, sympatiska hundar, för dog-dogs. Dogdog är sådan, arketypen för en sympatisk hund. Det fastnade. Som du och din ’crabman’."
+"Jag gav honom det. Det har med arketyper att göra. För ett tag sedan reste vi med en sydafrikansk tjej. Hundar som såg ut som riktiga, sympatiska hundar kallade hon hund-hundar. Dogdog är sådan, arketypen för en sympatisk hund. Det fastnade. Som du och din krabbman."
 
-Phoenix smiles at Dogdog silently contemplating the beach.
+Phoenix ler mot Dogdog, som tyst betraktar stranden.
 
-A very young mother or perhaps an much older sister comes out on the beach, grabs the youngest boy, dashes the sand off him with violent strokes. When he starts protesting, she lifts him up, carries him away. When the wailing doesn’t stop, she gives him a few good smacks over the face. It doesn’t stop the wailing. The other kids take no notice, they’ve stopped their fighting over the saddle and apparently decided on a division of responsibility. The oldest girl, maybe nine years old, steers the bike, some of them pushes the bike, the rest runs around it. They exit the scene.
+En mycket ung mamma, eller kanske en betydligt äldre syster, kommer ut på stranden, griper tag i den yngste pojken och borstar sanden av honom med hårda slag. När han börjar protestera lyfter hon upp honom och bär iväg honom. När tjutandet inte upphör ger hon honom ett par rejäla örfilar. Det hjälper inte. De andra barnen bryr sig inte. De har slutat slåss om sadeln och verkar ha kommit överens om en arbetsfördelning. Den äldsta flickan, kanske nio år, styr cykeln, några skjuter på och resten springer runt omkring. De lämnar scenen.
 
-Left is only the eternal picture of earth and water making silent love under the warm salty breeze of yet another Arambol morning.
+Kvar finns bara den eviga bilden av jord och vatten som älskar ljudlöst under den varma, salta brisen ännu en morgon i Arambol.
 
-And in this moment in time, only god knows when and how who is going where.
+Och just i detta ögonblick vet bara gud vem som är på väg vart, när och hur.
 
-Love,
-Crabman
+Kärlek,
+Krabbmannen
 # 16. Att lämna Indien
 
 _Dag 143. Bangkok. 21 februari 2004._
 
-Leaving Hampi I shared a ricksha to Hospet with Livnat and Lori, two Israeli travelmates. During the ride, Livnat asks me if I believe in fate.
+När jag lämnar Hampi delar jag ricksha till Hospet med Livnat och Lori, två israeliska reskamrater. Under färden frågar Livnat om jag tror på ödet.
 
-I answer her that yes, I do believe in fate, and that no, I do believe in free will. There is a goal of which I know nothing, but that we will reach it; of that I am sure.
+Jag svarar att ja, jag tror på ödet, och att nej, jag tror också på den fria viljan. Det finns ett mål som jag inte vet något om, men vi kommer att nå det. Det är jag säker på.
 
-Then she asks me if I’m afraid of hell, and I answer no, so she asks if I don’t believe in it. I don’t know, I’m just not afraid of it. I know that being human in hell, you would adapt. In a certain sense, we’re already in hell, we’ve just been here for so long, that we’ve forgotten what it would be like not to be. Real hell would be not to be able to adapt.
+Sedan frågar hon om jag är rädd för helvetet. Jag svarar nej, så hon undrar om jag inte tror på det. Jag vet inte. Jag är bara inte rädd för det. Som människa i helvetet skulle man anpassa sig. På sätt och vis är vi redan i helvetet; vi har bara varit här så länge att vi glömt hur det vore att inte vara det. Det verkliga helvetet vore att inte kunna anpassa sig.
 
-It’s like, heaven would be boring. For us to endure heaven, the part of us that longs for hell would have to be cut out.
+Himlen skulle vara tråkig. För att vi skulle stå ut med den måste den del av oss som längtar efter helvetet skäras bort.
 
-And what would be left in either case, wouldn’t be me. It would be something else. And how it could be called justice if that thing would be rejoicing or punished based on my merits, beats me.
+Och det som blev kvar skulle i båda fallen inte vara jag. Det skulle vara något annat. Hur det kan kallas rättvisa om den varelsen belönas eller straffas för mina förtjänster övergår mitt förstånd.
 
-Livnat’s got a red and gold stick-on bindi, asks me if I want one. Of course, it’s the Shivavatri festival, so she puts a pink one between my eyebrows. We laugh about it, I allow myself to rest in her beautiful deep eyes for a few moments.
+Livnat har en självhäftande bindi i rött och guld och frågar om jag vill ha en. Det är trots allt Shivaratri, så hon sätter en rosa mellan mina ögonbryn. Vi skrattar och jag låter mig vila i hennes vackra, djupa ögon ett par ögonblick.
 
-The ricksha bumping along, she says; difficult questions, right. Yeah. You know, she continues, it’s not my first language, but most the time I’m able to say the things I want to say in english. With you, I feel like a little girl all the time. Is that good or bad, I ask. Bad, of course. Well, I say, you should be glad. I never explained why.
+Medan rickshan skumpar fram säger hon:
 
-Arriving at their bus stop, we have some delicious fresh pineapple juice and a smoke. I gave my pack to Lori, I don’t want them, I’m quitting, she gives me back one cigarette. My last cigarette, I tell her. Always the last, she says. Yeah.
+"Svåra frågor, eller hur?"
+"Ja."
+"Du vet, engelska är inte mitt första språk, men för det mesta kan jag säga det jag vill säga. Med dig känner jag mig som en liten flicka hela tiden."
+"Är det bra eller dåligt?"
+"Dåligt, förstås."
+"Du borde vara glad."
 
-They get on their sleeper bus, going to Poona, and I start walking towards the train station. With every step I can feel something decending upon me, something like a thick soft blanket. The silence beyond sound, the ear-popping sound of once again going solo.
+Jag förklarade aldrig varför.
 
-Because, you see, it’s been so long since I was truly alone. In Goa and Hampi there was always something or somebody going on. And now, I was leaving everything and all that behind. Step by step, literally, I was leaving India, all that was, and step by step, I was walking into being just me.
+Vid deras busshållplats dricker vi utsökt färsk ananasjuice och röker. Jag ger cigarettpaketet till Lori; jag vill inte ha det, jag ska sluta. Hon ger mig en cigarett tillbaka.
 
-The train-ride to Bangalore was eventless. Coming to Chennai, I left my luggage in the train station, bought some grapes and just sat there on the stairs outside of the station watching India pass me by. Dirty busy polluted chaotic backwards narrow-minded India. I hate it, can’t stand it and miss it. I will return.
+"Min sista cigarett," säger jag.
+"Alltid den sista," säger hon.
+"Ja."
 
-I thought I was travelled out, blase. Coming to Bangkok I realized I was wrong. I did realize that I probably would travel in a different mindset, and yes, that seems to hold. Take the outer appearances of Tokyo and fill it up with the inner soul of, say, New Delhi or Mumbai, and you get Bangkok. Kho San Road, the backpacker centre, is a 24-hour madhouse. Arriving at 6’o clock in the morning, I find some aquaintances from the flight sitting in a ’Irish’ bar having breakfast beer to pumping cheesy euro techno remakes.
+De kliver på nattbussen till Poona och jag börjar gå mot järnvägsstationen. För varje steg känner jag något sänka sig över mig, något som en tjock, mjuk filt. Tystnaden bortom ljudet, det lockande trycket i öronen när man åter är på egen hand.
 
-I think about finding a room and ask a truly odd old western man for advice. He’s quite disgusting actually, standing in the street holding a bath towel dressed only in yellow shorts, his face sprinkled with moles and boils, he gives me a hotel name, and then as if it was more to the point, the name of a night club. They’ve got 60 girls there, he exclaims. Damn thai women, though, they leave as soon as the money is gone. No wonder why, I think, but I’m tired, it’s all just too lovely, I feel dazed in the same way I did arriving to Mumbai, so I smile, thank him and walk away.
+För det har gått så lång tid sedan jag verkligen var ensam. I Goa och Hampi var det alltid något eller någon på gång. Nu lämnade jag allt det bakom mig. Steg för steg, bokstavligen, lämnade jag Indien och allt som hade varit. Steg för steg gick jag in i att bara vara jag.
 
-I find a good hotel, but unfortunately there’s only air-con rooms left. Just as well, as it’s incredibly warm and humid. Oh, well. I’ll splash out 480 baht (85 SEK) on my first night in Thailand. I eat some street noodles, sleep, and when I wake up it’s night.
+Tågresan till Bangalore var händelselös. I Chennai lämnade jag bagaget på stationen, köpte vindruvor och satte mig på trappan utanför för att se Indien passera. Smutsiga, jäktade, förorenade, kaotiska, bakåtsträvande, trångsynta Indien. Jag hatar det, står inte ut med det och saknar det.
 
-I pass the ’Silk bar’, outside there’s some thai women dressed in fetish leather skirts, knee height boots and military caps. I just want to buy a ’singha’ beer for the road from them, but they try to explain something to me and I end up going into the place. It’s quite a nice place, I’m a bit underdressed in my embroided pants and sleeveless shirt. Anyway, I sit down at a really good table and just take the street in. It’s lovely, the beer is not that good, so my next order is a Heineken and some cream soup.
+Jag kommer tillbaka.
 
-Suddenly, somebody is saying something in my right ear, I’m sitting alone at a table, they have a lot of people waiting to be seated, would I mind joining those two thai women down there at that table in order to free up this one? I’m actually quite enjoying myself, although getting kind of saturated, so I think, why not. And, the ladies look nice, when I look their way, they wave and smile. One of them have totally caught my eye, she’s impossibly slim yet not skinny, has that kind of nervous manner that seems common to young thai women - looking around the place, wringing hands, picking at stuff. Cute as hell. Lovely.
+Jag trodde att jag var utrest, blasé. När jag kom till Bangkok insåg jag att jag hade fel. Jag hade förstått att jag antagligen skulle resa i ett annat sinnestillstånd, och det verkar stämma. Ta Tokyos yttre och fyll det med New Delhis eller Mumbais inre, så får du Bangkok. Khao San Road, backpackercentrumet, är ett dygnet-runt-dårhus. När jag anländer klockan sex på morgonen sitter några bekanta från flyget på en "irländsk" bar och dricker frukostöl till pumpande, ostiga eurotechnoremixer.
 
-So I go, ’yeah, sure’ and go down to the table, it’s a shit table, it’s halfways out in the street and made of plastic. On the way there I meet the girls, smiling and saying ’thanks’. They are on the way to my table. My ace table with superb view.
+Jag behöver hitta ett rum och ber en verkligt märklig gammal västerländsk man om råd. Han är rätt äcklig där han står på gatan i bara gula shorts med en badhandduk i handen och ansiktet bestrött av födelsemärken och bölder. Han ger mig namnet på ett hotell och sedan, som om det vore mer relevant, namnet på en nattklubb.
+
+"De har sextio tjejer där. Men förbannade thaikvinnor, de sticker så fort pengarna är slut."
+
+Inte så konstigt, tänker jag. Men jag är trött, allting är alldeles för underbart och jag känner mig lika omtöcknad som när jag kom till Mumbai. Jag ler, tackar och går vidare.
+
+Jag hittar ett bra hotell, men tyvärr finns det bara rum med luftkonditionering kvar. Lika bra det, här är otroligt varmt och fuktigt. Nåja. Jag slår på stort och betalar 480 baht, 85 kronor, för min första natt i Thailand. Jag äter nudlar på gatan, sover och när jag vaknar är det natt.
+
+Jag passerar Silk Bar. Utanför står några thaikvinnor i fetischkjolar av läder, knähöga stövlar och militärkepsar. Jag vill bara köpa en Singha att ta med, men de försöker förklara något och det slutar med att jag går in. Det är ett rätt trevligt ställe. Jag är lite underklädd i broderade byxor och ärmlös skjorta, men får ett riktigt bra bord och sitter bara och tar in gatan. Underbart. Ölen är inte särskilt god, så härnäst beställer jag en Heineken och en gräddsoppa.
+
+Plötsligt talar någon i mitt högra öra. Jag sitter ensam vid ett bord, de har många som väntar på sittplats, skulle jag kunna tänka mig att slå mig ner hos de två thaikvinnorna där borta så att det här bordet blir ledigt? Jag har det rätt bra men börjar bli mätt på intryck, så varför inte. Kvinnorna ser trevliga ut och när jag tittar åt deras håll vinkar och ler de. Den ena har fångat min blick fullständigt; omöjligt smal utan att vara mager, med det där nervösa sättet som verkar vanligt bland unga thaikvinnor: hon ser sig omkring, vrider händerna och plockar på saker. Söt som fan. Underbar.
+
+Så jag säger "ja, visst" och går ner till bordet. Det är ett skitbord, till hälften ute i gatan och gjort av plast. På vägen möter jag kvinnorna, som ler, säger tack och är på väg till mitt bord.
+
+Mitt kanonbord med den fantastiska utsikten.
 
 "Om du inte har roligt där kan du komma tillbaka in," säger värdinnan.
 
-Obviously, I’ve been exchanged for something a bit more in line with the message the place is trying to convey.
+Uppenbarligen har jag bytts ut mot något som bättre stämmer med budskapet stället försöker förmedla.
 
-And of course, there’s not exactly a big crowd waiting to join me at my shit table halfways out in the middle of the street. When my cream soup comes it comes with the bill without me having to ask for it.
+Och självklart trängs ingen för att göra mig sällskap vid skitbordet mitt ute i gatan. När gräddsoppan kommer får jag notan utan att be om den.
 
-Today Becky mailed and told me she’s on a small island outside the port of Ranong called ’Kho Pha Yam’, not to be mixed up with ’Kho Pha Ngan’, the big party island. Apparently this island is peaceful, not very developed and got some lovely beach. Just what I was looking for to kick of my stay in Thailand, I’m leaving for Ranong tomorrow night.
+I dag mejlade Becky och berättade att hon är på en liten ö utanför hamnstaden Ranong som heter Koh Phayam, inte att förväxla med Koh Phangan, den stora partyön. Tydligen är ön lugn, inte särskilt exploaterad och har en underbar strand. Precis vad jag letade efter som början på min tid i Thailand. Jag åker till Ranong i morgon kväll.
 
-Love,
+Kärlek,
 Stefan
 
-PS. The list of topics not yet covered by these travel diaries is getting quite long.
+PS. Listan över ämnen som ännu inte fått plats i resebreven börjar bli rätt lång.
 # 17. Bangkokshowen
 
 _Dag 156. Bangkok och Chiang Mai. 5 mars 2004._
@@ -2744,9 +2799,9 @@ Hon tar tag i min handled med båda händerna och snurrar runt mig. Jag är på 
 
 Helt som den nedlåtande jävel som försöker vara snäll som jag alltid varit rädd för att vara.
 
-När jag svänger in på Khao San Road kommer en tuk-tuk-förare fram och frågar om jag vill åka. När jag säger nej frågar han om jag vill ha något annat, flinar och formar vänsterhanden till en cylinder, klappar över hålet med högerhanden och gör ett tyst ’popp’-ljud. Nej, jag tror inte jag vill det.
+När jag svänger in på Khao San Road kommer en tuk-tuk-förare fram och frågar om jag vill åka. När jag säger nej frågar han om jag vill ha något annat, flinar och formar vänsterhanden till en cylinder, klappar över hålet med högerhanden och gör ett tyst poppljud. Nej, jag tror inte jag vill det.
 
-När jag försöker ta mig till ett internetkafé sticker en tjej ut armen och stoppar mig, bara det att det inte är en tjej, det kan det inte vara. Det är en ladyboy. Jesus, tänker jag, som stor och uppenbart ensam kille i Bangkoks turistdistrikt verkar jag gå omkring med en skylt klistrad i pannan.
+När jag försöker ta mig till ett internetkafé sticker en tjej ut armen och stoppar mig, bara det att det inte är en tjej, det kan det inte vara. Det är en kathoey, en transkvinna. Jesus, tänker jag, som stor och uppenbart ensam kille i Bangkoks turistdistrikt verkar jag gå omkring med en skylt klistrad i pannan.
 
 Jag lyfter försiktigt hennes arm, ler och säger: "Nej, jag ska till internet." Hon ger mig några hjälpsamma tips om hur man använder kaféet, jag tackar och går vidare.
 
@@ -2760,7 +2815,7 @@ Till slut ser jag en kvinna vid en bil. Jag frågar henne efter bussen till Rano
 
 Bussen kommer, tar mig till Ranong, jag somnar med kvinnan i sätet bredvid och får ett ögonblicks panik när jag vaknar och hon är borta. Det visar sig att hon klev av tidigare. I Ranong får jag skjuts till piren av en rynkig gammal man på moped. Föreställ er den lilla mopeden, hukande under vikten av den lilla gamle mannen böjd över styret och mig med två ryggsäckar, fastklamrad vid honom och försöker att inte falla av sätet. Mopeden puttrar, väser och är allmänt underdimensionerad för uppgiften.
 
-Koh betyder ’ö’.
+Koh betyder "ö".
 
 Två och en halv timmes båtresa från Ranong ligger Koh Payam. Det är en av öarna längst ut i skärgården, så vågorna är rätt höga. Tillräckligt höga för bodysurfing i alla fall. Det finns två betongvägar som korsar ön, och man kan hyra motorcyklar; små 125-kubikare som kan göra ungefär 100 km/h. Att susa genom vegetationen, väja för hål i vägen och ducka för alldeles för låga grenar på metervida vägar kändes precis som scenen med flyghojarna i Star Wars: Jedins återkomst. Mycket kul.
 
@@ -2783,7 +2838,7 @@ Taxichauffören som kör mig till Khao San Road är fullständigt knäpp. Han up
 
 "Hallå från London. Vädret är 15 grader fahrenheit, 10 grader celsius. Jag lär engelska från radio, lyssna. Vädret är 15 grader. Sverige kallt. Jag är musiker. Lyssna."
 
-Sedan sätter han på en karaoke-powerballad från åttiotalet och sjunger med i en fruktansvärd imitation av engelska, överartikulerar varje ord, träffar inte en enda ton utan istället mitt knä för att försäkra sig om att han har min fulla uppmärksamhet.
+Sedan sätter han på en karaokepowerballad från åttiotalet och sjunger med i en fruktansvärd imitation av engelska. Han överartikulerar varje ord och träffar inte en enda ton, men däremot mitt knä, för att försäkra sig om att han har min fulla uppmärksamhet.
 
 "Ingen dricks?" frågar han surt när jag till slut kliver ur bilen och betalar.
 
@@ -2795,7 +2850,7 @@ På kvällen ska jag på en omgång traditionell thaimassage. Becky gav mig en p
 
 När jag frågar receptionisten var det ligger och hur lång tid det tar säger hon två timmar. Jag blir förbryllad. Hon förklarar: trafiken.
 
-Och trafik var det. Klockan sex tar jag en tuk-tuk. Föraren presenterar sig som Schumacher, vilket rimligen måste vara fel. Hur som helst inser jag när vi kör genom Bangkok att receptionisten hade rätt. Trafiken är tät. Schumacher säger att det bara är 20 kilometer till massagesalongen, men det tar oss nästan exakt två timmar.
+Och trafik var det. Klockan sex tar jag en tuk-tuk. Föraren presenterar sig som Schumacher, vilket rimligen måste vara fel. Hur som helst inser jag när vi kör genom Bangkok att receptionisten hade rätt. Trafiken är tät. Schumacher säger att det bara är tjugo kilometer till massagesalongen, men det tar oss nästan exakt två timmar.
 
 De två timmarna går åt till att läsa och socialisera med tuk-tuk-föraren. Jag kan verkligen inte bestämma mig för om jag gillar honom eller avskyr honom. Först frågar han vart jag ska, jag säger massage, han svarar "bom-bom" med ett b någonstans mellan b och p och jag frågar, mest för sakens skull:
 
@@ -2830,7 +2885,7 @@ När jag kommer fram till salongen tar jag en timmes fotmassage och två timmars
 
 Det finns inte mycket att säga om fotmassagen, förutom att den var så välbehövlig efter fem månaders resande. Jag bad om pedikyr, men det gjorde de inte där.
 
-Efter att ha bytt kläder leds jag in i ett rum för två timmars thaimassage. En liten thailändsk kvinna, ganska kraftigt byggd, kommer in med ett blygt leende och nedslagna ögon. Hon talar ingen engelska alls, så vi kommunicerar med teckenspråk. Och så börjar det som bäst måste beskrivas som en korsning mellan thaiboxning och brottningsmatch, där jag låses in i de mest löjliga positioner och hon använder varje lem för att pressa ut varenda sista bit luft och spänning ur kroppen på mig. Definitivt den mest actionpackade och akrobatiska massage jag någonsin fått. Imponerande.
+Efter att ha bytt kläder leds jag in i ett rum för två timmars thaimassage. En liten thailändsk kvinna, ganska kraftigt byggd, kommer in med ett blygt leende och nedslagna ögon. Hon talar ingen engelska alls, så vi kommunicerar med teckenspråk. Och så börjar det som bäst måste beskrivas som en korsning mellan thaiboxning och brottningsmatch, där jag låses in i de mest löjliga positioner och hon använder varje lem för att pressa ut varenda sista bit luft och spänning ur kroppen på mig. Definitivt den mest actionfyllda och akrobatiska massage jag någonsin fått. Imponerande.
 
 Taxichauffören som kör mig tillbaka till Khao San Road är fullständigt knäpp. Han upprepar hela tiden:
 
@@ -2840,13 +2895,13 @@ Jag sitter bara där tyst och undrar om Bangkoks taxibolag kanske har startat n�
 
 Han ger mig snyfthistorien om hur fattig han är, att han har fyra döttrar och en son, så jag ger honom ganska bra dricks.
 
-Dagen efter fortsätter jag beta av min att göra-lista och köper en paket-trekkingtur till Chiang Mai. Det blir den första paketaktiviteten jag köpt under resan, och jag är lite nervös för hur det ska bli. I Indien utvecklade jag en djup misstro mot reseagenter.
+Dagen efter fortsätter jag beta av min att-göra-lista och köper en paketresa med vandring i Chiang Mai. Det blir den första paketaktiviteten jag köpt under resan, och jag är lite nervös för hur det ska bli. I Indien utvecklade jag en djup misstro mot reseagenter.
 
-Och det är en av de saker som börjat gå upp för mig, att det här inte är Indien. Egentligen skulle det här kunna vara Grekland. Jag hör svenska talas runt omkring mig på Khao San Road, och långsamt börjar jag acceptera att mina hardcore-resedagar är över. Eller åtminstone verkar det så. Det är den där märkliga blandningen av en suck, en del lättnad, en del eftertanke.
+Och det är en av de saker som börjat gå upp för mig: det här är inte Indien. Egentligen skulle det här kunna vara Grekland. Jag hör svenska talas runt omkring mig på Khao San Road och långsamt börjar jag acceptera att mina hårda resedagar är över. Eller åtminstone verkar det så. Det är den där märkliga blandningen av en suck, en del lättnad, en del eftertanke.
 
 På kvällen klär jag upp mig för showen. Jag tar på mig mina fina byxor och skjortan. Den är skrynklig som fan, så nere på tvätteriet frågar jag om de kan stryka den. Det kan de inte. Jag frågar dem, och sedan hotellreceptionen, om det finns ett strykjärn jag kan låna. Nej, det finns det inte. Vet de var jag kan få min skjorta struken? Nej.
 
-Tydligen finns sexuella tjänster lättillgängliga, men ingen vill stryka min skjorta, så jag går upp och byter till en av mina nyinköpta t-shirts.
+Tydligen finns sexuella tjänster lättillgängliga, men ingen vill stryka min skjorta, så jag går upp och byter till en av mina nyinköpta t-tröjor.
 
 Redo för kvällen.
 
@@ -2865,194 +2920,170 @@ Han ser häpen ut, sedan ler han.
 
 Vi skrattar.
 
-När vi kommer till stället betalar jag tusen baht. Klubben består av ett ganska litet rum med en bar längs bortre väggen, enkla stolar och bord placerade runt en upphöjd scen. Ljuset är rätt kalt och musiken fruktansvärd. Pumpande, ostig eurotechno som ibland avbryts av en halv minuts tystnad mitt i ett nummer.
+När vi kommer fram betalar jag tusen baht. Klubben är ett ganska litet rum med en bar längs bortre väggen och enkla stolar och bord runt en upphöjd scen. Ljuset är kalt, musiken fruktansvärd: pumpande, ostig eurotechno som ibland dör i en halv minuts tystnad mitt i ett nummer.
 
 Jag får ett bord längst bak, mitt emot baren.
 
-Den ganska grovlemmade thailändska kvinnan på scenen har just avslutat sitt nummer, som består av att öppna en Coca-Cola-flaska med fittan. Vilket är ordet jag kommer använda härifrån.
+Kvinnan på scenen har just avslutat ett nummer där hon öppnar en Coca-Cola-flaska med fittan. Vilket är ordet jag kommer använda härifrån.
 
-Efter henne går två kvinnor upp och dansar, eller snarare visar upp sig; de har varsitt nummer fäst vid ett bikiniband. Vi vet alla vad numret betyder. Jag skannar dem och bedömer dem som inte särskilt attraktiva. Särskilt hon närmast mig, hon är faktiskt för mager. Och gammal, hon ser faktiskt rätt sliten ut. Jag undviker ögonkontakt.
+Efter henne går två kvinnor upp och visar upp sig med varsitt nummer fäst vid bikinibandet. Vi vet alla vad numret betyder. Jag skannar dem och bedömer dem som inte särskilt attraktiva. Kvinnan närmast mig är för mager. Och gammal, tycker jag; rätt sliten. Jag undviker ögonkontakt.
 
-Musiken byter abrupt till någon vidrig sirapssöt ballad. Nästa nummer är två kvinnor som ägnar sig åt en fejkad och ganska mekaniskt framförd abstraktion av lesbisk sex, går igenom position efter position utan någon känsla alls och avslutar numret med att snabbt pressa höfterna mot varandra så att det uppstår en högljudd kroppsklatsch.
+Två kvinnor framför en mekanisk abstraktion av lesbisk sex till en vidrig sirapsballad. Position efter position, ingen känsla, sedan en högljudd kroppsklatsch när de pressar höfterna mot varandra.
 
-Jag bara ler, skrattar rakt ut, applåderar. Vilka rädslor jag än hade för att falla och ge efter för mina lägsta instinkter när jag gick in i denna syndens håla hade jag inte behövt ha dem. Det finns inget sexuellt upphetsande i det här, det är bara underligt, märkligt, galet. Show. Skandalöst, ja. Sorgligt, ja. Men åh, så mänskligt.
+Jag ler, skrattar rakt ut, applåderar. De farhågor jag haft om att falla för mina lägsta instinkter när jag gick in i denna syndens håla visar sig onödiga. Det finns inget sexuellt upphetsande här, bara något underligt, märkligt, galet.
 
-Den slitna kvinnan kommer och sätter sig hos mig. Jag smuttar på min gin och tonic, hon frågar var jag kommer ifrån, vi småpratar. Hon heter Mai. Jag vill se showen, hon vill ha min uppmärksamhet. Hon masserar mina axlar, masserar min arm, ganska bra, men jag vill egentligen inte att hon ska göra det, så jag skämtar om saken, att jag faktiskt fick tre timmars massage dagen innan. För att kompensera erbjuder jag henne en drink. Självklart accepterar hon, det är ju hennes jobb, så hon tar en rom och cola åt sig själv. Hon hämtar ett paket cigaretter åt mig också och jag kedjeröker tre stycken, mina föresatser ut genom entrédörren.
+Show.
 
-Coca-Cola-kvinnan kommer tillbaka upp på scenen med pingisbollar i en bricka vatten. Hon för in dem och skjuter ut dem igen, med brickan som mål. Jag ser henne göra det i någon sorts äcklad vördnad.
+Skandalöst, ja. Sorgligt, ja. Men åh, så mänskligt.
 
-Nu kommer en betydligt yngre och sötare kvinna upp på scenen. Hon dansar vid stången i ett par minuter, låst i ett mönster där hon vickar på rumpan på ett sätt som varken är sensuellt eller uttrycksfullt. Sedan producerar hon ungefär femton meter UV-fluorescerande snöre, lindar det runt de fyra stängerna i scenens hörn och skapar ganska avancerade effekter med det, vilket hade passat utmärkt på vilken technoklubb som helst om det inte vore för att snöret slutar mellan hennes ben.
+Den slitna kvinnan sätter sig hos mig. Jag dricker min gin och tonic, hon frågar var jag kommer ifrån och vi småpratar. Hon heter Mai. Jag vill se showen, hon vill ha min uppmärksamhet. Hon masserar mina axlar och min arm. Jag vill egentligen inte att hon ska göra det, så jag skämtar om att jag fick tre timmars massage dagen innan. Som kompensation erbjuder jag henne en drink. Självklart accepterar hon, det är ju hennes jobb. Hon hämtar också ett paket cigaretter åt mig och jag kedjeröker tre stycken, föresatserna rakt ut genom entrédörren.
 
-Återigen är min dominerande, nästan tvångsmässiga tanke: herregud, hoppas de håller dem riktigt rena.
+På scenen följer pingisbollar, fluorescerande snören, rakblad, cigaretter, tårta och en liten trumpet. Jag ser det i ett tillstånd av äcklad vördnad. Min dominerande, nästan tvångsmässiga tanke är: herregud, hoppas de håller allt riktigt rent.
 
-Jag frågar Mai hur lång showen är. Hon säger en timme, sedan börjar den om, ända till ett på natten. Klockan är nu åtta. Så mycket för att hålla rent.
+Jag frågar Mai hur lång showen är. En timme, sedan börjar den om, ända till ett på natten. Klockan är åtta.
 
-Hur länge har hon jobbat här? Fyra år. Är det ett bra ställe att jobba på? Tystnad. Jag förklarar att jag har stripparvänner och undrar om det här är ett bra ställe, om de behandlar tjejerna väl. Tom blick. Ibland.
+Så mycket för att hålla rent.
 
-Nästa nummer liknar det förra, men den här gången är snöret kantat av ganska stora tygblommor.
+Hur länge har hon jobbat här? Fyra år. Är det ett bra ställe att jobba på? Tystnad. Jag förklarar att jag har vänner som strippar och undrar om de behandlar kvinnorna väl.
 
-Bakom oss lutar en väninna till Mai, elegant klädd i svart, mot väggen. De pratar thailändska, skrattar, jag frågar vad de skämtade om. Mai säger "dig" och stryker mig över det halvkala huvudet. Hon säger att hennes väninna tycker att jag är en snygg man, att jag ser snäll ut.
+Tom blick.
 
-Den första kvinnan dyker upp på scenen igen, hon verkar vara huvudtalangen, något som understryks av att hon inte bär något nummer. Hon lägger sig på rygg, lyfter benen över huvudet, halvt hoprullad bakåt. Hon för in, tänder och röker två cigaretter och erbjuder det sista blosset till en man i publiken. Han ryggar tillbaka, vägrar, så hon fimpar dem i ett askfat.
+"Ibland."
 
-Jag frågar henne hur många tjejer som jobbar i showen. Sju, och tio på stället. Mai är med i showen, förklarar hon, hon gör något med en banan. Jag vill egentligen inte veta mer om det, så jag frågar om hennes väninna är med i showen.
+Bakom oss lutar en väninna till Mai, elegant klädd i svart, mot väggen. De pratar thailändska och skrattar. Jag frågar vad de skämtar om. Mai säger "dig", stryker mig över det halvkala huvudet och berättar att väninnan tycker att jag är snygg och ser snäll ut.
 
-"Nej, hon hör till hotellet. Hon gör massage på rummet. Massage och sek."
+Jag frågar hur många kvinnor som arbetar i showen. Sju, och tio på hela stället. Mai är med; hon gör något med en banan. Väninnan hör till hotellet.
+
+"Hon gör massage på rummet. Massage och sek."
 "Sek?"
 "Ja. Sek."
 
-Nästa nummer går ut på att tända ljusen på en födelsedagstårta, föra in ett sugrör och blåsa ut dem ett efter ett. Återigen erbjuds samma man i publiken att blåsa ut det sista ljuset. När han försöker drar hon undan tårtan och skrattar. Det gör honom lite avig, så han vägrar försöka en andra gång oavsett vad hon lovar. Hon erbjuder den till en annan kille, han blåser ut ljuset.
+En av kvinnorna misslyckas gång på gång med att suga upp ringar med ett sugrör och placera dem på en flaskhals. Till slut sätter hon dit dem med händerna, tittar ner i golvet med ett sorgset leende och ger sig själv en liten applåd.
 
-Den andra delen av hennes mininummer består av att spela en munter liten tvåtonsmelodi på en liten trumpet.
-
-När hon är på väg av scenen kommenterar hon något till Mai och kastar en snabb blick åt mitt håll. Än en gång måste jag be om översättning.
+När hon lämnar scenen säger hon något till Mai och kastar en snabb blick åt mitt håll.
 
 "Hon säger att du är den enda som ler. Ingen annan ler."
 
-Jag inser att hur skandalöst det här än är, måste det vara ett väldigt tråkigt jobb. Särskilt om publiken är spänd och obekväm. Jag bestämmer mig för att göra mitt bästa för att visa uppskattning för deras arbete.
+Jag inser att hur skandalöst det här än är måste det vara ett väldigt tråkigt jobb, särskilt med en spänd och obekväm publik. Jag bestämmer mig för att göra mitt bästa för att visa uppskattning för deras arbete.
 
-Tjejen på scenen suger upp ringar med ett sugrör och placerar dem på halsen på en flaska. Det ser omöjligt nog ut att göra med munnen, och mycket riktigt, eftersom det tydligen inte är hennes dag misslyckas hon så många gånger att hon till slut bara sätter ringarna på flaskan med händerna, tittar ner i golvet med ett sorgset leende och ger sig själv en liten applåd.
+Mais väninna heter Yo. Jag erbjuder henne en drink. Självklart. Hon hämtar en cola, sätter sig på min vänstra sida och börjar massera mig. Jag vänder mig mot Mai. Hon flinar utan att jag behöver säga något, säger något på thailändska och de skrattar.
 
-Jag frågar Mais väninna, hon heter Yo, om hon vill ha en drink. Självklart. Hon hämtar en cola och sätter sig på min vänstra sida. Hon börjar massera mig, så jag vänder mig mot Mai. Hon flinar utan att jag behöver säga något, säger något på thailändska och de skrattar.
+Jag har blivit något av uppmärksamhetens centrum. En tredje kvinna ställer sig bakom mig, stryker mig över det halvrakade huvudet och lägger sedan sitt långa svarta hår över det.
 
-En av de söta tjejerna, de är av obestämbar ålder och ganska lika varandra, gör snörtricket igen. Den här gången är det en rad sammankopplade rakblad hon drar ut ur vaginan.
-
-Efter det skjuter en grovlemmad kvinna heliumballonger med pilar. Sedan vänder hon sugröret mot mig som om hon ska spräcka min stora kala ballong. Jag reser mig långsamt, håller händerna framför ansiktet i en teatral gest och ropar: "Nej, nej!"
-
-Jag har blivit något av uppmärksamhetens centrum.
-
-Trots att rummet är välfyllt har jag nu en tredje tjej stående bakom mig. Hon kommenterar:
-
-"Två tjejer! Inklämd mellan två tjejer bra. Har du haft två tjejer någon gång?"
-"Nej," måste jag erkänna.
-Hon stryker mig över det halvrakade huvudet och kastar sedan sitt långa svarta hår över det, med näsan i min nacke, och ropar glatt:
 "Nu har du hår! Du måste ta mig med vart du än går!"
-"Du är galen," ropar jag tillbaka.
-Hon höjer nivån:
-"Du också!" och fortsätter:
-"Vi är alla galna!"
+"Du är galen."
+"Du också! Vi är alla galna!"
 
-Huvudtalangen går upp på scenen och visar oss ett vanligt vitt A4-papper. Sedan virar hon lite tyg runt en tuschpenna, för in den och hukar över pappret. Hennes skrev rör sig, ansiktet är en hårt knuten koncentration.
+Rummet är fullt och till min förvåning är mer än hälften av publiken kvinnor. Västerlänningarna har hårda eller skuldfyllda ansikten. De asiatiska besökarna ser intresserade eller uttråkade ut. Och så jag förstås: leende, skämtande med "mina" kvinnor, högljudd.
 
-Rummet är fullt av folk och till min förvåning är mer än hälften av publiken kvinnor. Det finns en eller två västerländska kvinnor, resten ser asiatiska ut.
+På scenen hukar huvudtalangen över ett vitt A4-papper med en tuschpenna mellan benen. Efter ansenlig tid visar hon upp ett kusligt vältecknat porträtt av en man i publiken. Med darrig men tydlig skrift står:
 
-"Det där är konstigt," kommenterar jag, "så många kvinnor. Svenska kvinnor gillar inte riktigt sånt här."
-"Ja, de är filippinska kvinnor. Och japanska. Många asiatiska kvinnor kommer hit, varje kväll."
-"Den där tjejen där borta, den riktigt söta med kort svart kjol, jobbar hon här eller är hon gäst?"
-"Nej, hon kommer hit för att titta."
+"Välkommen till Thailand."
 
-Som regel har västerlänningarna hårda och/eller skuldfyllda ansikten, asiaterna ser antingen intresserade eller ointresserade ut. Och så finns förstås jag, leende, skämtande med mina tjejer, högljudd.
+Sedan är det Mais tur. Hon gör Coca-Cola-tricket och banangrejen. När hon kommer tillbaka frågar jag hur fan hon bar sig åt. Hon pekar på sitt colafyllda glas och ler.
 
-Efter ansenlig tid närmar sig tuschpennenumret sitt slut. Konstverket är ett kusligt vältecknat porträtt av en av männen i publiken, och med lite darrig men mycket tydlig skrift står texten: "Välkommen till Thailand."
+"Hemligt, va?"
 
-Mai går hastigt iväg eftersom det är hennes tur härnäst. Hon kommer upp på scenen med två Coca-Cola-flaskor, en fylld med vatten, den andra tom. Hon för in vattenflaskan, rullar över på rygg med fötterna nästan i marken ovanför huvudet och tömmer flaskan. Med en liten handduk över sig för hon sedan in den tomma flaskan och fyller den med något som verkar vara Coca-Cola. Jag är häpen.
+Showen börjar om från början.
 
-Yo lägger huvudet på min axel, jag stryker henne över håret.
-
-Den andra delen av Mais nummer är banangrejen; liggande på rygg för hon in en halv banan och genom att stöta med höfterna samtidigt som hon kniper får hon den att flyga i en två meter lång båge, in i sin utsträckta hand så att hon kan upprepa hela manövern igen och igen.
-
-När hon kommer tillbaka frågar jag hur fan hon gjorde Coca-Cola-grejen. Hon pekar bara på sitt colafyllda glas och ler. "Hemligt, va?" inser jag.
-
-Nu börjar hela showen om från början med att den första kvinnan kommer upp på scenen med en oöppnad colaflaska. Hon skakar den kraftigt, hukar ner över den och öppnar den med ett högt popp.
-
-Jag har fått nog. Jag tackar Mai och Yo, reser mig och betalar notan. Efter att ha gett dem ett par hundra baht i dricks skyndar jag ut på gatan som en råtta ur en labyrint.
+Jag har fått nog. Jag tackar Mai och Yo, betalar notan och ger dem ett par hundra baht i dricks. Sedan skyndar jag ut på gatan som en råtta ur en labyrint.
 
 Där står Schumacher och väntar. Jag kliver in i hans tuk-tuk och genast vill han att jag berättar varje detalj från kvällen. Det är uppenbart att han har hört alltihop flera gånger förut, men ändå njuter han stort av att höra om det och skrattar som ett lyckligt barn åt varje detalj.
 # 18. Cheyenne
 
 _Dag 172. Siem Reap och Phnom Penh. 5 mars 2004._
 
-Tack, gud; jag är tillbaka, var min första tanke i Kambodja. Allt är sådär oorganiserat, man får aldrig vad man förväntat sig, men det ordnar sig i slutändan. Alla dessa leenden, hälften falska, hälften äkta. Konstant pockande på uppmärksamhet; alla verkar vilja sälja något. Tiggarna; de vanställda, gamla, de ensamstående mödrarna med barn på armen. De semikorrupta reseagenterna, de kommissionsbaserade vägkrogarna med sina separata prislistor för turister.
+Tack, gud. Jag är tillbaka. Det var min första tanke i Kambodja. Allt är sådär oorganiserat, man får aldrig vad man förväntat sig, men det ordnar sig i slutändan. Alla dessa leenden, hälften falska, hälften äkta. Det pockas konstant på uppmärksamhet. Alla verkar vilja sälja något. Tiggarna: de vanställda, de gamla, de ensamstående mödrarna med barn på armen. De semikorrupta reseagenterna, de provisionsbaserade vägkrogarna med sina separata prislistor för turister.
 
-India light.
+Indien, lightversionen.
 
 Resan från Bangkok till gränsen var precis så bekväm, välorganiserad och händelselös som man kunnat förvänta sig av Thailand. Väl vid gränsen fick jag först vänta en timme för att släppas ut ur Thailand, sedan ytterligare en timme för att komma in i Kambodja.
 
-Efter passkontrollen slussades jag till en vänthall för bussen vidare till Siem Reap. Den stora fina VIP-bussen jag sett bilder på i Bangkok visade sig bestå av sittplatser på flaket till en öppen pick-up, hårdstuvning i en personbil och en fullsatt minibuss. Först var det meningen att jag skulle med pick-up:en, men i sista stund plockade de av mig. Lika gott det, jag kom till slut med minibussen. Eftersom jag trodde att pick-up:en och personbilen skulle ta folk till en riktig buss, frågade jag hur länge de skulle sitta på sina ryggsäckar på flaket?
+Efter passkontrollen slussades jag till en vänthall för bussen vidare till Siem Reap. Den stora fina VIP-bussen jag sett bilder på i Bangkok visade sig bestå av sittplatser på flaket till en öppen pickup, hårdstuvning i en personbil och en fullsatt minibuss. Först var det meningen att jag skulle med pickupen, men i sista stund plockade de av mig. Lika gott det, jag kom till slut med minibussen. Eftersom jag trodde att pickupen och personbilen skulle ta folk till en riktig buss, frågade jag hur länge de skulle sitta på sina ryggsäckar på flaket.
 
 "Fem timmar."
 
 När det gick upp för mig att han menade att stackarna skulle tillbringa hela vägen till Siem Reap där, konstaterade jag kort
 
-"Oof."
+"Ouff."
 "Ja. Dammigt."
 
-Bussen var gammal och skraltig, vägen var av Nepalesisk kvalitet - riktigt, riktigt jävla dålig packad sandväg pepprad med djupa hål, vi skumpade och dunsade fram ungefär halva vägen, andra halvan var riktigt jämn, med ett och annat plötsligt avsnitt med dålig väg. Jag bara satt och log tills käkarna började ömma.
+Bussen var gammal och skraltig. Vägen var av nepalesisk kvalitet: riktigt, riktigt jävla dåligt packad sand, pepprad med djupa hål. Vi skumpade och dunsade fram ungefär halva vägen. Den andra halvan var riktigt jämn, med ett och annat plötsligt avsnitt av dålig väg. Jag bara satt och log tills käkarna började ömma.
 
-Den torra dammiga landsbygden, de gula vägarna, smidiga människokroppar nästan som kamouflagefärgade mot den mörkbruna jorden, de gråbruna husen, den grönbruna vegetationen; de handdragna kärrorna, ved och grödor transporterade på vagnar hemsvetsat kopplade efter rostiga motorcyklar vars förare aldrig övervägt några andra sorters skydd än en safarihatt mot solen. Barn i slitna kläder som tagit färg av vägen, med jämna mellanrum hemsnickrade stånd framför lika hemsnickrade hus av spant och bambublad; råsocker, bananer, läsk, vatten.
+Den torra, dammiga landsbygden. De gula vägarna. Smidiga människokroppar, nästan kamouflagefärgade mot den mörkbruna jorden, de gråbruna husen och den grönbruna vegetationen. Handdragna kärror. Ved och grödor på vagnar som svetsats fast bakom rostiga motorcyklar, vars förare aldrig verkar ha övervägt något annat skydd än en safarihatt mot solen. Barn i slitna kläder som tagit färg av vägen. Med jämna mellanrum hemsnickrade stånd framför lika hemsnickrade hus av spant och bambublad: råsocker, bananer, läsk, vatten.
 
-Vi åker förbi en åker fullt av röd-vita pinnar. Konduktören förklarar att minröjning pågår där. Längs vägen ser man förbudsskyltar med en överkryssad grävande gubbe vid infarten till varje risfält. Nu är det visserligen torr-period men det är inte svårt att se framför sig bönder plöjandes i den förbjudna jorden.
+Vi åker förbi en åker full av rödvita pinnar. Konduktören förklarar att minröjning pågår där. Längs vägen ser man förbudsskyltar med en överkryssad grävande gubbe vid infarten till varje risfält. Nu är det visserligen torrperiod, men det är inte svårt att se framför sig bönder som plöjer den förbjudna jorden.
 
-Natten faller. Då och då sitter jag djuptyst betraktande präriebränder i fjärran, antagligen anlagda.
+Natten faller. Då och då sitter jag knäpptyst och betraktar präriebränder i fjärran, antagligen anlagda.
 
-Vi stannar framför en bro, konduktören förklarar att den är trasig. Spridda stönanden; vad händer nu? Måste vi av, kommer vi inte komma fram? Till vår förvåning börjar bussen röra sig framåt, över bron. Det står män på bron, de vinkar frenetiska tecken åt föraren. De som sitter vid fönstren stönar, man hör spridda oh-my-god och någon skrockar klentroget. Från där jag sitter kan jag visserligen se att ena sidans räcke har försvunnit, men eftersom jag sitter i mitten måste jag fråga om vad uppståndelsen är om?
+Vi stannar framför en bro och konduktören förklarar att den är trasig. Spridda stönanden. Vad händer nu? Måste vi gå av, kommer vi inte fram? Till vår förvåning börjar bussen röra sig framåt, ut på bron. Där står män och vinkar frenetiskt åt föraren. De som sitter vid fönstren stönar, man hör spridda "herregud" och någon skrockar klentroget. Från min plats ser jag att räcket på ena sidan är borta, men eftersom jag sitter i mitten måste jag fråga vad uppståndelsen gäller.
 
-Det är såna HÄR stora hål i bron, säger min granne och måttar med armarna.
+"Det är såna HÄR stora hål i bron," säger min granne och måttar med armarna.
 
-Vi fortsätter. Väl framme i Siem Reap tar jag in på "Mom’s guesthouse". Det blir tydligt vad några år gör i kombination med omnämnande i "Lonely Planet"; Min LP som jag fick av Konstantin är från 1996 och där omnämns gästhuset som ett litet billigt hemtrevligt hak där ’Mom’ själv tar hand om gästerna. Idag är stället två oklanderliga hotell. Skit samma vilket, tänker jag, de har rum med BADKAR och air-con för $10. Lyckan är total, jag har inte haft ett riktigt bad sedan jag lämnade Sverige!
+Vi fortsätter. Väl framme i Siem Reap tar jag in på Mom’s Guesthouse. Det blir tydligt vad några år och ett omnämnande i Lonely Planet kan göra. Min LP, som jag fick av Konstantin, är från 1996. Där beskrivs gästhuset som ett litet, billigt och hemtrevligt hak där "Mom" själv tar hand om gästerna. I dag består stället av två oklanderliga hotell. Skit samma, tänker jag, de har rum med BADKAR och luftkonditionering för tio dollar. Lyckan är total. Jag har inte badat på riktigt sedan jag lämnade Sverige.
 
-Det är förresten verkligen som så att US-dollar är deras valuta. De använder valutorna helt transparent; ’riel’ används mest som del av dollar, eftersom de inte har cent-mynt. Dessutom behandlas riel:en lite på en höft, 4000 riel på en dollar låter inte som en officiell siffra, snarare smakar den av gatans bekvämlighetsdiktat.
+Det är förresten verkligen så att amerikanska dollar är deras valuta. De använder valutorna helt transparent. Riel används mest som växelmynt till dollarn, eftersom de inte har centmynt. Dessutom behandlas kursen lite på en höft. Fyratusen riel på en dollar låter inte som en officiell siffra, snarare smakar den av gatans bekvämlighetsdiktat.
 
 En försmak av euro kontra kronor, kanske.
 
-Jag bestämde mig på sittande fot att föraren som tog mig till hotellet fick bli min guide, eller snarare; ’driver’, till hotellets anknytna förares besvikelse.
+Jag bestämmer på stående fot att mannen som kör mig till hotellet får bli min guide, eller snarare min förare, till den hotellanknutna förarens besvikelse.
 
-"Cheyenne"-hette han alldeles säkert inte, men det lät precis så. 26 år, tystlåten men blygt leende talade han engelska med utbildad accent.
+"Cheyenne" hette han alldeles säkert inte, men det lät precis så. Tjugosex år, tystlåten men med ett blygt leende, talade han engelska med utbildad accent.
 
-Precis utanför Siem Reap ligger Angkor Wat - ett enormt tempel-område som en gång fungerade som huvudstad i Khmerernas rike. De flesta byggnaderna uppfördes runt 1000-talet. Kring år 1500 övergavs området efter att huvudstaden flyttats till Phnom Penh. Naturen tog över. I slutet av 1800-talet ’upptäcktes’ templen, ruinerade av träd och djungel, av en fransk botanist. Även om konserveringen har pågått länge, har man lämnat något av naturen kvar.
+Precis utanför Siem Reap ligger Angkor, ett enormt område av tempel och stadslämningar som var khmerrikets centrum från 800-talet till 1400-talet. När rikets politiska tyngdpunkt flyttades söderut tog naturen över delar av området, medan tempel på andra håll fortsatte att användas. Franskledd dokumentation och konservering inleddes i början av 1900-talet.
 
-Första solnedgången i Angkor Wat var gratis och tur var det, för den försvann bakom moln. Jag hade betalat $40 för ett tre-dagars-pass och klättrat upp på en höjd för att se den tillsammans med hundratals andra turister. Ett svettigt nerköp, definitivt, men jag fick stött på några trevliga norskar som var några av dem som fått ta pick-up:en. Det hade tydligen varit exakt så skumpigt, dammigt och obekvämt som man kunde trott, därtill lagt ett motorstopp och byte av pick-up som bonus.
+Första solnedgången i Angkor Wat var gratis, och tur var det, för solen försvann bakom moln. Jag hade betalat fyrtio dollar för ett tredagarspass och klättrat upp på en höjd för att se den tillsammans med hundratals andra turister. Ett svettigt nerköp, definitivt, men jag stötte på några trevliga norrmän som var bland dem som fått ta pickupen. Det hade tydligen varit exakt så skumpigt, dammigt och obekvämt som man kunde tro, därtill med ett motorstopp och byte av pickup som bonus.
 
-Efter en stilla natt, började jag dagen med att utforska Angkor Wat i soluppgång. Efter att ha klättrat upp längs brådbranta trappor fick jag tillfälle att sända en bön till Buddha genom att hålla två tända rökelsestickor mellan mina handflator, buga tre gånger och sända gudarna en tanke. Det kändes inte alls lika naturligt för mig som det gjorde för de hinduiska gudarna.
+Efter en stilla natt börjar jag dagen med att utforska Angkor Wat i soluppgång. När jag har klättrat uppför brådbranta trappor får jag tillfälle att sända en bön till Buddha genom att hålla två tända rökelsestickor mellan handflatorna, buga tre gånger och sända gudarna en tanke. Det känns inte alls lika naturligt för mig som med de hinduiska gudarna.
 
 Jag är helt lugn med Buddha men han är liksom där borta. Ganesha, han är min man, här.
 
-Det är svårt att förklara templens mystik. Grå och gråbruna mosstäckta stenkonstruktioner, överallt skulpturer på samma teman, allt dominerat av Brahma, guden med fyra ansikten, överallt allseende skådande ut över alla väderstreck; underligt påskö-leende, tillfreds men ändå utmanande. Det är en udda upplevelse att se sten bakom sten bakom sten, röra på huvudet, se mer sten glida som en parallax-scroll bakom skulpturer, massiva konstruktioner. Det är som om huvudet inte riktigt hänger med i allt ögonen ser. Jag sitter på den branta trappan och tittar ut över torn av sten, tusen år gamla. Brahma ler mot mig från alla håll.
+Det är svårt att förklara templens mystik. Grå och gråbruna, mosstäckta stenkonstruktioner. Överallt skulpturer på samma teman, allt dominerat av de stora stenansiktena som ser ut över väderstrecken. Underliga leenden, tillfreds men ändå utmanande. Det är en udda upplevelse att se sten bakom sten bakom sten, röra på huvudet och se mer sten glida bakom skulpturerna som lager i en parallaxrullning. Massiva konstruktioner. Det är som om huvudet inte riktigt hänger med i allt ögonen ser. Jag sitter på den branta trappan och tittar ut över tusenåriga torn av sten. Ansiktena ler mot mig från alla håll.
 
 På väg tillbaka längs stengången till yttermuren, en sista blick på Angkor Wat i soluppgång.
 
 Stilla. Vördnadsbjudande. Magiskt.
 
-Tillbaka till hotellet för dusch, mat och en stunds vila, sedan "Mini Tour";
+Tillbaka till hotellet för dusch, mat och en stunds vila, sedan den "lilla turen".
 
-Bayon - templet var mer som jag tänkt mig. Ser ni, Angkor Wat, huvudtemplet, är helt frilagt från växtlighet, ingen vegetation någonstans. Bayon, däremot, har fortfarande kvar en del växtlighet, träd som växt upp ur murar och gångar, eller skickat sina rötter ner genom tak. Fascinerande.
+Bayon är mer som jag tänkt mig. Angkor Wat, huvudtemplet, är helt frilagt från växtlighet, ingen vegetation någonstans. Bayon är tätare, sten staplad över sten. På andra håll längs turen finns träden kvar, uppvuxna ur murar och gångar eller med rötterna skickade ner genom tak. Fascinerande.
 
-Det är när man ser något sådant som man inser att det att se en siffra, "övergivet i trehundra år", det säger inget, man kan inte förstå en så abstrakt siffra som trehundra år. Att däremot se ett tvåhundra år gammalt träd resa sig femtio-sextio meter upp ur en stenbyggnad, rötterna ringlandes ner längs väggarna som tjocka knotiga lemmar, det ger en en känsla och ett perspektiv.
+Det är när man ser något sådant som man inser att siffran "övergivet i trehundra år" inte säger någonting. Man kan inte förstå en så abstrakt tidsrymd. Att däremot se ett tvåhundra år gammalt träd resa sig femtio eller sextio meter upp ur en stenbyggnad, med rötterna ringlande ner längs väggarna som tjocka, knotiga lemmar, ger både känsla och perspektiv.
 
 En annan känsla och perspektiv får man av den konstanta uppvaktningen från försäljarna som kom springande ut från restaurangerna och butikerna som omgärdar områdena, gälla röster ropandes
 
-"Sir, vill du ha mat?"
+"Herrn, vill du ha mat?"
 "Nej."
 "Vill du ha något att dricka?"
 "Nej tack."
-"Sir, vill du köpa något att dricka till din förare!"
+"Herrn, vill du köpa något att dricka till din förare?"
 "Nä."
 "Vill du ha t-shirt?"
 "Inte nu."
 "Du kommer till mig senare, ja!"
 "..."
 
-Yup. Ni har hört mig gnälla om det förr, så jag ska inte uppehålla mig mer vid det.
+Japp. Ni har hört mig gnälla om det förr, så jag ska inte uppehålla mig mer vid det.
 
-Nästa dag var det dags för ’the grand tour’, vilket innebar en motorcykelresa på en och en halv timme för att se en skit-tråkig tempelruin som var intressant av en enda anledning, nämligen det påtagliga hinduiska inslaget. Kambodja, mitt emellan Kina och Indien, har nämligen tagit upp påverkan i omgångar från båda dessa gigantiska nationer.
+Nästa dag är det dags för den "stora turen", vilket innebär en motorcykelresa på en och en halv timme för att se en skittråkig tempelruin som är intressant av en enda anledning: det påtagliga hinduiska inslaget. Kambodja, mitt emellan Kina och Indien, har tagit emot inflytande i omgångar från båda dessa gigantiska nationer.
 
 Sedan blev det bättre, även om jag snabbt började inse att man bara kan suga i sig så mycket vackra tempelruiner per dag. Två dagar är bräddfullt, en planerad och komprimerad dag hade varit nog.
 
 Åtminstone för mig.
 
-Halvvägs genom dagen ber jag ’Cheyenne’ stanna vid en bro, jag måste få dricka lite vatten och äta en banan eller två. Han stannar hojen, vi promenerar ut på bron. Jag räcker honom ett par bananer. Jag skalar mina, börjar mumsa, när han vänder sig om och går över till andra sidan. Jag står kvar och tittar ut över flodens gulbruna vatten och den torra flankerande djungelskogen.
+Halvvägs genom dagen ber jag "Cheyenne" stanna vid en bro. Jag måste få dricka lite vatten och äta en banan eller två. Han stannar hojen och vi promenerar ut på bron. Jag räcker honom ett par bananer. Jag skalar mina och börjar mumsa när han vänder sig om och går över till andra sidan. Jag står kvar och tittar ut över flodens gulbruna vatten och den torra, flankerande djungelskogen.
 
-Ett plask hörs från floden på andra sida, så jag korsar bron. Cheyenne ser ut över floden, blicken fixerad på fyra hinkar fyllda med något som likt en installation står på ett podium mitt i floden.
+Ett plask hörs från floden på andra sidan, så jag korsar bron. Cheyenne ser ut över vattnet, med blicken fixerad på fyra hinkar fyllda med något. De står som en installation på en plattform mitt i floden.
 
 Mystiskt.
 
 En pojke eller ung man dyker frustande upp ur det ogenomskinliga tjocka lervattnet. Han kastar gyttja omkring sig, tar ett par andetag, dyker igen. Min första tanke är att han badar.
 
 "Vad gör han?" frågar jag Cheyenne.
-"Han dyker. Efter sand." svarar han.
+"Han dyker. Efter sand," svarar han.
 "Va?"
 "Han kastar sanden i korgen. Han säljer sanden på marknaden."
-efter en stunds tystnad
+Efter en stunds tystnad:
 "Jag gjorde det i ett år. För att betala för mina engelskstudier, så att jag kunde bli förare."
 
 Vi tittar båda på pojken som dyker upp igen. Han verkar inte ha turen med sig. Han dyker igen.
@@ -3065,22 +3096,23 @@ Vi tittar båda på pojken som dyker upp igen. Han verkar inte ha turen med sig.
 "Byggnader."
 "Åh. Hur mycket får du per hink?"
 "Man säljer inte per hink. Man fyller en pickup."
-"Okej. Så hur mycket för en pick-up?"
+"Okej. Så hur mycket för en pickup?"
 "Ungefär 10 000 riel."
 
 Jag ger denna upplysning tid att sjunka in. Det motsvarar ungefär 20 kronor.
 
-"Och hur många hinkar är en pick-up?"
-Han tänker efter, svarar
+"Och hur många hinkar är en pickup?"
+Han tänker efter och svarar:
 "Ungefär 30 hinkar."
-"Så," räknar jag raskt, "det är ungefär 300 riel per hink." (50 öre)
+"Så," räknar jag raskt, "det är ungefär trehundra riel per hink. Femtio öre."
 
-Han ger mig en lätt snopen blick,
+Han ger mig en lätt snopen blick.
 
-"Ja." "Vad kan man få för hundra riel?"
+"Ja."
+"Vad kan man få för hundra riel?"
 "Inte mycket. En godis. Kanske två."
 
-Jag tittar på de fyra hinkarna på plattformen, kontemplerar värdet. Pojken dyker upp, hämtar andan, försvinner under ytan igen.
+Jag tittar på de fyra hinkarna på plattformen och begrundar värdet. Pojken dyker upp, hämtar andan och försvinner under ytan igen.
 
 "Så, hur mycket behöver man för att överleva i Kambodja?"
 "Vad menar du?"
@@ -3089,7 +3121,7 @@ Jag tittar på de fyra hinkarna på plattformen, kontemplerar värdet. Pojken dy
 "Och äger ni ert hem, eller hyr ni det?"
 "Äger."
 "Så hur mycket måste du tjäna på en dag, för mat och sådant?"
-Han funderar, svarar
+Han funderar och svarar:
 "Tja, vi är sex personer. Att köpa mat till oss alla kostar ungefär 12 000 riel per dag."
 "Så ni behöver ungefär tre dollar om dagen för att mätta sex personer?"
 "Ja."
@@ -3113,34 +3145,14 @@ Cheyenne svarar inte, han studerar pojken med outgrundlig min. Kanske försöker
 Han ler överraskat,
 
 "Verkligen?"
-"Ja. Men i Sverige är det lagen. Varje ung man måste vara soldat i ett år. Vi har ett slags folkarmé." "Åh."
+"Ja. Men i Sverige är det lagen. Varje ung man måste vara soldat i ett år. Vi har ett slags folkarmé."
+"Åh."
 
-Vi återvänder till motorcykeln. På vägen till nästa ruin, konstaterar jag att han just talat om för mig att de lever för $200 per person och år. SEK 1 500. Det är mer än dubbelt så mycket som vad 40% av indiens befolkning har att röra sig med. Men Cheyenne ser inte direkt fattig ut, och han har ju faktiskt en motorcykel.
+Vi återvänder till motorcykeln. På väg till nästa ruin konstaterar jag att han just berättat att de lever på tvåhundra dollar per person och år. Ettusenfemhundra kronor. Det är mer än dubbelt så mycket som fyrtio procent av Indiens befolkning har att röra sig med.
 
-Det sista komplexet är ’Ta Promh’ - och också ett av de mest givande. Jag vet inte hur länge jag snurrade runt i dessa stenlabyrinter, överväxta av vegetation och penetrerade av rötter, men jag hade kunnat spendera minst lika lång tid till. Det var liksom som att varje gång man tittade runt ett hörne fick man sig till livs ytterligare en magnifik syn; sten, skulpturer, lingams, gångar, portaler, grå massiva rötter, grön djungel, ödlor, fjärilar, syrsor.
+Men Cheyenne ser inte direkt fattig ut.
 
-När jag kommer tillbaka till hotellet talar jag om för min förare att jag är uttröttad, jag orkar inte med en tredje dag. Jag betalar honom $20, ett hyggligt pris, vi skakar hand. Jag ber hotellmanagern boka en bussbiljett till Phnom Penh nästa dag. Han gör så.
-
-På kvällen går jag och ser traditionell Kambodjansk dans. Jag brukar vara skeptisk till sådana tillställningar, men den här var faktiskt helt fantastisk. Skickliga dansare, vackra kostymer, god mat. Speciellt förtjust blev jag över de två kanske tio- tolvåriga dansarna som dansade en dans om hur de besegrade Hanuman. Proffessionella som få, klurflinade de ändå äkta och oförställt när de i dansen fick tillfälle att puckla på dansaren som spelade apguden. Påfågeldansen i slutet, två dansare i pråliga påfågeldräkter som kråmade sig riktigt övertygande, var också en höjdare.
-
-Bussresan till Phnom Penh var snarlik den till Siem Reap med undantagetatt den här bussen var utrustad med TV och VCD-spelare.
-
-I mina lurar; electroclash och trance, på min näthinna; karaoke-kitsch. Skön mix.
-
-Jag lånar en Lonely Planet Kambodja av en medresenär, läser om området i mitten av landet där invånarna äter spindlar till frukost, middag och kvällsmat. När jag kommenterar saken för bokens ägare, säger han att man kan få spindlar överallt i Kambodja, och som på beställning visar det sig att försäljarna vid nästa matstopp säljer spindlar.
-
-Riktiga spindlar. Decimeterstora. Håriga. Stekta i olja. Naturligtvis måste jag smaka.
-
-Håren försvinner ju tack och lov nästan helt i stekningen. Stekt spindel smakar ungefär som överstekt kycklingskinn; lite sotigt, knaprigt, salt och oljigt. Men gott, för all del. Fast huvudet och ögonen är fortfarande lite läskiga att stoppa i munnen.
-
-Sedan lyckades jag skärra den söta flickan bakom mig (som jag tittat då och då på lite i smyg) ordentligt genom att mumsa tydligt och överdrivet, med halva spindeln stickandes ut ur mungipan. Hon var visst fobiker av något slag, vägrade titta på mig - än mindre tilltala mig - under resten av resan.
-
-Hoppsan.
-
-Lite som när jag en gång i sällskap av min yngsta bror undrade högt över hur jag skulle hantera en klurig kärleksfråga, och han ivrigt utropade,
-"Jag vet!"
-"Vad ska jag göra, då," log jag.
-"Spotta på henne!"
+Och han har ju faktiskt en motorcykel.
 
 Kram,
 Stefan
@@ -3150,25 +3162,25 @@ _Dag 183. Phnom Penh. 2 april 2004._
 
 Om det är något jag lärt mig nu, så är det att man tryggt kan vända sig bort från frestelse; den kommer alltid igen.
 
-På bussen från Siem Reap till Phnom Penh kommer jag i samspråk med en kanadensare vid namn Jeremy. Han har varit i PP tidigare, så jag gör sällskap med honom till stället han tänker bo på, lakeside #9. Gästhuset ligger, precis som man skulle kunna tro, vid en sjö. Halvvägs ut i den, till och med. På kvällen kollar vi på en urkass pirat-DVD; Jason vs. Freddy. Två andra killar, Patrick och Lars, genomlider den tillsammans med oss. Lars är svensk men har bott i London i åtta år. Patrick är hans engelska pojkvän; en liten söt kines med klurig blick och tunt leende.
+På bussen från Siem Reap till Phnom Penh kommer jag i samspråk med en kanadensare vid namn Jeremy. Han har varit i Phnom Penh tidigare, så jag gör honom sällskap till stället där han tänker bo, Lakeside #9. Gästhuset ligger, precis som man skulle kunna tro, vid en sjö. Halvvägs ut i den, till och med. På kvällen ser vi en urkass piratkopia av Jason vs. Freddy. Två andra killar, Patrick och Lars, genomlider den tillsammans med oss. Lars är svensk men har bott i London i åtta år. Patrick är hans engelska pojkvän, en liten söt kines med klurig blick och tunt leende.
 
-Folkslaget i Kambodja kallas Khmerer. 1975 tog Pol Pot och hans kommunistiska ’Röda Khmerer’ makten. Ett skräckvälde med alla de för socialistiska diktaturer obligatoriska ingredienserna; folkomflyttningar med påföljande mass-svält, tortyr och godtyckliga avrättningar av ’fiender’ och ’parasiter’; oppositionella, intellektuella, handikappade och utlänningar. Genom överförd skuld deras makar och barn.
+Folkslaget i Kambodja kallas khmerer. År 1975 tog Pol Pot och hans kommunistiska röda khmerer makten. Ett skräckvälde med alla de för socialistiska diktaturer obligatoriska ingredienserna: folkomflyttningar med påföljande massvält, tortyr och godtyckliga avrättningar av "fiender" och "parasiter" – oppositionella, intellektuella, funktionshindrade och utlänningar. Genom överförd skuld även deras makar och barn.
 
 I praktiken var det dödsstraff på att bära glasögon.
 
-"Tuol Sleng", ’den förgiftade kullen’ var en skolbyggnad innan den konverterades till huvudkvarter för regimens mest fruktade säkerhetsbyrå, S-21.
+Tuol Sleng, "den förgiftade kullen", var en skolbyggnad innan den gjordes om till huvudkvarter för regimens mest fruktade säkerhetsbyrå, S-21.
 
-S-21 torterade och dödade över 8 000 med-khmerer; män, kvinnor, barn och åldringar. Efter att de pressat en ’brottsdokumentation’ ur den anklagade fördes han eller hon till ’the killing fields’ för massavrättning. Offren radades upp längs ett sex meter djupt hål; en efter en slogs de ihjäl, deras halsar skars av och kropparna dumpades i hålen.
+Mellan femton- och tjugotusen människor fängslades i S-21: män, kvinnor, barn och åldringar. Mycket få överlevde. Efter att förhörsledarna pressat en "brottsdokumentation" ur den anklagade fördes han eller hon till avrättningsfälten. Offren radades upp längs ett sex meter djupt hål. En efter en slogs de ihjäl, fick halsen avskuren och dumpades i groparna.
 
 Kulor kostar.
 
-Brottsrubriceringen kunde till exempel vara ’förräderi’ om en man som arbetade i en textilfabrik påstods skära tyget för generöst och bryta för många nålar.
+Brottsrubriceringen kunde till exempel vara "förräderi" om en man som arbetade i en textilfabrik påstods skära tyget för generöst och bryta för många nålar.
 
-Det enda straffet; döden. Men inte förrän personen ifråga angivit sitt ’nätverk’ - ytterligare 50-60 personer som han förmodats samarbeta med.
+Det enda straffet: döden. Men inte förrän personen i fråga angivit sitt "nätverk", ytterligare femtio eller sextio personer som han påstods samarbeta med.
 
-De flesta bekännelser falska, fabricerade under tortyr. I sin iver att få stopp på tortyren angav offret vilka som helst namn som kom för dem och erkände vad som helst de kunde hitta på som skulle tillfredsställa förhörsledaren.
+De flesta bekännelserna var falska, fabricerade under tortyr. I sin iver att få stopp på tortyren angav offren vilka namn som helst och erkände vad som helst de kunde hitta på som skulle tillfredsställa förhörsledaren.
 
-S-21 misstänkliggjorde, torterade och dödade även sina egna medarbetare och deras familjer, i jakt på den överallt närvarande ’fienden’. Skräcken och underkastelsen var total. Förövare och offer, gränsen suddas ut.
+S-21 misstänkliggjorde, torterade och dödade även sina egna medarbetare och deras familjer, i jakt på den överallt närvarande "fienden". Skräcken och underkastelsen var total. Förövare och offer, gränsen suddas ut.
 
 Jag vandrar från rum till rum i Tuol Sleng, nu ett museum. Sängar av stålrör, handklovar av armeringsjärn kedjade till huvud- och fotändarna.
 
@@ -3178,76 +3190,76 @@ Kanske någon hade rätt. På väggen en svart-vit bild av samma rum, samma sän
 
 1978; jag var 7 år gammal någon annanstans.
 
-Årtalet står på ändlösa skyltar - i flera av rummen är väggarna fyllda av foton, ’mug-shots’, av offren. Män, pojkar; allvarliga frågande avvaktande ansikten, oförstående, leende, bakbundna, misshandlade. Kvinnor, flickor, gamla, barn; några på sin moders arm. Bistra, strama, skrämda, trotsigt morska; i trasor eller välklädda, enkla kläder eller av västerländskt snitt; jeansskortor, bomullstoppar, polokrage. Identiska kortklippta frisyrer, kindlångt hår. En riktigt vacker kvinna med långt uppsatt hår och läppstift får mig att rycka till; jag vet ju att de blev våldtagna. Hon, en överklassparasit säkert extra brutalt. Var och en av dem ett liv som mitt. Ögon intensiva, klara, slöa, trötta. En mor håller sitt barn, hennes ögon är våta. Kanske har hon redan förstått att de kommer att separera henne från det.
+Årtalet står på ändlösa skyltar. I flera av rummen är väggarna fyllda av registreringsbilder av offren. Män, pojkar: allvarliga, frågande, avvaktande ansikten, oförstående, leende, bakbundna, misshandlade. Kvinnor, flickor, gamla, barn, några på sin mors arm. Bistra, strama, skrämda, trotsigt morska. I trasor eller välklädda, i enkla kläder eller kläder av västerländskt snitt: jeansskjortor, bomullstoppar, polokrage. Identiskt kortklippta frisyrer, kindlångt hår. En riktigt vacker kvinna med långt uppsatt hår och läppstift får mig att rycka till. Jag vet ju att de blev våldtagna. Hon, en överklassparasit, säkert extra brutalt. Var och en av dem ett liv som mitt. Ögon, intensiva, klara, slöa, trötta. En mor håller sitt barn, hennes ögon är våta. Kanske har hon redan förstått att de kommer att skilja henne från det.
 
 I filmsalen ser jag en dokumentär; förövare och offer träffas tjugo år senare, diskuterar vad som gjordes i Tuol Sleng, spelar upp draman, återagerar händelseförlopp. Det är djupt gripande; kanske mest att se förövarna försöka balansera mellan en vilja att reparera, göra bot, och en desperat motvilja mot att axla det egna ansvaret; dessa män måste välja att även de se sig själva som offer, hur skulle de annars kunna leva? Och det var de ju; vakterna var lika rädda för Angkar, Pol Pots partiapparat, som offren var för vakterna.
 
-Efter filmen är jag hungrig, börjar promenera från museet mot staden. Framför mig promenerar en västerländsk kvinna, kanske är hon också på väg att äta? Jag frågar henne och jovisst, hon ska äta, välkomnar lunchsällskap och skall också till ’killing fields’ senare. Vi gör sällskap, hon heter Louisa.
+Efter filmen är jag hungrig och börjar promenera från museet mot staden. Framför mig går en västerländsk kvinna. Kanske är hon också på väg att äta? Jag frågar henne och jovisst, hon ska äta, välkomnar lunchsällskap och tänker också besöka avrättningsfälten senare. Vi gör sällskap. Hon heter Louisa.
 
 Hon vill äta på en pizzeria hon fått rekommenderat, vi hittar gatan, men numret pizzerian skulle ligga på finns inte. Det är en korsning, på ena sidan av den korsande vägen ligger nummer 18, på andra nummer 12. 16 och 14 - vårt nummer - finns inte. Vi tittar på varandra, skrattar och sätter oss på restaurangen som ligger på nummer 12.
 
-Killing fields ligger 45 minuters skumpig tuk-tuk-tripp ut från Phnom Penh. Det är underligt att knata omkring på området, man ser och går på halvt nergrävda benknotor; här och var sticker tygtrasor upp ur marken: var kläderna blodbestänkta togs de inte av liken, var de rena togs de tillbaka för att återanvändas.
+Avrättningsfälten ligger fyrtiofem minuters skumpig tuk-tuk-färd utanför Phnom Penh. Det är underligt att knata omkring på området. Man ser och går på halvt nedgrävda benknotor. Här och var sticker tygtrasor upp ur marken. Om kläderna var blodbestänkta togs de inte av liken. Var de rena togs de tillbaka för att återanvändas.
 
 Guiden visar oss ett palmträd, dess låga stam bestående av blad med vassa huggtänder, som sågklingor. Från detta träd, berättar hon, togs bladen som användes för att såga huvudena av liken innan de dumpades i massgravarna.
 
-Ett annat träd, ett stort träd centralt placerat mellan groparna, mot detta krossades småbarnens huvuden fortsätter hon; ibland i mödrarnas åsyn.
+Hon visar ett annat träd, ett stort träd centralt placerat mellan groparna. Mot det krossades småbarnens huvuden, fortsätter hon, ibland i mödrarnas åsyn.
 
-Louisa påpekar att platsen känns konstigt normal. Om man skulle tagit bort monumenten och alla skyltarna skulle området mest påmint om en soptipp. Man hade liksom förväntat sig en tjock atmosfär, döda träd; en obehagskänsla, helst dova stråkar någonstans i bakgrunden, men icke. Solsken, fåglar och grå jordslätt.
+Louisa påpekar att platsen känns konstigt normal. Om man tog bort monumenten och alla skyltarna skulle området mest påminna om en soptipp. Man hade liksom förväntat sig en tjock atmosfär, döda träd, en obehagskänsla, helst dova stråkar någonstans i bakgrunden. Men icke. Solsken, fåglar och grå jordslätt.
 
 Vidrighetens outhärdliga vardaglighet.
 
-Inte helt vardagligt då monumentet med de 8 000 dödsskallarna, ett inglasat torn utförd som ett traditionellt tempel. Skallarna är sorterade efter etnicitet och ålder. ’European’ gapar tomt, kanske har någon klagat, eller krävt att de identifieras och återförs till europa.
+Inte helt vardagligt, då, monumentet med de åttatusen dödsskallarna: ett inglasat torn utformat som ett traditionellt tempel. Skallarna är sorterade efter etnicitet och ålder. Facket märkt "European" gapar tomt. Kanske har någon klagat eller krävt att de ska identifieras och återföras till Europa.
 
 Vi skumpar tillbaka till staden, jag erbjuder henne att följa med till mitt gästhus för en omgång biljard och en kanna öl för att få något annat att tänka på. Hon accepterar.
 
-Jag introducerar henne till Patrick och Lars, de kommer väl överens. Jag har en middagsdejt med det trevliga norska paret jag träffade i Siem Reap och välkomnar tillfället att komma loss från Louisa.
+Jag presenterar henne för Patrick och Lars. De kommer väl överens. Jag har en middagsdejt med det trevliga norska paret jag träffade i Siem Reap och välkomnar tillfället att komma loss från Louisa.
 
 Inte så att jag inte tycker om henne. Problemet är ganska exakt precis det motsatta.
 
-And I don’t need the headfuck.
+Jag behöver inte det känslokaoset.
 
-Dock bestämmer vi att vi ska träffas utanför Royal Palace klockan 10 am dagen efter.
+Ändå bestämmer vi att vi ska träffas utanför kungliga palatset klockan tio dagen efter.
 
-Middagen är mycket bra, vi äter på ’Friends’, ett ställe som anställer gatu-ungdomar och undervisar dem i att laga och servera västerländsk mat. Maten är mycket god, om än lite dyrare - men det är ju för en god sak. På Friends småpratar vi lite med en stor fyrkantig biff vid bordet bredvid, han rekommenderar rätter åt oss.
+Middagen är mycket bra. Vi äter på Friends, ett ställe som anställer gatuungdomar och lär dem att laga och servera västerländsk mat. Maten är mycket god, om än lite dyrare, men det är ju för en god sak. På Friends småpratar vi med en stor fyrkantig biff vid bordet bredvid. Han rekommenderar rätter åt oss.
 
-Dagen efter står jag utanför Royal palace klockan 9; eftersom min interna klocka har fuckat upp totalt är jag en timme för tidig, så jag letar efter ett ställe att äta frukost. Såklart hittar jag inget, det finns bara fina hotell runt palatset, så jag går in på ’Pizza House’ vars logo är en rip-off på ’Pizza Hut’ vilket blir ännu mer komiskt här jag kommer in och ser att de där istället använder namnet ’Pizza Hot’.
+Dagen efter står jag utanför kungliga palatset klockan nio. Min inre klocka har ballat ur totalt och jag är en timme för tidig, så jag letar efter ett ställe att äta frukost på. Såklart hittar jag inget, bara fina hotell, så jag går in på Pizza House. Loggan är en kopia av Pizza Huts, vilket blir ännu mer komiskt när jag kommer in och ser att de i stället använder namnet Pizza Hot.
 
-Pizzan är svindyr, USD 10, jag är hungrig men klarar inte mer än två slices så jag ber om att få resten med mig i en påse.
+Pizzan är svindyr, tio dollar. Jag är hungrig men klarar inte mer än två bitar, så jag ber att få resten med mig i en påse.
 
-På så sätt kommer det sig att jag, när jag försöker pruta ner motorcykeln tillbaka till gästhuset från 2500 till 2000 riel, inser att jag bitchar om ganska exakt en procent av priset på pizzan jag just håller i handen.
+På så sätt kommer det sig att jag, när jag försöker pruta ner motorcykeln tillbaka till gästhuset från 2 500 till 2 000 riel, inser att jag gnäller om ganska exakt en procent av priset på pizzan jag just håller i handen.
 
 En procent. Jag rodnar faktiskt lite lätt när jag inser det, men då sitter jag bakpå hojen så föraren ser mig inte.
 # 20. Partyfolket
 
 _Dag 183. Sihanoukville, Mekong och Ho Chi Minh. 2 april 2004._
 
-Dagen efter åker jag till Sihanoukville. På bussen visar det sig att jag hamnat bredvid biffen vi pratade med på ’Friends’, han heter Michäl och kommer från Kanada. Vi bestämmer oss för att dela rum när vi kommer fram.
+Dagen efter åker jag till Sihanoukville. På bussen visar det sig att jag hamnat bredvid biffen vi pratade med på Friends. Han heter Michäl och kommer från Kanada. Vi bestämmer oss för att dela rum när vi kommer fram.
 
-När vi kommer fram står Lars och Patrick och väntar på mig. De har tagit en annan buss, anlände 15 minuter före mig. Jag introducerar dem till Michäl.
+När vi kommer fram står Lars och Patrick och väntar på mig. De har tagit en annan buss och anlände femton minuter före mig. Jag presenterar dem för Michäl.
 
 När Patrick berättar att han och Lars är tillsammans tystnar Michäl, tittar bort och går sin väg.
-Oh gud, tänker jag, bara han inte är en såndär jobbig homofob; det kan bli ganska pinsamt.
+Åh gud, tänker jag, bara han inte är en sån där jobbig homofob. Det kan bli ganska pinsamt.
 
-Efter en liten incident där vi nästan tappade bort Patrick, bestämmer vi oss för att ta in på ett hotell ganska nära, men inte på, stranden.
+Efter en liten incident där vi nästan tappar bort Patrick bestämmer vi oss för att ta in på ett hotell ganska nära stranden, men inte på den.
 
-Efter att vi checkat in går vi ner till stranden, Patrick och Lars vill se om det finns något bönde närmare den. Vi hittar ett ställe med grym, säger grym, utsikt över hela bukten. Vi bestämmer oss omedelbart för att ta in där alla fyra. Eftersom vi redan checkat in på det andra hotellet gör vi en reservation för två dubbelrum dagen efter. På vägen ner för trapporna till stranden vänder jag mig till Michäl och säger
+Efter att vi checkat in går vi ner till stranden. Patrick och Lars vill se om det finns något boende närmare den. Vi hittar ett ställe med grym, jag säger grym, utsikt över hela bukten. Vi bestämmer oss omedelbart för att flytta dit alla fyra. Eftersom vi redan checkat in på det andra hotellet reserverar vi två dubbelrum till dagen därpå. På vägen nerför trapporna till stranden vänder jag mig till Michäl och säger:
 
 "Nu fattas det bara att några singeltjejer bor i de andra två rummen!"
-"They’re probably lesbian," inflikar Patrick med ett brett flin.
-"Okej, några heterosexuella singeltjejer," specifierar jag.
+"De är säkert lesbiska," inflikar Patrick med ett brett flin.
+"Okej, några heterosexuella singeltjejer," förtydligar jag.
 
-Michäl är tyst en fraktion av en sekund, sedan påpekar han,
+Michäl är tyst en bråkdels sekund. Sedan påpekar han:
 
 "Jag är ledsen, Stefan, men du är i minoritet här. Jag är också gay."
 "Det är bäst att du passar dig," påpekar Patrick, flinet ännu lite bredare.
 
-På vägen tillbaka stöter vi på Louisa på stranden. Nyanländ; hon skulle egentligen till en annan beach, men bestämde sig till slut för samma som oss. Hon bor på hotellet bredvid oss, och tänker också flytta till stranden dagen efter; hon reserverar rum på samma gästhus. Vi börjar bli ett litet gäng som bor tillsammans.
+På vägen tillbaka stöter vi på Louisa på stranden. Hon är nyanländ och skulle egentligen till en annan strand, men bestämde sig till slut för samma som vi. Hon bor på hotellet bredvid vårt och tänker också flytta ner till stranden dagen därpå. Hon reserverar ett rum på samma gästhus. Vi börjar bli ett litet gäng som bor tillsammans.
 
 På kvällen blir Michäl sjuk. När jag återvänder till hotellet har han barrikaderat sig på toaletten. Av ljuden som kommer därifrån bestämmer jag mig för att gå till sängs utan min kvällstoalett.
 
 Dagen efter är Michäl helt utslagen, han bestämmer sig för att stanna på hotellet med TV och luftkonditionering. Louisa och jag gör sällskap till strandstället.
 
-Väl incheckad på det nya stället sätter jag mig i restaurangen tillsammans med Louisa, Lars och Patrick för att äta brunch. Jag sitter med ryggen ut mot stranden, plötsligt lägger någon händerna över mina ögon bakifrån. Jag säger;
+Väl incheckad på det nya stället sätter jag mig i restaurangen tillsammans med Louisa, Lars och Patrick för att äta brunch. Jag sitter med ryggen mot stranden när någon plötsligt lägger händerna över mina ögon bakifrån. Jag säger:
 
 "Vad fan? Jag vet att ni kanske inte tror mig när jag säger det, men jag känner inte så många tjejer som skulle lägga händerna över mina ögon bakifrån. Lisa, är det du?"
 
@@ -3255,165 +3267,224 @@ Och så klart är det det. I en veckas tid hade jag försökt få tag på Lisa f
 
 Jag hade ingen aning om att hon tänkt sig till Sihanoukville.
 
-Glädjeyra och presentationer. Hon är där med sitt gäng som jag träffat redan i Bangkok; Neil, Jen och den andra Lisan. Det visar sig att de är de som har de andra två rummen i vårt nya gästhus.
+Glädjeyra och presentationer. Hon är där med sitt gäng, som jag redan träffat i Bangkok: Neil, Jen och den andra Lisa. Det visar sig att det är de som har de andra två rummen i vårt nya gästhus.
 
-Helt osannolikt. Nu är vi åtta kompisar som bor tillsammans i ett gästhus vid stranden, en nionde på ett annat ställe; det största vängänget jag varit del av hittills på min resa.
+Helt osannolikt. Nu är vi åtta kompisar som bor tillsammans i ett gästhus vid stranden, med en nionde på ett annat ställe. Det är det största vängäng jag varit en del av hittills under resan.
 
-Som bas har vi Cloud #9, ett gästhus med bar, granne till vårt. Ägarna, Patrick och Julie, är trevligare än ägarna till vårt gästhus, de visar DVD på stor skärm varje kväll och deras baconbaguette är himmelsk.
+Som bas har vi Cloud #9, ett gästhus med bar bredvid vårt. Ägarna, Patrick och Julie, är trevligare än ägarna till vårt gästhus. De visar film på stor skärm varje kväll och deras baconbaguette är himmelsk.
 
 De har också en unghund, Harley, som är helt bedårande.
 
-Jag får tillfälle att simma med vårt gästhus tama apa. Igen, jag har ett problem med tama vilda djur, men att se en apa simma är något av det koolaste jag sett. Han, för det var en han, höll andan och simmade hundsim under vattenytan, med ögonen öppna.
+Jag får tillfälle att simma med vårt gästhus tama apa. Återigen: jag har ett problem med tama vilda djur, men att se en apa simma är något av det häftigaste jag sett. Han, för det var en han, håller andan och simmar hundsim under vattenytan med ögonen öppna.
 
-Innan jag fick lov att ta apan på simtur, frågade jag ägaren om det var ok att leka med apan. Han sa;
+Innan jag får lov att ta apan på simtur frågar jag ägaren om det är okej att leka med den. Han säger:
 "Han är lite aggressiv. Men jag tror att du klarar honom."
 
 Fast han var inte mer aggressiv än Tao Muan, apan på Ko Chang. Hon var betydligt mer livlig och lekfull, ville hoppa och klösas hela tiden. Den här hannen var ganska slö och verkade helt nöjd med att bara sitta på min axel och plocka löss.
 
-Det kanske är en man/kvinnogrej. Girls just wanna have fun, liksom.
+Det kanske är en man/kvinna-grej. Tjejer vill bara ha kul, liksom.
 
-Till slut tröttnade jag på stranden. Jag bestämde mig för att följa med gänget ut en heldag bland öarna och sedan dra tillbaka till Pnom Penh, för att där bestämma hur jag skulle göra med Vietnam kontra Laos.
+Till slut tröttnar jag på stranden. Jag bestämmer mig för att följa med gänget ut en heldag bland öarna och sedan dra tillbaka till Phnom Penh för att där bestämma hur jag ska göra med Vietnam kontra Laos.
 
-Dagsturen till öarna var fantastiska. Jag tror att jag har sett ’stranden’, ni vet, stranden alla drömmer om att se, den orörda, milslånga stranden med vit sand, overkligt klart vatten och palmer längs randen. Den finns på en ö utanför Sihanoukville. Det är inte tillåtet att sova över på öarna, den här ön användes som vapenförråd, men en militärpolisgeneral har satt upp fyra bungalows man kan sova över i på andra sidan ön. Olagligt i ett land där pengar är den enda lagen; jag skulle flyttat dit på studs om jag hade planerat att stanna längre.
+Dagsturen till öarna är fantastisk. Jag tror att jag har sett stranden, ni vet, stranden alla drömmer om att se: den orörda, milslånga stranden med vit sand, overkligt klart vatten och palmer längs kanten. Den finns på en ö utanför Sihanoukville. Det är inte tillåtet att sova över på öarna. Den här ön har använts som vapenförråd, men en militärpolisgeneral har satt upp fyra bungalower där man kan sova över på andra sidan ön. Olagligt, i ett land där pengar är den enda lagen. Jag skulle ha flyttat dit på studs om jag hade planerat att stanna längre.
 
-Dagen efter åker jag tillbaka till Phnom Penh. Den här gången tar jag in på #10 lakeside istället, same same but different, som överallt annars här.
+Dagen efter åker jag tillbaka till Phnom Penh. Den här gången tar jag in på Lakeside #10 i stället. Samma samma, fast annorlunda, som överallt annars här.
 
-På kvällen skriver jag i min pappers-dagbok. Som alltid i transition går texten i reflektiv introspektiv moll:
+På kvällen skriver jag i min pappersdagbok. Som alltid i övergångar går texten i reflekterande, introspektiv moll:
 
-"30/3 Kväll (18:40) Lakeside#10 Phnom Penh
-Jag förlorade min drak-ring och ringen med fyra hål i Arambol. Nu när jag minns dem saknar jag den. Saknad. Så mycket saknad. Det känns som om hela jag består av frånvaro. Jävla Nostalgi. Om jag kunde, skulle jag då hälla ut allt som varit, börjat om på noll?"
+"30/3 kväll (18:40), Lakeside #10, Phnom Penh
+Jag förlorade min drakring och ringen med fyra hål i Arambol. Nu när jag minns dem saknar jag dem. Saknad. Så mycket saknad. Det känns som om hela jag består av frånvaro. Jävla nostalgi. Om jag kunde, skulle jag då hälla ut allt som varit och börja om från noll?"
 
 Då kommer en söt blek flicka i kort kjol och sätter sig bredvid mig. Hon har håret i sådana där många små afro-flätor som varenda turistbrud verkar skaffa sig i Bangkok.
 
-Det visar sig att hon säljer biljetter till en båt-tripp längs Mekong-floden upp till något kallat ’Mekong Island’. Hon ger mig en flyer, titeln på den är ’Party People On Board’ och texten målar upp en heldags festande på floden. Jag tänker att det kan bli precis hur dåligt som helst, så i mitt semi-suicidala sinnestillstånd sajnar jag upp. Jag hade egentligen massa andra saker att göra, ta ut pengar och posta vykort, men de kan jag nog göra i Ho Chi Minh.
+Det visar sig att hon säljer biljetter till en båttur längs Mekongfloden upp till något kallat Mekong Island. Hon ger mig ett flygblad med titeln "Party People On Board", "Partyfolket ombord", och en text som utlovar en hel dags festande på floden. Jag tänker att det kan bli precis hur dåligt som helst och anmäler mig i mitt halvsjälvdestruktiva sinnestillstånd. Jag hade egentligen en massa annat att göra, ta ut pengar och posta vykort, men det kan jag nog göra i Ho Chi Minh-staden.
 
-På morgonen samlas ’Party People’ i #9 lakeside. Det är ett färglatt gäng, i allt från militärkläder och combat boots över hawaiiskjortor till rave-bohem-fraktalmupp-stuk. Och, för all del, en del helt vanliga shorts-och-t-shirt-människor också; däribland jag.
+På morgonen samlas "partyfolket" på Lakeside #9. Det är ett färgstarkt gäng i allt från militärkläder och kängor över hawaiiskjortor till ravebohemiskt fraktalmuppstuk. Och, för all del, några helt vanliga shorts-och-t-shirt-människor också, däribland jag.
 
-Det står ganska fort klart att det här är ett hastverk. Ingen organisation. Udo, den totalvidrige österrikiske organisatören stressar omkring, grälar med kambodjaner, svettas, plirar elakt på sin lankesiske kompanjon, grälar först med motorcykelförare om priset för att ta oss till båten, sedan med researrangören som tydligen fått löfte om att ta oss dit med sin buss. Det blir en riktigt skön kaotisk scen som samlar mången munter åskådare när vi tjugotalet människor ska organiseras på tio motorcyklar och alla förarna skall instrueras att följa Udos hoj. Efter att Udos motorcykel som topping får motorstopp, så han måste byta, kommer vi alla iväg.
+Det står ganska fort klart att det här är ett hastverk. Ingen organisation. Udo, den totalvidrige österrikiske organisatören, stressar omkring, grälar med kambodjaner, svettas och plirar elakt på sin lankesiske kompanjon. Först grälar han med motorcykelförarna om priset för att ta oss till båten, sedan med researrangören som tydligen fått löfte om att köra oss dit med sin buss. Det blir en riktigt skön kaotisk scen, med många muntra åskådare, när vi tjugotalet människor ska organiseras på tio motorcyklar och alla förare ska instrueras att följa Udos hoj. Som grädde på moset får Udos motorcykel motorstopp, så han måste byta innan vi kommer iväg.
 
-Färden genom Phnom Penh var komedi-stuff. Tänk er tio motorcyklar, var och en med en glad kambodjansk förare som inte vet var vi ska, men jättegärna vill ta oss före ledaren dit; jag misstänker att åtminstone vår förare avsiktligt försökte tappa Udo ur sikte för att sedan få köra oss till Mekong Island själv. Alla cyklarna mitt i rusningstrafik i ett land där det är helt ok att köra på fel sida av vägen så länge man inte orsakar en olycka. Det finns ju inte pengar till poliskontroller, så det är bara olagligt att orsaka olyckor. Det är ju oftast lättare att plocka förövarna då.
+Färden genom Phnom Penh är ren komedi. Tänk er tio motorcyklar, var och en med en glad kambodjansk förare som inte vet vart vi ska men väldigt gärna vill ta oss dit före ledaren. Jag misstänker att åtminstone vår förare avsiktligt försöker tappa Udo ur sikte för att sedan få köra oss till Mekong Island själv. Alla hojarna mitt i rusningstrafiken i ett land där det är helt okej att köra på fel sida så länge man inte orsakar en olycka. Det finns inga pengar till trafikkontroller, så det är i praktiken bara olagligt att orsaka olyckan. Då är förövaren oftast lättare att hitta.
 
-Väl framme vid båten flinar jag så brett att det gör ont. Färden var riktigt riktigt rolig. Helkaotisk, javisst; livsfarlig, antagligen. Men kul.
+Väl framme vid båten flinar jag så brett att det gör ont. Färden var riktigt, riktigt rolig. Helkaotisk, javisst. Livsfarlig, antagligen. Men kul.
 
-På vägen upp för floden är stämningen loj. Det puffas friskt, hela båten ligger utslagen i hängmattor och på madrasser, musiken som pumpas ur ett respektingivande högtalarsystem i fören är en eklektisk blandning av 60-tals-rock (som får mig att för mitt inre se gräsrökande amerikanska soldater på snabba flodbåtar, samma musik på lika hög volym) skön ambient och förvånansvärt stenhård trance. Ingendera får upp några av människorna på dansgolvet; Mekong tuffar förbi i sakta mak.
+På vägen uppför floden är stämningen loj. Det puffas friskt och hela båten ligger utslagen i hängmattor och på madrasser. Ur ett respektingivande högtalarsystem i fören pumpas en eklektisk blandning av sextiotalsrock, skön ambient och förvånansvärt stenhård trance. Rocken får mig att för mitt inre se gräsrökande amerikanska soldater på snabba flodbåtar, samma musik på lika hög volym. Inget av det får upp någon på dansgolvet. Mekong tuffar förbi i sakta mak.
 
-Mekong Island är en stor sanddyn mitt i floden, flankerad av bambuhyddor som står på styltor ute i floden. Helt perfekt att pick-nicka iväg en dag på. Vi hoppar i floden från båten, det visar sig vara grymt lång-grunt.
+Mekong Island är en stor sanddyn mitt i floden, flankerad av bambuhyddor på styltor ute i vattnet. Helt perfekt att picknicka bort en dag på. Vi hoppar i floden från båten. Det visar sig vara grymt långgrunt.
 
-Jag vadar ut i vattnet, testar hur långt jag kan gå; när jag når de plötsliga bråddjupen, följer jag kanten så långt det går. Det visar sig att jag kan bottna nästan ända ut till mitten av floden.
+Jag vadar ut i vattnet och testar hur långt jag kan gå. När jag når de plötsliga bråddjupen följer jag kanten så långt det går. Det visar sig att jag kan bottna nästan ända ut till mitten av floden.
 
-Det är en udda känsla att liksom vakna upp och plötsligt finna sig ensam mitt i Mekong-floden i Vietnam med stenhård techno som soundtrack. Jag provar att dansa i vattnet, halvt viktlös. Det funkar.
+Det är en udda känsla att liksom vakna upp och plötsligt finna sig ensam mitt i Mekongfloden i Vietnam, med stenhård techno som ljudspår. Jag provar att dansa i vattnet, halvt viktlös. Det funkar.
 
-Med båten följer Udos ’flickvän’ - en kambodjanska som antagligen tillhör den växande skara unga kvinnor som en gång tog en västerländs pojkvän, blev utstött ur den sociala gemenskapen när han dumpade henne, och nu måste hitta en stadig ström av ’pojkvänner’ för att försörja sig. Det följer också två prostituerade som har #9 lakeside som hemmabas och en fransyska som ’jobbar’ för Udo på båten. Hon är en latino-babe; liten, kurvig; vacker mun, långt svart hår, djupa bruna ögon. Det står ganska klart att hon följer med som ’värdinna’, får kommission på sålda biljetter och såld öl.
+Med på båten är Udos "flickvän", en kambodjansk kvinna som jag genast placerar i min teori om den växande skara unga kvinnor som haft en västerländsk pojkvän, stötts ut ur den sociala gemenskapen när han lämnat dem och sedan måste hitta en stadig ström av nya "pojkvänner" för att försörja sig. Där finns också två prostituerade kvinnor som har Lakeside #9 som hemmabas och en fransk kvinna som "jobbar" för Udo på båten. Hon är liten och kurvig, med vacker mun, långt svart hår och djupa bruna ögon. Det står ganska klart att hon följer med som "värdinna" och får provision på sålda biljetter och öl.
 
-Hennes, liksom de kambodjanska flickornas, uppgift är att få de västerländska gästerna att må bra och därför lätta på plånboken. Hon presenterar sig som ’Elodie - like Melodie but without the M’. Vi pratar lite, men jag förhåller mig avvaktande och hon cirklar mest kring arrangörerna.
+Hennes, liksom de kambodjanska kvinnornas, uppgift är att få de västerländska gästerna att må bra och därför lätta på plånboken. Hon presenterar sig som "Elodie, som Melodie utan M". Vi pratar lite, men jag förhåller mig avvaktande och hon cirklar mest kring arrangörerna.
 
-De enda kvinnorna utöver dessa är två som tillhör par och en gammal kambodjansk matrona som tillhör skeppet.
+De enda andra kvinnorna är två som reser med sina partners och en äldre kambodjansk kvinna som hör till besättningen.
 
-Ölen flödar, det är en skön dag. Jag skvalpar förnöjt omkring i det alldeles lagom varma vattnet. Ryggplaskar från båten, vilar i palmhyddornas svalka. Ett par timmar efter lunch är det dags att återvända.
+Ölen flödar och det är en skön dag. Jag skvalpar förnöjt omkring i det alldeles lagom varma vattnet, ryggplaskar från båten och vilar i palmhyddornas svalka. Ett par timmar efter lunch är det dags att återvända.
 
-Återfärden börjar precis lika slött. Efter ett tag börjar jag bli lite rastlös, det är faktiskt väldigt bra musik men ingen dansar så; fuck them. Jag tar av mig tröjan, går fram till dansgolvet i fören och börjar dansa för mig själv. Genast gör Elodie mig sällskap, hen verkar ha längtat efter att få röra sig lika mycket som jag. Udo, hans flickvän och glädjeflickorna joinar oss och snart har nästan hela båten börjat dansa.
+Återfärden börjar precis lika slött. Efter ett tag blir jag rastlös. Musiken är faktiskt väldigt bra men ingen dansar, så skit i dem. Jag tar av mig tröjan, går fram till dansgolvet i fören och börjar dansa för mig själv. Genast gör Elodie mig sällskap; hon verkar ha längtat efter att få röra sig lika mycket som jag. Udo, hans flickvän och de prostituerade kvinnorna ansluter sig, och snart har nästan hela båten börjat dansa.
 
 Det blir till slut en riktigt, riktigt bra fest. Och ja, jag hamnade i säng med Elodie och nej, vi hade inte sex.
 
-I don’t need the headfuck.
+Jag behöver inte det känslokaoset.
 
-Dagen efter drar jag till Ho Chi Minh City, där jag sitter i detta nu och skriver. Vietnam verkar trevligt, jag har inte sett så mycket av det än dock. I morgon drar jag ut på ytterligare en dagstripp på mekong, den här gången ut i deltat - vi får se om den blir lika bra. Dagen därpå har jag bestämt mig för att dra vidare norrut, vart är ännu ovisst.
+Dagen efter drar jag till Ho Chi Minh-staden, där jag sitter i detta nu och skriver. Vietnam verkar trevligt, även om jag inte har sett så mycket än. I morgon drar jag ut på ytterligare en dagstur på Mekong, den här gången ut i deltat. Vi får se om den blir lika bra. Dagen därpå har jag bestämt mig för att dra vidare norrut. Vart är ännu ovisst.
 
-Dessutom har jag börjat fundera på skippa London och istället dra direkt hem, fixa lite grejjer och sedan studsa över till England.
+Dessutom har jag börjat fundera på att skippa London och i stället dra direkt hem, fixa lite grejer och sedan studsa över till England.
 
 Kram,
 Stefan
-
-PS. Jag tänkte ju tatuera mig i Ho Chi Minh, det är ju trots allt gamla ’Saigon’ i Vietnam, liksom. Turns out det är olagligt att tatuera folk här, eftersom tatueringar i huvudsak är kopplade till undre världen:
-
-http://www.thingsasian.com/browse/stories/contributors/goto_article/article.2490.html
 # 21. Hem
 
 _Dag 252. Göteborg. 9 juni 2004._
 
-So. I’m home.
+Så. Jag är hemma.
 
-It’s been two weeks since I arrived in Gothenburg, my home town, after one hell of a plane ride from New York City: due to massive thunderstorms, we were the last plane to be granted lift-off - two hours late, which fucked up my connecting flight in London, which, in turn fucked up my connecting flight to Gothenburg. In Stockholm they lost my luggage, so I once again missed the rescheduled flight to Gothenburg having to report it.
+Det har gått två veckor sedan jag kom till Göteborg efter en helvetisk flygresa från New York. På grund av enorma åskväder var vi det sista planet som fick lyfta, två timmar försenade. Därmed missade jag anslutningen i London, och följaktligen anslutningen till Göteborg. I Stockholm tappade de bort mitt bagage, så jag missade även det ombokade flyget medan jag anmälde det.
 
-The thunderstorms were beautiful from above, though.
+Åskvädren var vackra ovanifrån, ändå.
 
-So, it’s been two weeks. What feels strange is that strange is what it feels not at all; it’s just a continuation. Still travelling.
+Två veckor. Det märkliga är att ingenting känns märkligt. Det är bara en fortsättning.
 
-This will be the last travel diary, though. Actually, I haven’t written any real travel diary in over a month; it’s yet another of those weird things that keep happening to me - I had just decided never to write again, when I recieved that literary prize. A nudge, but in what direction?
+Fortfarande på resa.
 
-I’ve decided to send this diary to quite a lot of people, not only the ones that has recieved the old ones.
-Fear not, you will recieve no more.
+Det här blir ändå det sista resebrevet. Egentligen har jag inte skrivit något riktigt resebrev på över en månad. Ännu en av de där underliga sakerna som hela tiden händer mig: jag hade just bestämt mig för att aldrig skriva igen när jag fick det där litteraturpriset.
 
-For those intrigued, the old ones are available at
+En knuff, men åt vilket håll?
 
-http://lbsa71.net/resebrev/
+Jag har bestämt mig för att skicka det här brevet till ganska många, inte bara dem som fått de gamla.
 
-Some are in english, some in swedish. I’ll get around to adding photos any day now, promise.
+Var inte rädda. Det kommer inga fler.
 
-So, it’s been 238 days travelling. Exactly 34 weeks. A little more than 8 months. Two thirds of a year.
+Jag har alltså rest i 238 dagar. Exakt 34 veckor. Lite mer än åtta månader. Två tredjedels år.
 
-What lessons have I learnt?
+Vad har jag lärt mig?
 
-In Kashmir I understood what I’ve been grappling with for a long time, something bugging me about these contemporary processes of liberalization, dissolving personal morals, radicalism, forwarding of minority interests and equalization of rights. To travel geographically can sometimes be to travel in time - in Kashmir people live by codes that were ours say a hundred years ago. The family is the core, the patriarch has the theoretical last say and control over the economy, there exists a clear division of labour between men and women. I thought I could see why it had to be like that, if a family of six or eight were to be able to sustain themselves on what one or two individuals consume in the west. It’s about resources, how much each individual has influence over in order to realize themselves, and then how much influence each family as a pool has in its society, and then again; how much resources the group, society, as a whole can influence. That is what I’ve realized; we have lost track of this, how much of what we call ’right’ and take for granted is actually about efficient and systematic administration and allocation of resources.
+I Kashmir tyckte jag mig förstå något jag brottats med länge: hur mycket av det vi kallar rättigheter och tar för givet som också handlar om resurser. Att resa geografiskt kan ibland vara att resa i tiden. Familjen där var kärnan, patriarken hade åtminstone teoretiskt sista ordet och kontroll över ekonomin, arbetsdelningen mellan män och kvinnor var tydlig. Jag trodde mig se varför det måste vara så om en familj på sex eller åtta personer skulle leva på vad en eller två individer förbrukar i väst.
 
-On the road from Kashmir to Ladakh I learned that the western man or woman has become risk-avoiding ad absurdum. We’re simply allocating massive amounts of infrastructural resources onto each individual, in order to ensure that any potential risk is close to zero. The flip side of it being, at first paradoxically but then not really, that we become risk-prone.
+Det handlade om hur mycket varje person kunde styra över för att förverkliga sig själv, hur mycket familjen tillsammans kunde påverka i samhället och vilka resurser samhället som helhet hade makt över. Vi hade, tänkte jag, tappat bort hur mycket av vår frihet som vilade på en effektiv och systematisk fördelning av ett enormt överskott.
 
-Just take a look at our highways; in India the highways are one and a half car wide and mostly made out of gravel. There’s no actual speed limit, but you never travel faster than 40-50 km/hour. Every pass, every overtake is carefully measured from both sides. Sometimes it goes a bit wrong, and it’s both parties obligation to negotiate, honking, flashing, breaking, in order to sort the situation out. Interaction in the interest of mutual self-preservation. Sometimes the same road is four or five lanes, if there’s only pedestrians and motorbikes, sometimes two or three, if we’re talking cars: god forbid you should meet two trucks - then it’s down the ditch.
+På vägen från Kashmir till Ladakh lärde jag mig att västerlänningen blivit riskundvikande in absurdum. Vi lägger väldiga infrastrukturella resurser på varje individ för att pressa varje tänkbar risk mot noll. Baksidan är, först paradoxalt och sedan inte alls, att vi blir mer riskbenägna.
 
-Here, we allocate massive resources to construct and maintain four-lane paved highways with clear white stripes marking marginals; and as long as everybody keeps within that allocated space we never have to doubt, we’ve actually forgotten how to doubt, we rely on right of way, no matter if we get killed in the process. We never have to interact, everything is systematic and clear. Here, we have the margins and the system to utilize them. Here, nobody would ever have to fear.
+Titta på vägarna. I Indien är en landsväg en och en halv bil bred och oftast gjord av grus. Det finns ingen egentlig hastighetsgräns, men man kör sällan fortare än fyrtio eller femtio. Varje möte och omkörning mäts från båda håll. Blir det fel måste parterna förhandla med tutan, helljuset och bromsen. Samspel i det ömsesidiga självbevarandets tjänst. Ibland är samma väg fyra filer om trafiken bara består av fotgängare och motorcyklar, två om det kommer bilar. Möter man två lastbilar blir diket en fil.
 
-So, what do we do? We expect to be able to do at least 110 km/hour, most of us actually doing the illegal 20 extra, stressed out by miscalculated procrastination, talking on our mobile phones, pushing the bugger in front of us into the slower lane by driving recklessly close to his back bumper.
+Hemma lägger vi enorma resurser på fyrfiliga, asfalterade motorvägar med vita linjer och generösa marginaler. Så länge alla håller sig inom sitt tilldelade utrymme behöver vi aldrig tvivla. Vi litar på vår rätt till vägen även om den dödar oss. Vi behöver inte samspela. Allt är systematiskt och tydligt.
 
-And still, we feel 200 people killed in traffic per year is much.
+Så vi kräver att få köra minst hundratio, de flesta tjugo över, stressade av vår egen dåliga planering, talande i mobiltelefon och tätt upp i röven på jäveln framför.
 
-Look: I’m not saying less people get killed in India. Hell no, it’s probably a factor 10 on accidents and roadkill. I’m just saying I think I have an idea of where and to what these extra resources of ours go, resources we to some extent have wrestled out of the hands of these other countries. And if it’s worth it or not is up to each and everyone.
+Och ändå tycker vi att tvåhundra trafikdöda om året är mycket.
 
-For me, I think it’s a no. I think, now, I understand the people that get upset over what they percieve of as western resource waste, that most around them never see. I’m probably one of them now.
+Jag säger inte att färre dör i Indien. Helvete heller. Det är säkert tio gånger fler olyckor och döda. Jag säger bara att jag tror mig ana vart våra extra resurser tar vägen, resurser vi åtminstone delvis har brottat ur händerna på andra länder.
 
-In Ladakh, I started to realize that I was not going to be able to be that super-traveller that made lots of interesting friends with the locals and slept on a rug in the barn. It’s just not me.
+Är det värt det?
 
-And fuck them stupas. That’s where I realized that I’m not very interested in spiritual places, beautiful temples, friendly people or even spectacular natural scenery. Don’t get me wrong, the mountain roads around Manali were the most beautiful I’ve ever seen, I found peace on the stairs of the five-storey temple, Ankhor Wat was mind-blowing, and Great Ocean Road just beyond words, but - I’m about small things. Small situations. Moments.
+För mig tror jag svaret är nej.
 
-Coming to Agra, I had to face the fact that no matter what I do, no matter what I say, I will always be the rich white tourist first and foremost, there is no possibility of any kind of equal interaction with any of the locals, because, obviously, we’re so unequal. I can never be rid of the possibility of ulterior motives, because, on some level, there always IS an ulterior motive. Or, so it seemed at the time.
+I Ladakh började jag förstå att jag aldrig skulle bli den där superresenären som skaffar spännande lokala vänner och sover på en matta i någons lada. Det är helt enkelt inte jag.
 
-But then again, why this idealistic notion of every interaction having to be on equal terms? That is yet another of the things I’ve learnt; that we have that ideal of universal equality in the west, or in Sweden at least, that it’s embedded deep within us, and that it’s utterly false. There can never be any equal relationships and you’re paradoxically an agent of inequality not to recognize it. Better then to acknowledge and accept the diversity and inequality and then concentrate on working thru or around it, if so desired.
+Och åt helvete med stuporna.
 
-I’ve travelled in a lot of different configurations; two, three or more, staying for a long time, moving on, meeting up again, separating. Always returning to the state of going solo.
+Det var där jag insåg att jag inte är särskilt intresserad av andliga platser, vackra tempel, vänliga människor eller ens spektakulär natur. Missförstå mig inte. Bergsvägarna runt Manali var det vackraste jag sett, jag fann ro på trappan till femvåningstemplet, Angkor Wat sprängde huvudet och Great Ocean Road saknade ord.
 
-And that’s yet another revelation; I am self-content. I did know that to some extent before, but now, coming home, it’s set in deeper. I think, maybe, you know, a relationship gets stronger when you experience, or should I say ’endure’, situations together; you bond. It kind of makes sense that you would do that with yourself as well if you had those experiences on your own.
+Men jag handlar om små saker.
 
-I’ve met more nice and interesting people than I’ve been able to keep track of. In the beginning you keep exchanging e-mails with every person you connect to, then, you just can’t be bothered - there are just so many nice people out there, you will always meet new ones, and the chances of ever meeting up with the old ones again are slim. But then again...
+Små situationer.
 
-And of course, I’ve met good women; now I know they actually exist, and that they’re out there. But I’ve realized also that I’m rather alone than separated, so right now I’m quite content sitting here waiting for one of them to cross my path. I think my skirt-chasing days, to some extent, are over. But then again...
+Ögonblick.
 
-In Goa, I had my first taste of what tourism does to a place. God knows I parked my butt in one of the least developed places, Mandrem/Arambol, but maybe that was just what made me see the workings of the foreign capital; if I had chosen a more touristy place there would have been no local culture to contrast the tourism.
+I Agra tvingades jag möta det faktum att vad jag än gör och säger kommer jag alltid först och främst vara den rike, vite turisten. Något jämlikt möte med lokalbefolkningen tycktes omöjligt eftersom vi uppenbarligen var så ojämlika. Jag kunde aldrig bli av med misstanken om dolda motiv, för på någon nivå fanns det alltid ett motiv.
 
-The thing is, as I see it, money is influence, a tool of coersion comparable to violence. The difference between the strenghts of two currencies is based on a import-export imbalance, which in turn is based upon an agreement on what goods are seen as desirable, which in turn is rooted in trade policies, indoctrination and marketing. If I want to get as much as possible from you for my stuff, I’ll make damn sure I’ve convinced you that your stuff is worthless and my stuff is the stuff that make people happy. That, incidentally, will be easier for me to do if I already have quite a lot of resources to spend on convincing you.
+Eller så verkade det då.
 
-So, where am I going with this? Well, I’ve come to the conclusion that tourism, as a product, is not about exchange, but change; it is about paying somebody to change. The money that goes into a country in the form of tourism lands primary in the hands of the people that has changed themselves and their surrounding to accomodate a new and strange culture, which will entice more people to do the same, by accepting behaviours that was earlier objectionable, acquiring certain sets of skills and building infrastructure of a certain kind.
+Men varför denna idealistiska föreställning om att varje möte måste ske på lika villkor? Även det tyckte jag mig ha lärt: i väst, eller åtminstone i Sverige, bär vi på ett ideal om universell jämlikhet som är fullständigt falskt. Inga relationer är helt jämlika, och paradoxalt nog kan den som vägrar se ojämlikheten själv bli dess redskap. Bättre då att erkänna skillnaden och försöka arbeta genom eller runt den.
 
-And when the tourism is gone, when it has grown tired of you, found a new lover, then what will you do with your skills and your infrastructure?
+Om man nu vill.
 
-The money you gain, especially from tight-fisted backpackers who expect and strive to live just as cheap as the locals, is often just enough to sustain you, not to develop you. And the development is directed, solely, to accomodate more tourism. In our direction, on our terms, not on yours.
+Jag har rest i alla möjliga konstellationer: två, tre eller fler; stannat länge, dragit vidare, mötts igen, skilts åt. Alltid återvänt till att resa ensam.
 
-So yes, I see a problem with travelling tourism in general, and, again paradoxically, ’cultural’ backpacking in particular.
+Och där finns ännu en uppenbarelse: jag trivs i mitt eget sällskap. Det visste jag till viss del redan, men efter hemkomsten sitter det djupare. En relation blir starkare när man upplever, eller uthärdar, saker tillsammans. Man binds samman. Det verkar rimligt att samma sak händer i relationen till en själv när man går igenom allt ensam.
 
-South East Asia definitively got me to question my held beliefs about male-female relations, the ideology of love, and again, tourism and its implications. I picked a book up in Bangkok, ’Sex Slaves: The Trafficking of Women in Asia’ by Lousie Brown. The book was provoking in that the author never hid her emotional engagement, the text comes across as bordering on crypto-racist as she makes her point; it wasn’t the westerners that brought trafficking, prostitution and paedophilia to Asia; it was already flourishing as integral parts of male Asian culture - we only made it visible, inflated it and gave it a face, a scapegoat face.
+Jag har träffat fler trevliga och intressanta människor än jag kan hålla reda på. I början byter man mejladress med varenda människa man får kontakt med. Sedan orkar man inte längre. Det finns så många bra människor där ute, man kommer alltid träffa nya och chansen att återse de gamla är liten.
 
-...
+Men å andra sidan ...
 
-I just realized that there is no way I can summarize all the ways this travel have, if not changed, so at least, influenced me. I’m just gonna stop right here, but lastly I want to thank you all, you people I have met out there, you people back at home, the people I’ve written stories about and the people that read them.
+Och visst har jag träffat bra kvinnor. Nu vet jag att de faktiskt finns och att de finns där ute. Men jag har också förstått att jag hellre är ensam än åtskild, så just nu är jag nöjd med att sitta här och vänta på att en av dem ska korsa min väg. Jag tror att mitt jagande efter kvinnor åtminstone delvis är över.
 
-Thank you all.
+Men å andra sidan ...
 
-Love,
+I Goa fick jag min första verkliga smak av vad turism gör med en plats. Gud vet att jag parkerade röven i en av de minst exploaterade orterna, Mandrem och Arambol, men kanske var det just därför jag såg det utländska kapitalet arbeta. På ett mer turistiskt ställe hade det inte funnits någon lokal kultur kvar att kontrastera turismen mot.
+
+Pengar är, som jag ser det, inflytande. Ett tvångsmedel jämförbart med våld. Skillnaden i styrka mellan två valutor vilar på obalanser i handeln, på överenskommelser om vilka varor som är begärliga, på handelspolitik, indoktrinering och marknadsföring. Vill jag få så mycket som möjligt av dig för mina saker ser jag till att övertyga dig om att dina saker är värdelösa och att mina gör människor lyckliga. Det blir lättare om jag redan har gott om resurser att lägga på övertygandet.
+
+Vart vill jag komma?
+
+Jag hade kommit fram till att turism som produkt inte handlar om utbyte utan om förändring: att betala någon för att förändras. Pengarna hamnar främst hos dem som anpassat sig själva och sin omgivning till en ny och främmande kultur. Det lockar fler att göra detsamma, att acceptera beteenden som tidigare varit otänkbara, skaffa vissa färdigheter och bygga en viss sorts infrastruktur.
+
+Och när turismen försvinner, när den tröttnat på dig och hittat en ny älskare, vad ska du då göra med färdigheterna och infrastrukturen?
+
+Pengarna, särskilt från snåla backpackers som kräver att få leva lika billigt som lokalbefolkningen, räcker ofta bara till fortsatt överlevnad. Utvecklingen riktas enbart mot mer turism.
+
+I vår riktning.
+
+På våra villkor, inte era.
+
+Så ja, jag såg ett problem med turism i allmänhet och, paradoxalt nog, "kulturellt" backpackande i synnerhet.
+
+Jag inser just att det inte finns något sätt att sammanfatta alla de sätt resan, om inte förändrat mig, så åtminstone påverkat mig. Jag slutar här.
+
+Men först vill jag tacka er alla. Ni jag har mött där ute, ni där hemma, människorna jag har skrivit om och människorna som har läst.
+
+Tack allihop.
+
+Kärlek,
 Stefan
 # 22. Coda
 
-_2026. Redaktionell slutpunkt att pröva._
+_Göteborg, 2026._
 
-Det här är platsen där den färdiga boken senare behöver bestämma om 2026 års blick ska synas i texten eller bara styra den.
+Resebreven slutar där.
 
-Just nu räcker det att låta arkivet vila här: efter hemkomsten, efter slutsatserna, efter behovet att få resan att betyda något.
+Inte resan. Inte människorna. Bara utskicket.
 
-Frågan är inte bara vad berättaren lärde sig. Frågan är vad läsaren ville att han skulle lära sig, och varför.
+I det sista brevet försöker jag göra åtta månader till en lära. Jag räknar dagar, veckor, pengar, trafikdöda, familjer, valutor och resurser. Jag drar linjer mellan Kashmir och svenska motorvägar, mellan Goa och världshandeln, mellan min ensamhet och någon sorts frihet. Jag skriver som om erfarenheten måste gå att bokföra.
+
+Det är förståeligt. Det är också misstänkt.
+
+Att komma hem utan slutsats hade känts som ett misslyckande. Jag hade rest långt, varit rädd, sjuk, hög, förälskad, kåt, generös, snål, ensam och omgiven. Jag hade sett sådant jag inte kunde glömma och missförstått mer än jag visste. Något måste väl ha hänt med mig.
+
+Något hade hänt.
+
+Problemet var bara hur snabbt jag gjorde det till en berättelse om vem jag blivit.
+
+I breven får människor ofta bära den berättelsen åt mig. Serge blir tillitens sammanbrott. Uma blir frågan om hur man behandlar den som tjänar en. Gautam blir skammen som till slut omsätts i handling. Kvinnan på stranden blir ett meddelande i en flaska. Cheyenne blir en årsinkomst. Mai blir en väg in i en tanke om arbete, sex och värdighet.
+
+De var allt detta i texten.
+
+De var också människor som fortsatte leva när jag gick vidare.
+
+Det här är inte en bok om vad Indien, Nepal, Thailand, Kambodja eller Vietnam är. Den kan inte vara det. Den vet för lite, rör sig för fort och ser världen genom en enda ung mans hunger. Om den säger något sant är det snarare om den hungern: viljan att uppleva, förstå, äga, hjälpa, begära och sedan förvandla allt till mening.
+
+Jag reste för att bli friare och öppnare.
+
+Jag lärde mig säga nej.
+
+Jag lärde mig att ett nej också kan bli ett fängelse.
+
+Jag försökte öppna mig igen.
+
+Sedan kom jag hem och förklarade världen.
+
+Tjugo år senare är det den sista rörelsen jag litar minst på.
+
+En berättelse kan inte betala sin skuld genom att bli medveten om den. Den kan inte lämna tillbaka människors tid, blickar, ord eller kroppar. Den kan inte göra mötet jämlikt i efterhand.
+
+Men den kan låta skulden stå kvar.
+
+Inte som botgöring. Inte som facit. Som motstånd i språket.
+
+Det är där jag slutar.
+
+Inte med vad världen lärde mig.
+
+Med frågan om vad jag gjorde av det jag fick se.

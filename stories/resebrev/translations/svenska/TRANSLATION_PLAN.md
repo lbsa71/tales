@@ -6,7 +6,7 @@ Denna plan styr den rena svenska publikversionen av `Resebrev`.
 
 **Källa**: `stories/resebrev/chapters/` — rått kapitelmanus baserat på resebreven från 2003-2004.  
 **Svensk version**: `stories/resebrev/translations/svenska/kapitel/`  
-**Status**: Första svenska arbetsversion införd från korrigerade kapitel. Nästa pass ska översätta kvarvarande engelska repliker och längre engelska partier så att versionen blir helsvensk.
+**Status**: Del 3 har genomgått ett sammanhållet editorial- och översättningspass. Kvarvarande engelska repliker och längre engelska partier i tidigare arbetskapitel ska fortfarande översättas innan hela versionen är färdig.
 
 ## Grundbeslut
 

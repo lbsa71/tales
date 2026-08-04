@@ -2,80 +2,103 @@
 
 _Dag 252. Göteborg. 9 juni 2004._
 
-So. I’m home.
+Så. Jag är hemma.
 
-It’s been two weeks since I arrived in Gothenburg, my home town, after one hell of a plane ride from New York City: due to massive thunderstorms, we were the last plane to be granted lift-off - two hours late, which fucked up my connecting flight in London, which, in turn fucked up my connecting flight to Gothenburg. In Stockholm they lost my luggage, so I once again missed the rescheduled flight to Gothenburg having to report it.
+Det har gått två veckor sedan jag kom till Göteborg efter en helvetisk flygresa från New York. På grund av enorma åskväder var vi det sista planet som fick lyfta, två timmar försenade. Därmed missade jag anslutningen i London, och följaktligen anslutningen till Göteborg. I Stockholm tappade de bort mitt bagage, så jag missade även det ombokade flyget medan jag anmälde det.
 
-The thunderstorms were beautiful from above, though.
+Åskvädren var vackra ovanifrån, ändå.
 
-So, it’s been two weeks. What feels strange is that strange is what it feels not at all; it’s just a continuation. Still travelling.
+Två veckor. Det märkliga är att ingenting känns märkligt. Det är bara en fortsättning.
 
-This will be the last travel diary, though. Actually, I haven’t written any real travel diary in over a month; it’s yet another of those weird things that keep happening to me - I had just decided never to write again, when I recieved that literary prize. A nudge, but in what direction?
+Fortfarande på resa.
 
-I’ve decided to send this diary to quite a lot of people, not only the ones that has recieved the old ones.
-Fear not, you will recieve no more.
+Det här blir ändå det sista resebrevet. Egentligen har jag inte skrivit något riktigt resebrev på över en månad. Ännu en av de där underliga sakerna som hela tiden händer mig: jag hade just bestämt mig för att aldrig skriva igen när jag fick det där litteraturpriset.
 
-For those intrigued, the old ones are available at
+En knuff, men åt vilket håll?
 
-http://lbsa71.net/resebrev/
+Jag har bestämt mig för att skicka det här brevet till ganska många, inte bara dem som fått de gamla.
 
-Some are in english, some in swedish. I’ll get around to adding photos any day now, promise.
+Var inte rädda. Det kommer inga fler.
 
-So, it’s been 238 days travelling. Exactly 34 weeks. A little more than 8 months. Two thirds of a year.
+Jag har alltså rest i 238 dagar. Exakt 34 veckor. Lite mer än åtta månader. Två tredjedels år.
 
-What lessons have I learnt?
+Vad har jag lärt mig?
 
-In Kashmir I understood what I’ve been grappling with for a long time, something bugging me about these contemporary processes of liberalization, dissolving personal morals, radicalism, forwarding of minority interests and equalization of rights. To travel geographically can sometimes be to travel in time - in Kashmir people live by codes that were ours say a hundred years ago. The family is the core, the patriarch has the theoretical last say and control over the economy, there exists a clear division of labour between men and women. I thought I could see why it had to be like that, if a family of six or eight were to be able to sustain themselves on what one or two individuals consume in the west. It’s about resources, how much each individual has influence over in order to realize themselves, and then how much influence each family as a pool has in its society, and then again; how much resources the group, society, as a whole can influence. That is what I’ve realized; we have lost track of this, how much of what we call ’right’ and take for granted is actually about efficient and systematic administration and allocation of resources.
+I Kashmir tyckte jag mig förstå något jag brottats med länge: hur mycket av det vi kallar rättigheter och tar för givet som också handlar om resurser. Att resa geografiskt kan ibland vara att resa i tiden. Familjen där var kärnan, patriarken hade åtminstone teoretiskt sista ordet och kontroll över ekonomin, arbetsdelningen mellan män och kvinnor var tydlig. Jag trodde mig se varför det måste vara så om en familj på sex eller åtta personer skulle leva på vad en eller två individer förbrukar i väst.
 
-On the road from Kashmir to Ladakh I learned that the western man or woman has become risk-avoiding ad absurdum. We’re simply allocating massive amounts of infrastructural resources onto each individual, in order to ensure that any potential risk is close to zero. The flip side of it being, at first paradoxically but then not really, that we become risk-prone.
+Det handlade om hur mycket varje person kunde styra över för att förverkliga sig själv, hur mycket familjen tillsammans kunde påverka i samhället och vilka resurser samhället som helhet hade makt över. Vi hade, tänkte jag, tappat bort hur mycket av vår frihet som vilade på en effektiv och systematisk fördelning av ett enormt överskott.
 
-Just take a look at our highways; in India the highways are one and a half car wide and mostly made out of gravel. There’s no actual speed limit, but you never travel faster than 40-50 km/hour. Every pass, every overtake is carefully measured from both sides. Sometimes it goes a bit wrong, and it’s both parties obligation to negotiate, honking, flashing, breaking, in order to sort the situation out. Interaction in the interest of mutual self-preservation. Sometimes the same road is four or five lanes, if there’s only pedestrians and motorbikes, sometimes two or three, if we’re talking cars: god forbid you should meet two trucks - then it’s down the ditch.
+På vägen från Kashmir till Ladakh lärde jag mig att västerlänningen blivit riskundvikande in absurdum. Vi lägger väldiga infrastrukturella resurser på varje individ för att pressa varje tänkbar risk mot noll. Baksidan är, först paradoxalt och sedan inte alls, att vi blir mer riskbenägna.
 
-Here, we allocate massive resources to construct and maintain four-lane paved highways with clear white stripes marking marginals; and as long as everybody keeps within that allocated space we never have to doubt, we’ve actually forgotten how to doubt, we rely on right of way, no matter if we get killed in the process. We never have to interact, everything is systematic and clear. Here, we have the margins and the system to utilize them. Here, nobody would ever have to fear.
+Titta på vägarna. I Indien är en landsväg en och en halv bil bred och oftast gjord av grus. Det finns ingen egentlig hastighetsgräns, men man kör sällan fortare än fyrtio eller femtio. Varje möte och omkörning mäts från båda håll. Blir det fel måste parterna förhandla med tutan, helljuset och bromsen. Samspel i det ömsesidiga självbevarandets tjänst. Ibland är samma väg fyra filer om trafiken bara består av fotgängare och motorcyklar, två om det kommer bilar. Möter man två lastbilar blir diket en fil.
 
-So, what do we do? We expect to be able to do at least 110 km/hour, most of us actually doing the illegal 20 extra, stressed out by miscalculated procrastination, talking on our mobile phones, pushing the bugger in front of us into the slower lane by driving recklessly close to his back bumper.
+Hemma lägger vi enorma resurser på fyrfiliga, asfalterade motorvägar med vita linjer och generösa marginaler. Så länge alla håller sig inom sitt tilldelade utrymme behöver vi aldrig tvivla. Vi litar på vår rätt till vägen även om den dödar oss. Vi behöver inte samspela. Allt är systematiskt och tydligt.
 
-And still, we feel 200 people killed in traffic per year is much.
+Så vi kräver att få köra minst hundratio, de flesta tjugo över, stressade av vår egen dåliga planering, talande i mobiltelefon och tätt upp i röven på jäveln framför.
 
-Look: I’m not saying less people get killed in India. Hell no, it’s probably a factor 10 on accidents and roadkill. I’m just saying I think I have an idea of where and to what these extra resources of ours go, resources we to some extent have wrestled out of the hands of these other countries. And if it’s worth it or not is up to each and everyone.
+Och ändå tycker vi att tvåhundra trafikdöda om året är mycket.
 
-For me, I think it’s a no. I think, now, I understand the people that get upset over what they percieve of as western resource waste, that most around them never see. I’m probably one of them now.
+Jag säger inte att färre dör i Indien. Helvete heller. Det är säkert tio gånger fler olyckor och döda. Jag säger bara att jag tror mig ana vart våra extra resurser tar vägen, resurser vi åtminstone delvis har brottat ur händerna på andra länder.
 
-In Ladakh, I started to realize that I was not going to be able to be that super-traveller that made lots of interesting friends with the locals and slept on a rug in the barn. It’s just not me.
+Är det värt det?
 
-And fuck them stupas. That’s where I realized that I’m not very interested in spiritual places, beautiful temples, friendly people or even spectacular natural scenery. Don’t get me wrong, the mountain roads around Manali were the most beautiful I’ve ever seen, I found peace on the stairs of the five-storey temple, Ankhor Wat was mind-blowing, and Great Ocean Road just beyond words, but - I’m about small things. Small situations. Moments.
+För mig tror jag svaret är nej.
 
-Coming to Agra, I had to face the fact that no matter what I do, no matter what I say, I will always be the rich white tourist first and foremost, there is no possibility of any kind of equal interaction with any of the locals, because, obviously, we’re so unequal. I can never be rid of the possibility of ulterior motives, because, on some level, there always IS an ulterior motive. Or, so it seemed at the time.
+I Ladakh började jag förstå att jag aldrig skulle bli den där superresenären som skaffar spännande lokala vänner och sover på en matta i någons lada. Det är helt enkelt inte jag.
 
-But then again, why this idealistic notion of every interaction having to be on equal terms? That is yet another of the things I’ve learnt; that we have that ideal of universal equality in the west, or in Sweden at least, that it’s embedded deep within us, and that it’s utterly false. There can never be any equal relationships and you’re paradoxically an agent of inequality not to recognize it. Better then to acknowledge and accept the diversity and inequality and then concentrate on working thru or around it, if so desired.
+Och åt helvete med stuporna.
 
-I’ve travelled in a lot of different configurations; two, three or more, staying for a long time, moving on, meeting up again, separating. Always returning to the state of going solo.
+Det var där jag insåg att jag inte är särskilt intresserad av andliga platser, vackra tempel, vänliga människor eller ens spektakulär natur. Missförstå mig inte. Bergsvägarna runt Manali var det vackraste jag sett, jag fann ro på trappan till femvåningstemplet, Angkor Wat sprängde huvudet och Great Ocean Road saknade ord.
 
-And that’s yet another revelation; I am self-content. I did know that to some extent before, but now, coming home, it’s set in deeper. I think, maybe, you know, a relationship gets stronger when you experience, or should I say ’endure’, situations together; you bond. It kind of makes sense that you would do that with yourself as well if you had those experiences on your own.
+Men jag handlar om små saker.
 
-I’ve met more nice and interesting people than I’ve been able to keep track of. In the beginning you keep exchanging e-mails with every person you connect to, then, you just can’t be bothered - there are just so many nice people out there, you will always meet new ones, and the chances of ever meeting up with the old ones again are slim. But then again...
+Små situationer.
 
-And of course, I’ve met good women; now I know they actually exist, and that they’re out there. But I’ve realized also that I’m rather alone than separated, so right now I’m quite content sitting here waiting for one of them to cross my path. I think my skirt-chasing days, to some extent, are over. But then again...
+Ögonblick.
 
-In Goa, I had my first taste of what tourism does to a place. God knows I parked my butt in one of the least developed places, Mandrem/Arambol, but maybe that was just what made me see the workings of the foreign capital; if I had chosen a more touristy place there would have been no local culture to contrast the tourism.
+I Agra tvingades jag möta det faktum att vad jag än gör och säger kommer jag alltid först och främst vara den rike, vite turisten. Något jämlikt möte med lokalbefolkningen tycktes omöjligt eftersom vi uppenbarligen var så ojämlika. Jag kunde aldrig bli av med misstanken om dolda motiv, för på någon nivå fanns det alltid ett motiv.
 
-The thing is, as I see it, money is influence, a tool of coersion comparable to violence. The difference between the strenghts of two currencies is based on a import-export imbalance, which in turn is based upon an agreement on what goods are seen as desirable, which in turn is rooted in trade policies, indoctrination and marketing. If I want to get as much as possible from you for my stuff, I’ll make damn sure I’ve convinced you that your stuff is worthless and my stuff is the stuff that make people happy. That, incidentally, will be easier for me to do if I already have quite a lot of resources to spend on convincing you.
+Eller så verkade det då.
 
-So, where am I going with this? Well, I’ve come to the conclusion that tourism, as a product, is not about exchange, but change; it is about paying somebody to change. The money that goes into a country in the form of tourism lands primary in the hands of the people that has changed themselves and their surrounding to accomodate a new and strange culture, which will entice more people to do the same, by accepting behaviours that was earlier objectionable, acquiring certain sets of skills and building infrastructure of a certain kind.
+Men varför denna idealistiska föreställning om att varje möte måste ske på lika villkor? Även det tyckte jag mig ha lärt: i väst, eller åtminstone i Sverige, bär vi på ett ideal om universell jämlikhet som är fullständigt falskt. Inga relationer är helt jämlika, och paradoxalt nog kan den som vägrar se ojämlikheten själv bli dess redskap. Bättre då att erkänna skillnaden och försöka arbeta genom eller runt den.
 
-And when the tourism is gone, when it has grown tired of you, found a new lover, then what will you do with your skills and your infrastructure?
+Om man nu vill.
 
-The money you gain, especially from tight-fisted backpackers who expect and strive to live just as cheap as the locals, is often just enough to sustain you, not to develop you. And the development is directed, solely, to accomodate more tourism. In our direction, on our terms, not on yours.
+Jag har rest i alla möjliga konstellationer: två, tre eller fler; stannat länge, dragit vidare, mötts igen, skilts åt. Alltid återvänt till att resa ensam.
 
-So yes, I see a problem with travelling tourism in general, and, again paradoxically, ’cultural’ backpacking in particular.
+Och där finns ännu en uppenbarelse: jag trivs i mitt eget sällskap. Det visste jag till viss del redan, men efter hemkomsten sitter det djupare. En relation blir starkare när man upplever, eller uthärdar, saker tillsammans. Man binds samman. Det verkar rimligt att samma sak händer i relationen till en själv när man går igenom allt ensam.
 
-South East Asia definitively got me to question my held beliefs about male-female relations, the ideology of love, and again, tourism and its implications. I picked a book up in Bangkok, ’Sex Slaves: The Trafficking of Women in Asia’ by Lousie Brown. The book was provoking in that the author never hid her emotional engagement, the text comes across as bordering on crypto-racist as she makes her point; it wasn’t the westerners that brought trafficking, prostitution and paedophilia to Asia; it was already flourishing as integral parts of male Asian culture - we only made it visible, inflated it and gave it a face, a scapegoat face.
+Jag har träffat fler trevliga och intressanta människor än jag kan hålla reda på. I början byter man mejladress med varenda människa man får kontakt med. Sedan orkar man inte längre. Det finns så många bra människor där ute, man kommer alltid träffa nya och chansen att återse de gamla är liten.
 
-...
+Men å andra sidan ...
 
-I just realized that there is no way I can summarize all the ways this travel have, if not changed, so at least, influenced me. I’m just gonna stop right here, but lastly I want to thank you all, you people I have met out there, you people back at home, the people I’ve written stories about and the people that read them.
+Och visst har jag träffat bra kvinnor. Nu vet jag att de faktiskt finns och att de finns där ute. Men jag har också förstått att jag hellre är ensam än åtskild, så just nu är jag nöjd med att sitta här och vänta på att en av dem ska korsa min väg. Jag tror att mitt jagande efter kvinnor åtminstone delvis är över.
 
-Thank you all.
+Men å andra sidan ...
 
-Love,
+I Goa fick jag min första verkliga smak av vad turism gör med en plats. Gud vet att jag parkerade röven i en av de minst exploaterade orterna, Mandrem och Arambol, men kanske var det just därför jag såg det utländska kapitalet arbeta. På ett mer turistiskt ställe hade det inte funnits någon lokal kultur kvar att kontrastera turismen mot.
+
+Pengar är, som jag ser det, inflytande. Ett tvångsmedel jämförbart med våld. Skillnaden i styrka mellan två valutor vilar på obalanser i handeln, på överenskommelser om vilka varor som är begärliga, på handelspolitik, indoktrinering och marknadsföring. Vill jag få så mycket som möjligt av dig för mina saker ser jag till att övertyga dig om att dina saker är värdelösa och att mina gör människor lyckliga. Det blir lättare om jag redan har gott om resurser att lägga på övertygandet.
+
+Vart vill jag komma med allt det här?
+
+Jag hade kommit fram till att turism som produkt inte handlar om utbyte utan om förändring: att betala någon för att förändras. Pengarna hamnar främst hos dem som anpassat sig själva och sin omgivning till en ny och främmande kultur. Det lockar fler att göra detsamma, att acceptera beteenden som tidigare varit otänkbara, skaffa vissa färdigheter och bygga en viss sorts infrastruktur.
+
+Och när turismen försvinner, när den tröttnat på dig och hittat en ny älskare, vad ska du då göra med färdigheterna och infrastrukturen?
+
+Pengarna, särskilt från snåla backpackers som kräver att få leva lika billigt som lokalbefolkningen, räcker ofta bara till fortsatt överlevnad. Utvecklingen riktas enbart mot mer turism.
+
+I vår riktning.
+
+På våra villkor, inte era.
+
+Så ja, jag såg ett problem med turism i allmänhet och, paradoxalt nog, "kulturellt" backpackande i synnerhet.
+
+Jag inser just att det inte finns något sätt att sammanfatta alla de sätt resan, om inte förändrat mig, så åtminstone påverkat mig. Jag slutar här.
+
+Men först vill jag tacka er alla. Ni jag har mött där ute, ni där hemma, människorna jag har skrivit om och människorna som har läst.
+
+Tack allihop.
+
+Kärlek,
 Stefan

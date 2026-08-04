@@ -5,7 +5,7 @@
 - [ ] Alla engelska prosastycken är översatta till svenska.
 - [ ] Engelska repliker är översatta eller ersatta med svensk återgivning.
 - [ ] Kapitelrubrikerna matchar `audiobook.json`.
-- [ ] `stories/resebrev/tools/render-svenska-audio.sh chunks` har körts utan orimliga chunkar.
+- [x] `stories/resebrev/tools/render-svenska-audio.sh chunks` har körts utan orimliga chunkar.
 - [ ] Första chunk i varje kapitel har provlyssnats.
 - [ ] Röst och tempo i `voice.json` är godkända.
 
@@ -14,6 +14,10 @@
 Del 1 är sammanfogad som `dist/stories/resebrev/audio/sv/resebrev-del-1_full.wav`.
 
 Del 2-starten är sammanfogad som `dist/stories/resebrev/audio/sv/resebrev-del-2-start_full.wav`. Filen innehåller just nu försättsblad till del 2, kapitel 8 och kapitel 9.
+
+Del 3 har genomgått editorial- och översättningspass. Försättsbladet samt kapitel 14 och 15 är renderade; preview och full render återstår för resten av delen.
+
+Försättsbladet till del 3 och kapitel 14 är sammanfogade som `dist/stories/resebrev/audio/sv/resebrev-del-3-forsattsblad-och-kapitel-14.wav`.
 
 | Kapitel | Text klar | Preview | Full render | Lyssnat | Omtagningar |
 |---|---:|---:|---:|---:|---|
@@ -34,15 +38,16 @@ Del 2-starten är sammanfogad som `dist/stories/resebrev/audio/sv/resebrev-del-2
 | 11. Bhaktapur | ☐ | ☐ | ☐ | ☐ | |
 | 12. Gautam | ☐ | ☐ | ☐ | ☐ | Innehåller nu Shidde Laxmi/Gautam-efterklang från tidigare kapitel 13 |
 | Eftertext till del 2 | ☑ | ☐ | ☐ | ☐ | Skriven men inte renderad |
-| 14. Vilse i Goa | ☐ | ☐ | ☐ | ☐ | Innehåller kort Raxaul/Kolkata-brygga från tidigare kapitel 13 |
-| 15. Flockdjur | ☐ | ☐ | ☐ | ☐ | |
-| 16. Att lämna Indien | ☐ | ☐ | ☐ | ☐ | |
-| 17. Bangkokshowen | ☐ | ☐ | ☐ | ☐ | |
-| 18. Cheyenne | ☐ | ☐ | ☐ | ☐ | |
-| 19. Vardaglig fasa | ☐ | ☐ | ☐ | ☐ | |
-| 20. Partyfolket | ☐ | ☐ | ☐ | ☐ | |
-| 21. Hem | ☐ | ☐ | ☐ | ☐ | |
-| 22. Coda | ☐ | ☐ | ☐ | ☐ | |
+| Försättsblad till del 3 | ☑ | ☐ | ☑ | ☐ | En chunk; ny ram: "Eftersmak" |
+| 14. Vilse i Goa | ☑ | ☐ | ☑ | ☐ | 17 chunkar; innehåller kort Raxaul/Kolkata-brygga från tidigare kapitel 13 |
+| 15. Flockdjur | ☑ | ☐ | ☑ | ☐ | 10 chunkar |
+| 16. Att lämna Indien | ☑ | ☐ | ☐ | ☐ | Helt översatt till svenska |
+| 17. Bangkokshowen | ☑ | ☐ | ☐ | ☐ | Scenkatalog stramad; berättarens blick behållen |
+| 18. Cheyenne | ☑ | ☐ | ☐ | ☐ | Faktauppgifter om Angkor korrigerade |
+| 19. Vardaglig fasa | ☑ | ☐ | ☐ | ☐ | Faktauppgift om S-21 korrigerad |
+| 20. Partyfolket | ☑ | ☐ | ☐ | ☐ | Övergången mot hemresan stramad |
+| 21. Hem | ☑ | ☐ | ☐ | ☐ | Slutbrev översatt och redigerat |
+| 22. Coda | ☑ | ☐ | ☐ | ☐ | Ny coda från 2026 |
 
 ## Lyssningskriterier
 

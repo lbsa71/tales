@@ -3,7 +3,7 @@
 Denna katalog innehåller den svenska arbetsversionen av `Resebrev`.
 
 **Källa**: Korrigerade kapitel i `stories/resebrev/chapters/`  
-**Status**: Första svensk arbetsversion införd. Rent svensk översättningspass återstår för kvarvarande engelska repliker och prosastycken.
+**Status**: Del 3 har genomgått editorial- och rent svenskt översättningspass. Tidigare delar har kvarvarande arbetskapitel.
 
 ## Status
 
@@ -26,15 +26,16 @@ Denna katalog innehåller den svenska arbetsversionen av `Resebrev`.
 | 11 | Bhaktapur | `kapitel_11_bhaktapur.md` | Arbetsversion |
 | 12 | Gautam | `kapitel_12_gautam.md` | Arbetsversion |
 | — | Eftertext till del 2 | `kapitel_12b_eftertext_del_2.md` | Arbetsversion |
-| 14 | Vilse i Goa | `kapitel_14_vilse_i_goa.md` | Arbetsversion |
-| 15 | Flockdjur | `kapitel_15_flockdjur.md` | Arbetsversion |
-| 16 | Att lämna Indien | `kapitel_16_att_lamna_indien.md` | Arbetsversion |
-| 17 | Bangkokshowen | `kapitel_17_bangkokshowen.md` | Arbetsversion |
-| 18 | Cheyenne | `kapitel_18_cheyenne.md` | Arbetsversion |
-| 19 | Vardaglig fasa | `kapitel_19_vardaglig_fasa.md` | Arbetsversion |
-| 20 | Partyfolket | `kapitel_20_partyfolket.md` | Arbetsversion |
-| 21 | Hem | `kapitel_21_hem.md` | Arbetsversion |
-| 22 | Coda | `kapitel_22_coda.md` | Arbetsversion |
+| — | Försättsblad till del 3: Eftersmak | `kapitel_12c_forsattsblad_del_3.md` | Editorialpass klart |
+| 14 | Vilse i Goa | `kapitel_14_vilse_i_goa.md` | Editorialpass klart |
+| 15 | Flockdjur | `kapitel_15_flockdjur.md` | Editorialpass klart |
+| 16 | Att lämna Indien | `kapitel_16_att_lamna_indien.md` | Editorialpass klart |
+| 17 | Bangkokshowen | `kapitel_17_bangkokshowen.md` | Editorialpass klart |
+| 18 | Cheyenne | `kapitel_18_cheyenne.md` | Editorialpass klart |
+| 19 | Vardaglig fasa | `kapitel_19_vardaglig_fasa.md` | Editorialpass klart |
+| 20 | Partyfolket | `kapitel_20_partyfolket.md` | Editorialpass klart |
+| 21 | Hem | `kapitel_21_hem.md` | Editorialpass klart |
+| 22 | Coda | `kapitel_22_coda.md` | Editorialpass klart |
 
 ## Snabbreferens
 
