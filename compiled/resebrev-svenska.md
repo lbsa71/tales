@@ -2350,12 +2350,12 @@ Vägen söderut går via Birganj/Raxaul, en enäggstvillingstad på gränsen mel
 
 I Kolkata blir jag strandad några dagar, snyter svart snor och försöker få Kilroy att ändra min reseplan med mindre flexibilitet än utlovat. Sedan bär det av söderut. Kerala och Goa hägrar.
 
-I Arambol kallade jag föreståndaren för mitt gästhus för pappa.
+I Arambol kallade jag föreståndaren för mitt gästhus för 'Papa'.
 
-Mamma gör Indiens elakaste thalis. Hon säljer inte längre heroin, eftersom för många människor har dött eller skadats allvarligt på det.
+'Mama' gör Indiens elakaste thalis. Hon säljer inte längre heroin, eftersom för många människor har dött eller skadats allvarligt på det.
 
-Pappa Guru säger: "Steve, vill du ha något säger du till mig. Från A till Ö."
-"Tja, vad sägs om att vi börjar med A," svarar jag, "kan du fixa lite syra?"
+Papa Guru säger: "Steve, vill du ha något säger du till mig. Från A till Ö."
+"Tja, vad sägs om att vi börjar med A," svarar jag, "kan du fixa lite Acid?"
 Han ser häpen ut en sekund, sedan:
 "Ja, vänta, jag ringer vän, riktig vän, han är min hjärtevän. Han kan fixa. Hur mycket vill du ha?"
 "Åh, inte mycket, tre eller fyra, max fem."
@@ -2388,7 +2388,7 @@ Ingenting händer. Rädd att jag blivit blåst på 200 dollar går jag tillbaka 
 
 "Ingenting händer. Nu går jag tillbaka till mitt rum och provar två droppar till, och det är bäst för dig att du ber att något händer!"
 
-Och går, ignorerar hans rop.
+Och går, ignorerar hans hojtande.
 
 När jag kommer tillbaka till rummet går det upp för mig: hålet i pipetten är för litet, så jag har bara fått i mig alkohollösningen som syramolekylerna är utspädda i. Jag försöker göra hålet större, men plötsligt lossnar en plastkon i pipettens topp och hela flaskan öppnas. Alkoholen dunstar snabbt, så jag sveper bara flaskan och får i mig ungefär hälften av innehållet innan det förångas.
 
@@ -2400,27 +2400,27 @@ När jag promenerar längs stranden börjar de första synfenomenen dyka upp. Sa
 
 Jag funderar över deras liv, hur de med varje våg måste gräva djupare, hur de tillbringar hela dagarna med att bara kämpa mot vågorna. Fullständigt meningslöst, men det är vad de gör.
 
-("Nu är det där en syratanke", kommenterar Kelly senare.)
+("Typisk syratanke", kommenterar Kelly senare.)
 
 Av någon anledning plockar jag upp en kokosnöt jag hittar på stranden och bär den med mig. Den ser vänlig ut.
 
-När jag inser att jag börjar bli stenad letar jag efter en skuggig plats där jag kan njuta av färden och hittar en. När jag lägger mig ner inser jag att jag inte har ätit en ordentlig frukost. Aciden förstärker min hunger tills den fyller hela min varelse. Där jag ligger, hungrig och törstig, kämpar jag först för mitt liv med en bläckfisk, sedan är jag en amöba som utkämpar den ursprungliga, primordiala kampen. Allt handlar om hunger; hungern efter att vara ett, sluka, och hungern efter att förbli åtskild, inte bli slukad. Med varje våg av visioner går jag djupare. Förbi amöban kämpar jag mot den ursprungliga andre. Jag är den evige motståndaren, jag kommer inte ge mig. På toppen, bortom kampen mot den ursprungliga andre, inser jag att jag egentligen kämpar mot mig själv. Jag är gud och jag kämpar för att förstå mig själv. Vi är verkligen alla ett, vi speglar verkligen alla denna ursprungliga kamp.
+När jag inser att jag börjar bli stenad letar jag efter en skuggig plats där jag kan njuta av färden och hittar en. När jag lägger mig ner inser jag att jag inte har ätit en ordentlig frukost. Syran förstärker min hunger tills den fyller hela min varelse. Där jag ligger, hungrig och törstig, kämpar jag först för mitt liv med en bläckfisk, sedan är jag en amöba som utkämpar den ursprungliga, primordiala kampen. Allt handlar om hunger; hungern efter att vara ett, sluka, och hungern efter att förbli åtskild, inte bli slukad. Med varje våg av visioner sjunker jag djupare in i ruset. Förbi amöban kämpar jag mot den ursprungliga andre. Jag är den evige motståndaren, jag kommer inte ge mig. På toppen, bortom kampen mot den ursprungliga andre, inser jag att jag egentligen kämpar mot mig själv. Jag är gud och jag kämpar för att förstå mig själv. Vi är verkligen alla ett, vi speglar verkligen alla denna ursprungliga kamp.
 
-Jag får en vision av hur vi alla hänger samman. Jag förstår det så klart, men nu har jag glömt det.
+Jag får en vision av hur vi alla hänger samman. Jag förstår det så klart, men nu efteråt har jag glömt det.
 
 Jag går igenom en rytm av nyktra ögonblick, där jag bedömer min situation, tripphantering som Matthew kallar det, och planerar för nästa våg, känner självömkan, rädsla, ilska, kämpar, nickar till och får sedan ännu en relativt klar paus.
 
-De nyktra ögonblicken blir kortare och kortare, verkligheten börjar hacka, minnet ger vika och det blir svårare och svårare att lägga ihop pusslet som är vägen tillbaka till verkligheten. Det känns artificiellt, inte lika verkligt som svampen gjorde, men ändå blir jag rädd att jag ska hamna i ett tillstånd där jag inte längre får några nyktra ögonblick alls. Det skulle faktiskt kunna leda till uttorkning och, med tanke på mängden syra, skador. Kokosnöten blir min trygghet, dess beröring påminner mig om verkligheten och den blir aldrig visuell. Jag ser till att ha den nära mig hela tiden.
+De nyktra ögonblicken blir kortare och kortare, verkligheten börjar hacka, minnet ger vika och det blir svårare och svårare att lägga ihop pusslet som är vägen tillbaka till verkligheten. Det känns artificiellt, inte lika verkligt som svamp, men ändå blir jag rädd att jag ska hamna i ett tillstånd där jag inte längre får några nyktra ögonblick alls. Det skulle faktiskt kunna leda till uttorkning och, med tanke på mängden syra, skador. Kokosnöten blir min trygghet, dess beröring påminner mig om verkligheten och den blir aldrig visuell. Jag ser till att ha den nära mig hela tiden.
 
 Jag får en vision av en full gammal gubbjävel som sitter bakåtlutad på en veranda, slagen av livet, med flaskan i vänster hand och ett halvhjärtat dra åt helvete riktat mot något i övre högra hörnet. Jag vet att det här är jag, det här är min essens. Han är så trött på allt. Han har kämpat samma kamp länge och det enda han har kvar är denna sista trotshandling, förlorarens patetiskt trötta dra åt helvete.
 
 Men ändå gör han det. Och han är inte ensam. Runt honom sitter tiotusentals fulla gamla gubbjävlar som gör samma sak. Den fulla gamla gubbjäveln är på något sätt demonformad, med vassa drag och utskjutande fraktala hörn. När man kommer närmare ser man att han egentligen består av miljontals pyttesmå fulla gubbjävlar, stridskamrater, alla med långfingret höjt. På varje fingertopp finns ännu en miljon fulla gubbjävlar, och på vart och ett av deras fingrar ännu en miljon som ...
 
-Samtidigt förvandlas den fulla gamla gubbjäveln till den kraftfulle unge krigare han en gång var och höjer näven stolt, fortfarande fraktaliserad ut i evigheten. Ljudet stiger i tonhöjd. Allt går in i en tät slinga, det där ljudet när man spelar ett ljudprov snabbare och snabbare tills det blir ett högspänt tjut, för att till slut explodera i det ultimata:
+Samtidigt förvandlas den fulla gamla gubbjäveln till den kraftfulle unge krigare han en gång var och höjer näven stolt, fortfarande fraktaliserad ut i evigheten. Ljudet stiger i tonhöjd. Allt går in i en tät slinga, det där ljudet när man spelar ett ljud snabbare och snabbare tills det blir ett högspänt tjut, för att till slut explodera i det ultimata:
 
 DRA ÅT HELVETE
 
-Och jag tuppar av.
+Och där tuppar jag av.
 
 Nästa vision är att jag är en hankrabba. Jag höjer klorna för att försvara mig, men inte bara mig själv. Jag har en ung hona under mig, jag kämpar för att skydda min partner och sköljer henne med friskt vatten så att hon ska känna sig trygg och säker nog att ömsa sitt gamla skal och vända sig på rygg så att jag kan befrukta henne. Jag känner min krabbighet, mina klor, det friska saltvattnet, jag känner hennes krabbsmak, hennes extas, hårda taggiga ben som trummar mot min bröstsköld. Jag är fullständigt den där krabban. Det är jag.
 
@@ -2430,10 +2430,10 @@ När jag vaknar ur visionen är jag törstig som fan. Jag inser detta: det är a
 
 ("Det finns många olika sorters hunger", säger Nick. "Ja", svarar jag, "och det finns alltid en trygg plats för varje hunger.")
 
-Jag ser en kvinna på stranden och går till henne för att be om vatten. Hon är inte livrädd, men verkar orolig. Jag är i ganska risigt skick. Jag faller på knä, berättar att jag är på en allvarlig tripp, långt ute på en ö någonstans, och att jag inte tror att jag kommer minnas henne eller något av detta. Jag ber henne:
+Jag ser en kvinna på stranden och går till henne för att be om vatten. Hon är inte rädd, men verkar orolig. Jag är i ganska risigt skick. Jag faller på knä, berättar att jag är på en allvarlig tripp, långt ute på en ö någonstans, och att jag inte tror att jag kommer minnas henne eller något av detta. Jag ber henne:
 "När du ser mig på stranden imorgon, ropa på mig och berätta att vi träffades."
 Jag ser en PET-flaska framför mig och säger, halvt skrattande:
-"Ja! Det är det... du är mitt... meddelande i en flaska! Snälla, minns detta åt mig tills jag är tillbaka."
+"Ja! Det är det... du är min... flaskpost! Snälla, minns detta åt mig tills jag är tillbaka."
 Hon tar fram sin dagbok för att skriva ner det. Jag berättar om att vi alla är ett, om kampen som egentligen är med en själv och till slut om visionen med den fulla gamla gubbjäveln.
 
 Eftersom den innehåller mycket dra åt helvete och aggressivitet lutar hon sig fram när jag är klar, halvler och säger:
@@ -2467,15 +2467,15 @@ Jag kramar, vaggar mina två liter liv medan jag försöker hitta nästa trygga 
 
 Motvilligt rör jag mig vidare för att hitta en annan plats. Jag går förbi några fiskenät, fastnar nästan i ett av dem men klarar mig. Jag blir allvarligt paranoid över att någon ska märka vilket tillstånd jag är i och utnyttja mig. Jag vet att jag är i närheten av mitt hem, men när jag tittar ner på baksidan av kullen ser alla träd likadana ut, alla hus identiska. Jag börjar på allvar undra: "var fan är jag?"
 
-Senare, nykter, kommer jag inse att jag inte rörde mig mer än femtio meter, men det kändes som att korsa Sahara.
+Senare, i nyktert tillstånd, kommer jag inse att jag inte rörde mig mer än femtio meter, men det kändes som att korsa Sahara.
 
-Plötsligt ser jag en röd flagga under ett träd i en dunge. Den ser inbjudande ut, som om den placerats där för att fånga uppmärksamhet. Jag tar mig dit och upptäcker att det är den perfekta trygga platsen. En mjuk kulle, skuggad av träd, avskild, inga människor. Här kan jag sova av mig det.
+Plötsligt ser jag en röd flagga under ett träd i en dunge. Den ser inbjudande ut, som om den placerats där för att fånga uppmärksamhet. Jag tar mig dit och upptäcker att det är den perfekta trygga platsen. En mjuk kulle, skuggad av träd, avskild, inga människor. Här kan jag sova av mig ruset.
 
-När jag slappnar av börjar jag uppfatta märkliga saker i omgivningen. På en utskjutande del av stammen ligger aska. Där finns röd färg, samma röda som jag sett utsmetad på heliga platser. På en annan gren är Shivas tre parallella linjer ritade. I förundrad dimma ser jag mig omkring. Vid trädets fot ligger små kokosnötter på rad och skålar som använts för att bränna olja. På andra sidan en smal stig står en liten helgedom med rökelsepinnar. Jag inser att jag är i ett tempel. Inte den stora, tjusiga sortens tempel, utan den sort som reses av vanliga människor som känner igen en plats som helig.
+När jag slappnar av börjar jag uppfatta märkliga saker i omgivningen. På en utskjutande del av stammen ligger aska. Där finns röd färg, samma röda som jag sett utsmetad på heliga platser. På en annan gren är Shivas tre parallella linjer ritade. I förundrad dimma ser jag mig omkring. Vid trädets fot ligger små kokosnötter på rad och skålar som använts för att bränna olja. På andra sidan en smal stig står en liten helgedom med rökelsepinnar. Jag inser att jag är i ett tempel. Inte den stora, tjusiga sortens tempel, utan den sort som reses av vanliga människor som känner igen en helig plats.
 
 Jag inser med absolut visshet att detta är platsen de alla kommer tillbaka till, en manifestation av den ursprungliga trygga hamnen. Jag överväldigas av tacksamhet, visar min respekt genom att röra vid mitt huvud, trädet, mina läppar, trädet igen. Jag kissar, bra färg på kisset, lägger vattnet under nacken och slumrar till.
 
-Jag får visioner av krigare som retirerar och finner skydd här, under detta träd. Jag förstår att jag har bröder i striden, jag är inte ensam. Temat med den fulla gamla gubbjäveln och den djärve unge krigaren återkommer, men nu på ett djupare plan. Jag känner: måste vi verkligen kämpa den här kampen längre, jag är redo att ge upp, bara för att inse: haha, åh nej, du får mig inte så lätt, din gamla häxa.
+Jag får visioner av krigare som retirerar och finner skydd här, under detta träd. Jag förstår att jag har bröder i striden, jag är inte ensam. Temat med den fulla gamla gubbjäveln och den djärve unge krigaren återkommer, men nu på ett djupare plan. Jag känner: måste vi verkligen kämpa den här kampen längre, jag är redo att ge upp, bara för att inse att: haha, åh nej, så lätt får du mig inte, din gamla häxa.
 
 Och så fortsätter det. Efter ett tag framträder ett nytt tema, ett jag inte känner igen någonstans inom mig själv. Spindelben kommer upp under ytan, river sig genom verklighetens väv, roterar, skriker och jämrar sig i insektslik ilska. Det är definitivt kvinnligt i smaken, smala ben, långa ögonfransar, lite tecknat. Det är det enda temat hittills som jag inte redan är bekant med, och jag undrar vad det betyder.
 
@@ -2484,7 +2484,7 @@ Efter en stund blir jag rastlös, jag måste veta vad klockan är. På stranden 
 Jag berättar att jag är på en jävla tripp och gör sedan en svepande gest med armen runt templet:
 "Har ni sett det här! Det är ett tempel! Och jag vet vad det är! Det är platsen vi alla kommer tillbaka till! Alla de där människorna som var vilse, det är hit de kommer tillbaka!"
 Och Gilad säger:
-"Tempel? Så det här är ett tempel? Ja, kanske är det ett tempel... Jag kan lägga mina cigaretter här, så skulle det vara ett tempel. Ser du ett tempel, Bors?"
+"Tempel? Så det här är ett tempel? Ja, kanske är det ett tempel... Jag kan lägga mina cigaretter här, så skulle det kunna vara ett tempel. Ser du ett tempel, Bors?"
 Bors rycker på axlarna.
 "Äh, kom igen grabbar," säger jag, "ni ser de här blommorna, eller hur? Jag är väl inte så borta?"
 "Blommor, ja, självklart. Ja, blommor. Kanske finns det blommor där, kanske inte."
@@ -2498,19 +2498,19 @@ Härifrån hittar jag faktiskt hem. Det är svårt att förklara exakt hur mycke
 
 Då och då tar jag ännu en hinkdusch. Jag känner funktion efter funktion komma tillbaka. Minnet börjar sippra tillbaka och jag gör mig redo att gå ner till stranden för att äntligen få mat. När jag klär på mig hittar jag solglasögonen. Men det är inte mina solglasögon, de har en annan design och är för små. När fan bytte någon mina solglasögon? Ahh, tänker jag, det var säkert Bors när vi var på stranden. Fräcka jävel. Nåja, jag använder hans tills jag träffar honom och vi kan byta tillbaka.
 
-Fast när jag går mot stranden inser jag att det nog faktiskt är mina solglasögon. Jag har haft dem i tre månader och nu har de plötsligt fallit ur mitt minne. I ett hugg av rädsla undrar jag vad mer som är borta.
+Fast när jag går mot stranden inser jag att det nog faktiskt är mina solglasögon. Jag har haft dem i tre månader och nu har de plötsligt fallit ur mitt minne. I en blixt av rädsla undrar jag vad mer som är borta.
 
 På restaurangen, när servitören kommer, är det enda jag kan säga: "Mata mig. Snälla." Jag har ingen energi att välja från menyn. Folk stirrar på mig. Jag har fortfarande synfenomen. Fönstren ser ut som målningar på väggen, vart och ett hänger lite snett. En tjej sitter på golvet och trummar med fingrarna, det är helt som en surrealistisk Lynch-musikvideo från nittiotalet.
 
 Och då kommer spindelkvinnan in.
 
-Hon är otroligt mager, långa armar och ben, klubba till huvud, hårt flätade svarta flätor som slutar i pärlor, och hon har en rent vild blick i ögonen. Hon är topless, med en genomskinlig negligé, vilket är rätt uppseendeväckande, och har alldeles för små hotpants. Alla killarna på stället bara stirrar på henne i tyst misstro. Hon stinker av spindel och krabba, jag kan fortfarande känna det, jag betraktar henne, höjer mina klor, filtrerar vatten, kämpar mot impulsen att ställa mig upp framför henne, se henne rakt i ögonen så hon vet att jag vet vad jag pratar om, och säga: "för fyra timmar sedan knullade min urfader din urmoder!"
+Hon är otroligt mager, långa armar och ben, lite för stort huvud för kroppen, hårt flätade svarta flätor som slutar i pärlor, och hon har en rent vild blick i ögonen. Hon är topless under en genomskinlig negligé, vilket är rätt uppseendeväckande, och har alldeles för små hotpants. Alla killarna på stället bara stirrar på henne i tyst misstro. Hon stinker av spindel och krabba, jag kan fortfarande känna det, jag betraktar henne, höjer mina klor, filtrerar vatten, kämpar mot impulsen att ställa mig upp framför henne, se henne rakt i ögonen så hon vet att jag vet vad jag pratar om, och säga: "för fyra timmar sedan knullade min urfader din urmoder!"
 
-Det hade säkert gått bra med hennes pojkvän bredvid henne.
+Det hade säkert funkat skitbra med hennes pojkvän som satt bredvid henne.
 
 Så nej, det gjorde jag inte. Istället nyktrade jag till lite mer, nyktrade till ännu mer, och gick sedan på mitt första rave i Goa. Fjorton timmar efter att jag tog syran hade jag fortfarande synfenomen.
 
-Ravet var väldigt bra, som det skulle vara. Mer om det någon annan gång, kanske. Påminn mig om att berätta om de läskiga speed-crack-indierna och chai-mammorna.
+Ravet var väldigt bra, som det skulle vara. Mer om det någon annan gång, kanske. Påminn mig om att berätta om de läskiga speed-crack-indierna och chai-mamas.
 
 Dagen efter sov jag i fjorton timmar och gick sedan för att leta efter templet. För tänk om templet var en hallucination? Tänk om Gilad och Bors bara var inbillningar? Läskig, mycket läskig tanke.
 
@@ -2537,7 +2537,7 @@ Så jag bär tillbaka sakerna och ger offergåvor. Det är mycket intensivt. Jag
 
 "Du kommer aldrig gå vilse igen."
 
-Så, ja, jag är i stort sett tillbaka till det normala, vad det nu är. Jag har flyttat till Mandrem, stranden söder om Arambol. Det är väldigt lugnt, faktiskt nästan cirkeln sluten eftersom det är vad jag ursprungligen letade efter när jag åkte till Indien.
+Så, ja, jag är i stort sett tillbaka till det normala, vad det nu är. Jag har flyttat till Mandrem, stranden söder om Arambol. Det är väldigt lugnt, faktiskt har cirkeln slutits eftersom det är vad jag ursprungligen letade efter när jag åkte till Indien.
 
 Shanti shanti.
 
@@ -2551,7 +2551,7 @@ _Dag 120. Mandrem. 29 januari 2004._
 
 Jag äter min vanliga frukost med kaffe och mjölk på Arambol German Bakery. De gör grymma ugnsbakade grönsaker, men i dag nöjer jag mig med frallor med avokado och tomat. Phoenix och Dogdog kommer in, ser sig omkring och bestämmer sig för att slå sig ner hos mig.
 
-De är ett osannolikt par. Jag lärde känna dem genom min tai chi-grupp. Dogdog är ungefär i min ålder, Phoenix ett par år yngre, fast han ser äldre ut. Stubb till hår, breda axlar och en enda stor jävla tatuering över hela ryggen; lite underlig men en riktigt trevlig kille. Dogdog ser mycket beskedligare ut, fullständigt som en familjefar. Tydligen slog de följe för ett tag sedan och reser nu tillsammans.
+De är ett osannolikt par. Jag lärde känna dem genom min tai chi-grupp. Dogdog är ungefär i min ålder, Phoenix ett par år yngre, fast han ser äldre ut. Stubb till hår, breda axlar och en enda stor jävla tatuering över hela ryggen; lite underlig men riktigt trevlig kille. Dogdog ser mycket beskedligare ut, vibbar mer som en familjefar. Tydligen slog de följe för ett tag sedan och reser nu tillsammans.
 
 "Så," börjar Phoenix, "du hoppade över chi kung igår?"
 "Ja," svarar jag, "du vet, för mig är det väldigt starkt, jag menar, jag har varit ganska manodepressiv sedan det började, massor av saker som kommer upp till ytan, jag känner mig ganska glad nu så ärligt talat vågade jag inte göra det. Jag har tillräckligt många processer igång, du vet?"
@@ -2633,25 +2633,26 @@ En stunds vördnadsfull tystnad. Sedan säger jag:
 
 "Gjorde det så ont?"
 
-"Helvete ja," ler Phoenix, "självklart gjorde det det. Halva nöjet. Men det mest intressanta är att jag aldrig visste att man kunde känna så många sorters smärta över ryggen. Det här är min första tatuering, du vet. Det finns ställen på ryggen, särskilt längs ryggraden, där jag bara var tvungen att hindra mig själv från att skrika som en dam. Kroppen rycker och rör sig ofrivilligt. Det är som när jag gjorde min första piercing - det är inte smärtan i sig, utan sortens smärta."
+"Helvete ja," ler Phoenix, "självklart gjorde det det. Halva nöjet. Men det mest intressanta är att jag aldrig visste att man kunde känna så många sorters smärta över ryggen. Det här är min första tatuering, du vet. Det finns ställen på ryggen, särskilt längs ryggraden, där jag bara var tvungen att hindra mig själv från att skrika som en kvinna. Kroppen rycker och rör sig ofrivilligt. Det är som när jag gjorde min första piercing - det är inte smärtan i sig, utan sortens smärta."
 
 "Jag vet inte om jag skulle kunna göra det mot mig själv," säger jag. "Jag menar, jag försöker tänka typ: 'På vilket sätt ska det här göra mig lycklig?' Jag kan inte se det. Jag försöker behandla mig själv som jag skulle behandla någon jag älskar, någon jag bryr mig om, kanske som en trogen hund. Jag skulle aldrig få min flickvän att göra något sådant, så varför skulle jag göra det mot mig själv?"
 
-"Jag tänkte inte så mycket på det. Jag tänkte bara att det skulle vara ännu en cool sak att göra. Jag betraktar det som en födelsedagspresent till mig själv."
+"Jag tänkte inte så mycket på det. Jag tänkte bara att det skulle vara en cool sak att göra. Jag betraktar det som en födelsedagspresent till mig själv."
 
-Dogdog har varit tyst länge och druckit upp sitt kaffe.
+Dogdog har suttit tyst länge, dricker upp sitt kaffe.
 
-"Ibland," tillägger han till synes utan sammanhang, "tar man smärta för nyckerna hos den man älskar."
 
-Phoenix och jag utbyter blickar. Han har uppenbarligen varit någon annanstans.
+"Ibland," tillägger han till synes utan sammanhang, "tar man smärtan för nyckerna hos den man älskar."
+
+Phoenix och jag utbyter blickar. Dogdog har uppenbarligen varit någon annanstans.
 
 Utanför kaféet, på stranden, leker smutsiga barn med skräp i skuggan av en fiskebåt. Tre pojkar, tre flickor, från två till kanske nio år. Flickorna bär vackra klänningar trots sina uppenbart fattiga levnadsförhållanden. Cyan, gult och grönt mot sandens torra kaki- och tefärger.
 
-"Du vet den där flickan jag berättade om," börjar Phoenix, "flickan jag antastade under min syratripp och sa var mitt meddelande i en flaska? Hon som gav mig vatten?"
+"Du vet den där flickan jag berättade om," börjar Phoenix, "flickan jag antastade under min syratripp och sa var min flaskpost? Hon som gav mig vatten?"
 
 "Ja?" säger jag. Dogdog vet uppenbarligen redan vad Phoenix tänker berätta.
 
-"I några dagar efter trippen letade jag alltid efter henne på stranden, väntade på att någon skulle komma och säga: 'Hej! Minns du mig?' Men ingen gjorde det."
+"I några dagar efter trippen letade jag alltid efter henne på stranden, väntade på att någon skulle komma och säga: 'Hej! Minns du mig?' Men det hände inte."
 
 En stunds tystnad. Sedan:
 
@@ -2671,7 +2672,7 @@ Phoenix nickar.
 
 "Det finns en suddig gräns mellan självbehärskning och självslaveri," nickar jag.
 
-"Jag tycker", säger Dogdog plötsligt, "att Panda är en bra lärare i bra saker."
+"Jag tycker", säger Dogdog plötsligt, "att Panda är en bra lärare av bra saker."
 
 Ingen säger egentligen emot.
 
@@ -2692,7 +2693,7 @@ När vi ändå är inne på ämnet slår mig en tanke. Jag tittar på Dogdog och
 
 Dogdog är tyst tillräckligt länge för att Phoenix ska svara åt honom:
 
-"Jag gav honom det. Det har med arketyper att göra. För ett tag sedan reste vi med en sydafrikansk tjej. Hundar som såg ut som riktiga, sympatiska hundar kallade hon hund-hundar. Dogdog är sådan, arketypen för en sympatisk hund. Det fastnade. Som du och din krabbman."
+"Jag gav honom det. Det har med arketyper att göra. För ett tag sedan reste vi med en sydafrikansk tjej. Hundar som såg ut som riktiga, sympatiska hundar kallade hon hund-hundar. Dogdog är sådan, arketypen för en sympatisk hund. Det fastnade. Som du och ditt Crabman."
 
 Phoenix ler mot Dogdog, som tyst betraktar stranden.
 
@@ -2703,7 +2704,7 @@ Kvar finns bara den eviga bilden av jord och vatten som älskar ljudlöst under 
 Och just i detta ögonblick vet bara gud vem som är på väg vart, när och hur.
 
 Kärlek,
-Krabbmannen
+Crabman
 # 16. Att lämna Indien
 
 _Dag 143. Bangkok. 21 februari 2004._
@@ -3417,7 +3418,7 @@ I Goa fick jag min första verkliga smak av vad turism gör med en plats. Gud ve
 
 Pengar är, som jag ser det, inflytande. Ett tvångsmedel jämförbart med våld. Skillnaden i styrka mellan två valutor vilar på obalanser i handeln, på överenskommelser om vilka varor som är begärliga, på handelspolitik, indoktrinering och marknadsföring. Vill jag få så mycket som möjligt av dig för mina saker ser jag till att övertyga dig om att dina saker är värdelösa och att mina gör människor lyckliga. Det blir lättare om jag redan har gott om resurser att lägga på övertygandet.
 
-Vart vill jag komma?
+Vart vill jag komma med allt det här?
 
 Jag hade kommit fram till att turism som produkt inte handlar om utbyte utan om förändring: att betala någon för att förändras. Pengarna hamnar främst hos dem som anpassat sig själva och sin omgivning till en ny och främmande kultur. Det lockar fler att göra detsamma, att acceptera beteenden som tidigare varit otänkbara, skaffa vissa färdigheter och bygga en viss sorts infrastruktur.
 
