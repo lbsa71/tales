@@ -52,7 +52,7 @@ Anteckningarna visar inte bara arbetsmängden utan beroendekedjan: ett företag 
 
 En odaterad anteckning i samma arbetsblock säger att pappa skulle komma till Åkerbohemmet följande dag och hade beviljats två veckors korttidsboende. Eftersom noteringen saknar säkert datum ska den inte användas för att korrigera kalenderns datum.
 
-M10 klargör vad som hände vid vårdsamtalet den 16 juli. Pappa behövde enligt Stefans förståelse själv samtycka till inskrivningen men saknade sjukdomsinsikt. Sjuksköterskor, läkare, Lena och framför allt Stefan försökte få honom att förstå läget. Stefan använde mycket tydligt språk, och en sjuksköterska bekräftade efteråt att det varit tufft men nödvändigt. Samtalet slutade med beslut om långtidsboende.
+M10 klargör vad som hände vid vårdsamtalet den 16 juli. Pappa behövde enligt Stefans förståelse själv samtycka till inskrivningen men saknade sjukdomsinsikt. Sjuksköterskor, läkare, pappas syster Lena och framför allt Stefan försökte få honom att förstå läget. Stefan använde mycket tydligt språk, och en sjuksköterska bekräftade efteråt att det varit tufft men nödvändigt. Samtalet slutade med beslut om långtidsboende.
 
 Kalenderposten `Pappa från Korttidsboende` följande dag kan därför läsas i ljuset av det beslutet. Den visar fortfarande inte om pappa flyttades fysiskt eller bytte vårdform inom samma boende.
 

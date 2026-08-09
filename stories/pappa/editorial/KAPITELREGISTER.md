@@ -5,8 +5,8 @@
 | 1 | Det som redan fanns | 2013-2025 | Gör den akuta händelsen till fortsättningen på en kroppslig historia och en familjevardag. | S01, S02, S07, S19, S25, S27, K01 |
 | 2 | Årskontrollen | 5 juni | Vardagsärendet slår om till akut fara och når sonen genom ett kvällssamtal. | S01, S02, M04, M05 |
 | 3 | Natttransporten | 5-6 juni | Förflyttningen till Linköping och den första planen. | S02, S03 |
-| 4 | Att hålla trycket nere | 6-8 juni | Väntan, konservativ behandling och sonens ankomst. | S02, S04, S05, K01 |
-| 5 | Garaget | 9-11 juni | Sonens blick blir en del av journalen; förvirringen tilltar. | S06-S13, K01 |
+| 4 | Att hålla trycket nere | 6-8 juni | Väntan bryts när sonen kommer och pappa både känner igen och förväxlar honom. | S02, S04, S05, K01, M13 |
+| 5 | Garaget | 9-11 juni | Sonens blick blir en del av journalen och han ser själv en hallucination börja. | S06-S13, K01, M14 |
 | 6 | En centimeter | 11-16 juni | Mätvärdena förändrar planen från väntan till operation samtidigt som sonen rör sig mellan sjukhuset och ett familjefirande. | S12-S19, K01, M03 |
 | 7 | Graftet | 16 juni | Det tekniska ingreppet och sonens riskbesked på avstånd hålls i samma operationsdag. | S20, S21, K01, M06 |
 | 8 | Infarkterna | 17-18 juni | Pappans neurologiska skada sammanfaller med mammans akuta sammanbrott; sonen måste bära två vårdförlopp, en omöjlig reseavvägning och rädslan att pappa är borta för alltid. | S22-S26, K01, M01, M07-M09 |
@@ -27,7 +27,7 @@
 ### Kapitel 2
 
 - Fanns ett telefonsamtal med pappa den 5 juni?
-- Vem är Lena i familjens och vårdens sammanhang, och vad sade hon mer exakt i kvällssamtalet?
+- Vad sade Lena mer exakt i kvällssamtalet?
 - När berättade pappa sin version av ögonblicket då smärtan kom?
 
 ### Kapitel 3
@@ -38,14 +38,14 @@
 ### Kapitel 4
 
 - Resan till Linköping den 8 juni är daterad 14:10-17:50 i kalendern; färdsätt, tankar och avbrottet i helgplanerna saknas.
-- Första synen av pappa på HIA.
-- Vad sade pappa när sonen kom?
+- Hur såg pappa ut när sonen kom in, och vilka var de första orden mellan dem?
+- Hur visade sig pappas lättnad konkret?
 
 ### Kapitel 5
 
 - Hotellnätterna på Quality Hotel Ekoxen och vägen till och från sjukhuset.
 - Middagen som sonen tog med den 10 juni: vad var det, vad talade de om, hur mycket åt pappa?
-- Hur lät och såg förvirringen ut utanför journalens exempel?
+- Vad sade pappa att han såg eller att det hände under hallucinationen framför sonen, och hur reagerade sonen?
 - Avskedet den 11 juni före kalenderns hemresa 16:25-20:10.
 
 ### Kapitel 6
@@ -58,7 +58,7 @@
 ### Kapitel 7
 
 - Vad visste familjen om det specialbyggda graftet före ingreppet?
-- Var befann sig sonen när läkaren ringde och medan operationen pågick?
+- När under dagen ringde läkaren, och vad sade sonen och Lena till varandra efteråt?
 - Blev sonen någon gång ombedd att fatta ett beslut utifrån pappans tidigare uttalade önskemål?
 
 ### Kapitel 8
@@ -66,9 +66,8 @@
 - När fick sonen beskedet om infarkterna?
 - Vad sades om prognos och neurologiska följder?
 - Vilka resdagar övervägde sonen, och vem avrådde honom från att åka?
-- Är Lena samma syster som tog emot läkarens besked, och vad berättade hon för sonen?
+- Vad berättade Lena för sonen efter läkarsamtalet?
 - Vilka frågor och svar gjorde det tydligt för sonen att pappa inte kände igen honom?
-- Vad fick sonen att först avfärda systerns oro för mamma?
 - Hur såg timmarna hos mamma ut mellan fyndet på sängen och buljongen?
 - Vilken hjälp gick att ordna genom äldrevården den 18 juni?
 

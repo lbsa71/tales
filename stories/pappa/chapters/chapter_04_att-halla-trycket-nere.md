@@ -18,12 +18,8 @@ Jag reste mot Linköping efter lunch den åttonde juni. Kalenderblocket går fr�
 
 Jag kom till pappa på kvällen. Journalen noterar min ankomst, och att jag skulle vara med på ronden halv nio nästa morgon. Den säger att pappa gärna ville tala med en läkare.
 
-Det är allt den berättar om mötet mellan oss.
+Pappa kände igen mig, men han kunde inte mitt namn. Han blandade ihop mig med sin bror och sin andre son. Ändå var reaktionen tydlig. Han blev glad när jag kom och märkbart lättad.
 
-Den säger inte hur han såg ut när jag kom in. Den säger inte vad vi sade. Den säger inte om han förstod varför jag hade rest dit eller vad jag själv hade hunnit förstå om det som hände i hans aorta.
+Från och med den kvällen finns jag i materialet. Inte som huvudperson. Som sonen som väntar på ronden, ställer frågor och försöker förstå hur pappa både kunde känna igen mig och förväxla mig med två andra människor.
 
-Sådant måste komma från mitt minne, inte från en sjuksköterskas ruta för information till närstående.
-
-Men från och med den kvällen finns jag i materialet. Inte som huvudperson. Som sonen som väntar på ronden, ställer frågor och ser att något i pappa inte är som det brukar.
-
-<!-- Källor: S02, S04, S05, K01 -->
+<!-- Källor: S02, S04, S05, K01, M13 -->

@@ -14,6 +14,8 @@ Journalerna är inte helt eniga om deras exakta läge. En slutanteckning från L
 
 Samma dag ringde min syster. Hon fick inte tag på mamma, som också var sjuklig. Jag avfärdade det först.
 
+Mamma brukade ibland inte svara därför att hon låg och sov. Det hände titt som tätt. Jag trodde att det var samma sak nu.
+
 Några timmar senare ringde min moster. De brukade tala med varandra varje dag. Nu hade hon inte hört av mamma på tre dagar.
 
 I kalendern heter de följande två timmarna `Mamma intervention`.
@@ -26,9 +28,9 @@ Mamma vägrade låta mig ringa ambulans. Jag stannade och fick henne att dricka 
 
 Morgonen därpå står det `Ringa Äldrevård` i kalendern. Det var inte en allmän påminnelse och det gällde inte pappa. Det var nästa steg i att ordna hjälp åt mamma. Mitt i pappas strokevård hade jag fått börja organisera omsorg för min andra förälder också.
 
-Sent på kvällen den sjuttonde fick pappas lillasyster ett läkarsamtal. Hon informerades om CT-fynden, förvirringen och den påverkade medvetandegraden. Blodtrycket fortsatte att svänga kraftigt, och vården försökte samtidigt hålla det systoliska trycket omkring 130 och medeltrycket över 80.
+Sent på kvällen den sjuttonde fick Lena, pappas syster, ett läkarsamtal. Hon informerades om CT-fynden, förvirringen och den påverkade medvetandegraden. Blodtrycket fortsatte att svänga kraftigt, och vården försökte samtidigt hålla det systoliska trycket omkring 130 och medeltrycket över 80.
 
-Senare ringde Lena mig. Hon var helt förtvivlad.
+Efteråt ringde hon mig. Hon var helt förtvivlad.
 
 Den artonde var pappa mer vaken. Han kunde uppge sitt personnummer och svara när personalen talade med honom. Han kunde föra ett samtal med sin syster och med mig i telefon.
 

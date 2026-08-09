@@ -10,7 +10,9 @@ Sedan ringde en läkare för att förbereda mig. Jag minns beskedet som att dett
 
 Pappa hade tidigare sagt att om han hamnade i en sådan situation och jag blev tillfrågad, ville han inte vakna. Det var de orden jag bar med mig in i operationsdagen.
 
-I kalendern är måndagen ett block från elva till sex med rubriken `Pappa opereras`. Runt omkring ligger mina egna arbetsblock. Den berättar inte var jag satt när läkaren ringde. Själva ingreppet finns däremot nedskrivet steg för steg.
+Jag var hemma när läkaren ringde. Efteråt ringde jag Lena. Vi försökte ta in beskedet tillsammans.
+
+I kalendern är måndagen ett block från elva till sex med rubriken `Pappa opereras`. Runt omkring ligger mina egna arbetsblock. Själva ingreppet finns nedskrivet steg för steg.
 
 Kirurgerna skulle lägga ett nytt stentgraft i bröstaortan och över aortabågen. Problemet var att tre stora kärl lämnar bågen och för blod till huvudet och armarna. Ett vanligt tätt graft kunde inte bara täcka deras öppningar.
 

@@ -44,7 +44,7 @@ Den sextonde juli finns en timme med rubriken `Möte pappa åkerbohemmet`.
 
 Det var ett tufft samtal. Som situationen förklarades för mig behövde pappa själv samtycka till inskrivningen. Samtidigt förstod han inte hur sjuk han var eller varför han inte kunde återvända hem.
 
-Sjuksköterskorna, läkarna, Lena och framför allt jag försökte få honom att förstå läget och acceptera att han behövde bo där. Jag använde ett mycket tydligt språk mot pappa.
+Sjuksköterskorna, läkarna, pappas syster Lena och framför allt jag försökte få honom att förstå läget och acceptera att han behövde bo där. Jag använde ett mycket tydligt språk mot pappa.
 
 Efteråt sade en sjuksköterska till mig: "Det måste ha varit tufft att säga så till sin far. Men det var rätt och nödvändigt."
 

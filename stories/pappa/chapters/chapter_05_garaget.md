@@ -8,6 +8,8 @@ Personalen satt hos honom och redde ut var han befann sig. Pappa frågade om det
 
 På morgonen var jag med på ronden. Jag berättade att pappas minne gradvis hade blivit sämre under de senaste åren. Jag berättade om förvirringen efter operationen 2024, men också att det här var värre. Vissa stunder var han klar. Andra stunder var han mycket förvirrad. Han märkte det själv och var orolig.
 
+Vid ett tillfälle började han hallucinera mitt framför mig. Han talade plötsligt osammanhängande om sådant som enligt honom hände i rummet, men som inte var verkligt.
+
 Sömnmedlet togs bort och ersattes med ett preparat han tidigare hade tålt.
 
 Samtidigt fortsatte kroppen att kräva sin bokföring. Urinen var knapp och koncentrerad. Han fick vätskedrivande och svarade på det. Det hördes rassel över lungorna. När han kom upp med gåbord och två personer var gången ostadig och han blev yr. Han åt med god aptit. Senare på kvällen, efter vila, var han klarare. Han fick en tandborste och tandkräm och borstade själv tänderna.
@@ -30,4 +32,4 @@ När jag lämnade Linköping var planen fortfarande att kontrollera trycket och 
 
 Men aortan hade börjat växa.
 
-<!-- Källor: S06-S13, K01 -->
+<!-- Källor: S06-S13, K01, M14 -->

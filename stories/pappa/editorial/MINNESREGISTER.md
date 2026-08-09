@@ -14,6 +14,7 @@ Minnesregistret samlar sådant Stefan själv tillför efter att journaler, kalen
 
 - Mitt under pappans intensiva vårdförlopp ringde Stefans syster och sade att familjen inte fick tag på deras mamma, som också var sjuklig.
 - Stefan avfärdade först oron.
+- Mamma brukade då och då inte svara därför att hon låg och sov. Stefan trodde först att det var samma sak denna gång.
 - Några timmar senare ringde mammans syster. Hon och mamman brukade tala varje dag, men nu hade hon inte hört något på tre dagar.
 - Stefan höll på att förbereda sig för att åka till pappa men åkte i stället till mamma.
 - Dörren var olåst. Mamma låg halvt okontaktbar på sängen.
@@ -30,7 +31,6 @@ Minnesregistret samlar sådant Stefan själv tillför efter att journaler, kalen
 
 ### Frågor för senare gestaltning
 
-- Vad fick Stefan att först avfärda systerns oro?
 - Hur lång tid gick mellan de två samtalen?
 - Vad såg han i rummet utöver att mamma låg på sängen?
 - Hur länge stannade han och när förstod han att buljongen hjälpte?
@@ -121,19 +121,18 @@ Minnesregistret samlar sådant Stefan själv tillför efter att journaler, kalen
 
 ### Händelse
 
+- Lena är pappas syster.
 - Lena ringde Stefan på kvällen och berättade vad som hade hänt.
 - Läkarna hade bett henne kontakta honom, så att de inte själva skulle behöva försöka få tag på honom.
 - Stefan började omedelbart organisera en resa till söndagen.
 
 ### Källgränser
 
-- Lenas relation till pappa och Stefan anges inte i det tillförda minnet och ska inte fyllas i genom antagande.
 - Samtalets exakta klockslag och ordalydelse är inte belagda.
 - Kalendern visar den senare resan, men inte när bokningen eller planeringen gjordes.
 
 ### Frågor för senare gestaltning
 
-- Vem är Lena i familjens och vårdens sammanhang?
 - Vad berättade hon om pappas tillstånd och den planerade transporten?
 - Var befann sig Stefan när hon ringde?
 
@@ -150,19 +149,22 @@ Minnesregistret samlar sådant Stefan själv tillför efter att journaler, kalen
 - En läkare ringde för att förbereda Stefan på att operationen var mycket svår.
 - Stefan minns riskbeskedet som femtio procents risk att pappa skulle dö, stor sannolikhet för förlamning i hela vänster sida och stor risk för stomi resten av livet.
 - Pappa hade tidigare sagt till Stefan att om han hamnade i en sådan situation och Stefan blev tillfrågad, ville han inte vakna.
+- Stefan var hemma när läkaren ringde.
+- Efter samtalet ringde han Lena, pappas syster, och de försökte ta in beskedet tillsammans.
 
 ### Källgränser
 
 - Risksiffrorna och följderna återges som Stefans minne av ett telefonsamtal; de står inte i de journalhandlingar som använts för manuset.
 - Pappas tidigare uttalande är ett återgivet personligt önskemål, inte ett belagt skriftligt vårddirektiv.
-- Minnet anger inte samtalets datum, läkarens namn, Stefans plats eller om Stefan faktiskt ombads fatta ett beslut.
+- Minnet anger inte samtalets datum, läkarens namn eller om Stefan faktiskt ombads fatta ett beslut.
 
 ### Frågor för senare gestaltning
 
-- När ringde läkaren, och var befann sig Stefan?
+- När ringde läkaren?
 - Vilka ord användes om död, förlamning och stomi?
 - Blev Stefan ombedd att ta ställning, eller var samtalet enbart förberedande?
 - När och i vilket sammanhang hade pappa berättat hur han ville ha det?
+- Vad sade Stefan och Lena till varandra efter riskbeskedet?
 
 ## M07: Att inte komma för tidigt eller för sent
 
@@ -192,21 +194,20 @@ Minnesregistret samlar sådant Stefan själv tillför efter att journaler, kalen
 
 **Tid:** 17 juni 2025, efter läkarsamtalet om CT-fynden enligt kommentarens placering i kapitelutkastet.
 
-**Källor:** Stefans kommentar i kapitelutkastet. S22 belägger att pappas syster informerades sent den 17 juni.
+**Källor:** Stefans kommentarer i kapitelutkastet. S22 belägger att pappas syster informerades sent den 17 juni, och Stefan har identifierat henne som Lena.
 
 ### Händelse
 
-- Lena ringde Stefan.
+- Lena, pappas syster, fick enligt sammanhanget läkarsamtalet om CT-fynden och tillståndet.
+- Efteråt ringde hon Stefan.
 - Hon var helt förtvivlad.
 
 ### Källgränser
 
-- Minnet anger inte uttryckligen om Lena är den syster som enligt journalen fick läkarsamtalet. Det sambandet ska därför inte slås fast ännu.
 - Samtalets tid, innehåll och ordalydelse är inte belagda.
 
 ### Frågor för senare gestaltning
 
-- Är Lena pappas lillasyster som nämns i journalen?
 - Vad hade hon fått veta, och vad sade hon till Stefan?
 - Vad gjorde Stefan efter samtalet?
 
@@ -247,7 +248,7 @@ Minnesregistret samlar sådant Stefan själv tillför efter att journaler, kalen
 - Stefan upplevde vårdsamtalet som tufft.
 - Som situationen förklarades för honom kunde pappa inte skrivas in utan eget medgivande.
 - Pappa saknade enligt Stefan sjukdomsinsikt och förstod inte själv behovet av inskrivning.
-- Sjuksköterskor, läkare, Lena och framför allt Stefan försökte få pappa att förstå läget och acceptera boendet.
+- Sjuksköterskor, läkare, Lena — pappas syster — och framför allt Stefan försökte få pappa att förstå läget och acceptera boendet.
 - Stefan använde ett mycket tydligt språk mot pappa.
 - Efteråt sade en sjuksköterska: `Det måste ha varit tufft att säga så till sin far. Men det var rätt och nödvändigt.`
 - I vårdsamtalet beslutades att pappa skulle få långtidsboende.
@@ -318,3 +319,48 @@ Minnesregistret samlar sådant Stefan själv tillför efter att journaler, kalen
 - Hur svarade pappa på frågorna vid besöket den 24 juni?
 - Hur reagerade pappa när Stefan berättade om operationen och infarkterna på nytt?
 - Fanns det något i förloppet efter Borgholm som pappa ibland kunde återkalla?
+
+## M13: När Stefan kom till HIA
+
+**Tid:** Kvällen den 8 juni 2025.
+
+**Källor:** Stefans uttryckliga minne, kontrollerat mot S05 och K01 som placerar honom på HIA i Linköping den kvällen.
+
+### Händelse
+
+- Pappa kände igen Stefan när han kom.
+- Han kunde inte Stefans namn och blandade ihop honom med sin bror och sin andre son.
+- Pappa blev glad och märkbart lättad av att Stefan var där.
+
+### Källgränser
+
+- Minnet anger igenkänning, sammanblandning och reaktion men inte pappas eller Stefans exakta ord.
+- Det är inte fastställt hur ofta sammanblandningen skedde under kvällen eller om den kom redan i den första repliken.
+
+### Frågor för senare gestaltning
+
+- Hur såg pappa ut när Stefan kom in?
+- Vilka var de första orden mellan dem?
+- Hur visade sig lättnaden konkret?
+
+## M14: Hallucinationen framför Stefan
+
+**Tid:** 8-11 juni 2025, under Stefans vistelse på avdelningen.
+
+**Källor:** Stefans uttryckliga minne, ställt bredvid S06-S13:s dokumentation av hallucinationer och akut förvirring.
+
+### Händelse
+
+- Vid ett tillfälle började pappa hallucinera mitt framför Stefan.
+- Han började tala osammanhängande om sådant som enligt honom hände i rummet men som inte var verkligt.
+
+### Källgränser
+
+- Exakt datum, plats på avdelningen och innehållet i hallucinationen är ännu inte angivna.
+- Minnet belägger Stefans direkta observation men får inte fyllas ut med uppfunna föremål, personer eller repliker.
+
+### Frågor för senare gestaltning
+
+- Vad sade pappa att han såg eller att det hände i rummet?
+- Vad gjorde eller sade Stefan när hallucinationen började?
+- Hur länge varade episoden och blev pappa klarare igen medan Stefan var kvar?

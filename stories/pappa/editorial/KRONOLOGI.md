@@ -21,7 +21,7 @@
 - Omkring klockan 16 får han akut smärta i bröstet och mellan skulderbladen.
 - Pappa berättar senare för Stefan att läkaren just hade knackat honom över bröstet och frågat om det gjorde ont när det, med pappas ord, `brast`. Uppgiften är pappas återberättelse; journalen belägger bara den akuta smärtan.
 - CT i Kalmar visar aortadissektion typ B från vänster subclavia ned till det tidigare FEVAR-graftet, utan engagemang av de viscerala kärlen.
-- På kvällen ringer Lena Stefan på läkarnas begäran. Stefan börjar genast planera en resa till söndagen den 8 juni.
+- På kvällen ringer pappas syster Lena Stefan på läkarnas begäran. Stefan börjar genast planera en resa till söndagen den 8 juni.
 - Han behandlas med blodtryckssänkande och morfin och transporteras nattetid till Linköping.
 
 ## 6-8 juni: konservativ behandling
@@ -31,12 +31,14 @@
 - Den 7 juni är han tröttare och mer andfådd men förbättras efter vätskedrivande. Han väntar på att sonen ska komma följande dag.
 - Den 8 juni bär benen nästan inte vid mobilisering. Han blir rädd, har återkommande bröst- och ryggsmärta och känner sig stundtals snurrig i tanken.
 - Sonen kommer på kvällen den 8 juni.
+- Pappa känner igen honom men kan inte hans namn och blandar ihop honom med sin bror och sin andre son. Samtidigt blir han glad och märkbart lättad över att Stefan är där.
 - Kalendern visar en resa mot Linköping 14:10-17:50 och en bokning på Quality Hotel Ekoxen 8-11 juni.
 
 ## 9-11 juni: sonen på avdelningen och förvirringen
 
 - Natten till den 9 juni vaknar pappa och tror att han är kidnappad och instängd i ett garage. Han undrar själv om något är fel i hjärnan och skäms över sitt beteende. Ett sömnmedel tas bort.
 - Sonen deltar i ronden och berättar om gradvis minnesförsämring och förvirringen efter operationen 2024, men att detta är tydligt värre.
+- Under Stefans vistelse börjar pappa vid ett tillfälle hallucinera mitt framför honom och talar osammanhängande om sådant som enligt honom händer i rummet men som inte är verkligt.
 - Pappa är tidvis klar, äter och borstar själv tänderna, men beskriver långsammare tankar och svårigheter att hitta ord.
 - Den 10 juni behandlas uttorkning och förstoppning. En ny CT görs. Sonen är på avdelningen nästan hela dagen, går till hotellet under eftermiddagen och tar med middag tillbaka.
 - Den 11 juni berättar sonen att pappa föreställt sig bråk på avdelningen. Pappa upplever bland annat att telemetridåsan talar med honom.
@@ -59,6 +61,7 @@
 - Den samlade bedömningen är nu att aortans diameter har ökat ungefär en centimeter på åtta-nio dagar och är över 50 millimeter. Det finns också vätskereaktion kring aortan.
 - Enligt Stefan har operationsdatumet skjutits fram dag för dag, samtidigt som läkarna avrått honom från att resa upp innan tiden var säker.
 - En läkare ringer och förbereder Stefan på en enligt hans minne femtioprocentig dödsrisk, stor risk för vänstersidig förlamning och livslång stomi. Stefan bär samtidigt med sig pappas tidigare uttalande att han i en sådan situation inte ville vakna om sonen blev tillfrågad.
+- Stefan är hemma när läkaren ringer. Efteråt ringer han Lena och de försöker ta in beskedet tillsammans.
 - Beslut fattas om akut endovaskulär operation med ett specialanpassat fenestrerat stentgraft i bröstaortan, TEVAR.
 - Ett graft modifieras med tre öppningar för kärlen från aortabågen.
 - Graftet förs in via vänster ljumske. När införingssystemet först inte når rätt läge används snabb hjärtstimulering, ledare och ballonger för att dra det på plats.
@@ -70,10 +73,10 @@
 - Efter extubation är pappa akut förvirrad och motoriskt orolig. Han behandlas med lugnande och antipsykotiskt läkemedel.
 - CT den 17 juni visar nytillkomna hjärninfarkter. Journalerna är inte helt eniga om deras exakta läge.
 - Stefan försöker planera en ny resa, men läkarna avråder honom eftersom de inte kan säga när pappa kommer att vakna eller vara tillräckligt klar. Han försöker undvika att komma både för tidigt och för sent.
-- **17 juni, mitt på dagen:** Stefans syster och därefter mammans syster slår larm om att de inte får kontakt med mamma. Stefan åker dit, finner dörren olåst och mamma halvt okontaktbar på sängen efter magsjuka. Hon vägrar ambulans. Han stannar och får henne att dricka buljong.
+- **17 juni, mitt på dagen:** Stefans syster och därefter mammans syster slår larm om att de inte får kontakt med mamma. Eftersom mamma ofta sover och då inte svarar tror Stefan först att det är samma sak igen. Han åker sedan dit, finner dörren olåst och mamma halvt okontaktbar på sängen efter magsjuka. Hon vägrar ambulans. Han stannar och får henne att dricka buljong.
 - **18 juni, morgonen:** Kalenderposten `Ringa Äldrevård` gäller mammans fortsatta hjälp. Stefan behöver nu organisera omsorg för båda sina föräldrar samtidigt.
-- Pappans syster informeras om CT-fynden och tillståndet sent den 17 juni.
-- Lena ringer därefter Stefan och är enligt hans minne helt förtvivlad. Materialet fastställer ännu inte att hon är samma syster som tog emot läkarens samtal.
+- Pappans syster Lena informeras om CT-fynden och tillståndet sent den 17 juni.
+- Efteråt ringer hon Stefan och är enligt hans minne helt förtvivlad.
 - Den 18 juni är pappa mer vaken och kan samtala med både sin syster och sin son i telefon. Han är fortfarande inte orienterad till vad som har hänt eller var han befinner sig och är motoriskt orolig.
 - Stefan minns telefonsamtalet som helt osammanhängande: pappa vet inte var han är, känner inte igen Stefan och minns inte flera närstående eller var han bor. Stefan blir efteråt förtvivlad och rädd att tillståndet ska vara bestående.
 - Han rör alla extremiteter men orkar inte resa sig. Han behöver syrgas. Blodtrycket svänger, njurfunktionen är påverkad men förbättras och han får antibiotika efter bakterieväxt i urin.
@@ -89,7 +92,7 @@
 - **27 juni:** Familjen får samtidigt besked om korttidsplats och en möjlig senare hemgång, utan ett gemensamt vårdsamtal med de anhöriga. Stefan ringer tillbaka eftersom detta motsäger läkarens bedömning från dagen före. En senare notering säger att korttidsplatsen beviljas.
 - **2 juli:** Kalenderposten `Pappa -> Åkerbohemmet` markerar en övergång. En odaterad administrativ anteckning beskriver två veckors beviljat korttidsboende, men källorna räcker inte för att fastställa exakt inflyttningsdag eller vårdform.
 - **5 juli:** Sonen har en ny resa mot Kalmar i kalendern. Syftet är inte utskrivet.
-- **16 juli:** I vårdsamtalet på Åkerbohemmet försöker sjuksköterskor, läkare, Lena och framför allt Stefan få pappa att förstå varför han behöver bo där och samtycka till inskrivningen. Stefan använder ett mycket tydligt språk. Mötet slutar med beslutet att pappa ska få långtidsboende.
+- **16 juli:** I vårdsamtalet på Åkerbohemmet försöker sjuksköterskor, läkare, pappas syster Lena och framför allt Stefan få pappa att förstå varför han behöver bo där och samtycka till inskrivningen. Stefan använder ett mycket tydligt språk. Mötet slutar med beslutet att pappa ska få långtidsboende.
 - **17 juli:** Kalendern säger `Pappa från Korttidsboende`. M10 klargör att korttidslösningen övergick i ett beslut om långtidsboende, men inte om detta innebar en fysisk flytt eller ett administrativt byte på samma plats.
 - **Juli-augusti:** Stefans arbetsanteckningar fylls av fullmakter, bank- och adressärenden, digital identitet, apoteksbetalningar, boendekostnad, fakturor, försäkring, bil och abonnemang. Dessa ärenden fortsätter trots att pappa inte själv kan hålla ihop dem.
 - **27 augusti:** Stefan talar med den ansvariga på boendet om pappas behov av stimulans och om att på sikt undersöka en flytt närmare västkusten.

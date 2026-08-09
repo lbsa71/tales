@@ -28,7 +28,7 @@ Pappa hade gått till vårdcentralen med en medicinlista, långvarig andfåddhet
 
 Nu skulle han till Linköping.
 
-På kvällen ringde Lena. Läkarna hade bett henne kontakta mig, i stället för att de skulle behöva jaga rätt på mig. Det var så jag fick veta.
+På kvällen ringde Lena, pappas syster. Läkarna hade bett henne kontakta mig, i stället för att de skulle behöva jaga rätt på mig. Det var så jag fick veta.
 
 Jag började omedelbart ordna en resa till söndagen.
 
