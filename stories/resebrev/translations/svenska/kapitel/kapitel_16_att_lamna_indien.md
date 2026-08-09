@@ -59,9 +59,9 @@ Mitt kanonbord med den fantastiska utsikten.
 
 "Om du inte har roligt där kan du komma tillbaka in," säger värdinnan.
 
-Uppenbarligen har jag bytts ut mot något som bättre stämmer med budskapet stället försöker förmedla.
+Uppenbarligen har jag bytts ut mot något som bättre stämmer med imagen stället försöker förmedla.
 
-Och självklart trängs ingen för att göra mig sällskap vid skitbordet mitt ute i gatan. När gräddsoppan kommer får jag notan utan att be om den.
+Och självklart trängs ingen för att göra mig sällskap vid skitbordet mitt ute i gatan. När gräddsoppan kommer får jag notan innan jag bett om den.
 
 I dag mejlade Becky och berättade att hon är på en liten ö utanför hamnstaden Ranong som heter Koh Phayam, inte att förväxla med Koh Phangan, den stora partyön. Tydligen är ön lugn, inte särskilt exploaterad och har en underbar strand. Precis vad jag letade efter som början på min tid i Thailand. Jag åker till Ranong i morgon kväll.
 

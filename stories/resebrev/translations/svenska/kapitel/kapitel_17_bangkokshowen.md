@@ -161,13 +161,13 @@ Skandalöst, ja. Sorgligt, ja. Men åh, så mänskligt.
 
 Den slitna kvinnan sätter sig hos mig. Jag dricker min gin och tonic, hon frågar var jag kommer ifrån och vi småpratar. Hon heter Mai. Jag vill se showen, hon vill ha min uppmärksamhet. Hon masserar mina axlar och min arm. Jag vill egentligen inte att hon ska göra det, så jag skämtar om att jag fick tre timmars massage dagen innan. Som kompensation erbjuder jag henne en drink. Självklart accepterar hon, det är ju hennes jobb. Hon hämtar också ett paket cigaretter åt mig och jag kedjeröker tre stycken, föresatserna rakt ut genom entrédörren.
 
-På scenen följer pingisbollar, fluorescerande snören, rakblad, cigaretter, tårta och en liten trumpet. Jag ser det i ett tillstånd av äcklad vördnad. Min dominerande, nästan tvångsmässiga tanke är: herregud, hoppas de håller allt riktigt rent.
+På scenen töms en fitta på pingisbollar, fluorescerande snören, rakblad, och som höjdpunkt röker den en cigarett och tutar i en liten trumpet. Jag ser det i ett tillstånd av äcklad vördnad. Min dominerande, nästan tvångsmässiga tanke är: herregud, hoppas de håller allt riktigt rent.
 
 Jag frågar Mai hur lång showen är. En timme, sedan börjar den om, ända till ett på natten. Klockan är åtta.
 
-Så mycket för att hålla rent.
+Så mycket för att hålla saker rent.
 
-Hur länge har hon jobbat här? Fyra år. Är det ett bra ställe att jobba på? Tystnad. Jag förklarar att jag har vänner som strippar och undrar om de behandlar kvinnorna väl.
+Hur länge har hon jobbat här? Fyra år. Är det ett bra ställe att jobba på? Tystnad. Jag förklarar att jag har vänner som strippar och undrar om de behandlar kvinnorna väl här.
 
 Tom blick.
 
