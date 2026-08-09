@@ -18,10 +18,8 @@ Pappa svarade på tilltal och rörde alla extremiteter. Han hade kunnat sitta up
 
 Läkaren bedömde att infarkterna och svullnaden runt dem förklarade medvetandepåverkan, och att den tycktes gå långsamt tillbaka. Planen var uppföljning av neurolog. Bilderna hade också visat tecken på interstitiell lungsjukdom som skulle följas upp på hemsjukhuset.
 
-Sedan tar materialet slut.
+På papperet var operationen i Linköping avslutad. I Kalmar började arbetet med allt som fanns kvar efter den: medvetandet, syret, njurarna, infarkterna och en kropp som ännu inte bar honom.
 
-Jag kan inte låta journalen berätta vad som hände därefter, för de sidorna finns inte här. Jag kan bara föra pappa tillbaka till Kalmar, fram till den sista tid som är nedskriven, och stanna där.
-
-Nästa del måste komma från andra handlingar och från oss som var med.
+Ambulansen hade fört honom söderut, närmare huset på Öland. Men inte en enda rad i morgonens plan handlade om att han skulle hem.
 
 <!-- Källor: S23-S27 -->

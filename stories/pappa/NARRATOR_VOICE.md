@@ -4,11 +4,13 @@
 
 Berättaren är den vuxne sonen som i efterhand försöker lägga pappans sjukdomsförlopp i rätt ordning.
 
-Han har tre kunskapslägen:
+Han har fem kunskapslägen:
 
 1. **Det jag var med om** - egna minnen, när de senare förs in.
 2. **Det journalen placerar mig i** - min närvaro, mina frågor och mina iakttagelser så som vårdpersonalen noterade dem.
 3. **Det jag fick veta efteråt** - medicinska händelser som berättaren inte bevittnade.
+4. **Det kalendern minns** - resor, bokningar och påminnelser som daterar en avsikt eller ett praktiskt förlopp men inte ensamma bevisar vad som genomfördes.
+5. **Det jag antecknade mitt i** - samtalsreferat och arbetslistor skrivna för att hantera vård, boende och ekonomi. De ligger nära händelsen men är ojämna, ofullständiga och ibland feldaterade.
 
 Rösten ska alltid göra det begripligt vilket läge som gäller.
 
@@ -26,6 +28,8 @@ Rösten ska alltid göra det begripligt vilket läge som gäller.
 - `När jag kom den åttonde...` när närvaron stöds av journalen.
 - `Det här såg jag inte.` när scenen endast är dokumenterad.
 - `Anteckningen från natten säger...` när källavståndet är en del av sanningen.
+- `I kalendern står...` när en resa, bokning eller påminnelse är det enda kvarvarande spåret.
+- `Enligt min anteckning sade läkaren...` när ett medicinskt besked endast finns i Stefans eget samtalsreferat.
 - Försiktiga slutsatser: `Det var fortfarande planen`, `Det hade blivit svårare`, `Nu började väntan ändra karaktär`.
 
 ## Inte tillåtet utan nytt underlag
@@ -36,6 +40,10 @@ Rösten ska alltid göra det begripligt vilket läge som gäller.
 - Sammanslagna personer eller händelser.
 - Medicinska orsaksförklaringar som journalen inte själv gör.
 - En efterklok berättare som redan vet hur allt ska sluta.
+- Att göra en bokning eller påminnelse till en genomförd handling utan stöd av minne eller en andra källa.
+- Att göra en arbetsanteckning till ordagrann dialog eller låta senare kunskap korrigera vad personerna visste då.
+- Att göra ett bättre testresultat till bevis för återställd självständighet.
+- Att använda pappans egen upplevelse av att vara frisk som belägg för att han klarar boende, ekonomi, mediciner eller bilkörning utan stöd.
 
 ## Benämningar
 

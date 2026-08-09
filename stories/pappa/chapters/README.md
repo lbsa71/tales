@@ -2,7 +2,7 @@
 
 Detta är ett första kronologiskt råmanus. Kapitlen kan läsas i nummerordning.
 
-Manuset innehåller endast sådant som kan härledas till journalmaterialet. Berättarrösten är sonens, men där sonen inte var närvarande redovisar rösten sitt avstånd till händelsen.
+Manuset innehåller endast sådant som kan härledas till journalmaterialet, kalendern, Stefans sanerade arbetsanteckningar eller uttryckligt tillförda minnen. Berättarrösten är sonens, men där sonen inte var närvarande redovisar rösten sitt avstånd till händelsen.
 
 | # | Fil | Tid |
 |---:|---|---|
@@ -15,3 +15,6 @@ Manuset innehåller endast sådant som kan härledas till journalmaterialet. Ber
 | 7 | `chapter_07_graftet.md` | 16 juni 2025 |
 | 8 | `chapter_08_infarkterna.md` | 17-18 juni 2025 |
 | 9 | `chapter_09_hemat-inte-hem.md` | 18-19 juni 2025 |
+| 10 | `chapter_10_rutorna-efterat.md` | 24 juni-17 juli 2025 |
+| 11 | `chapter_11_alla-tradarna.md` | juli-augusti 2025 |
+| 12 | `chapter_12_han-sade-att-han-hade-frisknat-till.md` | sent i november 2025 |

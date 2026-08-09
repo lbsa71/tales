@@ -16,7 +16,9 @@ Flera personer kopplades in: hjärtintensiv, lungkonsult och en kollega på häl
 
 Under besöket fick pappa svår smärta i bröstet och mellan skulderbladen. En senare anteckning anger tiden till omkring klockan fyra.
 
-(Stefans anm: Pappa berättade att läkaren hade knackat honom i bröstet och frågat 'gör det här ont' och det var då det brast. Pappa sa att läkaren ryggade tillbaka med skräck i ögonen och kastade sig på telefonen för ambulans.)
+Efteråt berättade pappa för mig hur han själv mindes ögonblicket då smärtan kom. Läkaren hade knackat honom över bröstet och frågat: "Gör det här ont?" Pappa sade att det var då det brast. Han mindes hur läkaren ryggade tillbaka, med skräck i ögonen, och kastade sig på telefonen för att få dit en ambulans.
+
+Det är pappas berättelse till mig. Journalen säger bara att den svåra smärtan kom under besöket.
 
 Han skickades till akuten i Kalmar. Där visade CT något annat än den lungemboli man först hade behövt utesluta. Det hade uppstått en dissektion i aortan. Kärlväggens inre lager hade brustit så att blod trängde in mellan väggens lager. Dissektionen började vid vänster nyckelbensartär och fortsatte ned till graftet från operationen året innan.
 
@@ -26,7 +28,8 @@ Pappa hade gått till vårdcentralen med en medicinlista, långvarig andfåddhet
 
 Nu skulle han till Linköping.
 
+På kvällen ringde Lena. Läkarna hade bett henne kontakta mig, i stället för att de skulle behöva jaga rätt på mig. Det var så jag fick veta.
 
-(Stefans anm: Lena ringde på kvällen och berättade - läkarna hade bett henne ringa mig istället för att de skulle behöva jaga mig. Jag organiserade omedelbart en resa till söndagen.)
+Jag började omedelbart ordna en resa till söndagen.
 
-<!-- Källor: S01, S02 -->
+<!-- Källor: S01, S02, M04, M05 -->

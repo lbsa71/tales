@@ -2,7 +2,15 @@
 
 *16 juni 2025 · Kärlkirurgin, Linköping*
 
-Det här kapitlet har jag inte från ett rum där jag själv stod. Jag har det från operationsberättelsen.
+Jag stod inte i operationssalen. Det här kapitlet har jag dels från operationsberättelsen, dels från det jag själv minns av väntan på avstånd.
+
+Jag ville åka till pappa, men läkarna kunde inte säga när operationen skulle bli av. De sade att det inte var någon idé att jag åkte upp. Ingreppet sköts fram dag för dag och det gick inte att planera en resa.
+
+Sedan ringde en läkare för att förbereda mig. Jag minns beskedet som att detta var en mycket svår operation: femtio procents risk att pappa skulle dö, stor sannolikhet för förlamning i hela vänster sida och stor risk att han skulle behöva stomi resten av livet.
+
+Pappa hade tidigare sagt att om han hamnade i en sådan situation och jag blev tillfrågad, ville han inte vakna. Det var de orden jag bar med mig in i operationsdagen.
+
+I kalendern är måndagen ett block från elva till sex med rubriken `Pappa opereras`. Runt omkring ligger mina egna arbetsblock. Den berättar inte var jag satt när läkaren ringde. Själva ingreppet finns däremot nedskrivet steg för steg.
 
 Kirurgerna skulle lägga ett nytt stentgraft i bröstaortan och över aortabågen. Problemet var att tre stora kärl lämnar bågen och för blod till huvudet och armarna. Ett vanligt tätt graft kunde inte bara täcka deras öppningar.
 
@@ -24,4 +32,4 @@ I den senare slutanteckningen kallades operationen lyckad.
 
 Aortan var lagad. Nu återstod att se vad ingreppet och de föregående elva dygnen hade gjort med resten av pappa.
 
-<!-- Källor: S20, S21 -->
+<!-- Källor: S20, S21, K01, M06 -->

@@ -12,11 +12,15 @@ Den trettonde gick det inte längre att hålla blodtrycket nere med tabletter. K
 
 I en enda anteckning finns därför både den medicinska brådskan och sjukhusets logistik: aortan behövde kanske behandlas under helgen, ett särskilt graft måste finnas, narkos och intensivvård krävdes, och platserna var få.
 
+Samtidigt skulle min svärfar fira sin sjuttioårsdag i Årdala. Det var inget jag kunde undvika. Familjen släppte av mig i Linköping på vägen dit. I kalendern ligger en hotellbokning från den trettonde till den femtonde.
+
 Den fjortonde placerar journalen mig på avdelningen igen. Pappa hade flyttats till thorax uppvaknings- och intensivvård, men planen var att han skulle tillbaka till hjärtintensiven om han förblev stabil och stentbehandlingen kunde vänta. Jag var välinformerad och bad att bli kontaktad om hans tillstånd förändrades eller om det blev operation.
 
-Balansen hade blivit ännu smalare. När det systoliska trycket pressades under 110, som man önskade för aortans skull, blev medeltrycket lågt. Då minskade urinproduktionen och kreatinin steg, tecken på att njurarna inte fick vad de behövde. Han fick vätska och en liten dos vätskedrivande samtidigt. Hjärtat gick i långsamt förmaksflimmer. Andningen var något ansträngd och under sömn hade han andningsuppehåll.
+Samma dag tog jag mig vidare med tåg till Flen för att kunna vara med på kalaset.
 
-Ändå satt och stod han med hjälp. Den dagen var han orienterad, lugn och förnekade hallucinationer.
+Balansakten hade blivit ännu svårare. När det systoliska trycket pressades under 110, som man önskade för aortans skull, blev medeltrycket lågt. Då minskade urinproduktionen och kreatinin steg, tecken på att njurarna inte fick vad de behövde. Han fick vätska och en liten dos vätskedrivande samtidigt. Hjärtat gick i långsamt förmaksflimmer. Andningen var något ansträngd och under sömn hade han andningsuppehåll.
+
+Ändå satt och stod han med hjälp. Den dagen var han orienterad, lugn och hade inga hallucinationer.
 
 Efter lunch kom han tillbaka till hjärtintensiven, mycket trött och sovande tungt. En infusion med blodtryckssänkande läkemedel pågick. I planeringen stod möjlig operation måndagen den sextonde.
 
@@ -28,4 +32,4 @@ På morgonen den sextonde avslutades pappas första vårdperiod på hjärtklinik
 
 Väntan var över.
 
-<!-- Källor: S12-S20 -->
+<!-- Källor: S12-S20, K01, M03 -->
