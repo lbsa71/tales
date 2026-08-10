@@ -239,9 +239,9 @@ Minnesregistret samlar sådant Stefan själv tillför efter att journaler, kalen
 
 ## M10: Vårdsamtalet om långtidsboende
 
-**Tid:** 16 juli 2025, med en kalenderpost om avslutat korttidsboende den 17 juli.
+**Tid:** 16 juli 2025.
 
-**Källor:** Stefans kommentarer i kapitelutkastet, kontrollerade mot kalenderposterna `Möte pappa åkerbohemmet` den 16 juli och `Pappa från Korttidsboende` den 17 juli.
+**Källor:** Stefans kommentarer i kapitelutkastet, kontrollerade mot kalenderposten `Möte pappa åkerbohemmet` den 16 juli och A01:s uppgift om den två veckor långa korttidsplatsen.
 
 ### Händelse
 
@@ -258,38 +258,12 @@ Minnesregistret samlar sådant Stefan själv tillför efter att journaler, kalen
 - Kravet på samtycke återges som Stefans förståelse av situationen, inte som en självständig juridisk bedömning.
 - Stefan har ännu inte återgett de tydliga ord han använde mot pappa; dialog får därför inte uppfinnas.
 - Sjuksköterskans replik är uttryckligen återgiven av Stefan men nedtecknad i efterhand.
-- Beslutet om långtidsboende klargör vårdformen, men inte om kalenderposten den 17 juli avser en fysisk flytt eller ett administrativt byte på samma plats.
 
 ### Frågor för senare gestaltning
 
 - Vilka deltog konkret i rummet eller per telefon?
 - Vad sade Stefan för att få pappa att förstå läget?
 - Hur reagerade pappa och hur uttryckte han sitt medgivande?
-- Innebar den 17 juli en flytt inom Åkerbohemmet eller endast en ändrad vårdform?
-
-## M11: Stödbehovet ett år senare
-
-**Tid:** Augusti 2026, drygt ett år efter det akuta sjukdomsförloppet i juni 2025.
-
-**Källor:** Stefans uttryckliga nutida uppgift och redaktionella instruktion.
-
-### Händelse
-
-- Stefan bedömer att pappas grundläggande stödbehov är ungefär detsamma som ett år tidigare.
-- Pappa anser fortfarande själv att han kan klara sig.
-- Pappa är en av de avsedda läsarna av berättelsen.
-
-### Källgränser
-
-- Formuleringen att pappa är `lika dålig` är Stefans samlade bedömning, inte ett aktuellt medicinskt test eller en journaldiagnos.
-- I manuset återges detta därför som att samma grundläggande behov av stöd finns kvar, inte som påståenden om oförändrade enskilda funktioner.
-- Nutidsuppgiften får förhindra en missvisande tillfrisknandebåge men ska inte användas för att skriva om vad personerna visste under 2025.
-
-### Redaktionell följd
-
-- Ett bättre kognitivt testresultat i november 2025 får inte likställas med återställd självständighet.
-- Pappas tro att han kan bo själv eller köra bil får inte behandlas som belägg för faktisk förmåga.
-- Slutet ska bevara pappas värdighet utan att beskriva stödet omkring honom som tillfälligt eller onödigt.
 
 ## M12: Frågorna som började varje samtal
 
@@ -364,3 +338,31 @@ Minnesregistret samlar sådant Stefan själv tillför efter att journaler, kalen
 - Vad sade pappa att han såg eller att det hände i rummet?
 - Vad gjorde eller sade Stefan när hallucinationen började?
 - Hur länge varade episoden och blev pappa klarare igen medan Stefan var kvar?
+
+## M15: Graftet från Stockholm
+
+**Tid:** Dagarna före operationen den 16 juni 2025.
+
+**Källor:** Stefans uttryckliga minne. S16 belägger att det nödvändiga specialmaterialet saknades och behövde ordnas. S21 belägger att graftet demonterades och lasermodifierades, men inte hur det anskaffades.
+
+### Händelse
+
+- Linköping hade inte det graft som behövdes för operationen.
+- Stefan fick veta att sådana graft tillverkades i Australien.
+- Vården ringde runt och hittade till slut ett graft i Stockholm som beskrevs för Stefan som begagnat.
+- Graftet skickades till Linköping för laserskärning och anpassning.
+- Anskaffningen var en del av förklaringen till att operationen sköts fram.
+- Stefan upplever i efterhand att det var en stor portion tur att läget inte hann bli mer akut innan allt var på plats.
+
+### Källgränser
+
+- Uppgifterna om Australien, telefonsökandet, Stockholm och transporten kommer från Stefans minne och finns inte i de använda journalhandlingarna.
+- `Begagnat` återger hur graftet beskrevs för Stefan. Materialet räcker inte för att avgöra vad ordet betydde tekniskt eller om graftet tidigare hade använts.
+- Journalen stödjer bristen på specialmaterial och den senare lasermodifieringen, men knyter inte uttryckligen dessa uppgifter till samma anskaffningskedja.
+- Resonemanget om tur är Stefans efterhandsreflektion, inte vårdens dokumenterade riskbedömning.
+
+### Frågor för senare gestaltning
+
+- Vem berättade om sökandet efter graftet, och när?
+- Vad menades med att graftet var begagnat?
+- Fick Stefan veta när graftet nådde Linköping och när laserskärningen var klar?

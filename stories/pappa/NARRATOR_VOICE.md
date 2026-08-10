@@ -42,8 +42,6 @@ Rösten ska alltid göra det begripligt vilket läge som gäller.
 - En efterklok berättare som redan vet hur allt ska sluta.
 - Att göra en bokning eller påminnelse till en genomförd handling utan stöd av minne eller en andra källa.
 - Att göra en arbetsanteckning till ordagrann dialog eller låta senare kunskap korrigera vad personerna visste då.
-- Att göra ett bättre testresultat till bevis för återställd självständighet.
-- Att använda pappans egen upplevelse av att vara frisk som belägg för att han klarar boende, ekonomi, mediciner eller bilkörning utan stöd.
 
 ## Benämningar
 

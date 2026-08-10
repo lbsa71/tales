@@ -1,6 +1,6 @@
 # 11. Alla trådarna
 
-*Juli-augusti 2025 · Göteborg, Öland och telefonköerna däremellan*
+*Juli 2025 · Göteborg, Öland och telefonköerna däremellan*
 
 När pappa inte längre kunde hålla ihop alla sina ärenden själv upphörde inte ärendena.
 
@@ -14,14 +14,8 @@ Varje rad ledde till en ny människa som behövde få samma historia. Pappa hade
 
 Anteckningarna är fulla av telefonnummer, namn och belopp. De hör inte hemma i berättelsen. Det som hör hemma här är rörelsen mellan dem: banken behövde en fullmakt, fullmakten behövde nå ett kontor, adressen behövde ändras, en faktura behövde stoppas och nästa handläggare behövde höra allt från början.
 
-Samtidigt fanns boendet. I en odaterad rad står att pappa skulle komma till Åkerbohemmet följande dag och att han hade beviljats två veckors korttidsboende. Kalendern har andra datum för förflyttningarna, och den exakta inflyttningsdagen är fortfarande oklar. Men efter vårdsamtalet den sextonde juli var riktningen bestämd: pappa skulle få långtidsboende.
+Samtidigt bodde pappa tillfälligt på Åkerbohemmet. Under korttidsveckorna fortsatte räkningarna, fullmakterna och samtalen, samtidigt som nästa beslut närmade sig.
 
-Långtidsboendet var inte bara en adress. Där fanns personal, måltider, läkemedel och en struktur som inte krävde att pappa själv mindes och ordnade varje del av dagen. Utanför boendet fortsatte jag att sköta de trådar som fortfarande bar hans gamla vardag.
+Korttidsplatsen hade löst utskrivningen från sjukhuset. Nu behövde vi lösa vad som skulle komma efter den.
 
-Den tjugosjunde augusti talade jag med den ansvariga på boendet om pappas behov av stimulans. Vi började också tala om möjligheten att han någon gång skulle kunna komma tillbaka närmare västkusten och de anhöriga.
-
-Det var inte en plan för ett liv utan hjälp. Det var en fråga om huruvida samma stöd någon gång kunde finnas närmare oss.
-
-Under sommaren hade frågan varit om pappa över huvud taget kunde lämnas utan tillsyn. När augusti tog slut handlade framtiden fortfarande om vilket liv som kunde byggas runt den hjälp han behövde, inte om när hjälpen skulle kunna tas bort.
-
-<!-- Källor: A01, M10 -->
+<!-- Källa: A01 -->

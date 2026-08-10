@@ -6,6 +6,10 @@ Jag stod inte i operationssalen. Det här kapitlet har jag dels från operations
 
 Jag ville åka till pappa, men läkarna kunde inte säga när operationen skulle bli av. De sade att det inte var någon idé att jag åkte upp. Ingreppet sköts fram dag för dag och det gick inte att planera en resa.
 
+En del av förklaringen till uppskjutningarna fanns i själva graftet. Linköping hade inte det som behövdes. Sådana graft tillverkades, som jag fick det berättat för mig, i Australien. Vården fick ringa runt och hittade till slut ett överblivet graft i Stockholm. Det skickades till Linköping för att laserskäras och anpassas till pappas aorta.
+
+Det var ännu en kedja av saker som behövde falla på plats innan operationen kunde börja. Att läget inte hann bli ännu mer akut innan allt var klart känns i efterhand som en stor portion tur.
+
 Sedan ringde en läkare för att förbereda mig. Jag minns beskedet som att detta var en mycket svår operation: femtio procents risk att pappa skulle dö, stor sannolikhet för förlamning i hela vänster sida och stor risk att han skulle behöva stomi resten av livet.
 
 Pappa hade tidigare sagt att om han hamnade i en sådan situation och jag blev tillfrågad, ville han inte vakna. Det var de orden jag bar med mig in i operationsdagen.
@@ -34,4 +38,4 @@ I den senare slutanteckningen kallades operationen lyckad.
 
 Aortan var lagad. Nu återstod att se vad ingreppet och de föregående elva dygnen hade gjort med resten av pappa.
 
-<!-- Källor: S20, S21, K01, M06 -->
+<!-- Källor: S20, S21, K01, M06, M15 -->

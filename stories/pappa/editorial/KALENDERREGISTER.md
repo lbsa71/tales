@@ -70,7 +70,7 @@ En kalenderpost visar säkert att någon skrev in eller importerade en plan, på
 | 17 juni 11.45-13.45 | `Mamma intervention`. | M01 bekräftar att Stefan hittade sin mamma svårt medtagen i hemmet efter att familjen inte fått kontakt med henne. |
 | 18 juni 08.00-08.50 | `Ringa Äldrevård`. | M01 klargör att posten gällde att ordna hjälp åt mamma. Stefan behövde nu organisera omsorg för båda föräldrarna. |
 
-## Efter journalens sista sida
+## Efter journalens sista sida fram till berättelsens slut
 
 | Datum och lokal tid | Kalenderpost | Vad som faktiskt kan sägas |
 |---|---|---|
@@ -81,6 +81,13 @@ En kalenderpost visar säkert att någon skrev in eller importerade en plan, på
 | 2 juli | `Pappa -> Åkerbohemmet`. | Visar en planerad eller genomförd övergång till Åkerbohemmet. Kalendern anger inte vårdformen i rubriken. |
 | 5 juli 08.54-14.05 | Sonen mot Kalmar. | Ytterligare en resa i eftervårdsperioden; syftet är inte utskrivet. |
 | 16 juli 10.00-11.00 | `Möte pappa åkerbohemmet`. | M10 identifierar detta som det svåra vårdsamtalet där pappa behövde förstå och acceptera inskrivningen; beslutet blev långtidsboende. |
+
+## Kalenderpunkter efter berättelsens slut
+
+Följande poster ligger efter den valda slutpunkten den 16 juli och används inte i nuvarande manus.
+
+| Datum och lokal tid | Kalenderpost | Källkritisk anmärkning |
+|---|---|---|
 | 17 juli | `Pappa från Korttidsboende`. | M10 klargör övergången till långtidsboende men inte om posten avser en fysisk flytt eller en ändrad vårdform på samma plats. |
 | 8-11 augusti | Sonen, Hedvig och Lisa till Öland. | Planerat familjebesök efter korttidsperioden. |
 | 12 augusti | `Äldrevård Mamma / Pappa`, med punkterna läkare/psykolog och äldrevård för pappa. | Visar pågående planering, inte utförda insatser. |
@@ -90,9 +97,9 @@ En kalenderpost visar säkert att någon skrev in eller importerade en plan, på
 | 6 och 11 november | Betala pappas räkning, fråga mamma, ordna VVS samt lämna Lars bil på verkstad. | Visar sonens fortsatta praktiska omsorg. Exakt vad som genomfördes behöver bekräftas. |
 | 14 december | `Åkerbohemmet -> Kalmar C`. | En förflyttning står i kalendern, men personen och sammanhanget framgår inte säkert av rubriken. |
 
-## Senare kalenderpunkter utanför berättelsens ram
+## Kalenderpunkter under 2026
 
-Kalendern innehåller även poster under 2026 om vård, resor och praktiska ärenden. De används inte i berättelsen, vars slutpunkt är senhösten 2025.
+Kalendern innehåller även poster under 2026 om vård, resor och praktiska ärenden. De används inte i berättelsen, vars slutpunkt är den 16 juli 2025.
 
 Exporten gjordes den 9 augusti 2026. Poster efter exportögonblicket är enbart framtidsplaner. Även äldre kalenderposter ska behandlas som planering tills sonen eller en annan källa bekräftar att de genomfördes.
 
@@ -112,4 +119,3 @@ Exporten gjordes den 9 augusti 2026. Poster efter exportögonblicket är enbart 
 - Hur gick det att resa från Linköping den 11 juni när pappa just hade flyttats tillbaka till HIA?
 - Hur såg dagarna 13-16 juni ut mellan Årdala, Linköping och Göteborg?
 - Vilka svar gav pappa på orienteringsfrågorna under besöket på HIA i Kalmar den 24 juni?
-- Vilka exakta former fick långtidsboendet efter mötet den 16 juli, och innebar den 17 juli en fysisk flytt inom eller från Åkerbohemmet?

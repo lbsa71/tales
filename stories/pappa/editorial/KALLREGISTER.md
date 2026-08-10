@@ -44,7 +44,7 @@ Käll-ID:n nedan är redaktionella och följer händelsernas kronologi, inte fil
 | S26 | 18 juni 23:30 | Slutanteckning sjuksköterska | fil med suffix `(1)` | Status inför nattlig transport till Kalmar. |
 | S27 | 19 juni 05:04 | Slutenvårdsanteckning Kalmar | fil utan nummersuffix | Ankomst till Kalmar, postoperativt tillstånd och fortsatt plan. |
 | K01 | 2014-2026 | Kalenderexport | fem externa `.ics`-filer | Familjevardag, resor, hotellbokningar, vårdpåminnelser och praktiska händelser före och efter journalperioden. |
-| A01 | juni 2025-april 2026 | Stefans arbetsanteckningar | extern privat textfil | Samtal med strokeavdelning och kommun, korttidsplats, administrativa åtgärder, Åkerbohemmet och senare uppföljning. Berättelsen använder material till sent i november 2025. |
+| A01 | juni 2025-april 2026 | Stefans arbetsanteckningar | extern privat textfil | Samtal med strokeavdelning och kommun, korttidsplats, administrativa åtgärder och Åkerbohemmet. Berättelsen använder material till vårdsamtalet den 16 juli 2025. |
 | M01 | 17-18 juni 2025 | Stefans minne | tillfört 9 augusti 2026 | Mamma-interventionen, buljongen och arbetet med att ordna omsorg för båda föräldrarna. Datum och tider stöds av K01. |
 | M02 | 24 juni 2025 | Stefans minne | tillfört 9 augusti 2026 | Stenskottet på uppresan, metallskärvan i däcket, bärgningsbilen och den provisoriska lagningen. Resan och punkteringsblocket stöds av K01. |
 | M03 | 13-14 juni 2025 | Stefans minne | infört som kommentar i kapitel 6 | Familjen släpper av Stefan i Linköping på väg till Årdala; han tar tåget till Flen följande dag för svärfars sjuttioårsfirande. Kalender och journal stödjer ramen. |
@@ -54,11 +54,11 @@ Käll-ID:n nedan är redaktionella och följer händelsernas kronologi, inte fil
 | M07 | 17-18 juni 2025 | Stefans minne | infört som kommentar i kapitel 8 | Försöken att planera en ny resa efter operationen och konflikten mellan att komma för tidigt och för sent. |
 | M08 | 17 juni 2025 | Stefans minne | infört som kommentar i kapitel 8 | Pappas syster Lena tar emot läkarsamtalet om tillståndet och ringer därefter Stefan, helt förtvivlad. |
 | M09 | 18 juni 2025 | Stefans minne | infört som kommentar i kapitel 8 | Telefonsamtalet där pappa är osammanhängande och inte känner igen Stefan eller flera närstående, samt Stefans rädsla för att tillståndet är bestående. |
-| M10 | 16-17 juli 2025 | Stefans minne | infört som kommentarer i kapitel 10 | Det svåra vårdsamtalet med bland andra pappas syster Lena, arbetet med att få pappas samtycke och beslutet att han skulle få långtidsboende. Kalendern daterar mötet och markerar följande dag med `Pappa från Korttidsboende`. |
-| M11 | augusti 2026 | Stefans nutida bedömning | tillfört som redaktionell instruktion | Pappans grundläggande stödbehov finns kvar drygt ett år efter det akuta sjukdomsförloppet, samtidigt som han själv fortfarande anser att han kan klara sig. Används för att undvika en missvisande tillfrisknandebåge. |
+| M10 | 16 juli 2025 | Stefans minne | infört som kommentarer i kapitelutkastet | Det svåra vårdsamtalet med bland andra pappas syster Lena, arbetet med att få pappas samtycke och beslutet att han skulle få långtidsboende. Kalendern daterar mötet. |
 | M12 | efter 18 juni 2025 | Stefans minne | infört som kommentar i kapitel 10 | De återkommande orienteringsfrågorna, de upprepade förklaringarna och pappans minneslucka från besöket i Borgholm och framåt. |
 | M13 | 8 juni 2025 | Stefans minne | tillfört efter frågesvepet | Pappa känner igen Stefan men kan inte hans namn och blandar ihop honom med sin bror och sin andre son; han blir samtidigt glad och märkbart lättad. |
 | M14 | 8-11 juni 2025 | Stefans minne | tillfört efter frågesvepet | Pappa börjar hallucinera mitt framför Stefan och talar om sådant i rummet som inte är verkligt. |
+| M15 | inför 16 juni 2025 | Stefans minne | tillfört 10 augusti 2026 | Bristen på rätt graft, uppgiften att graften tillverkades i Australien, sökandet som ledde till ett graft i Stockholm samt transporten till Linköping för lasermodifiering. |
 
 Samtliga suffixfiler delar det långa `Journalöversikt …`-grundnamnet i originalmappen.
 
@@ -73,6 +73,4 @@ Samtliga suffixfiler delar det långa `Journalöversikt …`-grundnamnet i origi
 7. Kalenderposten `Lars till Linköping HIA` har en tid som inte stämmer med journalens dokumenterade ankomst 02:45 den 6 juni. Destinationen kan användas; journalen styr klockslaget.
 8. En post om `Pappa 70-årsfest` den 14-15 juni 2025 gäller av sammanhanget en annan pappa/morfar och används inte för Lars.
 9. A01 anger att en läkare i ett telefonsamtal beskrev tre akuta strokeinfarkter. Eftersom journalerna inte är helt eniga om antal och läge återges detta som Stefans samtalsreferat, inte som ett korrigerat journalfynd.
-10. A01 innehåller datumet `2025-11-31`, som inte finns. Händelsen placeras endast i sent november 2025.
-11. Personnummer, lösenord, PIN-koder, kontonummer, e-postadresser, privata telefonnummer och andra autentiseringsuppgifter i A01 får aldrig återges i projektfilerna.
-12. Material från 2026 ligger efter berättelsens valda slutpunkt och används inte för att tolka personernas kunskap eller upplevelse under 2025.
+10. Personnummer, lösenord, PIN-koder, kontonummer, e-postadresser, privata telefonnummer och andra autentiseringsuppgifter i A01 får aldrig återges i projektfilerna.

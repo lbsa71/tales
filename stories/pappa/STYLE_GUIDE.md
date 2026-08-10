@@ -17,8 +17,6 @@ Kronologisk dokumentärnovell i tolv korta kapitel. Varje kapitel har datum och 
 - Läkemedelsdoser används bara när de är dramaturgiskt eller medicinskt nödvändiga.
 - Diagnoser förklaras på vanlig svenska första gången de förekommer.
 - Journalen styr medicinska klockslag när kalendern avviker. Kalendern får fylla logistiska luckor men inte skapa samtal, känslor eller vårdbesked.
-- Förbättring inom en avgränsad funktion eller ett test får inte likställas med tillfrisknande eller förmåga att leva självständigt.
-- Pappans egen bedömning av vad han klarar återges som hans upplevelse, aldrig som funktionsbedömning.
 
 ## Gestaltning
 

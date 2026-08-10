@@ -8,12 +8,12 @@
 | 4 | Att hålla trycket nere | 6-8 juni | Väntan bryts när sonen kommer och pappa både känner igen och förväxlar honom. | S02, S04, S05, K01, M13 |
 | 5 | Garaget | 9-11 juni | Sonens blick blir en del av journalen och han ser själv en hallucination börja. | S06-S13, K01, M14 |
 | 6 | En centimeter | 11-16 juni | Mätvärdena förändrar planen från väntan till operation samtidigt som sonen rör sig mellan sjukhuset och ett familjefirande. | S12-S19, K01, M03 |
-| 7 | Graftet | 16 juni | Det tekniska ingreppet och sonens riskbesked på avstånd hålls i samma operationsdag. | S20, S21, K01, M06 |
+| 7 | Graftet | 16 juni | Jakten på rätt graft, det tekniska ingreppet och sonens riskbesked på avstånd hålls i samma operationsdag. | S20, S21, K01, M06, M15 |
 | 8 | Infarkterna | 17-18 juni | Pappans neurologiska skada sammanfaller med mammans akuta sammanbrott; sonen måste bära två vårdförlopp, en omöjlig reseavvägning och rädslan att pappa är borta för alltid. | S22-S26, K01, M01, M07-M09 |
 | 9 | Hemåt, inte hem | 18-19 juni | Natttransporten för pappa närmare huset på Öland, men morgonens plan handlar fortfarande om intensivvård. | S23-S27 |
-| 10 | Rutorna efteråt | 24 juni-17 juli | Sonens upprepade försök att orientera pappa, läkarsamtalet och de motstridiga beskeden leder från korttidsplats till ett svårt beslut om långtidsboende. | K01, A01, M02, M10, M12 |
-| 11 | Alla trådarna | juli-augusti | Sonen tar över den administrativa person som systemen fortfarande kräver att pappa ska vara. | A01, M10 |
-| 12 | Det som höll ihop vardagen | sent i november, med berättarens nutid | Pappans förbättring i enskilda moment skiljs från självständighet; berättelsen slutar i den stödda vardag som faktiskt fungerar. | A01, M11 |
+| 10 | Rutorna efteråt | 24 juni-början av juli | Sonens orienteringsfrågor, läkarsamtalet och de motstridiga beskeden leder till en två veckor lång korttidsplats. | K01, A01, M02, M12 |
+| 11 | Alla trådarna | juli | Sonen tar över de administrativa ärendena medan korttidsperioden löper. | A01 |
+| 12 | Beslutet | 16 juli | Det svåra vårdsamtalet avslutar den tillfälliga lösningen med beslut om långtidsboende. | K01, A01, M10 |
 
 ## Minnesluckor att fylla utan att ändra kronologin
 
@@ -53,13 +53,13 @@
 - Hur såg ordningen ut mellan sjukhusbesöket och tåget till Flen den 14 juni?
 - Hur upplevde sonen att delta i svärfars sjuttioårsfirande medan pappa väntade på ett möjligt akut ingrepp?
 - Vad fick sonen höra om riskerna med att operera respektive avvakta?
-- Hur upplevdes de ändrade planerna och bristen på material/plats?
+- Hur upplevdes de ändrade planerna och bristen på intensivvårdsplatser?
 
 ### Kapitel 7
 
-- Vad visste familjen om det specialbyggda graftet före ingreppet?
 - När under dagen ringde läkaren, och vad sade sonen och Lena till varandra efteråt?
 - Blev sonen någon gång ombedd att fatta ett beslut utifrån pappans tidigare uttalade önskemål?
+- Vem berättade för sonen om sökandet efter graftet, och vad menades med att det var begagnat?
 
 ### Kapitel 8
 
@@ -85,25 +85,18 @@
 - Vilka ord användes i läkarsamtalet den 26 juni, och skrevs anteckningen under eller efter samtalet?
 - Hur löstes motsägelsen mellan strokeavdelningens bedömning och beskedet om möjlig hemgång?
 - Varför reste sonen mot Kalmar igen den 5 juli?
-- Vilka deltog konkret i mötet på Åkerbohemmet den 16 juli, och vilka ord använde sonen mot pappa?
-- Innebar kalenderposten `från Korttidsboende` den 17 juli en fysisk flytt eller att vårdformen ändrades på samma plats?
 
 ### Kapitel 11
 
 - Vilken administrativ tråd blev först akut: banken, boendet, läkemedlen, bilen eller räkningarna?
 - Hur fick sonen fullmakter när pappa inte kunde använda sin digitala identitet på vanligt sätt?
 - Vilka samtal eller konkreta misslyckanden visar bäst hur systemen förutsatte att pappa själv kunde agera?
-- När började pappa bo mer varaktigt på Hagen?
-- Vad betydde `stimulans` i samtalet den 27 augusti?
 
 ### Kapitel 12
 
-- Vilket är det riktiga datumet för den feldaterade novemberanteckningen?
-- När sade pappa att han hade frisknat till och kunde köra bil?
-- Vad mätte det kognitiva testet, och vad sade vårdplaneringen om det fortsatta stödbehovet?
-- Vilka konkreta delar av vardagen skötte personalen respektive sonen?
-- Vad var han missnöjd med på Hagen?
-- Hur beskrev pappa själv skillnaden mellan att fungera på avdelningen och att klara ett eget hem?
+- Vilka deltog konkret i vårdsamtalet på Åkerbohemmet?
+- Vilka ord använde sonen för att få pappa att förstå läget?
+- Hur reagerade pappa och hur uttryckte han sitt samtycke?
 
 ## Redaktionell varning
 

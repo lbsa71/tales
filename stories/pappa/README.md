@@ -8,7 +8,7 @@ Fas: kronologiskt råmanus.
 
 Texten är inte en färdig novell. Den gör ett första avgränsat arbete: den förvandlar journalmaterial, daterbara kalenderspår, Stefans sanerade arbetsanteckningar och hans uttryckligt tillförda minnen till en läsbar berättelse utan att lägga till scener, repliker, känslor eller orsakssamband som inte har stöd i källorna.
 
-Journalmaterialet slutar tidigt på morgonen den 19 juni 2025. Kalendern och de administrativa anteckningarna för berättelsen vidare genom strokeavdelningen, korttidsplatsen, de övertagna ärendena och etableringen på Hagen vid Åkerbohemmet. Berättelsen slutar sent i november 2025 i en vardag som fungerar genom långtidsboende, personal, rollator och sonens fortsatta hjälp. Pappas egen uppfattning att han har frisknat till hålls tydligt åtskild från vad stödet omkring honom visar.
+Journalmaterialet slutar tidigt på morgonen den 19 juni 2025. Kalendern och de administrativa anteckningarna för berättelsen vidare genom strokeavdelningen, korttidsplatsen och de praktiska ärenden som sonen tar över. Berättelsen slutar den 16 juli, när ett vårdsamtal leder till beslut om långtidsboende.
 
 ## Projektstruktur
 
@@ -39,7 +39,7 @@ Journalmaterialet slutar tidigt på morgonen den 19 juni 2025. Kalendern och de 
 9. Hemåt, inte hem
 10. Rutorna efteråt
 11. Alla trådarna
-12. Det som höll ihop vardagen
+12. Beslutet
 
 ## Redaktionell princip
 
@@ -49,4 +49,4 @@ Detta är viktigt. En son kan berätta sin pappas historia utan att låtsas ha s
 
 ## Nästa naturliga arbetssteg
 
-Sonen fyller i de markerade minnesluckorna i `editorial/KAPITELREGISTER.md`. De viktigaste återstående scenerna är besöket i Kalmar den 24 juni, läkarsamtalet den 26 juni, konflikten kring möjlig hemgång, arbetet med fullmakterna och vilka konkreta stödinsatser som höll ihop vardagen på Hagen.
+Sonen fyller i de markerade minnesluckorna i `editorial/KAPITELREGISTER.md`. De viktigaste återstående scenerna är besöket i Kalmar den 24 juni, läkarsamtalet den 26 juni, arbetet med fullmakterna och de exakta orden och reaktionerna i vårdsamtalet den 16 juli.

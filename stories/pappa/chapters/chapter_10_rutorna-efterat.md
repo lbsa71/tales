@@ -1,6 +1,6 @@
 # 10. Rutorna efteråt
 
-*24 juni-17 juli 2025 · Kalmar och Åkerbohemmet*
+*24 juni-början av juli 2025 · Kalmar och Åkerbohemmet*
 
 Fem dagar senare reste jag mot Kalmar. Kalendern lägger färden mellan kvart i åtta på morgonen och tolv. Sedan står det `HIA Kalmar`, från tolv till halv fyra.
 
@@ -36,20 +36,8 @@ På ena sidan: han kunde inte återvända till ett hem utan tillsyn. På den and
 
 Jag ringde tillbaka till läkaren och bad henne kontakta mig. I en senare rad står att korttidsplatsen skrevs fram och att pappa fick den.
 
-Den andra juli pekar en pil i kalendern från pappa till Åkerbohemmet. En kalenderpil är inte en utskrivningsanteckning. Den säger inte vem som körde, vilken vårdform han kom till eller hur mycket hjälp han behövde. Den visar att nästa plats i berättelsen inte längre var HIA.
+I början av juli kom pappa till Åkerbohemmet på en korttidsplats. Den var beviljad för två veckor.
 
-Tre dagar senare har jag en ny resa mot Kalmar inlagd. Syftet står inte utskrivet.
+Det löste den omedelbara frågan. Han skulle inte skickas hem direkt från strokeavdelningen. Men korttidsplatsen gav inget svar på vad som skulle hända när de två veckorna var slut.
 
-Den sextonde juli finns en timme med rubriken `Möte pappa åkerbohemmet`.
-
-Det var ett tufft samtal. Som situationen förklarades för mig behövde pappa själv samtycka till inskrivningen. Samtidigt förstod han inte hur sjuk han var eller varför han inte kunde återvända hem.
-
-Sjuksköterskorna, läkarna, pappas syster Lena och framför allt jag försökte få honom att förstå läget och acceptera att han behövde bo där. Jag använde ett mycket tydligt språk mot pappa.
-
-Efteråt sade en sjuksköterska till mig: "Det måste ha varit tufft att säga så till sin far. Men det var rätt och nödvändigt."
-
-Vårdsamtalet slutade med beslutet att pappa skulle få långtidsboende. Dagen efter står det `Pappa från Korttidsboende` i kalendern.
-
-Det som först hade varit en plats för två veckor hade blivit ett långsiktigt beslut.
-
-<!-- Källor: K01, A01, M02, M10, M12 -->
+<!-- Källor: K01, A01, M02, M12 -->

@@ -60,6 +60,7 @@
 
 - Den samlade bedömningen är nu att aortans diameter har ökat ungefär en centimeter på åtta-nio dagar och är över 50 millimeter. Det finns också vätskereaktion kring aortan.
 - Enligt Stefan har operationsdatumet skjutits fram dag för dag, samtidigt som läkarna avrått honom från att resa upp innan tiden var säker.
+- Stefan fick veta att Linköping saknade det graft som behövdes och att sådana graft tillverkades i Australien. Vården ringde runt och fann i Stockholm ett graft som för honom beskrevs som begagnat. Det skickades till Linköping för laserskärning och anpassning. Journalen stödjer bristen på specialmaterial och den senare lasermodifieringen, men inte graftets ursprung eller anskaffningsväg.
 - En läkare ringer och förbereder Stefan på en enligt hans minne femtioprocentig dödsrisk, stor risk för vänstersidig förlamning och livslång stomi. Stefan bär samtidigt med sig pappas tidigare uttalande att han i en sådan situation inte ville vakna om sonen blev tillfrågad.
 - Stefan är hemma när läkaren ringer. Efteråt ringer han Lena och de försöker ta in beskedet tillsammans.
 - Beslut fattas om akut endovaskulär operation med ett specialanpassat fenestrerat stentgraft i bröstaortan, TEVAR.
@@ -67,6 +68,7 @@
 - Graftet förs in via vänster ljumske. När införingssystemet först inte når rätt läge används snabb hjärtstimulering, ledare och ballonger för att dra det på plats.
 - Vänster halsartär och vänster nyckelbensartär stentas. Ett ytterligare graft förlänger konstruktionen nedåt i bröstaortan.
 - Slutangiografin är utan anmärkning. Ingreppet beskrivs som lyckat.
+- Stefan ser i efterhand en stor portion tur i att läget inte hann bli mer akut innan graftet och de andra delarna var på plats.
 
 ## 17-19 juni: infarkter och återtransport
 
@@ -90,12 +92,8 @@
 - **24 juni:** Kalendern visar att sonen reser mot Kalmar 07:45-12:00 och har avsatt 12:00-15:30 på HIA i Kalmar. Under denna period börjar han samtalen med orienteringsfrågor och får gång på gång återberätta sjukdomsförloppet. Pappa minns besöket hos läkaren i Borgholm men inte det som följde och är orolig över varför han är på sjukhus. På resan får bilen ett kraftigt stenskott i vindrutan. Efter besöket upptäcker sonen en fem centimeter lång metallskärva i ett däck. En bärgningsbil lagar däcket provisoriskt så att han kan halta hem med bilen.
 - **26 juni:** Stefan antecknar ett långt samtal med en överläkare på strokeavdelningen. Enligt referatet beskriver läkaren tre akuta infarkter på båda sidor av hjärnan, svårigheter att bilda nya minnen, dubbelseende och stora hinder för säker rehabilitering. Läkaren bedömer enligt anteckningen att pappa inte kan återvända till ett hem utan tillsyn. Ett fotoalbum med ansikten och namn föreslås.
 - **27 juni:** Familjen får samtidigt besked om korttidsplats och en möjlig senare hemgång, utan ett gemensamt vårdsamtal med de anhöriga. Stefan ringer tillbaka eftersom detta motsäger läkarens bedömning från dagen före. En senare notering säger att korttidsplatsen beviljas.
-- **2 juli:** Kalenderposten `Pappa -> Åkerbohemmet` markerar en övergång. En odaterad administrativ anteckning beskriver två veckors beviljat korttidsboende, men källorna räcker inte för att fastställa exakt inflyttningsdag eller vårdform.
-- **5 juli:** Sonen har en ny resa mot Kalmar i kalendern. Syftet är inte utskrivet.
+- **Början av juli:** Pappa kommer till Åkerbohemmet på en korttidsplats som är beviljad för två veckor. Kalendern markerar övergången den 2 juli; källorna behöver inte bära en exaktare inflyttningstid i berättelsen.
+- **Juli:** Under korttidsperioden fylls Stefans arbetsanteckningar av fullmakter, bank- och adressärenden, digital identitet, apoteksbetalningar, boendekostnad, fakturor, försäkring, bil och abonnemang.
 - **16 juli:** I vårdsamtalet på Åkerbohemmet försöker sjuksköterskor, läkare, pappas syster Lena och framför allt Stefan få pappa att förstå varför han behöver bo där och samtycka till inskrivningen. Stefan använder ett mycket tydligt språk. Mötet slutar med beslutet att pappa ska få långtidsboende.
-- **17 juli:** Kalendern säger `Pappa från Korttidsboende`. M10 klargör att korttidslösningen övergick i ett beslut om långtidsboende, men inte om detta innebar en fysisk flytt eller ett administrativt byte på samma plats.
-- **Juli-augusti:** Stefans arbetsanteckningar fylls av fullmakter, bank- och adressärenden, digital identitet, apoteksbetalningar, boendekostnad, fakturor, försäkring, bil och abonnemang. Dessa ärenden fortsätter trots att pappa inte själv kan hålla ihop dem.
-- **27 augusti:** Stefan talar med den ansvariga på boendet om pappas behov av stimulans och om att på sikt undersöka en flytt närmare västkusten.
-- **Sent i november:** En feldaterad anteckning placerar pappa på Hagen vid Åkerbohemmet. Han tar sig runt på avdelningen med rollator. Ett kognitivt test uppges visa förbättring och en ny vårdplanering ska göras. Pappa säger själv att han har frisknat till och kan köra bil. Uttalandet är hans egen bedömning; långtidsboendet, rollatorn, personalen och sonens fortsatta hjälp visar att frågan om självständighet inte är avgjord av ett bättre testresultat.
 
-Här slutar den kronologiska berättelsen: pappa är etablerad i en vardag som fungerar genom stödet omkring honom. M11 tillför endast berättarens nutida ram: drygt ett år efter det akuta sjukdomsförloppet finns samma grundläggande stödbehov kvar, även om pappa själv fortfarande anser att han kan klara sig. Övrigt material från 2026 ligger utanför berättelsens ram.
+Här slutar den kronologiska berättelsen: den tillfälliga korttidsplatsen har lett fram till ett beslut om långtidsboende.
