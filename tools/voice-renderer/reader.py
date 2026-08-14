@@ -15,6 +15,7 @@ Subcommands:
   chunks   Show how a chapter would be split into chunks (no API calls).
   synth    Generate per-chunk audio for one or more chapters.
   concat   Concatenate per-chunk .pcm files into a single chapter .pcm/.wav.
+  book     Concatenate chapter or part .pcm files into a complete book.
 
 Run `python reader.py -h` or any subcommand with -h for full flag list.
 """
@@ -594,6 +595,16 @@ def write_wav(path: Path, raw: bytes) -> None:
         w.writeframes(raw)
 
 
+def write_wav_from_pcm(path: Path, pcm_path: Path) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with pcm_path.open("rb") as pcm_file, wave.open(str(path), "wb") as wav_file:
+        wav_file.setnchannels(PCM_CHANNELS)
+        wav_file.setsampwidth(PCM_SAMPLE_WIDTH)
+        wav_file.setframerate(PCM_SAMPLE_RATE)
+        while raw := pcm_file.read(1024 * 1024):
+            wav_file.writeframesraw(raw)
+
+
 def pcm_duration_seconds(raw_bytes: int) -> float:
     return raw_bytes / (PCM_SAMPLE_RATE * PCM_CHANNELS * PCM_SAMPLE_WIDTH)
 
@@ -1163,12 +1174,11 @@ def _silence_bytes(gap_ms: int) -> bytes:
 
 
 def cmd_book(args) -> int:
-    """Assemble every chapter's *_full.pcm into a single book-length file.
+    """Assemble chapter or part PCM masters into a single book-length file.
 
-    Expects that `concat` has already been run for each chapter — we
-    stitch the per-chapter full files rather than the individual chunks
-    so the intra-chapter 500ms chunk gaps are preserved and the only
-    thing this subcommand adds is a larger silence between chapters.
+    By default, this finds every chapter's *_full.pcm. Repeat --input-pcm
+    to provide an exact ordered list instead, such as already assembled
+    part masters. Only a larger silence between sources is added.
 
     Output lands in the out dir root (default:
     `tools/reader/out/<output_name>_full.pcm`) alongside an optional
@@ -1183,47 +1193,75 @@ def cmd_book(args) -> int:
     if not out_root.exists():
         raise SystemExit(f"output directory does not exist: {out_root}")
 
-    # Glob one level deep, matching every chapter's concatenated full
-    # file. Sorted alphabetically — the zero-padded `kapitel_NN_*` and
-    # `chapter_NN_*` naming in this repo happens to be lexicographically
-    # correct (kapitel_01 < kapitel_02 < ... < kapitel_10). If you later
-    # mix multiple languages in the same out dir, use --filter to scope.
-    pattern = args.filter if args.filter else "*/*_full.pcm"
-    chapter_pcms = sorted(out_root.glob(pattern))
-    # Exclude any book_full.pcm from a previous run that happens to
-    # match a too-broad pattern — never eat our own output.
-    chapter_pcms = [p for p in chapter_pcms if p.parent != out_root]
+    if args.input_pcm:
+        chapter_pcms = []
+        for raw_path in args.input_pcm:
+            pcm_path = Path(raw_path)
+            if not pcm_path.is_absolute():
+                pcm_path = out_root / pcm_path
+            pcm_path = pcm_path.resolve()
+            if not pcm_path.is_file():
+                raise SystemExit(f"input PCM does not exist: {pcm_path}")
+            chapter_pcms.append(pcm_path)
+        source_description = "explicit input list"
+    else:
+        # Glob one level deep, matching every chapter's concatenated full
+        # file. Sorted alphabetically — the zero-padded `kapitel_NN_*` and
+        # `chapter_NN_*` naming in this repo happens to be lexicographically
+        # correct (kapitel_01 < kapitel_02 < ... < kapitel_10). If you later
+        # mix multiple languages in the same out dir, use --filter to scope.
+        pattern = args.filter if args.filter else "*/*_full.pcm"
+        chapter_pcms = sorted(out_root.glob(pattern))
+        # Exclude any book_full.pcm from a previous run that happens to
+        # match a too-broad pattern — never eat our own output.
+        chapter_pcms = [path for path in chapter_pcms if path.parent != out_root]
+        source_description = f"glob {pattern!r}"
+
     if not chapter_pcms:
         raise SystemExit(
-            f"no *_full.pcm files found under {out_root} matching {pattern!r}. "
+            f"no *_full.pcm files found under {out_root} using {source_description}. "
             f"Run `concat` for each chapter first."
         )
 
-    print(f"assembling {len(chapter_pcms)} chapter(s) from {out_root}:")
-    combined = bytearray()
-    gap = _silence_bytes(args.chapter_gap_ms)
-    for i, pcm_path in enumerate(chapter_pcms):
-        data = pcm_path.read_bytes()
-        if i and gap:
-            combined += gap
-        combined += data
-        dur = pcm_duration_seconds(len(data))
-        print(f"  [{i:02d}] {pcm_path.parent.name:40} {dur/60:6.2f} min  ({len(data)} B)")
-
-    total_dur = pcm_duration_seconds(len(combined))
     stem = args.output_name
-
     book_pcm = out_root / f"{stem}_full.pcm"
-    book_pcm.write_bytes(bytes(combined))
+    book_wav = out_root / f"{stem}_full.wav"
+    if book_pcm.resolve() in chapter_pcms:
+        raise SystemExit(f"book output cannot also be an input: {book_pcm}")
+
+    print(f"assembling {len(chapter_pcms)} source(s) from {out_root}:")
+    gap = _silence_bytes(args.chapter_gap_ms)
+    source_bytes = 0
+    for i, pcm_path in enumerate(chapter_pcms):
+        pcm_bytes = pcm_path.stat().st_size
+        if pcm_bytes % (PCM_CHANNELS * PCM_SAMPLE_WIDTH):
+            raise SystemExit(f"input PCM is not frame-aligned: {pcm_path}")
+        source_bytes += pcm_bytes
+        try:
+            display_path = pcm_path.relative_to(out_root)
+        except ValueError:
+            display_path = pcm_path
+        duration = pcm_duration_seconds(pcm_bytes)
+        print(f"  [{i:02d}] {str(display_path):48} {duration/60:6.2f} min  ({pcm_bytes} B)")
+
+    total_bytes = source_bytes + len(gap) * (len(chapter_pcms) - 1)
+    total_dur = pcm_duration_seconds(total_bytes)
+
+    with book_pcm.open("wb") as output_file:
+        for index, pcm_path in enumerate(chapter_pcms):
+            if index and gap:
+                output_file.write(gap)
+            with pcm_path.open("rb") as input_file:
+                while raw := input_file.read(1024 * 1024):
+                    output_file.write(raw)
     print(
-        f"\nbook: {len(combined)} B, "
+        f"\nbook: {total_bytes} B, "
         f"{total_dur/60:.2f} min ({total_dur:.1f}s, {total_dur/3600:.2f} hours)"
     )
     print(f"  -> {book_pcm}")
 
     if args.wav:
-        book_wav = out_root / f"{stem}_full.wav"
-        write_wav(book_wav, bytes(combined))
+        write_wav_from_pcm(book_wav, book_pcm)
         print(f"  -> {book_wav}")
     return 0
 
@@ -1338,20 +1376,26 @@ def build_parser() -> argparse.ArgumentParser:
     # book
     sp = sub.add_parser(
         "book",
-        help="assemble every chapter's *_full.pcm into a single book-length file "
-             "(run `concat` for each chapter first)",
+        help="assemble chapter or part PCM masters into a single book-length file",
     )
     sp.add_argument("--out", type=str, default=None,
-                    help="directory holding per-chapter subdirs, "
+                    help="directory holding chapter or part PCM masters, "
                          "e.g. dist/stories/zelda/audio")
     sp.add_argument("--wav", action="store_true", help="also emit a wrapped .wav")
-    sp.add_argument("--chapter-gap-ms", type=int, default=1500,
-                    help="silence between chapters in ms (default: 1500 — noticeably "
+    sp.add_argument("--chapter-gap-ms", "--source-gap-ms", type=int, default=1500,
+                    help="silence between sources in ms (default: 1500 — noticeably "
                          "longer than the intra-chapter chunk gap of 350-500 ms)")
-    sp.add_argument("--filter", type=str, default=None,
-                    help="glob pattern for chapter full files, relative to --out "
-                         "(default: '*/*_full.pcm'). Use to scope when multiple "
-                         "languages share one out dir, e.g. --filter 'kapitel_*/*_full.pcm'")
+    source_group = sp.add_mutually_exclusive_group()
+    source_group.add_argument(
+        "--filter", type=str, default=None,
+        help="glob pattern for chapter full files, relative to --out "
+             "(default: '*/*_full.pcm'). Use to scope when multiple "
+             "languages share one out dir, e.g. --filter 'kapitel_*/*_full.pcm'",
+    )
+    source_group.add_argument(
+        "--input-pcm", action="append",
+        help="exact PCM input, absolute or relative to --out; repeat in playback order",
+    )
     sp.add_argument("--output-name", type=str, default="book",
                     help="filename stem for the assembled book (default: 'book')")
     sp.set_defaults(func=cmd_book)

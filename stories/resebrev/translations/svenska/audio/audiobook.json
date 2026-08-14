@@ -2,7 +2,7 @@
   "title": "Resebrev",
   "edition": "svenska",
   "language": "sv",
-  "status": "part-3-text-ready-audio-qa-pending",
+  "status": "part-3-rendered-listening-qa-pending",
   "source_dir": "stories/resebrev/translations/svenska/kapitel",
   "output_dir": "dist/stories/resebrev/audio/sv",
   "renderer": "tools/voice-renderer/reader.py",
@@ -12,7 +12,7 @@
     "Part 1 can be rendered as kapitel_00_forsattsblad through kapitel_07c_eftertext_del_1.",
     "Part 2 can be rendered as kapitel_07d_forsattsblad_del_2 through kapitel_12b_eftertext_del_2.",
     "Part 3 can be rendered as kapitel_12c_forsattsblad_del_3 through kapitel_22_coda.",
-    "Part 3 has completed its editorial and clean-Swedish pass; audio preview and listening QA remain.",
+    "Part 3 has completed its editorial, clean-Swedish, and full audio render passes; listening QA remains.",
     "Do not final-render the complete book until remaining English dialogue/prose in earlier parts has been translated.",
     "Use PCM as canonical working audio; WAV is for listening QA."
   ],

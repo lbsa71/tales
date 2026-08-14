@@ -12,11 +12,7 @@ Själva ljudfilerna ska inte ligga här. Renderaren skriver arbetsfiler till:
 
 ## Status
 
-Ljudboksinfrastrukturen är på plats. Del 1 är renderad som egen lyssningsfil. Del 2 är ramlagd som `kapitel_07d_forsattsblad_del_2.md`, kapitel 8-12 och `kapitel_12b_eftertext_del_2.md`.
-
-Del 3 är ramlagd som `kapitel_12c_forsattsblad_del_3.md`, kapitel 14-21 och `kapitel_22_coda.md`. Den delen har fått ett sammanhållet editorial- och översättningspass och är textmässigt redo för chunkkontroll och provlyssning.
-
-Den svenska texten är ännu inte helt färdig för full produktion av hela boken. Tidigare delar har kapitel som behöver slutföras innan slutrendering av komplett ljudbok.
+Alla tre delar är renderade som separata lyssningsfiler. Hela boken är sammanfogad som `dist/stories/resebrev/audio/sv/resebrev-svenska_full.wav` (5 timmar, 14 minuter och 17 sekunder). `book`-kommandot återskapar filen från de tre godkända delmastrarna utan nya API-anrop.
 
 ## Röstbeslut
 
@@ -51,7 +47,7 @@ stories/resebrev/tools/render-svenska-audio.sh synth
 # Sätt ihop varje kapitel till fullängdsfiler.
 stories/resebrev/tools/render-svenska-audio.sh concat
 
-# Sätt ihop hela boken till en fil.
+# Sätt ihop de tre delmastrarna till hela boken. Inga API-anrop.
 stories/resebrev/tools/render-svenska-audio.sh book
 ```
 
@@ -78,7 +74,10 @@ python3 tools/voice-renderer/reader.py concat \
 python3 tools/voice-renderer/reader.py book \
   --out dist/stories/resebrev/audio/sv \
   --wav \
-  --chapter-gap-ms 1800 \
+  --source-gap-ms 3000 \
+  --input-pcm resebrev-del-1_full.pcm \
+  --input-pcm resebrev-del-2_full.pcm \
+  --input-pcm resebrev-del-3_full.pcm \
   --output-name resebrev-svenska
 ```
 
@@ -124,7 +123,7 @@ done
 5. Kör `synth`.
 6. Kör `concat`.
 7. Lyssna kapitelvis och markera omtagningar i [QA.md](QA.md).
-8. Kör `book` först när kapitelrenderingarna är godkända.
+8. Kör `book` när de tre delmastrarna är godkända.
 
 ## Format
 

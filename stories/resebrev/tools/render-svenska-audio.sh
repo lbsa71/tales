@@ -23,7 +23,15 @@ case "$cmd" in
     python3 "$READER" concat --language sv --input "$INPUT" --out "$OUT" --wav --gap-ms 450 "$@"
     ;;
   book)
-    python3 "$READER" book --out "$OUT" --wav --chapter-gap-ms 1800 --output-name resebrev-svenska "$@"
+    python3 "$READER" book \
+      --out "$OUT" \
+      --wav \
+      --source-gap-ms 3000 \
+      --input-pcm resebrev-del-1_full.pcm \
+      --input-pcm resebrev-del-2_full.pcm \
+      --input-pcm resebrev-del-3_full.pcm \
+      --output-name resebrev-svenska \
+      "$@"
     ;;
   *)
     echo "usage: $0 {chunks|preview|synth|concat|book} [reader args...]" >&2

@@ -20,7 +20,7 @@ stories/resebrev/tools/render-svenska-audio.sh chunks
 
 Renderaren hittar alla 27 svenska kapitel-, för- och eftertextfiler och kan chunka dem utan API-anrop.
 
-Del 3 omfattar 10 källfiler, 82 TTS-chunks och 100 938 tecken. Den delen är helsvensk och har klarat editorial-, manifest- och chunkkontroll. Preview, full rendering och lyssnings-QA återstår.
+Del 3 omfattar 10 källfiler, 82 TTS-chunks och 100 970 tecken. Den delen är helsvensk och har klarat editorial-, manifest-, chunk- och fullrenderingskontroll. Den sammanfogade filen `dist/stories/resebrev/audio/sv/resebrev-del-3_full.wav` är 2 timmar, 7 minuter och 34 sekunder lång. Lyssnings-QA återstår.
 
 Detta är fortfarande en infrastrukturkontroll, inte en produktionsklar kontroll av hela ljudboken. Full rendering av komplett bok bör vänta tills kvarvarande arbetskapitel i de tidigare delarna är färdiga.
 

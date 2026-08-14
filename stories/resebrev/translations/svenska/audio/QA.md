@@ -13,11 +13,13 @@
 
 Del 1 är sammanfogad som `dist/stories/resebrev/audio/sv/resebrev-del-1_full.wav`.
 
-Del 2-starten är sammanfogad som `dist/stories/resebrev/audio/sv/resebrev-del-2-start_full.wav`. Filen innehåller just nu försättsblad till del 2, kapitel 8 och kapitel 9.
+Del 2 är sammanfogad som `dist/stories/resebrev/audio/sv/resebrev-del-2_full.wav`.
 
-Del 3 har genomgått editorial- och översättningspass. Försättsbladet samt kapitel 14 och 15 är renderade; preview och full render återstår för resten av delen.
+Del 3 har genomgått editorial-, översättnings- och fullrenderingspass. Lyssnings-QA återstår.
 
-Försättsbladet till del 3 och kapitel 14 är sammanfogade som `dist/stories/resebrev/audio/sv/resebrev-del-3-forsattsblad-och-kapitel-14.wav`.
+Hela del 3 är sammanfogad som `dist/stories/resebrev/audio/sv/resebrev-del-3_full.wav`.
+
+Hela ljudboken är sammanfogad från de tre delmastrarna som `dist/stories/resebrev/audio/sv/resebrev-svenska_full.wav` (5 timmar, 14 minuter och 17 sekunder).
 
 | Kapitel | Text klar | Preview | Full render | Lyssnat | Omtagningar |
 |---|---:|---:|---:|---:|---|
@@ -41,13 +43,13 @@ Försättsbladet till del 3 och kapitel 14 är sammanfogade som `dist/stories/re
 | Försättsblad till del 3 | ☑ | ☐ | ☑ | ☐ | En chunk; ny ram: "Eftersmak" |
 | 14. Vilse i Goa | ☑ | ☐ | ☑ | ☐ | 17 chunkar; innehåller kort Raxaul/Kolkata-brygga från tidigare kapitel 13 |
 | 15. Flockdjur | ☑ | ☐ | ☑ | ☐ | 10 chunkar |
-| 16. Att lämna Indien | ☑ | ☐ | ☐ | ☐ | Helt översatt till svenska |
-| 17. Bangkokshowen | ☑ | ☐ | ☐ | ☐ | Scenkatalog stramad; berättarens blick behållen |
-| 18. Cheyenne | ☑ | ☐ | ☐ | ☐ | Faktauppgifter om Angkor korrigerade |
-| 19. Vardaglig fasa | ☑ | ☐ | ☐ | ☐ | Faktauppgift om S-21 korrigerad |
-| 20. Partyfolket | ☑ | ☐ | ☐ | ☐ | Övergången mot hemresan stramad |
-| 21. Hem | ☑ | ☐ | ☐ | ☐ | Slutbrev översatt och redigerat |
-| 22. Coda | ☑ | ☐ | ☐ | ☐ | Ny coda från 2026 |
+| 16. Att lämna Indien | ☑ | ☐ | ☑ | ☐ | 5 chunkar; helt översatt till svenska |
+| 17. Bangkokshowen | ☑ | ☐ | ☑ | ☐ | 14 chunkar; scenkatalog stramad |
+| 18. Cheyenne | ☑ | ☐ | ☑ | ☐ | 10 chunkar; faktauppgifter om Angkor korrigerade |
+| 19. Vardaglig fasa | ☑ | ☐ | ☑ | ☐ | 7 chunkar; faktauppgift om S-21 korrigerad |
+| 20. Partyfolket | ☑ | ☐ | ☑ | ☐ | 9 chunkar; övergången mot hemresan stramad |
+| 21. Hem | ☑ | ☐ | ☑ | ☐ | 7 chunkar; slutbrev översatt och redigerat |
+| 22. Coda | ☑ | ☐ | ☑ | ☐ | 2 chunkar; ny coda från 2026 |
 
 ## Lyssningskriterier
 
