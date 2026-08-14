@@ -1,0 +1,33 @@
+{
+  "title": "Pappa",
+  "edition": "svenska",
+  "language": "sv",
+  "status": "raw-manus-audio-preview-pending",
+  "source_dir": "stories/pappa/chapters",
+  "output_dir": "dist/stories/pappa/audio/sv",
+  "renderer": "tools/voice-renderer/reader.py",
+  "voice_config": "stories/pappa/voice.json",
+  "notes": [
+    "The manuscript is currently a chronological source-bound draft.",
+    "The Swedish voice profile mirrors stories/resebrev/voice.json.",
+    "Use PCM as canonical working audio; WAV is for listening QA.",
+    "dist/ is git-ignored; rendered chunks are regenerable from the chapters and voice.json."
+  ],
+  "voice": {
+    "name": "Torsten",
+    "voice_id": "iCEMyUhOwgAy0egMANye",
+    "model": "eleven_v3",
+    "speed": 0.92
+  },
+  "chapters": [
+    { "number": 1, "title": "Det som redan fanns", "file": "chapter_01_det-som-redan-fanns.md" },
+    { "number": 2, "title": "Årskontrollen", "file": "chapter_02_arskontrollen.md" },
+    { "number": 3, "title": "Natttransporten", "file": "chapter_03_natttransporten.md" },
+    { "number": 4, "title": "Att hålla trycket nere", "file": "chapter_04_att-halla-trycket-nere.md" },
+    { "number": 5, "title": "Garaget", "file": "chapter_05_garaget.md" },
+    { "number": 6, "title": "En centimeter", "file": "chapter_06_en-centimeter.md" },
+    { "number": 7, "title": "Graftet", "file": "chapter_07_graftet.md" },
+    { "number": 8, "title": "Infarkterna", "file": "chapter_08_infarkterna.md" },
+    { "number": 9, "title": "Hemåt, inte hem", "file": "chapter_09_hemat-inte-hem.md" }
+  ]
+}

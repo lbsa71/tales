@@ -52,6 +52,7 @@ jobs:
             "seem|Seem|en|stories/seem/chapters/episode_*.md"
             "seem-upplasning-sv|Seem (uppläsning)|sv|stories/seem/translations/svenska.uppläsning/kapitel/kapitel_*.md"
             "stay|Stay|en|stories/stay/chapters/tape_*.md"
+            "pappa|Pappa|sv|stories/pappa/chapters/chapter_*.md"
           )
 
           for entry in "${STORIES[@]}"; do

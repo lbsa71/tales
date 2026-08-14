@@ -156,5 +156,5 @@ Kvar finns bara den eviga bilden av jord och vatten som älskar ljudlöst under 
 
 Och just i detta ögonblick vet bara gud vem som är på väg vart, när och hur.
 
-Kärlek,
+Kärlek.
 Crabman

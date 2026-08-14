@@ -11,7 +11,7 @@ Jag hade sett min misstänksamhet, gått tillbaka och gjort en sak som kändes r
 
 Det här är delen där jag försöker.
 
-Jag går vilse på syra i Goa och hittar en gud för de vilsegångna. Jag lämnar Indien som om en kontinent kunde lämnas bakom. I Bangkok går jag in i ett rum där människors kroppar är arbete och kallar min blick nyfikenhet. I Kambodja räknar jag hinkar, dollar, årsinkomster och dödsskallar, som om världen blev begriplig bara siffrorna stämde.
+Jag går vilse på syra i Goa och hittar en gud för de vilsegångna. Jag lämnar Indien som om en hel kontinent skulle lösa sig lämnas. I Bangkok går jag in i ett rum där människors kroppar är arbete och kallar min blick nyfikenhet. I Kambodja räknar jag hinkar, dollar, årsinkomster och döskallar, som om världen blev begriplig bara siffrorna stämde.
 
 Sedan söker jag flocken, festen, kvinnorna, ensamheten.
 

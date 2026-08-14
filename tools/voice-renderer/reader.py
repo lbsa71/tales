@@ -255,6 +255,7 @@ _load_dotenv(DOTENV_PATH)
 # ---------------------------------------------------------------------------
 
 SECTION_SEP_RE = re.compile(r"(?m)^\s*---\s*$")
+HTML_COMMENT_RE = re.compile(r"<!--[\s\S]*?-->")
 
 
 @dataclasses.dataclass
@@ -273,8 +274,12 @@ def _strip_markdown(text: str) -> str:
       - H1 headings (# Kapitel N: Title)
       - plain paragraphs
       - '---' section separators
+      - HTML comments for editorial source references
     We keep headings as spoken introductions.
     """
+    # Source references and other editorial notes are kept in HTML comments
+    # so they stay out of the published prose. They must never reach TTS.
+    text = HTML_COMMENT_RE.sub("", text)
     out_lines: list[str] = []
     for line in text.splitlines():
         stripped = line.rstrip()
@@ -1008,8 +1013,10 @@ def cmd_synth(args) -> int:
                 print(f"    FAILED: {e}", file=sys.stderr)
                 entry["status"] = f"error: {e}"
                 manifest["chunks"].append(entry)
+                # Persist progress so an interrupted multi-chunk render can
+                # resume without losing the status of earlier requests.
+                _save_manifest(manifest_path, manifest)
                 if args.stop_on_error:
-                    _save_manifest(manifest_path, manifest)
                     return 2
                 continue
 
@@ -1021,6 +1028,10 @@ def cmd_synth(args) -> int:
             entry["duration_sec"] = round(pcm_duration_seconds(len(raw)), 3)
             entry["status"] = "ok"
             manifest["chunks"].append(entry)
+            # Save after every completed API request. A full chapter can take
+            # several minutes, and preserving the cache prevents a cancelled
+            # run from re-billing already rendered chunks.
+            _save_manifest(manifest_path, manifest)
             total_chunks += 1
             total_bytes += len(raw)
             total_chars += len(c.text)
