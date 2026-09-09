@@ -22,7 +22,7 @@ Jorden lossnar. Marken som varit hård ger efter under tryck från tassarna.
 
 Nya skott genom mörk jord. Kroppen äter dem, färsk smak fyller buken med något som saknats hela vintern. Saften från grönt mellan tänderna, sötare än torrt hö. Hagtornshålan djupare av bruk. Stigarna över gården packade, nötta av ändlös korsning.
 
-Systern cirklar omkretsen varje morgon, nosen tryckt mot nätet. Glipan som öppnades formas inte längre. Det förstärkta stängslet håller fast. Kroppen cirklar ändå, mönstret består även när möjligheten är borta.
+Kroppen cirklar omkretsen varje morgon, nosen tryckt mot nätet. Glipan som öppnades formas inte längre. Det förstärkta stängslet håller fast. Kroppen cirklar ändå, mönstret består även när möjligheten är borta.
 
 Från bortom kommer dofter fortfarande genom nätet. Kroppen bär skogen i muskelminne: mjukt lövströ, tjocka dofter, skräck och kyla. Kroppen försöker inte upprepa detta. Men kroppen cirklar ändå, prövar, finner ingenting.
 

@@ -222,15 +222,20 @@
 
 ## Chapter 5: Nesting
 
+The larger sister builds the nest. The smaller narrator remains the viewpoint
+throughout: her sister's movements, the hay against her own fur, scent at the
+nest's edge and warmth through its lining. The narrator cannot feel the sister's
+hormonal pull or the pain of her fur-pulling.
+
 ### Sensory Palette
 - **Primary**: Scent (hay, belly fur, earth in hollow)
-- **Secondary**: Touch (fur-pulling sensation, hay in mouth)
+- **Secondary**: Touch (hay against the narrator, loose fur at the nest's edge, grooming the sister)
 - **Tertiary**: Temperature (ground cool, body warm)
 
 ### Bodily State
-- Restless, driven, hormonal
-- Pulling sensation at belly
-- Rapid breathing, compulsive behavior
+- Sister repeatedly carries hay, circles and rearranges the nest
+- Fur-pulling shown through visible movements and exposed skin
+- Narrator approaches, rests beside the nest and grooms the sister
 
 ### Environmental Details
 - Spring, new growth
@@ -240,7 +245,7 @@
 ### Behavioral Beats
 - Carrying hay in mouth to hollow
 - Circling, arranging, re-arranging
-- Pulling fur from belly (pain/relief)
+- Sister pulls fur from her belly; the narrator observes the skin stretching and the loosened tufts
 - Waiting in nest
 - Nothing comes
 

@@ -2,6 +2,30 @@
 
 ## Draft and Iteration Tracker for "A Rabbit's Life"
 
+## Swedish continuity revision and English retrotranslation (2026-09-09)
+
+Authorial decisions for this revision:
+
+- The smaller narrator survives, eats first, escapes and drives away the cat.
+- The larger sister builds the unsuccessful nests and dies first. Nesting occurs
+  before her death; the empty nesting pattern returns as absence afterward.
+- After losing her sister, the former defender can no longer perform the old
+  defensive movements. The cat scene carries that change through bodily action.
+- Human visits diminish. The survivor dies alone; the text does not diagnose her
+  decline or claim what the humans knew. The final union with the all-being remains.
+
+The author identified the Swedish audiobook-era manuscript as the more polished
+version. This revision therefore corrects Swedish first, then uses that text as
+the source for the English retrotranslation. Both retain their established
+present-tense narration and follow `STYLE_GUIDE.md`, `NARRATOR_VOICE.md` and the
+Swedish `TRANSLATION_PLAN.md`. The final metaphysical dissolution remains an
+intentional extension of the sensory voice described in the ending's concept notes.
+
+The Swedish and English stages are separate commits in one review. Source
+chapters are the review material; compiled books and audio are not regenerated.
+Author review of style remains pending. Older revision notes below are historical,
+including the v2.1 claim that the nesting viewpoint had already been fixed.
+
 ---
 
 ## Version History

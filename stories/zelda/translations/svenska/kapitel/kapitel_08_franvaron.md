@@ -18,7 +18,7 @@ Grinden låter, händer sträcks in, kulor hopar sig. Kroppen närmar sig, cirkl
 
 Långkropparna sträcker sig genom nätet, händer trycker försiktigt, ljud mjukare nu. Deras doft bär fortfarande saltvattensspår.
 
-Men de kan inte föra tillbaka vad som togs. Händerna kan inte trycka tillbaka värme i vad som svalnat.
+Värme från handflatorna genom pälsen. När händerna dras bort möter vinden huden igen. Kroppen trycker sig mot den tomma sidan av hålan.
 
 ---
 
@@ -46,7 +46,7 @@ Dagar passerar. Maten lämnas orörd. Långkropparna ökar sin uppmärksamhet.
 
 En annan hand anländer. Annan doft: kall metall, spritdoft. Kroppen stelnar, hjärtat rusar. Men ingen transportbur. Bara undersökning här, händer trycker längs kroppens sidor.
 
-Händerna finner inget de kan göra något åt. Kroppen återvänder till utrymmet under hagtornet.
+Händerna släpper. Låga röster ovanför, spritdoften kvar i pälsen. Kroppen återvänder till utrymmet under hagtornet.
 
 ---
 
@@ -68,7 +68,7 @@ En morgon närmar sig kroppen matskålen. Magen har urholkats. Tänderna sluts o
 
 Kroppen äter, och magen fylls, och tomheten blir en annan sorts tomhet. Full av mat, fortfarande tom på vad mat inte kan ersätta.
 
-Långkropparnas doft skiftar mot lättnad. De sträcker sig in med friskt vatten, extra hö, händer rör päls längre än nödvändigt.
+Långkropparna sträcker sig in med friskt vatten, extra hö. Rösterna stiger, händerna ligger kvar mot pälsen.
 
 Kroppen tillåter beröringen. Händerna bär värme som kroppen inte kan skapa ensam.
 
@@ -76,11 +76,11 @@ Kroppen tillåter beröringen. Händerna bär värme som kroppen inte kan skapa 
 
 Kroppen närmar sig nätet ibland, nosen tryckt mot maskorna. Ivern som en gång drev kroppen till flykt har blivit tystare.
 
-Systern gick aldrig genom öppningen. Systern stannade, väntade, mötte återkomsterna med putsning och värme. Nu finns ingen att återvända till.
+Systern gick aldrig genom öppningen. Systern stannade, väntade, mötte återkomsten med putsning och värme. Nu finns ingen att återvända till.
 
-Rovdjuret dyker upp oftare nu. Dess doft dröjer vid stängslet, starkare varje gång. Det iakttar från bortom nätet, ögonen fasta. Kroppen märker från hålan men reser sig inte. Dunkandet som höll det på avstånd.
+Rovdjuret dyker upp oftare nu. Dess doft dröjer vid stängslet, starkare varje gång. Det iakttar från bortom nätet, ögonen fasta. Kroppen ligger kvar i hålan, bakbenen vikta under buken.
 
-Systern gjorde dunkandet.
+Samma ben som slog mot jorden, stöt efter stöt, medan systern låg kvar bakom. Nu bara ett svagt darrande.
 
 Nätet håller fast. Gränsen är fullständig. Den kurvade jorden bär vad som återstår av doft, och kroppen håller sig nära det som bleknar.
 
@@ -92,7 +92,7 @@ Löv gulnar, krullar, släpper. De driver ner på den slitna slätta fördjupnin
 
 Kylan kommer tidigare i år, eller kroppen märker den mer. Det kurvade utrymmet erbjuder mindre värme med bara en kropp att värma det. Halmen i buren bjuder in till längre vistelser.
 
-Årstiderna fortsätter att vända. Vintern fördjupas. Våren kommer, och bobyggarinstinkten stiger inte. Kroppen har aldrig byggt bon, bara iakttagit medan systern bar hö och drog päls för vad som aldrig kom.
+Frosten ligger kvar längre i skuggan. Kroppen drar halm tätare kring buken. Inget bo. Kroppen har aldrig byggt bon, bara iakttagit medan systern bar hö och drog päls för vad som aldrig kom.
 
 Vad som aldrig kom. Vad som aldrig kommer nu.
 

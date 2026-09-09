@@ -8,6 +8,14 @@ Denna plan styr översättningen av "A Rabbit's Life" till svenska. Översättni
 **Svensk titel**: En kanins liv
 **Status**: Översättning reviderad efter fyrvågs-audit (2026-04-11) — alla 10 kapitel genomgångna regel för regel. Se [AUDIT_FINDINGS.md](AUDIT_FINDINGS.md) och [AUDIT_FINDINGS_IMPLEMENTATION_PLAN.md](AUDIT_FINDINGS_IMPLEMENTATION_PLAN.md).
 
+**Revisionsordning 2026-09-09**: Författaren har angett den svenska texten från
+ljudboksarbetet som stilistisk utgångspunkt. Kontinuiteten rättas först här, sedan
+återförs den svenska bearbetningen till engelskan. Den mindre kroppen är den
+överlevande berättaren, rymmaren och kattförsvararen; den större systern bygger bo
+och dör först. Berättaren upplever bobyggandet utifrån, genom sina egna sinnen.
+Båda texternas etablerade presens behålls. Den avslutande föreningen med alltet
+bevaras. Se [revisionsanteckningen](../../PROGRESS_SUMMARY.md).
+
 ---
 
 ## Röstkompass

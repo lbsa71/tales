@@ -8,21 +8,21 @@ Hagtornet står bart ovanför hålan, grenarna sträcker sig mot grå himmel.
 
 Kroppen rör sig mindre nu. Stegen kommer långsamt, var och en kräver mer än den före. Värmen som en gång löpte genom allt har börjat tunnas ut, dra sig tillbaka mot mitten.
 
-Hålan bär fortfarande något. Spår av doft i den nedtryckta jorden, i den böjda formen nött slät av år av två kroppar. En kropp nu. Tomheten räknar sig själv.
+Hålan bär fortfarande formen. Jordkurvan nött slät av två kroppar genom alla årstiderna. Nosen följer den, finner hagtorn och mylla. En kropp nu. Tomheten räknar sig själv.
 
 ---
 
 Frost kommer på morgnarna. Kroppen väntar på värmen som brukade tryckas mot den, värmen som aldrig kommer nu. Varje morgon blir väntan kortare.
 
-Grinden låter fortfarande. Långkropparna kommer med mat och vatten, rösterna lägre nu. Deras händer sträcks ner ibland, rör vid pälsen. Händerna bär mer värme än de brukade, eller kroppen bär mindre.
+Grinden låter fortfarande. Mat och vatten, rösterna låga. Besöken blir kortare. Händer sträcks ner ibland, rör vid pälsen, dras tillbaka. De bär mer värme än de brukade, eller kroppen bär mindre.
 
-Kroppen äter mindre. Återvänder till hålan, sjunker ner i platsen där doft fortfarande dröjer.
+Kroppen äter mindre. Återvänder till hålan, sjunker ner i den nötta kurvan.
 
 ---
 
-Doften bleknar.
+Doft av jord och hagtorn.
 
-Varje dag mindre av den stiger från jorden. Nosen söker, trycker djupare ner i myllan, söker det som återstår. Mindre varje gång. Mindre.
+Nosen söker vid rötterna, trycker djupare ner i myllan. Kroppen lägger sig med plats kvar vid sidan. Där brukade systerns flank ligga varm mot den egna. Nu stryker vinden genom pälsen.
 
 Vind rör sig genom de kala grenarna ovan. Den bär ljud som kunde vara andning.
 
@@ -44,9 +44,11 @@ Det här är platsen. Det här har alltid varit platsen.
 
 ---
 
-Dagar passerar. Eller kanske passerar de. Ljus kommer och går, fast kroppen inte alltid höjer sig för att möta det. Grinden låter någonstans långt bort. Fotsteg närmar sig, avlägsnar sig, närmar sig igen. Händer rör vid pälsen, försiktigt tryck, värme passerar mellan hud och hud.
+Dagar passerar. Eller kanske passerar de. Ljus kommer och går, fast kroppen inte alltid höjer sig för att möta det. Grinden låter någonstans långt bort. Fotsteg ibland, en skål mot marken. Händer rör vid pälsen, försiktigt tryck, värme genom pälsen.
 
 Kroppen stannar i hålan.
+
+Händerna släpper. Grinden slår igen och stegen avtar bortom nätet. Bara vind genom grenarna nu, ett andetag nära marken.
 
 Draget som har levat i den sedan första mörkret, draget mot jord, mot innesluten plats, mot tryggheten i ner och djupt. Det draget har funnit sitt svar här. Inte gången kroppen försökte gräva i packad jord. Inte mörkret under trägolvet. Men detta: hålan under hagtornet, täljd av år av tryckande, av årstider av vilande, av två kroppar och sedan en.
 
@@ -58,11 +60,11 @@ Jord under. Äntligen, verkligen: jord under.
 
 Hjärtat saktar.
 
-Kroppen märker det. Ingen ryckning i musklerna, ingen snabbhet. Varje slag kommer efter längre paus nu, rytmen sträcker ut sig som ljus genom vintermoln. Andningen följer saktningen. Grund. Långsam. Kylan sipprar djupare, eller värmen drar sig längre bort. Skillnaden räknas inte.
+Kroppen märker det. Ingen ryckning i musklerna, ingen snabbhet. Varje slag kommer efter längre paus nu. Andningen följer saktningen. Grund. Långsam. Kylan sipprar djupare, eller värmen drar sig längre bort. Skillnaden räknas inte.
 
-Nosen fångar fortfarande spår. Hagtornsbark. Frusen jord. Den sista avtagande tråden av doft i hålan, knappt där nu. Doften av systern, den som tryckte nära genom alla de årstiderna, den som värmde de kalla nätterna och nosade genom halmen varje morgon.
+Nosen fångar fortfarande spår. Hagtornsbark. Frusen jord. Kroppen sjunker in i den nötta krökningen, flanken vriden mot platsen där systern låg. Musklerna mjuknar, samma rörelse som under alla de nätter då päls tryckte mot päls.
 
-Borta nu. Nästan borta. Kroppen håller det som återstår som kroppen håller allt: som form. Formen av värme tryckt mot. Formen av ett annat hjärtslag nära.
+Värmen vid sidan är borta. Andningen borta. Kroppen bär ännu formen: päls tryckt mot päls, ett annat hjärtslag nära.
 
 ---
 
@@ -88,7 +90,7 @@ Doft av.
 
 Något släpper.
 
-Kroppen stillnar i sin slutliga form. Hålan håller det den alltid var menad att hålla. Jorden tar emot det jorden alltid var skyldig.
+Kroppen stillnar i sin slutliga form. Hålan håller det den alltid var menad att hålla. Jorden tar emot det som alltid var dess.
 
 Ljus är.
 Ljud är.
