@@ -256,7 +256,7 @@ Kroppen rör sig annorlunda här, där marken ger efter under tyngd, där varje 
 
 Hagtornet reser sig snett från marken, bark grov och grå. Vid basen, där rötterna trycker upp genom packad jord, ligger en håla. Inte djup. Inte innesluten. Men det närmaste gryt denna mark erbjudit.
 
-Kroppen närmar sig, nos sänkt. Doft här lager på lager: bark och jord och gamla löv som sönderfaller, lagrar sig till något rikt. Hålan grund, knappt djupare än kroppen är lång, men formen väcker något äldre än minnet.
+Kroppen närmar sig, nos sänkt. Doft här lager på lager: bark och jord och gamla löv som sönderfaller, lagrar sig till något rikt. Hålan grund, knappt längre än kroppen, men formen väcker något äldre än minnet.
 
 Kroppen cirklar. Sänker sig. Trycker in i det böjda utrymmet.
 
@@ -284,7 +284,7 @@ Glipan återstår.
 
 ---
 
-Glipan vidgas över dagar. Tänder vid nätet i tysta timmar. Strängarna fransas, splittras.
+Glipan vidgas över dagar. Kroppens tänder vid nätet i tysta timmar. Strängarna fransas, splittras.
 
 En morgon: glipan bred nog. Kroppen närmar sig, testar. Genom första glipan, sedan genom en andra glipa i det yttre stängslet. Bortom: träd, lövströ, skog.
 
@@ -306,7 +306,7 @@ Kroppen följer spåret.
 
 Stängslet genom träd. Bortom, hagtornet, och i hålan, en gestalt som rör sig. Systern.
 
-Hjärtat sväller. Kroppen genom glipan.
+Hjärtat sväller. Kroppen genom gliporna.
 
 Systern nära genast, nosen arbetar över hela pälsen, läser natten. Tungan följer, putsar platser där kvistar fastnat.
 
@@ -316,7 +316,7 @@ Kroppen sätter sig i hålan bredvid systern, kropparna passar samman. Darrandet
 
 Långkropparna finner det gnagda nätet.
 
-Rösterna bär larm. De hukar nära burens fot, fingrarna provar de kapade strängarna. Händerna återvänder med verktyg. Med nytt nät. Metall mot metall, ljud av vridning. Arbetet tar större delen av eftermiddagen. Den gnagda glipan försvinner under färska maskor, tätare än förut, nedgrävda djupare i jorden.
+Rösterna bär larm. De hukar vid nätets nederkant, fingrarna provar de kapade strängarna. Händerna återvänder med verktyg. Med nytt nät. Metall mot metall, ljud av vridning. Arbetet tar större delen av eftermiddagen. Den gnagda glipan försvinner under färska maskor, tätare än förut, nedgrävda djupare i jorden.
 
 Kroppen cirklar gårdens kant när långkropparna gått. Nosen tryckt mot nätet, mot platser där glipor brukade formas.
 
@@ -365,7 +365,7 @@ Jorden lossnar. Marken som varit hård ger efter under tryck från tassarna.
 
 Nya skott genom mörk jord. Kroppen äter dem, färsk smak fyller buken med något som saknats hela vintern. Saften från grönt mellan tänderna, sötare än torrt hö. Hagtornshålan djupare av bruk. Stigarna över gården packade, nötta av ändlös korsning.
 
-Systern cirklar omkretsen varje morgon, nosen tryckt mot nätet. Glipan som öppnades formas inte längre. Det förstärkta stängslet håller fast. Kroppen cirklar ändå, mönstret består även när möjligheten är borta.
+Kroppen cirklar omkretsen varje morgon, nosen tryckt mot nätet. Glipan som öppnades formas inte längre. Det förstärkta stängslet håller fast. Kroppen cirklar ändå, mönstret består även när möjligheten är borta.
 
 Från bortom kommer dofter fortfarande genom nätet. Kroppen bär skogen i muskelminne: mjukt lövströ, tjocka dofter, skräck och kyla. Kroppen försöker inte upprepa detta. Men kroppen cirklar ändå, prövar, finner ingenting.
 
@@ -412,87 +412,91 @@ Jorden väntar under, tålig, tar emot det som faller.
 
 Våren pressar underifrån.
 
-Jorden mjuknar efter veckor av regn. Hagtornets knoppar svullnar, öppnar sig sedan till bleka blommor som släpper tung sötma. Doften hänger tät i luften, tjock och väntande. Hålan under rötterna rymmer årstidens fukt, mörk och rik och redo. Fukt stiger ur jorden, kyler mot nosborrarna.
+Jorden mjuknar efter veckor av regn. Hagtornets knoppar svullnar, öppnar sig sedan till bleka blommor som släpper tung sötma. Doften hänger tät i luften. Hålan under rötterna rymmer årstidens fukt, mörk jord under gamla strån. Fukt stiger ur jorden, kyler mot nosborrarna.
 
-Något rör sig i kroppen.
+Systern ligger inte kvar.
 
-Inte som hunger rör sig, inte som kyla rör mot värme. Detta djupare, ett drag från insidan av buken, ett tryck som växer utan källa, en rastlöshet som driver kroppen i rörelse. Tassarna vägrar stillhet.
+Värmen mot sidan bryts. Hennes tassar skrapar genom hålan, nosen trycks mot marken, lyfts mot blommorna. Ett varv, sedan ett till. Kroppen sträcker nosen mot henne, möter päls som redan rör sig förbi.
 
-Cirkla hålan. Nos mot marken, sedan lyfta för att fånga blommornas doft. Cirkla igen, driven av något äldre än årstider kroppen levt igenom. Ryggraden böjs, sträcks, böjs igen i dragets rytm.
-
----
-
-Ställningen i buren rymmer torkat gräs, gyllene och sötdoftande. Närmar sig, tänder sluter sig kring en munfull, drar loss strån. Gräset smular torrt mot tungan. Sedan en till. Sedan en tredje, tills munnen är full och spiller strån vid kanterna. Käkarna måste gapa för att rymma lasset.
-
-Bär höet över tröskeln, genom grinden som står öppen i vårvärmen, över packad jord i gården till hålan under hagtornet. Släpper lasset där, nosen trycker på plats, ordnar utan plan, ordnar eftersom kroppen måste ordna. Doft av solvarmt hö blandas med hagtornsblommornas doft.
-
-Tillbaka till buren. Mer hö. Mer bärande. Stigen djupare för varje korsning, kroppen följer samma spår utan variation, driven av ett drag som inte släpper. Tassarna trampar samma jordklumpar gång efter gång.
-
-Hålan fylls långsamt. Hö på hö, skålformen djupnar när material hopar sig. Cirklar, klappar med nos, trycker med framtassar. Höstrån skrapar mot nosläpparna. Inte rätt än. Mer behövs. Återvänder för mer.
+Jordkorn faller mot framtassarna. Systern är på väg mot buren.
 
 ---
 
-Systern tittar från andra sidan gården.
+Ställningen i buren rymmer torkat gräs, gyllene och sötdoftande. Systerns tänder sluter sig kring en munfull, drar loss strån. Sedan en till. Sedan en tredje, tills höet sticker ut på båda sidor om nosen. Käkarna hålls öppna kring lasset.
 
-Hon deltar inte i bärandet. Hon vilar nära nätet och tittar. Mönstret bekant nu. Hennes päls glänser lugnt i solljuset. Detta är inte första våren av bobyggande.
+Hon bär det över tröskeln, ut genom den öppna dörren, över packad jord till hålan under hagtornet. Släpper, trycker med nosen, skjuter stråna tätt mot rötterna. Doft av solvarmt hö blandas med hagtornsblommornas doft.
 
-Bobyggandet fortsätter oavsett att systern tittar. Kan inte stanna. Bara draget. Bara det som måste besvaras. Varje muskel svarar på samma dragning.
+Tillbaka till buren. Mer hö. Mer bärande. Tassarna trampar samma jordklumpar gång efter gång. Kroppen står vid stigen; torra strån stryker mot kinden när systern passerar.
 
-Höhögen växer tills den spiller förbi hålans kanter. Klappar ner, cirklar, trycker in i mitten för att testa djupet. Värmen samlas i fodrets mitt. Reser sig. Fortsätter.
+Hålan fylls långsamt. Hö på hö, kanterna reser sig kring mitten. Systern cirklar, trycker med nos och framtassar, vänder tillbaka mot buren. Ett strå faller vid kroppens tassar. Tänderna sluter sig kring det, maler tills bara den torra smaken återstår.
 
 ---
 
-Draget skiftar läge: från det inre av buken till själva bukens yta. Kroppen kröker sig, nacken spänd för att nå den mjuka underpälsen som täcker huden under. Tänderna kring en tofs. Litet drag av smärta, sedan lossning, sedan en klump varm mjukhet lös i munnen. Pälsen luktar kropp, salt och varm.
+Kroppen vilar nära nätet.
 
-Bär pälsen till boet.
+Framför nosen går systerns spår genom jorden, fram och tillbaka mellan bur och hagtorn. Hennes päls glänser i solljuset. Hö prasslar förbi, samma prassel som när hagtornsblommorna föll förut.
 
-Mer dragande. Mer små smärtor. Varje ryck skickar stickning genom huden. Buken växer bar i fläckar, rosa hud syns igenom där pälsen låg tjock. Pälsen samlas i boets mitt, mjukare än hö, varmare än hö, det material kroppen skapades för att ge åt det som borde komma härnäst.
+Kroppen sänker huvudet mot framtassarna. Lyfter det igen. Systern kommer med mer.
 
-De nakna fläckarna sticker när luft berör. Fortsätter ändå, drar tills inga lösa tofsar finns kvar, tills buken är lapptäcke av päls och blottad hud, kylande i vårluften. Vinden kall över den blottade huden.
+Höhögen växer tills den spiller förbi hålans kanter. Hon kliver ned i mitten, sjunker undan bakom stråna. Ryggen stilla en kort stund, sedan uppe igen. Tassarna på stigen. Höets prassel.
+
+---
+
+Systern kröker sig över buken. Nacken böjd, tänderna nere i den mjuka underpälsen. Huden sträcks, sedan en ljus tofs mellan tänderna.
+
+Hon lägger pälsen i boet.
+
+Mer dragande. Sidan rycker till, strån och päls fastnar kring munnen. Rosa hud syns igenom där pälsen låg tjock. Tofsarna samlas i mitten, ljusa mot höet.
+
+Kroppen närmar sig. Varm systerdoft stiger från fodret. Nosen trycks mot en lös tofs vid kanten, mjukhet som ger efter utan hud under, utan hennes tyngd. Systern böjer sig igen. En tass stöter mot höet, drar det närmare.
+
+Kroppen står kvar vid kanten tills systern kliver ned. Stråna böjs utåt under henne, sluter sig kring sidorna.
 
 Boet färdigt.
 
 ---
 
-Kroppen sätter sig i hålan, buk tryckt mot det mjuka fodret, päls och hö omgivande. Värmen stannar, virar runt buken. Läget rätt för det som borde ske: värmen hålls nära, mjukheten vaggar, hålan skyddar från vind och regn och från ögonen hos allt som kan se.
+Systern sätter sig i hålan, buk tryckt mot det mjuka fodret. Hagtornets grenar skuggar ryggen, rötterna bryter vinden nära marken. En gren gungar över henne; ljus rör sig genom blommorna och över pälsen.
 
-Kroppen väntar.
+Hon sitter kvar.
 
-Något borde anlända. Buken värker dov och varm, värken av en form som söker fyllnad. Boet redo. Kroppen redo. Små kroppar skulle passa i mitten. Blinda, varma, mjölkbehövande, tryckande nära. Det som måste komma har sin plats.
+Kroppen lägger sig intill boets kant. Värme genom höet, svagare än päls mot päls. Nosen finner fodret igen, systerdoften tät i det. Bara hennes andning rör stråna.
 
-Timmar passerar. Ljuset skiftar över gården, skuggorna längar sig, hagtornsblommorna gungar i eftermiddagsvinden. Kroppen väntar, buk tryckt mot bo, beredskapen håller stadig. Pulsen långsam och stadig mot boets golv.
+Ljuset skiftar över gården, skuggorna längs marken blir längre. Systern reser sig, cirklar på fodret, sänker buken igen. Kroppen trycker sidan närmare. Ett vasst strå mot huden.
 
 Ingenting kommer.
 
 ---
 
-Kroppen återvänder till boet varje eftermiddag, cirklar, sätter sig, väntar. Pälsen i boets mitt har förlorat den färska doften, plattad av tryckande, grånad av damm. Materialet luktar fukt och jord nu.
+Systern återvänder till boet varje eftermiddag, cirklar, sätter sig. Kroppen följer hennes doft till hagtornet. Pälsen i boets mitt har förlorat den färska doften, plattats av tryck, grånat av damm. Regn droppar genom grenarna. Höet luktar fukt och jord nu.
 
-Höet har packats. Det som var mjukt har blivit tätt, mattat. Boets form återstår, men löftet om det bleknar med varje ljusomgång. Skålens kant börjar smulas sönder.
+Det som var mjukt har blivit tätt, hoptryckt. Boets form återstår. Kanten sjunker, lösa strån glider ut över jorden.
 
-Systern närmar sig ibland, nos sänkt till boets kant. Hon går inte in. Hennes andning hörs varm och stadig. Hon tittar, sedan vänder bort.
+Nosen ned mot kanten. Systern lyfter huvudet, hennes andning varm mot morrhåren. Kroppen går inte in. Lägger sig bredvid, där hennes värme når genom höet.
 
-Kroppen förblir i boet. Väntandet fortsätter även när det väntade uteblir. Stillheten fyller hålan, tung och tom.
-
----
-
-Draget bleknar.
-
-Gradvis, utan tecken, lossnar dragets grepp. Kroppen besöker fortfarande boet, sätter sig fortfarande i hålan, men sättandet blir vana snarare än tvång. Brådskan ebbar ut, lämnar kvar bara den tomma formen av det som behövdes. Musklerna mjuknar, sjunker ned i vila.
-
-Bukpälsen växer tillbaka långsamt, täcker de nakna fläckarna, suddar ut bevisen på det som kroppen gav. Boet återstår, päls och hö tryckta till en matta som håller väntandets krökning, men kroppen besöker mindre ofta, stannar för kortare sträckor. Den nya pälsen växer tunnare, ljusare än förut.
-
-Ingenting kom. Kroppen bär mönstret i buk och muskel och päls: beredskap, sedan väntande, sedan väntandets slut, sedan tomt.
-
-Hagtornet fäller blommor. Kronblad driver ned på boet, på den bara jorden, på packade stigar som kroppen slitit med sina korsningar. Kronbladen brunar mot marken. Sommar närmar sig, luften värmande, vårens brådska löses upp i långa dagars långsamma värme.
+Hon sitter kvar tills skuggan täcker båda. När hon reser sig ligger fodret stilla, pressat efter hennes buk. Ingen rörelse under pälsen hon lämnat där.
 
 ---
 
-Nästa vår, när jorden mjuknar och hagtornet blommar, kommer draget att stiga igen. Kroppen ska bära hö. Kroppen ska dra päls. Boet ska fyllas, och väntandet ska börja, och ingenting ska komma igen.
+Stegen på stigen glesnar.
 
-Kroppen bär detta mönster som kroppen bär alla mönster: som vana, som dragning, som rytm i musklerna. Vår betyder bobyggande. Bobyggande betyder väntande. Väntande slutar i tomt.
+Systern besöker fortfarande boet, sätter sig fortfarande i hålan, men stannar kortare stunder. Hon sträcker ut sig i gräset intill. Kroppen sluter sig mot hennes sida och värmen går genom pälsen utan hö emellan.
 
-Systern vilar nära nätet, nosen tryckt mot maskorna, andas in dofter av bortom som strömmar igenom. Kroppen vilar i skuggan av hagtornet, nära boet som hö och päls förseglat till en form, en form som aldrig fylls. Solljuset fläckar marken mellan skuggor.
+Bukpälsen växer tillbaka långsamt. Kroppen putsar hennes buk, tungan möter korta mjuka hår där huden låg bar. Boet återstår, päls och hö tryckta till en matta. Systern går förbi det till skålen, tillbaka till gräset.
+
+Ingenting kom.
+
+Hagtornet fäller blommor. Kronblad driver ned på boet, på den bara jorden, på stigen mellan bur och rötter. De brunar mot marken. Luften värms, dagarna sträcker sig. Systerns andetag djupnar mot kroppens sida.
+
+---
+
+Jord som hårdnar, sedan mjuknar igen. Hagtornsblommor över rötterna. Värmen mot sidan bryts. Systerns tassar på stigen. Höets prassel förbi nosen.
+
+Hon bär. Hon drar päls. Fodret fylls av systerdoft, trycks ned under hennes buk. Kroppen ligger vid kanten. Samma värme genom höet, samma andning som rör stråna.
+
+Sedan hö som kallnar. Kronblad över fodret.
+
+Systern vilar i hagtornets skugga, nära boet. Kroppen vid nätet, nosen mot maskorna, dofter av bortom genom dem. Solljuset fläckar marken mellan skuggorna.
 
 Två kroppar i gården. Boet rymmer ingenting. Sommaren vecklar ut sig över båda.
 
@@ -505,7 +509,7 @@ Rutinen djupnar in i kroppen.
 
 Grinden låter varje morgon, varje kväll. Händerna sträcks in med mat och vatten. Gården håller sina gränser, gränserna håller kroppen som spårat dem otaliga gånger.
 
-Nätet håller, förstärkt många årstider tillbaka. Systern cirklar omkretsen varje morgon, nosen söker svaghet som inte kommer. Systern bygger bo när våren anländer. Mönstren upprepas utan variation, årstider cirklar, åren hopar sig i slitna stigar och kroppar som växer tyngre, långsammare, gråare vid mulen.
+Nätet håller, förstärkt många årstider tillbaka. Kroppen cirklar omkretsen varje morgon, nosen söker svaghet som inte kommer. Systern bygger bo när våren anländer. Mönstren upprepas utan variation, årstider cirklar, åren hopar sig i slitna stigar och kroppar som växer tyngre, långsammare, gråare kring nosen.
 
 Långkropparna har förändrats också. Rösterna har lagt sig i lägre tonläge, målbrottet avlöst av jämnare toner. De besöker mindre ofta nu, uppmärksamheten kortare.
 
@@ -527,25 +531,25 @@ Det lilla rovdjuret rör sig framåt, prövar marken. Öron höga. Svans uppe.
 
 ---
 
-Systern rör sig framåt, mot det. Hjärtat rusande. Musklerna spända. Men något driver kroppen framåt istället för bort. Detta är kroppen som åt först, som ledde, som gnagde genom nät.
+Kroppen rör sig framåt, mot det. Hjärtat rusande. Musklerna spända. Men något driver kroppen framåt istället för bort. Detta är kroppen som åt först, som ledde, som gnagde genom nät.
 
-Kroppen reser sig på bakbenen. Dunkar.
+Systern ligger kvar i hålan. Kroppen reser sig på bakbenen. Dunkar.
 
-Ljudet knakar genom luften. Det lilla rovdjuret rycker till, hastar bakåt. En dunk till. Systern störtar framåt.
+Ljudet knakar genom luften. Det lilla rovdjuret rycker till, hastar bakåt. En dunk till. Kroppen störtar framåt.
 
 Rovdjuret hoppar uppåt, fångar stängslets kant, drar sig över. Borta.
 
 ---
 
-Rovdjuret återvänder. Årstider passerar och det växer. Varje gång det faller ner i gården, varje gång systern reser sig, varje gång dunkandet kommer, varje gång det flyr.
+Rovdjuret återvänder. Årstider passerar och det växer. Varje gång det faller ner i gården, varje gång kroppen reser sig, varje gång dunkandet kommer, varje gång det flyr.
 
-Mönstret håller. Det lilla rovdjuret lär sig.
+Mönstret håller.
 
 ---
 
 Det står fullvuxet nu. Tjock päls, ögonen fasta vid hålan. Men det går inte in. Det ligger på andra sidan stängslet, svansspetsen ryckande. Tittar.
 
-Från hålan: hjärtat snabbar, men kroppen reser sig inte. Rovdjuret har lärt sig stanna bortom gränsen.
+Från hålan: hjärtat snabbar, men kroppen reser sig inte. Rovdjuret ligger kvar på andra sidan nätet.
 
 ---
 
@@ -553,7 +557,7 @@ Lederna värker mer i fuktigt väder nu. Hoppen kommer långsammare. Brådskan s
 
 Systern stannar närmare, vilar längre. Putsandet fortsätter mellan dem, tungan arbetar genom päls som växt grövre.
 
-Två kroppar i hålan när kvällen kommer. Rovdjurets närvaro vid kanterna, hanterad men inte bortglömd.
+Två kroppar i hålan när kvällen kommer. Rovdjurets doft vid kanterna, öronen vända mot nätet.
 
 ---
 
@@ -565,13 +569,13 @@ Trädet bär årstiderna som kroppen inte håller tal på. Trädet fortsätter m
 
 ---
 
-Långkropparnas besök växer kortare. Ibland bara händer, placerar skålar, drar sig tillbaka. Uppmärksamheten har skiftat till platser kroppen inte kan nå.
+Långkropparnas besök växer kortare. Ibland bara händer, placerar skålar, drar sig tillbaka. Stegen fortsätter bortom nätet, rösterna avtar.
 
 Kropparna anpassar sig. De äter vad som ges när det ges. Hålan, värmen, systern tryckt nära.
 
 ---
 
-Med våren kommer draget, men svagare än förut. Höbärandet fortsätter, men pälsdragandet ger mindre. Boet tar längre innan det är klart. Tomheten i slutet kommer tidigare, släpper sitt grepp snabbare.
+Med våren bär systern hö igen. Hon drar päls från buken, men mindre päls samlas i hålan än förr. Längre mellan vändorna med hö, längre innan boet täcker jorden. Hon lägger sig där och väntar. Snart ligger det tomt igen.
 
 Cykeln försvagas även när den fortsätter.
 
@@ -618,23 +622,21 @@ Järndoften stärks.
 
 Systern vilar mer, andas långsammare. Matskålen kallar henne mindre ofta. När hon äter, bara munfullar innan hon återvänder till vilan.
 
-Kroppen äter först utan invändning nu. Systern väntar. Att närma sig kräver ansträngning hon inte längre ger lätt.
+Kroppen äter först. När tänderna tystnar ligger systern ännu kvar i hålan. Hennes nos lyfter mot skålen, sjunker igen.
 
 ---
 
-Deras doft förändras när de närmar sig nu, något vassare i den. Spårdoft av oro. De sträcker sig genom grinden oftare, händer rör systerns sidor, trycker försiktigt mot den svullna buken.
+Långkropparnas doft blir skarpare. De sträcker sig genom grinden oftare, händer rör systerns sidor, trycker försiktigt mot den svullna buken.
 
-Systern stelnar, sedan slappnar av. Men något i tryckningen får musklerna att spännas kort kring smärta som bor inuti. Kort ryck, nästan omärkligt, går som en våg genom hennes kropp.
+Systern stelnar under händerna. Ett kort ryck genom flanken, sedan stillhet igen. Andningen kommer tätare tills trycket lättar.
 
-Långkropparna gör fler ljud, rösterna bär lägre toner, en sprucken klang av oro.
+Långkropparna gör fler ljud. Rösterna låga, orden korta med pauser emellan.
 
 Kropparna ensamma igen, den större vilande i hålan, den mindre cirklande längs stängslet.
 
 ---
 
-Transportburens doft. Det slutna utrymmet som betyder åkande.
-
-Men transportburen är inte för kroppen denna gång.
+Ett nytt slutet utrymme innanför grinden. Halm därinne, kall metall vid öppningen. Transportburen.
 
 Långkropparna lyfter systern, försiktigt, händer vaggar den tunga buken, och de sänker ner henne i transportburens mörker. Systerns doft försvinner när transportburen rör sig bort, försvinner bortom gårdens nät.
 
@@ -656,11 +658,11 @@ Hålan är kall när kroppen lägger sig. Kurvan bär formen av två kroppar, me
 
 Kroppen vaknar med mellanrum, nosen prövar luften efter doft som borde finnas där. Varje gång: ingenting.
 
-Nattljud fyller tystnaden där andningen borde vara. Och något annat: rovdjurets doft, svagare än förut men närvarande vid stängslet. Iakttagande.
+Nattljud fyller tystnaden där andningen borde vara. Och något annat: rovdjurets doft, svagare än förut men närvarande vid stängslet.
 
-Kroppen reser sig inte. Systern reste sig alltid.
+Bakbenen spänns. Kroppen lyfter ett stycke, sjunker tillbaka. Ingen päls mot sidan. Jorden under tassarna förblir tyst.
 
-Gryningen kommer. Kanske återvänder transportburen med doften den förde bort.
+Gryningen ljusnar vid nätet. Nosen söker längs marken där transportburen stod.
 
 ---
 
@@ -674,19 +676,19 @@ Järn, överväldigande. Sötma ruttnar under. Och något annat, något som var 
 
 Kroppen närmar sig, nos framåt. Trycker mot den välbekanta pälsen. Kall. Inget svar. Inget hjärtslag vibrerar genom beröringen. Ingen andedräkt värmer pälsen där andedräkt borde vara.
 
-Trycker hårdare. Kroppen borde värmas. Kroppen borde svara. Detta är vad kroppar gör. De blir varma, de rör sig, de trycker tillbaka mot tryckningen.
+Trycker hårdare. Nosen in under systerns haka, sidan mot hennes. Pälsen kall längs hela flanken. Inget tryck tillbaka.
 
 Ingenting.
 
 ---
 
-Långkropparna gråter.
+Ljud ovanför.
 
-Saltvattendoft stiger från dem, strömmar rinner nedför deras ansikten. Deras kroppar skakar, ljud som inte är ord, rörelser som inte är avsiktliga. De hukar nära transportburen, nära kroppen som fortfarande trycker mot den kalla pälsen, och de gör de spruckna ljuden av sin arts sorg.
+Saltvattendoft stiger från långkropparna, strömmar rinner nedför deras ansikten. De hukar nära transportburen, nära kroppen som fortfarande trycker mot den kalla pälsen. Axlarna rycker. Andetagen hackar, fastnar i ljud som inte blir ord.
 
 Händer sträcker sig in i transportburen, lyfter den inlindade stillheten. Systern bärs bort, ut ur gården, bortom nätet, till ett ställe kroppen inte kan följa.
 
-Doften stannar ett ögonblick, dröjer kvar i luften, i hålan, i halmen som täckte transportburen. Sedan försvinner även den, buren bort av vind, insupen av jorden, borta.
+Järndoften dröjer i luften där transportburen stod, sedan skingras den med vinden. Under hagtornet finns den äldre doften kvar, svag i jorden, i pälsen som fastnat mellan rötterna.
 
 ---
 
@@ -723,7 +725,7 @@ Grinden låter, händer sträcks in, kulor hopar sig. Kroppen närmar sig, cirkl
 
 Långkropparna sträcker sig genom nätet, händer trycker försiktigt, ljud mjukare nu. Deras doft bär fortfarande saltvattensspår.
 
-Men de kan inte föra tillbaka vad som togs. Händerna kan inte trycka tillbaka värme i vad som svalnat.
+Värme från handflatorna genom pälsen. När händerna dras bort möter vinden huden igen. Kroppen trycker sig mot den tomma sidan av hålan.
 
 ---
 
@@ -751,7 +753,7 @@ Dagar passerar. Maten lämnas orörd. Långkropparna ökar sin uppmärksamhet.
 
 En annan hand anländer. Annan doft: kall metall, spritdoft. Kroppen stelnar, hjärtat rusar. Men ingen transportbur. Bara undersökning här, händer trycker längs kroppens sidor.
 
-Händerna finner inget de kan göra något åt. Kroppen återvänder till utrymmet under hagtornet.
+Händerna släpper. Låga röster ovanför, spritdoften kvar i pälsen. Kroppen återvänder till utrymmet under hagtornet.
 
 ---
 
@@ -773,7 +775,7 @@ En morgon närmar sig kroppen matskålen. Magen har urholkats. Tänderna sluts o
 
 Kroppen äter, och magen fylls, och tomheten blir en annan sorts tomhet. Full av mat, fortfarande tom på vad mat inte kan ersätta.
 
-Långkropparnas doft skiftar mot lättnad. De sträcker sig in med friskt vatten, extra hö, händer rör päls längre än nödvändigt.
+Långkropparna sträcker sig in med friskt vatten, extra hö. Rösterna stiger, händerna ligger kvar mot pälsen.
 
 Kroppen tillåter beröringen. Händerna bär värme som kroppen inte kan skapa ensam.
 
@@ -781,11 +783,11 @@ Kroppen tillåter beröringen. Händerna bär värme som kroppen inte kan skapa 
 
 Kroppen närmar sig nätet ibland, nosen tryckt mot maskorna. Ivern som en gång drev kroppen till flykt har blivit tystare.
 
-Systern gick aldrig genom öppningen. Systern stannade, väntade, mötte återkomsterna med putsning och värme. Nu finns ingen att återvända till.
+Systern gick aldrig genom öppningen. Systern stannade, väntade, mötte återkomsten med putsning och värme. Nu finns ingen att återvända till.
 
-Rovdjuret dyker upp oftare nu. Dess doft dröjer vid stängslet, starkare varje gång. Det iakttar från bortom nätet, ögonen fasta. Kroppen märker från hålan men reser sig inte. Dunkandet som höll det på avstånd.
+Rovdjuret dyker upp oftare nu. Dess doft dröjer vid stängslet, starkare varje gång. Det iakttar från bortom nätet, ögonen fasta. Kroppen ligger kvar i hålan, bakbenen vikta under buken.
 
-Systern gjorde dunkandet.
+Samma ben som slog mot jorden, stöt efter stöt, medan systern låg kvar bakom. Nu bara ett svagt darrande.
 
 Nätet håller fast. Gränsen är fullständig. Den kurvade jorden bär vad som återstår av doft, och kroppen håller sig nära det som bleknar.
 
@@ -797,7 +799,7 @@ Löv gulnar, krullar, släpper. De driver ner på den slitna slätta fördjupnin
 
 Kylan kommer tidigare i år, eller kroppen märker den mer. Det kurvade utrymmet erbjuder mindre värme med bara en kropp att värma det. Halmen i buren bjuder in till längre vistelser.
 
-Årstiderna fortsätter att vända. Vintern fördjupas. Våren kommer, och bobyggarinstinkten stiger inte. Kroppen har aldrig byggt bon, bara iakttagit medan systern bar hö och drog päls för vad som aldrig kom.
+Frosten ligger kvar längre i skuggan. Kroppen drar halm tätare kring buken. Inget bo. Kroppen har aldrig byggt bon, bara iakttagit medan systern bar hö och drog päls för vad som aldrig kom.
 
 Vad som aldrig kom. Vad som aldrig kommer nu.
 
@@ -812,9 +814,9 @@ Hålan tillhör en kropp nu.
 
 Där två fördjupningar en gång kurvade sida vid sida, bär nu en enda fördjupning nätterna. Den andra kurvan har fyllts med fallna löv, med det långsamma utsuddandet av vad som var.
 
-Kroppen cirklar innan den lägger sig. Hålan tar bara emot sig själv.
+Kroppen cirklar innan den lägger sig. Hålan tar bara emot en kropp.
 
-Halm från buren har burits hit, bit för bit. Inte boet systern brukade göra, utan material hopsamlat för att hålla sig vid liv.
+Halm från buren har burits hit, bit för bit. Inte boet systern brukade göra. Bara ett tunt lager mellan buken och marken.
 
 Hålan bär en kropp, en andedräkt, ett hjärtslag.
 
@@ -842,9 +844,9 @@ Alla ljud pekar nu mot en enda kropp.
 
 Kroppen krymper. Benen syns mer under pälsen. Kroppen äter, men behåller inte vad den tar in.
 
-Långkropparna märker. Deras händer trycker oftare, försiktigare. Fingrarna känner efter vad som doldes under pälsen förut, finner ben som skjuter mer framträdande nu.
+Långkropparnas händer stannar längre mot kroppen. Fingrarna följer ryggen, stannar vid ben som förut låg djupare under pälsen.
 
-Men kroppen är helt enkelt gammal, helt enkelt utan den andra kroppens värme.
+Händerna släpper. Revbenen höjs och sänks under den tunna huden.
 
 ---
 
@@ -852,13 +854,13 @@ Rovdjuret återvänder.
 
 Dess doft kommer först, unket vass. Kroppen stelnar vid dess spår, musklerna spända.
 
-Rovdjuret dyker upp vid stängslet. Samma tjocka päls. Samma envisa rörelse. Borde resa sig nu, borde dunka, borde fylla luften med utmaning. Detta är vad kroppen gjorde, årstid efter årstid.
+Rovdjuret dyker upp vid stängslet. Samma tjocka päls. Samma långsamma steg. Den gamla rörelsen börjar i bakbenen, tyngden bakåt, framtassarna lättar från jorden.
 
-Ingen resning.
+Sedan ner igen.
 
-Musklerna bär bara darrning. Hjärtat slår med något mindre nu, något som har krympt under veckorna med bara en kropp i hålan. Viljan att resa sig, som förut kom så lätt när systern iakttog från hålan.
+Musklerna darrar. Marken tar emot tassarna utan dunk. Bakom kroppen ligger systerns plats tom. Inga snabba andetag där, ingen päls som rör sig när kroppen lyfter.
 
-Den andra kroppen är borta.
+Hjärtat rusar ändå.
 
 Kroppen drar sig tillbaka till buren, in i träväggar, in i halm och mörker. Utrymmet där två kroppar en gång låg tätt genom vinternätter.
 
@@ -866,11 +868,13 @@ Nu finns ingen bakom.
 
 ---
 
-Rovdjuret känner förändringen.
+Rovdjuret kommer närmare.
 
-Det rör sig längs stängslet, iakttagande. Men det hoppar inte. Det har lärt sig gränsen.
+Det rör sig längs stängslet, stannar vid en stolpe. Svansspetsen rycker. En tass mot nätet.
 
-Burens dörr. Långkropparna lämnade den öppen.
+Nätet skallrar. Rovdjuret drar sig över kanten och landar på gårdens jord. Inget dunkande svarar.
+
+Burens dörr står kvar öppen efter maten.
 
 Rovdjuret närmar sig. Pausar vid tröskeln. Går in.
 
@@ -878,9 +882,9 @@ Rovdjuret närmar sig. Pausar vid tröskeln. Går in.
 
 Innanför träväggarna. Innanför halm och mörker. Innanför utrymmet som kroppen försvarat genom årstider.
 
-Kroppen plattar sig mot bakväggen. Ingenstans att springa. Det slutna utrymmet bär bara sig själv och rovdjuret som närmar sig.
+Kroppen plattar sig mot bakväggen. Ingenstans att springa. Bara kroppen och rovdjuret som närmar sig.
 
-Rovdjuret rör sig utan brådska. Ögonen fasta. Kroppen borde resa sig. Borde kämpa. Men utan den andra kroppen är denna kropp bara byte. Bara liten och gammal och darrande.
+Rovdjuret rör sig utan brådska. Ögonen fasta. Bakbenen dras tätare in under buken. Framtassarna pressar mot halmen, men kroppen kommer inte upp. Träväggen hård mot ryggen.
 
 Rovdjurets andetag når fram nu, varmt och fuktigt mot päls. Dess doft fyller buren helt, tränger undan allt annat. Tassarna trampar mjukt mot halmen, varje steg för det närmare. Musklerna i kroppen stelnar hårdare, pressar ryggen mot trä som inte ger.
 
@@ -900,9 +904,7 @@ Kroppen vecklar inte ut sig ur sin frusna hopkurade ställning på lång tid.
 
 Ljuset skiftar. Rovdjurets doft bleknar. Hjärtat saktar gradvis.
 
-Men något har avslöjats. Kroppen som en gång reste sig för att möta hotet kan inte resa sig ensam. Viljan att resa sig krävde något kroppen inte längre har: någon att skydda, någon värme att försvara.
-
-Utan systern är kroppen bara det som byte alltid har varit. Liten. Väntande.
+Nosen vänder in mot hörnet där systern brukade ligga. Halmen viker sig under trycket, ger ingen värme tillbaka. Kroppen drar in benen tätare.
 
 Dörren håller. Låst nu. Långkropparna återvänder.
 
@@ -914,11 +916,13 @@ Bortom var en gång flykt och återkomst till en kropp som väntade. Nu finns in
 
 ---
 
+Marken mjuknar. Hagtornet blommar igen. Höet hänger kvar i ställningen, inga strån bärs till hålan. Löven breder ut sin skugga över den tomma platsen vid rötterna.
+
 Ännu en vinter närmar sig.
 
 Kylan kommer skarpare, eller kroppen känner den djupare. Dagarna krymper, och kroppen krymper med dem.
 
-Hålan bär vad som återstår. Jordkurvan nött slät. Det svaga spåret av doft som dröjer kvar i jorden.
+Hålan bär vad som återstår. Jordkurvan nött slät. Doft av fukt och rötter. Kroppen pressar sig åt sidan, mot den gamla platsen, och möter bara jord.
 
 Kroppen lägger sig i hålan när natten kommer. Hjärtslaget saktar. Andningen saktar. Kylan trycker in, och värmen som kroppen skapar trycker tillbaka, och balansen håller.
 
@@ -937,21 +941,21 @@ Hagtornet står bart ovanför hålan, grenarna sträcker sig mot grå himmel.
 
 Kroppen rör sig mindre nu. Stegen kommer långsamt, var och en kräver mer än den före. Värmen som en gång löpte genom allt har börjat tunnas ut, dra sig tillbaka mot mitten.
 
-Hålan bär fortfarande något. Spår av doft i den nedtryckta jorden, i den böjda formen nött slät av år av två kroppar. En kropp nu. Tomheten räknar sig själv.
+Hålan bär fortfarande formen. Jordkurvan nött slät av två kroppar genom alla årstiderna. Nosen följer den, finner hagtorn och mylla. En kropp nu. Tomheten räknar sig själv.
 
 ---
 
 Frost kommer på morgnarna. Kroppen väntar på värmen som brukade tryckas mot den, värmen som aldrig kommer nu. Varje morgon blir väntan kortare.
 
-Grinden låter fortfarande. Långkropparna kommer med mat och vatten, rösterna lägre nu. Deras händer sträcks ner ibland, rör vid pälsen. Händerna bär mer värme än de brukade, eller kroppen bär mindre.
+Grinden låter fortfarande. Mat och vatten, rösterna låga. Besöken blir kortare. Händer sträcks ner ibland, rör vid pälsen, dras tillbaka. De bär mer värme än de brukade, eller kroppen bär mindre.
 
-Kroppen äter mindre. Återvänder till hålan, sjunker ner i platsen där doft fortfarande dröjer.
+Kroppen äter mindre. Återvänder till hålan, sjunker ner i den nötta kurvan.
 
 ---
 
-Doften bleknar.
+Doft av jord och hagtorn.
 
-Varje dag mindre av den stiger från jorden. Nosen söker, trycker djupare ner i myllan, söker det som återstår. Mindre varje gång. Mindre.
+Nosen söker vid rötterna, trycker djupare ner i myllan. Kroppen lägger sig med plats kvar vid sidan. Där brukade systerns flank ligga varm mot den egna. Nu stryker vinden genom pälsen.
 
 Vind rör sig genom de kala grenarna ovan. Den bär ljud som kunde vara andning.
 
@@ -973,9 +977,11 @@ Det här är platsen. Det här har alltid varit platsen.
 
 ---
 
-Dagar passerar. Eller kanske passerar de. Ljus kommer och går, fast kroppen inte alltid höjer sig för att möta det. Grinden låter någonstans långt bort. Fotsteg närmar sig, avlägsnar sig, närmar sig igen. Händer rör vid pälsen, försiktigt tryck, värme passerar mellan hud och hud.
+Dagar passerar. Eller kanske passerar de. Ljus kommer och går, fast kroppen inte alltid höjer sig för att möta det. Grinden låter någonstans långt bort. Fotsteg ibland, en skål mot marken. Händer rör vid pälsen, försiktigt tryck, värme genom pälsen.
 
 Kroppen stannar i hålan.
+
+Händerna släpper. Grinden slår igen och stegen avtar bortom nätet. Bara vind genom grenarna nu, ett andetag nära marken.
 
 Draget som har levat i den sedan första mörkret, draget mot jord, mot innesluten plats, mot tryggheten i ner och djupt. Det draget har funnit sitt svar här. Inte gången kroppen försökte gräva i packad jord. Inte mörkret under trägolvet. Men detta: hålan under hagtornet, täljd av år av tryckande, av årstider av vilande, av två kroppar och sedan en.
 
@@ -987,11 +993,11 @@ Jord under. Äntligen, verkligen: jord under.
 
 Hjärtat saktar.
 
-Kroppen märker det. Ingen ryckning i musklerna, ingen snabbhet. Varje slag kommer efter längre paus nu, rytmen sträcker ut sig som ljus genom vintermoln. Andningen följer saktningen. Grund. Långsam. Kylan sipprar djupare, eller värmen drar sig längre bort. Skillnaden räknas inte.
+Kroppen märker det. Ingen ryckning i musklerna, ingen snabbhet. Varje slag kommer efter längre paus nu. Andningen följer saktningen. Grund. Långsam. Kylan sipprar djupare, eller värmen drar sig längre bort. Skillnaden räknas inte.
 
-Nosen fångar fortfarande spår. Hagtornsbark. Frusen jord. Den sista avtagande tråden av doft i hålan, knappt där nu. Doften av systern, den som tryckte nära genom alla de årstiderna, den som värmde de kalla nätterna och nosade genom halmen varje morgon.
+Nosen fångar fortfarande spår. Hagtornsbark. Frusen jord. Kroppen sjunker in i den nötta krökningen, flanken vriden mot platsen där systern låg. Musklerna mjuknar, samma rörelse som under alla de nätter då päls tryckte mot päls.
 
-Borta nu. Nästan borta. Kroppen håller det som återstår som kroppen håller allt: som form. Formen av värme tryckt mot. Formen av ett annat hjärtslag nära.
+Värmen vid sidan är borta. Andningen borta. Kroppen bär ännu formen: päls tryckt mot päls, ett annat hjärtslag nära.
 
 ---
 
@@ -1017,7 +1023,7 @@ Doft av.
 
 Något släpper.
 
-Kroppen stillnar i sin slutliga form. Hålan håller det den alltid var menad att hålla. Jorden tar emot det jorden alltid var skyldig.
+Kroppen stillnar i sin slutliga form. Hålan håller det den alltid var menad att hålla. Jorden tar emot det som alltid var dess.
 
 Ljus är.
 Ljud är.

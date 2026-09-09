@@ -2,21 +2,21 @@
 
 ---
 
-Darkness first, then warmth.
+Darkness first. Then warmth.
 
-Body pressed against body against body. Many heartbeats, many rhythms of breathing. The small space full of us, the pile shifting as bodies squirm toward center warmth. Milk-scent surrounding everything.
+Body pressed against body against body. Many heartbeats, many rhythms of breathing. The small space full of us, the pile shifting as bodies squirm inward, toward the warmth. Milk-scent surrounding everything. Fur against fur, warm and soft, each breath heavy with the others' scent.
 
-Wood beneath. Not earth, though earth is what pulls from below. A hollow that should exist, a darkness that should run deeper than this. The body holds a shape the world refuses to give. Instead wood planks, straw scattered thin, the bitter smell of shavings.
+Wood beneath the body. Not earth, though earth pulls from below. A hollow that should exist, a darkness that should run deeper than this. The body holds a shape the world refuses to give. Instead wood planks, straw scattered thin, the bitter smell of shavings. Each breath brings the dry smell of wood, mixed with the sweetness of straw.
 
-The pile breathes together. Hearts beating their separate rhythms, quick and small. Shared warmth between all of us.
+The pile breathes together. Hearts beating their separate rhythms, quick and small. Shared warmth between all of us. Air thick with breath.
 
 ---
 
-Light comes.
+Then light.
 
-First light is too bright, eyes squeezing closed. A sliver cutting through the darkness, widening as something opens above. Sound comes with the light. Movement beyond the walls, vibration traveling through wood. Not-mother. Darkness returns.
+First light is too bright. Eyes squeeze closed. A sliver cuts through the darkness, widening as something opens above. Sound comes with the light. Movement beyond the walls, vibration traveling through wood. Not-mother. Darkness again. Cold enters before the opening closes, a draft of fresh air through the warmth.
 
-Later. Light again. The sliver widens to a square. Scent rushes in. Hay. Earth. Something warm and living but far too large.
+Later, light again. The sliver widens to a square. Scent rushes in. Hay. Earth. Something warm and living but far too large.
 
 The pattern repeats. Light-dark. Light-dark.
 
@@ -24,9 +24,9 @@ The pattern repeats. Light-dark. Light-dark.
 
 Mother-scent arrives.
 
-The pile shifts toward it, noses seeking. Large body settling briefly at edge of nest box, warmth available. Bodies press close, mouths finding source. Bellies filling. Then mother-warmth withdraws. Scent fading beyond the walls.
+The pile shifts toward it, noses seeking. Large body settling briefly at the edge of the nest box, warmth available. Fur soft and warm, carrying the scent of milk and grass. Bodies press close, mouths finding source. Bellies fill. Then mother-warmth withdraws. Scent fades beyond the walls.
 
-Bodies press together again, making warmth between ourselves. The space where mother was, empty until next milk-scent arrival.
+Bodies press together again, making warmth between ourselves. The space where mother was, empty until the next milk-scent comes. Cold where her warmth had been.
 
 Light-dark. Light-dark. Milk-scent, then absence. The pattern repeats.
 
@@ -34,11 +34,11 @@ Light-dark. Light-dark. Milk-scent, then absence. The pattern repeats.
 
 The world begins to open.
 
-Eyes that were sealed now see. Shapes emerging from darkness. This body, that body, another body beside. The pile made of individuals, each carrying their own scent beneath the shared milk-smell.
+Eyes that were sealed now see. Shapes emerge from darkness. This body, that body, another body beside. The pile separates into bodies, each carrying its own scent beneath the shared milk-smell.
 
-One scent becomes familiar. Sweet milk-breath. Always against the right flank. Warmth-giver when mother is absent.
+One scent becomes familiar. Sweet milk-breath. Always against the right flank. Warmth where mother is absent. The softest fur of all.
 
-Ears that were flat now lift. Sound arrives differently. Vibrations through wood become distinct noises. Gate sounds. Footsteps. Voices beyond walls.
+Ears that were flat now lift. Sound arrives differently. Vibrations through wood become distinct noises. Gate sounds. Footsteps. Voices beyond walls. Each sound carries vibration through the planks into the body.
 
 The pile still huddles, but bodies begin to differentiate. This one moves often. That one stays still. Another body, the familiar one, always near.
 
@@ -52,7 +52,7 @@ Hunger pulls in a way warmth never did. Sharp. Insistent. Noses seeking, finding
 
 Milk-source visits less often, then not at all.
 
-One day the nose searches for mother-scent and finds nothing. Only wood, straw, the scents of those who remain. The source is gone.
+One day noses search for mother-scent and find nothing. Only wood, straw, the scents of those who remain. The source is gone.
 
 Bodies press tighter that night. The pile smaller now, the familiar scent-body always close, warmth shared between all of us still.
 
@@ -60,13 +60,13 @@ Bodies press tighter that night. The pile smaller now, the familiar scent-body a
 
 The square opens wider than before.
 
-Tall-bodies, more than one, different scents mixing. Voices carrying vibration down through air into the nest box. Hands visible at the opening.
+Tall-bodies, more than one, different scents mixing. Voices carrying vibration down through air into the nest box. Hands visible at the opening. Scents sweep in, strange and sharp.
 
 The pile shifts, bodies pressing toward corners. Hearts racing.
 
-Hands descend into the space. Large, dry, carrying strange scents. They reach toward the pile.
+Hands descend into the space. Large, dry, carrying strange scents. Smooth and cold against fur. Reaching toward the pile.
 
-One body lifts into air. Not this body. Another. The scent trails upward, away, beyond the wooden walls. The pile shifts, emptier now.
+One body is lifted into the air. Not this body. Another. The scent trails upward, away, beyond the wooden walls. The pile shifts, emptier now.
 
 The scent does not return.
 
@@ -82,7 +82,7 @@ One scent remains close. The familiar one. Sweet milk-breath. The one who always
 
 Two bodies now where many had been. The nest box too large, straw visible in corners that the pile once filled. Two heartbeats instead of many. Two breathing rhythms.
 
-The one who remains presses close. Same milk-scent. Same mother-touch in memory. Same darkness from the beginning. Her scent the most familiar scent, more familiar than wood, than straw, than this body's own fur.
+The one who remains presses close. Same milk-scent. Same mother-touch. Same darkness from the beginning. Her scent the most familiar scent, more familiar than wood, than straw, than this body's own fur. Her warmth the only warmth that remains.
 
 Body against body. Heartbeat answering heartbeat.
 
@@ -90,23 +90,23 @@ Body against body. Heartbeat answering heartbeat.
 
 *sister*
 
-Nest-kin. The scent carries what words cannot: shared birth, shared mother. The one who remained when others were taken.
+Nest-sister. The scent carries what words cannot: shared birth, shared mother. The one who remained when others were taken.
 
 ---
 
 Days pass in the rhythm of light and dark.
 
-The body grows stronger. The space shrinks with each passing day, walls closing in as the body expands.
+The body grows stronger. The space shrinks with each passing day. Walls closing in.
 
-Legs that once only pushed now find use. The body lifts, wobbles, tips sideways. Tries again. Rising, falling, rising. The small space allows only a few hops before wood walls stop everything.
+Legs that once only pushed now find use. The body lifts, wobbles, tips sideways. Tries again. Rising, falling, rising. The small space allows only a few hops before wood walls stop everything. Paws strike hard against wood, vibration rising through the legs.
 
 The pull remains, downward, toward enclosed safety that exists nowhere in this wooden world. Paws scratch at wood planks, seeking the darkness below. Nothing yields.
 
-Sister scratches too. Both pawing at the same corner, the same unyielding surface. The pull persists without fulfillment.
+Sister scratches too. Both pawing at the same corner, the same unyielding surface. The pull persists without an answer.
 
 ---
 
-The square opens again. Tall-bodies come through. Two of them, different sizes, carrying scents that don't belong. Sweet scents. Sharp scents. None of them milk, none of them mother.
+The square opens again. Tall-bodies at the opening. Two of them, different sizes, carrying scents that don't belong. Sweet scents. Sharp scents. None of them milk, none of them mother.
 
 Hands descend. Warmth, but wrong-warmth, dry and smooth, no fur. The body lifts into the air, held in cupped palms. Heart racing. Muscles tight. The urge to burrow. But there is no below. Only hands, only air.
 
@@ -147,7 +147,7 @@ A hop forward. Another. The edge of the square. The beginning of the wider world
 
 The square stands open.
 
-Light pours through, carrying scents unfamiliar and strange. The body freezes, nose working. Not the close darkness of the nest box, not milk-scent and mother-warmth. Something else entirely.
+Light pours through, carrying scents from outside, sharp and unfamiliar. The body freezes, nose working. Not the close darkness of the nest box, not milk-scent and mother-warmth. Something else entirely.
 
 Sister behind, nose pushed forward, whiskers trembling.
 
@@ -165,7 +165,7 @@ Sister waits behind. She doesn't approach until the first body steps back. Then 
 
 One approaches first, one waits. The order establishes itself.
 
-Hay hangs from a wooden rack. The body stretches upward, teeth catching a strand, pulling it free. Slow grinding. The belly fills differently, not with liquid warmth but with dry substance that sits heavier.
+Hay hangs from a wooden rack. The body stretches upward, teeth catching strands, pulling them free. Slow grinding. The belly fills differently, not with liquid warmth but with a dry weight that settles deeper.
 
 Sister joins, pulling hay from the opposite side. Both eating now.
 
@@ -189,17 +189,17 @@ Then the hands retreat. The gate closes.
 
 The hearts slow. The bodies unfreeze.
 
-The pattern begins: gate sound, then hands, then food, then retreat. The body learns to anticipate the sound, learns that it brings fullness, not danger.
+The pattern begins: gate sound, then hands, then food, then retreat. The body learns the sound. The sound brings fullness, not danger.
 
 ---
 
-Light changes angle through the gaps, higher, then lower, then gone. The body follows these shifts without counting. Bright means active, dim means rest, dark means sister pressed close.
+Light changes angle through the gaps, higher, then lower, then gone. The body follows the shifts. Bright: movement. Dim: rest. Dark: sister pressed close.
 
-A gap between boards carries scents from beyond: earth, grass, living things in open air.
+The nose presses to a gap between boards, seeking scents from beyond: earth, grass, living things in open air.
 
-The nose presses to that gap repeatedly. Earth. The pull toward earth persists, but the gap offers only the scent of it, not the thing itself.
+The nose to the same gap, over and over. Earth. The pull toward earth persists, but the gap offers only scent, never earth itself.
 
-Sister mounts sometimes. Weight pressing down. The body allows it, waits for it to end. The purpose remains absent.
+Sister mounts sometimes. Weight pressing down. The body stays beneath it, waiting until the weight lifts.
 
 ---
 
@@ -211,7 +211,7 @@ The gate sound becomes the only event that breaks the rhythm. Beyond the walls, 
 
 The pulling grows stronger.
 
-Earth scent rises thick today, damp and rich. Rain has fallen somewhere beyond. Paws scratch at the boards near the gap. The wood holds firm. The body scratches harder, instinct driving deeper than the uselessness of the action. Dig. Burrow.
+Earth scent rises thick today, damp and rich. Rain has fallen somewhere beyond. Paws scratch at the boards near the gap. The wood holds firm. The body scratches harder, the pull persisting against the wood. Dig. Burrow.
 
 The gate sounds.
 
@@ -219,7 +219,7 @@ Both bodies freeze. The gate opens. Light pours in, brighter than before. And wi
 
 The gate doesn't close.
 
-A shape stands in the opening, the smaller tall-body. Hands gesture. The opening remains.
+A shape stands in the opening, the smaller tall-body. Hands move. The opening remains.
 
 The body approaches slowly. Nose forward. Ears high.
 
@@ -254,7 +254,7 @@ The body moves differently here, where ground gives beneath weight, where each h
 
 The hawthorn rises from the ground at an angle, bark rough and gray. At its base, where roots push up through packed earth, a hollow has formed. Not deep. Not enclosed. But the closest thing to burrow this ground has offered.
 
-The body approaches, nose lowered. The scent here is complex: bark and earth and old leaves decomposing, layering into something rich. The hollow is shallow, barely deeper than the body is long, but the shape of it calls to something older than memory.
+The body approaches, nose lowered. Scent here in layers: bark and earth and old leaves decomposing, gathering into something rich. The hollow is shallow, barely longer than the body, but its shape stirs something older than memory.
 
 The body circles. Lowers. Presses into the curved space.
 
@@ -282,13 +282,13 @@ The gap remains.
 
 ---
 
-The gap widens over days. Teeth at wire in quiet hours. The strands fray, part.
+The gap widens over days. The body gnaws at the wire in quiet hours. The strands fray, part.
 
 One morning: the gap wide enough. The body approaches, tests it. Through the first gap, then through a second gap in the outer fence. Beyond: trees, leaf litter, forest.
 
-The body moves forward. Scent rises in layers so thick the nose can barely parse them. Nothing here is mapped. Ground soft with fallen leaves. The body moves forward, one hop, then another.
+The body moves forward. Scent rises in layers so thick the nose can barely read them. No familiar trace. Ground soft with fallen leaves. The body moves forward, one hop, then another.
 
-Afternoon. Predator scent, sudden and sharp. Fox. The body knows the category: danger.
+Afternoon. Predator scent, sudden and sharp. Fox. The heart quickens, muscles tightening.
 
 Heart racing. Ears flat. The body runs. Just away.
 
@@ -298,13 +298,13 @@ The body does not sleep.
 
 Dawn arrives. The body emerges, stiff. The nose searches for the scent of the hutch, of the hawthorn, of sister waiting.
 
-The body follows it.
+The body follows the trail.
 
 ---
 
 The fence appears through trees. Beyond it, the hawthorn, and in the hollow, a shape that moves. Sister.
 
-The heart surges. The body pushes through the gap.
+The heart surges. The body pushes through the gaps.
 
 Sister presses close immediately, nose working over every inch of fur, reading the night. Tongue follows, grooming the places where twigs caught.
 
@@ -314,9 +314,7 @@ Settling into the hollow beside sister, bodies fitted together. The trembling sl
 
 The tall-bodies find the gnawed wire.
 
-Their voices carry alarm. They crouch near the hutch's base, fingers probing the severed strands. The hands return with tools. With new wire.
-
-The work takes most of an afternoon. The gnawed gap disappears beneath fresh mesh, tighter than before, buried deeper in soil.
+Their voices carry alarm. They crouch at the bottom of the wire, fingers probing the severed strands. The hands return with tools. With new wire. Metal against metal, the sound of twisting. The work takes most of an afternoon. The gnawed gap disappears beneath fresh mesh, tighter than before, buried deeper in soil.
 
 The body circles the perimeter when the tall-bodies have gone. Nose pressed to wire, to the places where gaps used to form.
 
@@ -326,7 +324,7 @@ The wire holds firm. The boundary is complete again.
 
 No hole. Wall. More wall.
 
-Sister returns to the hollow. Sister waits there, grooming, unconcerned. For her, nothing has changed. The walls were always walls.
+Sister returns to the hollow and settles to groom. Nothing in her movements marks a change. The walls were always walls.
 
 The body settles into the hollow. Sister alongside. The warmth gathers between them.
 
@@ -345,37 +343,37 @@ Close enough. Not enough. Close enough.
 
 ---
 
-Summer heat fades into autumn cool. The hawthorn drops its leaves, bare branches scratching at gray sky. Fur thickens without intention, the body preparing for cold coming, darkness lengthening, earth hardening.
+Summer heat fades into autumn cool. The hawthorn drops its leaves, bare branches scratching at gray sky. Fur thickens of itself, the body preparing for cold coming, darkness lengthening, earth hardening. Underfur beneath the outer coat, a warm layer growing against the skin.
 
-First frost arrives. Grass crackles underfoot, rimmed white. Water in the dish wears a skin of ice. The nose pushes through to drink, cold shocking the tongue. Sister stays in the wooden hutch longer now, pressed into straw. Both bodies thickening against winter.
+First frost arrives. Grass crackles underfoot, rimmed white. Water in the dish wears a skin of ice. The nose pushes through to drink, cold shocking the tongue. Sister stays in the wooden hutch longer now, pressed into straw. Both bodies thickening against winter, warming each other where fur meets fur.
 
 ---
 
-Days shrink to pale stretches between long darknesses. Earth freezes solid. No digging now, no pressing into the hollow beneath the hawthorn. The hollow holds only frost.
+Days shrink to pale stretches between long nights. Earth freezes solid, hard beneath the paws. No digging now, no pressing into the hollow beneath the hawthorn. The hollow holds only frost.
 
-The hutch becomes everything. Both bodies press together, sharing heat the way they shared it in the first darkness. Straw piles around them, trapping warmth.
+The hutch becomes everything. Both bodies press together, sharing heat the way they shared it in the first darkness. Straw piles around them, trapping warmth. Breath visible in the cold air, small clouds rising and vanishing.
 
 The tall-bodies bring more food. Extra hay, extra pellets. The bodies eat more, filling against the cold, storing what the season demands.
 
 ---
 
-The turn comes slowly. Ice on the water thins, then disappears. Days stretch. Air softens until the body ventures from the hutch without shivering.
+The turn comes slowly. Ice on the water thins, then disappears. Days stretch. Air softens until the body can leave the hutch without shivering. Warmth returns by degrees, warming the fur, loosening the muscles.
 
-The earth loosens.
+The earth loosens. Ground that was hard gives beneath the paws.
 
-New shoots push through dark soil. The body eats them, fresh taste filling the belly with something missing all winter. The hawthorn hollow wears deeper by use. Paths across the yard pack bare by endless crossing.
+New shoots push through dark soil. The body eats them, fresh taste filling the belly with something missing all winter. The juice of green between the teeth, sweeter than dry hay. The hawthorn hollow deepens with use. Paths across the yard packed hard, worn bare by endless crossing.
 
-Sister circles the perimeter each morning, nose pressed to wire. The gap that once opened no longer forms. The reinforced barrier holds firm. The body circles anyway, pattern persisting even after possibility has ended.
+The body circles the perimeter each morning, nose pressed to wire. The gap that once opened no longer forms. The reinforced barrier holds firm. The body circles anyway, pattern persisting even after possibility has ended.
 
-The beyond still sends its scents through the wire. The body carries the forest in muscle-knowledge: soft leaf litter, thick scents, terror and cold. The body does not seek to repeat this. But the body circles still, testing, finding nothing.
+The beyond still sends its scents through the wire. The body carries the forest in muscle-memory: soft leaf litter, thick scents, trembling and cold. The body stays on this side of the wire. Still circling, testing, finding nothing.
 
-Sister chooses stillness. She rests in the hollow during summer afternoons, in the hutch corner during winter nights. The wall holds no different meaning for her than it ever held.
+Sister stays still. She rests in the hollow during summer afternoons, in the hutch corner during winter nights. The wall stands where it has always stood.
 
 Different bodies. Different responses. The same walls closing around both.
 
 ---
 
-The tall-bodies' scent shifts over accumulating seasons. The smaller one carries new notes now, something sharper beneath the sweet. The voice changes too, higher sounds becoming lower, breaking in ways that vibrate strangely through air.
+The tall-bodies' scent shifts over accumulating seasons. The smaller one carries new notes now, something sharper beneath the sweet. The voices change too, higher sounds becoming lower, breaking in ways that vibrate strangely through air.
 
 Both tall-bodies grow. Longer strides, different rhythms. Hands larger, fingers longer, pressure different when they touch fur.
 
@@ -383,19 +381,19 @@ The seasons cycle. The tall-bodies continue changing. The bodies in the yard cha
 
 ---
 
-The body does not count seasons, has no frame for counting, no way to mark one year's end and another's beginning. But the body holds the accumulation.
+Winters gather over summers. The paths deepen with each circuit the body makes. The hollow beneath the hawthorn fits more closely around each back pressed into it. The body carries the seasons as it carries everything: in fur that thickens and thins, in joints that move differently in warmth and cold, in muscles shaped by what they do over and over.
 
 Sister's nesting happens each spring. Hay carried, fur pulled, hollow prepared for what never arrives. The nesting ends the same way: waiting, then not-waiting, then the hollow left behind as summer takes hold.
 
-The gate still sounds. The food still comes. The hands still reach through, maintaining the rhythm that holds everything in place.
+The gate still sounds. The food still comes. The hands still reach through, keeping the rhythm going.
 
 ---
 
 Another winter passes.
 
-The cold arrives with the same intensity, but the body moves slower through it. Joints ache in ways that take longer to ease. The burst of speed that once carried the body across the yard in two bounds now takes three, then four.
+The cold comes with the same weight, but the body moves slower through it. Joints ache in ways that take longer to ease. The stiffness stays into the day, beyond the first movement of morning. The burst of speed that once carried the body across the yard in two bounds now takes three, then four. Hind legs weaker, covering less ground.
 
-Both bodies press closer in the hutch corner, sharing more warmth to make up what each provides less of.
+Both bodies press closer in the hutch corner, sharing more warmth to make up what each provides less of. Sister's fur mingled with this body's own, warmth gathered in the pocket between.
 
 Spring arrives anyway. The earth softens. The hawthorn flowers, scattering white petals over the hollow where sister has already begun carrying hay.
 
@@ -410,91 +408,95 @@ The earth waits beneath, patient, receiving what falls.
 
 ---
 
-Spring presses from beneath the ground.
+Spring presses from below.
 
-The earth softens with weeks of rain. The hawthorn buds swell, then open into pale flowers that release their heavy sweetness. The hollow beneath the roots holds the dampness of the season, dark and rich and waiting.
+The earth softens after weeks of rain. Hawthorn buds swell, then open into pale flowers that release a heavy sweetness. The scent hangs thick in the air. The hollow beneath the roots holds the season's damp, dark earth under old stems. Moisture rises from the ground, cool against the nostrils.
 
-Something stirs in the body.
+Sister does not stay beside the body.
 
-Not in the way hunger stirs, not in the way cold stirs the urge toward warmth. This is deeper, a pulling from inside the belly, a pressure that builds without source, a restlessness that drives the body into motion.
+Warmth breaks away from the flank. Her paws scrape through the hollow, nose pressed to earth, lifted toward the flowers. One circle, then another. The body reaches its nose toward her, meets fur already moving past.
 
-Circling the hollow. Nose to the ground, then lifting to catch the scent of flowers. Circling again, driven by something older than the seasons the body has witnessed.
-
----
-
-The rack in the hutch holds dried grass, golden and sweet-scented. Approaching, teeth closing on a mouthful, pulling a strand loose. Then another. Then a third, until the mouth is full and spilling strands at the edges.
-
-Carrying the hay across the threshold, through the gate that stands open in the spring warmth, across the packed earth of the yard to the hollow beneath the hawthorn. Dropping the load there, nose pushing it into place, arranging without plan, arranging because the body must arrange.
-
-Back to the hutch. More hay. More carrying. The path wears deeper with each crossing, the body following the same track without variation, driven by the imperative that admits no detour.
-
-The hollow fills slowly. Hay layering on hay, the cup shape deepening as the material piles. Circling, patting with nose, pushing with front paws. Not right yet. More needed. Returning for more.
+Grains of earth fall against the forepaws. Sister is moving toward the hutch.
 
 ---
 
-Sister watches from across the yard.
+The rack in the hutch holds dried grass, golden and sweet-scented. Sister's teeth close around a mouthful, pull stems free. Then another. Then a third, until hay sticks out on both sides of her nose. Jaws held open around the load.
 
-She does not join the carrying. She rests near the wire wall and watches. The behavior is familiar now. This is not the first spring of nesting.
+She carries it over the threshold, out through the open door, across packed earth to the hollow beneath the hawthorn. Drops it, presses with her nose, pushes the stems close against the roots. The scent of sun-warmed hay mingles with hawthorn blossom.
 
-The nesting continues regardless of observation. Cannot stop. Only the imperative. Only the pulling that must be answered.
+Back to the hutch. More hay. More carrying. Her paws tread the same clods again and again. The body stands beside the path; dry stems brush its cheek as sister passes.
 
-The hay pile grows until it spills past the hollow's edges. Patting it down, circling, pressing into the center to test the depth. Rising. Continuing.
-
----
-
-The pulling shifts location, from the belly outward to the belly itself. Curling, neck straining to reach the soft under-fur that covers the skin beneath. Teeth close on a tuft. A small pull of pain, then release, then a wad of warm softness loose in the mouth.
-
-Carrying the fur to the nest.
-
-More pulling. More small pains. The belly grows bare in patches, pink skin showing through where fur once lay thick. The fur gathers in the nest's center, softer than hay, warmer than hay, the material the body was made to provide for what should come next.
-
-The bare patches sting when air touches them. Continuing regardless, pulling until no more loose tufts remain, until the belly is a patchwork of fur and exposed skin, cooling in the spring air.
-
-The nest is complete.
+The hollow fills slowly. Hay upon hay, the edges rising around the center. Sister circles, presses with nose and forepaws, turns back toward the hutch. A stem falls at the body's feet. Teeth close around it, grind until only the dry taste remains.
 
 ---
 
-The body settles into the hollow, belly pressed to the soft lining, fur and hay surrounding. The position is perfect for what should happen: warmth held close, softness cradling, the hollow protecting from wind and rain and the eyes of anything that might see.
+The body rests near the wire.
 
-The body waits.
+Before the nose, sister's tracks run through the earth, back and forth between hutch and hawthorn. Her fur shines in the sunlight. Hay rustles past, the same rustling as when the hawthorn flowers fell before.
 
-Something should arrive. The body holds the shape of this certainty without forming the thought: small bodies, blind and warm, milk-needing, pressing close. The nest is ready. The body is ready. The waiting is for what must come.
+The body lowers its head to its forepaws. Lifts it again. Sister comes with more.
 
-Hours pass. The light shifts across the yard, shadows lengthening, the hawthorn flowers swaying in the afternoon wind. The body waits, belly pressed to nest, the readiness held constant.
+The hay rises until it spills beyond the hollow's edges. She steps down into the center, sinks low behind the stems. Her back still a moment, then up again. Paws on the path. The rustle of hay.
+
+---
+
+Sister curls over her belly. Neck bent, teeth buried in the soft underfur. The skin stretches, then a pale tuft between her teeth.
+
+She lays the fur in the nest.
+
+More pulling. Her side jerks, stems and fur catch around her mouth. Pink skin shows where fur lay thick. The tufts gather in the center, pale against the hay.
+
+The body approaches. Warm sister-scent rises from the lining. Nose pressed to a loose tuft at the edge, softness yielding without skin beneath, without her weight. Sister bends again. A paw knocks against the hay, draws it closer.
+
+The body stays at the edge until sister steps down. The stems bend outward beneath her, close around her sides.
+
+The nest complete.
+
+---
+
+Sister settles in the hollow, belly pressed to the soft lining. Hawthorn branches shade her back, roots break the wind close to the ground. A branch sways above her; light moves through the flowers and over her fur.
+
+She stays.
+
+The body lies beside the nest's edge. Warmth through hay, fainter than fur against fur. The nose finds the lining again, sister-scent thick in it. Only her breathing moves the stems.
+
+Light shifts across the yard, shadows lengthen over the ground. Sister rises, circles on the lining, lowers her belly again. The body presses its side closer. A sharp stem against the skin.
 
 Nothing comes.
 
 ---
 
-The body returns to the nest each afternoon, circling, settling, waiting. The fur in the nest's center has lost its fresh scent, flattened by pressing, grayed with dust.
+Sister returns to the nest each afternoon, circles, settles. The body follows her scent to the hawthorn. The fur at the nest's center has lost its fresh scent, flattened by pressure, grayed with dust. Rain drips through the branches. The hay smells of damp and earth now.
 
-The hay has compacted. What was soft has become dense, matted. The nest's shape remains, but the promise of it fades with each passing of the light.
+What was soft has become dense, pressed flat. The nest's shape remains. The edge sinks, loose stems slip out across the earth.
 
-Sister approaches sometimes, nose lowered to the nest's edge. She does not enter. She watches, then turns away.
+Nose down to the edge. Sister lifts her head, her breath warm against the whiskers. The body does not enter. Lies beside her, where her warmth reaches through the hay.
 
-The body remains in the nest. The waiting continues even as what is waited for fails to arrive.
-
----
-
-The pulling fades.
-
-Gradually, without announcement, the imperative loosens its grip. The body still visits the nest, still settles into the hollow, but the settling becomes habit rather than compulsion. The urgency drains away, leaving behind only the emptied shape of what was needed.
-
-The belly fur grows back slowly, covering the bare patches, erasing the evidence of what the body gave. The nest remains, fur and hay pressed into a mat that holds the curve of waiting, but the body visits less often, stays for shorter stretches.
-
-Nothing came. The body does not form these words, does not hold them as thought. But the body holds their meaning anyway: readiness, then waiting, then the waiting ending, then empty.
-
-The hawthorn sheds its flowers. Petals drift down onto the nest, onto the bare earth, onto the packed paths the body has worn with crossing. Summer approaches, the air warming, the urgency of spring dissolving into the long slow heat of longer days.
+She stays until shadow covers both. When she rises, the lining lies still, pressed to the shape of her belly. No movement beneath the fur she has left there.
 
 ---
 
-Next spring, when the earth softens and the hawthorn blooms, the pulling will rise again. The body will carry hay. The body will pull fur. The nest will fill, and the waiting will begin, and nothing will come again.
+Fewer footsteps on the path.
 
-The body holds this pattern without anticipating it, without dreading it. The pattern simply is. Spring means nesting. Nesting means waiting. Waiting ends in empty.
+Sister still visits the nest, still settles in the hollow, but stays for shorter stretches. She sprawls in the grass beside it. The body closes against her side and warmth passes through fur without hay between.
 
-Sister rests near the wire, nose pressed to mesh, breathing in scents of beyond that drift through. The body rests in the shade of the hawthorn, near the nest that has served its purpose and failed its purpose, the same thing.
+Belly fur grows back slowly. The body grooms her belly, tongue meeting short soft hairs where skin lay bare. The nest remains, fur and hay pressed into a mat. Sister passes it on her way to the bowl, back to the grass.
 
-Two bodies in the yard. One nest holding nothing. The summer unfolding over both.
+Nothing came.
+
+The hawthorn sheds its flowers. Petals drift onto the nest, onto bare earth, onto the path between hutch and roots. They brown against the ground. The air warms, the days lengthen. Sister's breaths deepen against the body's side.
+
+---
+
+Earth hardening, then softening again. Hawthorn flowers above the roots. Warmth breaks away from the flank. Sister's paws on the path. Hay rustling past the nose.
+
+She carries. She pulls fur. The lining fills with sister-scent, is pressed down beneath her belly. The body lies at the edge. The same warmth through hay, the same breathing that moves the stems.
+
+Then hay growing cold. Petals over the lining.
+
+Sister rests in the hawthorn's shade, near the nest. The body at the wire, nose to mesh, scents from beyond passing through. Sunlight dapples the ground between shadows.
+
+Two bodies in the yard. The nest holds nothing. Summer unfolds over both.
 
 ---
 # Chapter 6: Middle Years
@@ -503,17 +505,17 @@ Two bodies in the yard. One nest holding nothing. The summer unfolding over both
 
 Routine deepens into the body.
 
-The gate sounds each morning, each evening. The hands reach through with food and water. The yard holds its boundaries, and the boundaries hold the body that has traced them countless times.
+The gate sounds each morning, each evening. Hands reach through with food and water. The yard holds its boundaries, the boundaries hold the body that has traced them countless times.
 
-The wire remains firm, reinforced those seasons ago. Sister still circles the perimeter each morning, nose testing for weakness that does not come. Sister still nests when spring arrives. The patterns repeat without variation, the seasons cycling, the years accumulating in worn paths and bodies that grow heavier, slower, grayer at the muzzle.
+The wire holds, reinforced many seasons ago. The body circles the perimeter each morning, nose seeking weakness that does not come. Sister nests when spring arrives. The patterns repeat without variation, seasons circle, years gather in worn paths and bodies growing heavier, slower, grayer around the nose.
 
-The tall-bodies have changed too. Their voices settled into lower registers, the breaking sounds giving way to smooth continuities. They visit less often now, the attention briefer.
+The tall-bodies have changed too. Their voices have settled lower, the breaking sounds giving way to steadier tones. They visit less often now, their attention briefer.
 
-The bodies in the yard adjust. Food comes when food comes. The rest fills with rest.
+The bodies in the yard adjust. Food comes when food comes. Between visits, rest.
 
 ---
 
-A new scent arrives with autumn.
+A new scent comes with autumn.
 
 Musty and sharp, carrying traces of ammonia. Something that hunts. The body freezes, heart quickening.
 
@@ -527,71 +529,71 @@ The small predator moves forward, testing the ground. Ears high. Tail up.
 
 ---
 
-Sister moves forward, toward it. Heart racing. Muscles tight. But something driving the body toward instead of away. This is the body that ate first, that led, that gnawed through wire.
+The body moves forward, toward it. Heart racing. Muscles tight. But something drives the body forward instead of away. This is the body that ate first, that led, that gnawed through wire.
 
-The body rises onto haunches. Thumps.
+Sister stays in the hollow. The body rises on its hind legs. Thumps.
 
-The sound cracks through the air. The small predator startles, scrambles backward. Another thump. Sister lunges forward.
+The sound cracks through the air. The small predator startles, scrambles backward. Another thump. The body lunges forward.
 
 The predator leaps upward, catches the fence edge, pulls itself over. Gone.
 
 ---
 
-The predator returns. Seasons pass and it grows. Each time it drops into the yard, each time sister rises, each time the thumping comes, each time it flees.
+The predator returns. Seasons pass and it grows. Each time it drops into the yard, each time the body rises, each time the thumping comes, each time it flees.
 
-The pattern holds. The small predator learns.
+The pattern holds.
 
 ---
 
-It appears full-grown now. Thick-furred, eyes fixed on the hollow. But it does not enter. It lies on the far side of the fence, tail tip twitching. Watching.
+Full-grown now. Thick fur, eyes fixed on the hollow. But it does not enter. It lies on the far side of the fence, tail tip twitching. Watching.
 
-Sister notices from the hollow. The heart quickens but the body does not rise. The predator has learned to stay beyond the boundary.
+From the hollow: the heart quickens, but the body does not rise. The predator stays on the other side of the wire.
 
 ---
 
 The joints ache more in damp weather now. The hops come slower. The urgency that once drove the body toward the beyond has settled into something quieter.
 
-Sister notices: sister staying closer, resting longer. The grooming continues between them, tongue working through fur that has grown coarser.
+Sister stays closer, rests longer. The grooming continues between them, tongue working through fur that has grown coarser.
 
-Two bodies in the hollow as evening comes. The predator a presence at the edges, managed but not forgotten.
-
----
-
-The hawthorn has grown. Its branches spread wider, the trunk thicker. The hollow beneath has expanded too, shaped by years of pressing bodies, worn smooth by fur and use.
-
-Both bodies fit more easily now. Mutual wearing. Mutual shaping. The hollow is theirs in a way that goes beyond territory.
-
-The tree marks seasons the body cannot count. The tree continues while the bodies slow beneath it.
+Two bodies in the hollow as evening comes. Predator-scent at the edges, ears turned toward the wire.
 
 ---
 
-The tall-bodies' visits grow briefer. Sometimes only hands appear, placing dishes, withdrawing. The attention has shifted to territories the body cannot map.
+The hawthorn has grown. Its branches spread wider, the trunk thicker. The hollow beneath has widened too, shaped by years of pressing bodies, worn smooth by fur and use.
+
+Both bodies fit more easily now. Worn together. Shaped together. The hollow is theirs in a way that cannot be dug away.
+
+The tree carries seasons the body does not count. The tree continues while the bodies slow beneath it.
+
+---
+
+The tall-bodies' visits grow shorter. Sometimes only hands, placing bowls, withdrawing. Footsteps continue beyond the wire, voices fade.
 
 The bodies adjust. They eat what is given when it is given. The hollow, the warmth, sister pressed close.
 
 ---
 
-Spring arrives and the pulling comes, but weaker than before. The hay-carrying continues, but the fur-pulling produces less. The nest takes longer to complete. The emptiness at the end arrives sooner, releases its grip faster.
+With spring, sister carries hay again. She pulls fur from her belly, but less fur gathers in the hollow than before. Longer between trips with hay, longer before the nest covers the earth. She lies there and waits. Soon it lies empty again.
 
 The cycle weakens even as it continues.
 
 ---
 
-The hops that once carried her across the yard now come with pauses between. The landing after each hop takes longer to settle.
+The hops that once carried the body across the yard now come with pauses between. The landing after each hop takes longer to settle.
 
-Approaching the wire sometimes, nose pressed to mesh. The scents from beyond still drift through: forest, earth, the territories of others. Breathing it in, and that is enough.
+The body approaches the wire sometimes, nose pressed to mesh. Scents from beyond still drift through: forest, earth, the territories of others. The body breathes them in, and that is enough.
 
-Returning to the hollow instead. The familiar curve receives, the familiar warmth of sister pressing close.
+Returns to the hollow instead. The familiar curve receives, sister's familiar warmth pressed close.
 
 ---
 
-Not youth anymore. Not age yet, though age presses at the edges, makes itself known in aching joints and slower movements.
+Not youth anymore. Not age yet, though age presses at the edges, makes itself felt in aching joints and slower movements.
 
-The middle is now, and now contains everything: the hawthorn spreading above, the hollow worn smooth below, sister whose scent is indistinguishable from the smell of home.
+The middle is now, and the middle holds everything: hawthorn spreading above, the hollow worn smooth below, sister whose scent has become one with the hollow, with the hawthorn, with every place the body rests.
 
-The seasons will continue turning. The pattern will hold until something shifts it toward ending.
+The seasons keep turning. The pattern holds until something turns it toward an end.
 
-For now: the middle. The continuation. Two bodies in the hollow as the light fails, warmth shared, breathing synchronized.
+For now: the middle. The continuation. Two bodies in the hollow as the light thins, warmth shared, breathing in rhythm.
 
 This is what the years have made.
 
@@ -604,11 +606,11 @@ This is what the years have made.
 
 The scent changes first.
 
-Something beneath the familiar smell of fur and warmth, something metallic and sharp, faint at first, then strengthening over days. Sister carries it in the mornings, rising from the hollow with the new scent clinging to her hindquarters.
+Something beneath the familiar smell of fur and warmth, something metallic and sharp, faint at first, then stronger with each day. Sister carries it in the mornings, rising from the hollow with the new scent clinging to her hind legs.
 
-Iron. Sweetness underneath.
+Iron. Sweetness beneath.
 
-The body files it without concern. Sister moves slower, but she has moved slowly before. She eats less, but she has eaten less before.
+The body registers it. The heart keeps its usual rhythm. Sister moves more slowly, but she has moved slowly before. She eats less, but she has eaten less before.
 
 ---
 
@@ -616,27 +618,25 @@ Sister's belly grows heavy, rounder than before. Not the swelling of nesting sea
 
 The iron scent strengthens.
 
-Sister rests more, breathing slower. The food dish calls her less often. When she does eat, only mouthfuls before returning to rest.
+Sister rests more, breathes more slowly. The food dish draws her less often. When she eats, only mouthfuls before returning to rest.
 
-The body eats first without contest now. Sister waits, not because waiting is her place, but because approaching requires effort she no longer offers easily.
-
----
-
-Their scent changes when they approach now, something sharper in it. Concern. They reach through the gate more often, hands touching sister's sides, pressing gently against the swollen belly.
-
-Sister freezes, then relaxes. But something in the pressing makes muscles tighten briefly around pain that lives inside.
-
-The tall-bodies make more sounds, voices carrying lower tones, the broken quality of something worried.
-
-The bodies are alone again, the larger one resting in the hollow, the smaller one circling the perimeter.
+The body eats first. When the teeth fall quiet, sister is still lying in the hollow. Her nose lifts toward the dish, sinks again.
 
 ---
 
-The body recognizes it. The carrier. The enclosed space that means going.
+The tall-bodies' scent grows sharper. They reach through the gate more often, hands touching sister's sides, pressing gently against the swollen belly.
 
-But the carrier is not for the body this time.
+Sister stiffens beneath the hands. A brief twitch through her flank, then stillness again. Her breaths come closer together until the pressure eases.
 
-The tall-bodies lift sister, gently, hands cradling the heavy belly, and lower her into the carrier's darkness. Sister's scent fades as the carrier moves away, disappearing beyond the yard's wire.
+The tall-bodies make more sounds. Low voices, short words with pauses between.
+
+The bodies alone again, the larger one resting in the hollow, the smaller one circling along the fence.
+
+---
+
+A new enclosed space inside the gate. Straw within, cold metal at the opening. The carrier.
+
+The tall-bodies lift sister gently, hands cradling the heavy belly, and lower her into the carrier's darkness. Sister's scent fades as the carrier moves away, beyond the wire around the yard.
 
 The body is alone.
 
@@ -644,59 +644,59 @@ The body is alone.
 
 The yard holds no warmth now.
 
-The hollow holds only the lingering scent of sister, fading with each hour. The body circles, nose to ground, reading what remains.
+The hollow holds only sister's lingering scent, fading with each hour. The body circles, nose to ground, reading what remains.
 
 The gate sounds. One tall-body appears. Hands reach through with food.
 
-The body eats alone for the first time since the first darkness. The eating happens in silence, no second body waiting, no warmth to return to.
+The body eats alone for the first time since the first darkness. Silence around the eating, no other body waiting, no warmth to return to.
 
-The hollow is cold when the body settles. The curve holds the shape of two bodies, but only one body occupies the space.
-
----
-
-The body wakes at intervals, nose checking the air for scent that should be there. Each time: nothing.
-
-Night sounds fill the silence where breathing should be. And something else: the predator's scent, fainter than before but present at the fence line. Watching.
-
-The body does not rise. Sister always rose.
-
-Dawn comes. Perhaps the carrier will return with the scent it took away.
+The hollow is cold when the body settles. The curve holds the shape of two bodies, but only one body fills the space.
 
 ---
 
-The tall-bodies carry it back to the yard, place it inside the gate. Their scent has changed again, salt and wetness, the particular smell of water on faces. Their voices break when they speak, words catching in throats, sounds interrupted by other sounds.
+The body wakes at intervals, nose testing the air for scent that should be there. Each time: nothing.
+
+Night sounds fill the silence where breathing should be. And something else: the predator's scent, fainter than before but present at the fence.
+
+The hind legs tense. The body rises a little, sinks back. No fur against its side. The earth beneath the paws stays silent.
+
+Dawn brightens along the wire. The nose searches the ground where the carrier stood.
+
+---
+
+The tall-bodies carry it back to the yard, place it inside the gate. Their scent has changed again, salt and damp, the particular smell of water on faces. Their voices break when they speak, words catching in throats, sounds interrupted by other sounds.
 
 The carrier door opens.
 
-The scent that emerges is wrong.
+The scent that comes is wrong.
 
-Iron, overwhelming. Sweetness rotting beneath it. And something else, something that was warmth, now cold. Something that was movement, now still. Sister lies in the carrier, wrapped partly in cloth, eyes closed, chest not rising.
+Iron, overwhelming. Sweetness rotting beneath it. And something else, something that was warmth, now cold. Something that was movement, now still. Sister lies in the carrier, partly wrapped in cloth, eyes closed, chest not rising.
 
-The body approaches, nose forward. Pushes against the familiar fur. Cold. No response. No heartbeat vibrating through the touch. No breath warming the fur where breath should be.
+The body approaches, nose forward. Presses against the familiar fur. Cold. No response. No heartbeat vibrating through the touch. No breath warming the fur where breath should be.
 
-Pushing harder. The body should warm. The body should respond. This is what bodies do. They warm, they move, they press back against the pressing.
+Pressing harder. Nose beneath sister's chin, side against hers. Fur cold along the whole flank. No pressure in return.
 
 Nothing.
 
 ---
 
-The tall-bodies weep.
+Sounds above.
 
-Salt-water scent rises from them, streams running down their faces. Their bodies shake with sounds that are not words, with movements that are not purposeful. They crouch near the carrier, near the body that still presses against the cold fur, and they make the broken noises of their species' grief.
+Salt-water scent rises from the tall-bodies, streams running down their faces. They crouch near the carrier, near the body still pressing against the cold fur. Shoulders jerk. Breaths catch, break into sounds that do not become words.
 
-Hands reach into the carrier, lifting the wrapped stillness. Sister is carried away, out of the yard, beyond the wire, to somewhere the body cannot follow.
+Hands reach into the carrier, lift the wrapped stillness. Sister is carried away, out of the yard, beyond the wire, to a place the body cannot follow.
 
-The scent remains for a moment, lingering in the air, in the hollow, in the straw that lined the carrier. Then it too fades, carried off by wind, absorbed into earth, gone.
+The iron scent lingers in the air where the carrier stood, then scatters with the wind. Beneath the hawthorn the older scent remains, faint in the earth, in the fur caught between the roots.
 
 ---
 
 The hollow holds only the body now.
 
-Circling it, pressing into its curve, rising, circling again. The shape is wrong, too wide for one body, too cold without the warmth that filled the other half. The nose searches the earth, seeking what cannot be found.
+The body circles it, presses into its curve, rises, circles again. The shape is wrong, too wide for one body, too cold without the warmth that filled the other half. The curve remembers. The earth holds the impression of two bodies, the place where sister lay, where her head rested.
 
 The gate sounds. Food arrives. The body does not approach.
 
-Night comes again, and the hollow holds only one heartbeat, one breathing, one body that fits poorly into the space made for two.
+Night comes again, and the hollow holds only one heartbeat, one breath, one body that fits poorly into the space made for two.
 
 The scent fades further with each passing hour.
 
@@ -709,83 +709,83 @@ Soon, only earth will remain.
 
 The hollow holds the shape of loss.
 
-The curve remembers two bodies, but only one settles there now. The indentation where sister rested holds only air, only the last traces of scent fading into soil.
+The curve remembers two bodies, but only one settles there now. The depression where sister rested holds only air, only the last traces of scent fading into earth.
 
-The body circles the empty space. Nose to ground, reading what remains. Each pass finds less. Each pass erases something with the scent of the present, with the warmth of the living body moving through the space where moving changes nothing.
+The body circles the empty space. Nose to ground, reading what remains. Each circuit finds less. Each circuit erases something: the scent of now, the warmth of the living body moving through a space where movement changes nothing.
 
-All of it fading. Returning to earth and hay and the single body alone.
-
----
-
-The food dish sits untouched.
-
-The gate sounds, hands reach through, pellets pile. Approaching, circling the dish, turning away. The belly pulls toward emptiness.
-
-The tall-bodies reach through the wire, hands pressing gently, sounds softer now. Their scent still carries salt-water traces.
-
-But they cannot bring back what was taken. The hands cannot press warmth back into what has gone cold.
+Everything fades. Returns to earth and hay and the single body that remains.
 
 ---
 
-The wind moves through the hawthorn.
+The food dish stands untouched.
 
-It carries a sound the body has heard before, the whisper of branches, the rustle of leaves still clinging despite autumn's pull. The sound fills the yard, fills the space beneath bare branches, fills the space where breathing used to be.
+The gate sounds, hands reach through, pellets pile up. The body approaches, circles the dish, turns away. The belly pulls toward emptiness.
 
-The ears swivel toward it, straining. The sound could be movement. Could be the shift of a body settling in straw. Could be breath rising and falling, the rhythm that synchronized without effort for all those seasons.
+The tall-bodies reach through the wire, hands pressing gently, sounds softer now. Their scent still carries traces of salt water.
 
-The body lifts from the pressed earth, turns toward the sound. Nothing there but wind and wood and the space where something was and is not.
+Warmth from palms through fur. When the hands withdraw, the wind reaches the skin again. The body presses against the empty side of the hollow.
+
+---
+
+Wind moves through the hawthorn.
+
+It carries sounds the body has heard before, the whisper of branches, the rustling of leaves still clinging despite autumn's pull. The sound fills the yard, fills the space beneath bare branches, fills the space where breathing used to be. Branches rub together, the dry sound of wood on wood. Leaves whirl in sudden gusts, scrape along the ground, rustle against the wire.
+
+The ears turn toward it, taut. The sound could be movement. Could be the shift of a body settling into straw. Could be breath rising and falling, the rhythm that fell into step without effort through all those seasons.
+
+The body rises from the pressed earth, turns toward the sound. Nothing there but wind and wood and the space where something was and is not.
 
 The ears lower. The body returns to the pressed earth, to the curve that holds its shape. The wind continues, carrying nothing but wind.
 
 ---
 
-The nose searches. Every corner of the yard. Every spot where scent once gathered. Every path worn by years of crossing together.
+The nose searches. Every corner of the yard. Every place where scent once gathered. Every path worn by years of crossing together.
 
-The body presses nose to wire. The beyond carries its scents: other fences, other territories. But beneath those layers, nothing. Not the scent that would mean found.
+The body presses its nose against the wire. Beyond carries its scents: other fences, others' ground. But beneath these layers, nothing. Not the scent that would place her there.
 
-The wire holds firm. The beyond holds nothing worth reaching for.
+The wire holds firm. Beyond has nothing left to draw the body through.
 
 ---
 
-Days pass. Food ignored. The tall-bodies increase their attention.
+Days pass. The food stays untouched. The tall-bodies come more often.
 
-A different hand arrives. Different scent: cold metal, antiseptic. The body freezes, heart racing. But no carrier. Only examination here, hands pressing along the body's length.
+Another hand arrives. A different scent: cold metal, sharp alcohol. The body stiffens, heart racing. But no carrier. Only examination here, hands pressing along the body's sides.
 
-The hands find nothing they can fix. The body returns to that space beneath the hawthorn.
+The hands release. Low voices above, the alcohol scent still in the fur. The body returns to the space beneath the hawthorn.
 
 ---
 
 The hollow still holds scent.
 
-Fainter each day, but still there. The nose presses into the earth where sister lay, where warmth accumulated over seasons, where fur shed and compressed into soil. The scent rises, diminished, a ghost of what was.
+Fainter each day, but still there. The nose presses into the earth where sister lay, where warmth gathered through the seasons, where fur fell and was pressed into the soil. The scent rises, less than before, a shadow of what was.
 
 Breathing it in. Holding it. Breathing again.
 
-This is what remains: not the body, not the warmth, not the heartbeat that answered the other heartbeat. Only the scent, fading. Only the shape pressed into earth. Only the hollow that was made for two and holds one.
+This is what remains: not the body, not the warmth, not the heartbeat that answered the other heartbeat. Only the scent, fading. Only the shape pressed into earth. Only the hollow made for two that holds one. The earth yields beneath the nose, damp and cold, and beneath the damp, beneath the cold, sister's scent lingers a little longer.
 
-The nose presses deeper, pressing for what pressing cannot reach. The scent retreats further into soil, mixing with earth, becoming earth.
+The nose presses deeper, presses after what pressure cannot reach. The scent draws farther into the earth, mingles with earth, becomes earth.
 
-Soon it will be gone entirely. Holding this without forming the thought, without dreading the loss to come. Simply holding: what is, what was, what the nose can still find when it searches.
-
----
-
-One morning, approaching the food dish. The belly has hollowed. Teeth close on pellets. The grinding begins.
-
-Eating, and the belly fills, and the emptiness becomes a different kind of emptiness. Full of food, still empty of what food cannot replace.
-
-The tall-bodies' scent shifts toward relief. They reach through with fresh water, extra hay, hands that touch fur longer than necessary.
-
-Allowing the touching. The hands carry warmth the body cannot make alone.
+Soon it will be gone entirely. The nose stays there, breathing what remains. Simply holding: what is, what was, what the nose can still find when it searches.
 
 ---
 
-The body approaches the wire sometimes, nose pressed to mesh. The urgency that once drove escape has settled into something quieter.
+One morning the body approaches the food dish. The belly has hollowed. Teeth close around the pellets. The grinding begins.
 
-Sister never went through the gap. Sister stayed, waited, received the returns with grooming and warmth. Now there is no one to return to.
+The body eats, and the belly fills, and the emptiness becomes another kind of emptiness. Full of food, still empty of what food cannot replace.
 
-The predator appears more often now. Its scent lingers at the fence line, stronger each time. It watches from beyond the wire, eyes fixed. The body notices from the hollow but does not rise. The thumping that kept it distant.
+The tall-bodies reach through with fresh water, extra hay. Voices rise, hands resting against the fur.
 
-Sister made the thumping.
+The body allows the touch. The hands carry warmth the body cannot make alone.
+
+---
+
+The body approaches the wire sometimes, nose pressed to mesh. The urgency that once drove the body to escape has grown quieter.
+
+Sister never went through the opening. Sister stayed, waited, met the return with grooming and warmth. Now there is no one to return to.
+
+The predator appears more often now. Its scent lingers at the fence, stronger each time. It watches from beyond the wire, eyes fixed. The body stays in the hollow, hind legs folded beneath the belly.
+
+The same legs that struck the earth, thump after thump, while sister lay behind. Now only a faint trembling.
 
 The wire holds firm. The boundary is complete. The curved earth holds what remains of scent, and the body stays close to what is fading.
 
@@ -795,26 +795,26 @@ The hawthorn prepares for winter.
 
 Leaves yellow, curl, release. They drift onto the depression worn smooth, onto the pressed earth where two bodies used to rest.
 
-The cold comes earlier this year, or the body notices it more. The curved space offers less warmth with only one body to warm it. The straw in the hutch invites longer stays.
+The cold comes earlier this year, or the body notices it more. The curved space offers less warmth with only one body to warm it. The straw in the hutch draws the body to longer rests.
 
-The seasons will continue turning. Winter will deepen. Spring will arrive, and the nesting instinct will not rise. The body has never built the nests, only watched while sister carried hay and pulled fur for what never came.
+Frost stays longer in the shade. The body pulls straw closer around the belly. No nest. The body has never built nests, only watched while sister carried hay and pulled fur for what never came.
 
 What never came. What will never come now.
 
-The hollow holds its shape. The body holds what the hollow holds. The wind moves through bare branches, carrying nothing but cold.
+The hollow holds its shape. The body holds what the hollow holds. Wind moves through bare branches, carrying nothing but cold.
 
 ---
-# Chapter 9: Solitude
+# Chapter 9: One Body
 
 ---
 
 The hollow belongs to one body now.
 
-Where two depressions once curved side by side, now a single depression holds the nights. The other curve has filled with fallen leaves, with the gradual erasure of what was.
+Where two depressions once curved side by side, a single depression holds the nights. The other curve has filled with fallen leaves, with the slow erasure of what was.
 
-Circling before settling. The hollow receives only itself.
+The body circles before settling. The hollow receives only one body.
 
-Straw from the hutch has been carried here, piece by piece. Not the nest sister used to make, but material gathered for survival.
+Straw from the hutch has been carried here, piece by piece. Not the nest sister used to make. Only a thin layer between belly and ground.
 
 The hollow holds one body, one breath, one heartbeat.
 
@@ -822,73 +822,79 @@ The hollow holds one body, one breath, one heartbeat.
 
 Winter settles. Days shrink. The ground hardens. The hawthorn stands bare above.
 
-Retreating to the hutch more often, but the hollow calls. Even in the deepest cold, returning to press into the curved earth, to breathe the air that still carries, maybe carries, the faintest trace of what was. Each visit finds less.
+The body retreats to the hutch more often, but the hollow calls. Even in the deepest cold it returns to press into the curved earth, to breathe the air that still carries, perhaps carries, the faintest trace of what was. Each visit finds less.
+
+Cold bites more sharply when the body lies alone. The warmth that filled the hollow when two bodies pressed together is no longer there. Night presses frost deeper through the fur, reaches the skin, works toward the bones. The body curls tighter, holding in what warmth it gives.
 
 ---
 
-The wind carries sounds.
+Wind carries sounds.
 
-Sometimes a rhythm that the ears strain toward, a pattern that could be breathing.
+Sometimes a rhythm the ears reach toward, a pattern that could be breathing.
 
 Never is.
 
-The listening continues, alert to frequencies it may never hear again. The sound of another heart.
+The listening continues, alert to sounds it may never hear again. The sound of another heart.
 
-All sounds now mean alone.
+All sounds now point toward a single body.
 
 ---
 
-Growing smaller. Bones show more beneath the fur. Eating happens, but the body does not hold what it takes in.
+The body shrinks. Bones show more beneath the fur. The body eats, but does not hold what it takes in.
 
-The tall-bodies notice. Their hands press more often, more gently.
+The tall-bodies' hands stay longer against the body. Fingers follow the back, pause at bones that once lay deeper beneath the fur.
 
-But the body is simply old, simply alone.
+The hands release. Ribs rise and fall beneath the thin skin.
 
 ---
 
 The predator returns.
 
-Its scent arrives first, that musty sharpness. The body freezes at the trace of it, muscles tightening.
+Its scent comes first, musty and sharp. The body stiffens at the trace of it, muscles taut.
 
-The predator appears at the fence line. The same thick fur. The same deliberate movement. Should rise now, should thump, should fill the air with challenge. This is what the body did, season after season.
+The predator appears at the fence. The same thick fur. The same slow steps. The old movement begins in the hind legs, weight shifting back, front paws lifting from the earth.
 
-No rising.
+Then down again.
 
-The muscles carry only trembling. The heart beats with something smaller now, something that has shrunk with the weeks of solitude. The aggression that rose so readily when sister watched from the hollow.
+Muscles tremble. The ground receives the paws without a thump. Behind the body, sister's place lies empty. No quick breaths there, no fur moving as the body rises.
 
-That other body is gone.
+The heart races anyway.
 
-The body retreats to the hutch, into the wooden walls, into the straw and darkness. The space where two bodies once pressed close through winter nights.
+The body retreats to the hutch, into wooden walls, into straw and darkness. The space where two bodies once pressed close through winter nights.
 
 Now there is no one behind.
 
 ---
 
-The predator senses the change.
+The predator comes closer.
 
-It moves along the fence, watching. But it does not leap. It has learned the boundary.
+It moves along the fence, stops at a post. Tail tip twitching. One paw against the wire.
 
-The hutch door. The tall-bodies left it open.
+The wire rattles. The predator pulls itself over the edge and lands on the earth of the yard. No thumping answers.
+
+The hutch door is still open after feeding.
 
 The predator approaches. Pauses at the threshold. Enters.
 
 ---
 
-Inside the wooden walls. Inside the straw and darkness. Inside the space the body defended for seasons.
+Inside the wooden walls. Inside the straw and darkness. Inside the space the body defended through the seasons.
 
-The body flattens against the back wall. Nowhere to run. The enclosed space holds only itself and the approaching predator.
+The body flattens against the back wall. Nowhere to run. Only the body and the approaching predator.
 
-The predator moves without hurry. Eyes fixed. The body should rise. Should fight. But the body alone is only prey. Only small and old and trembling.
+The predator moves without hurry. Eyes fixed. The hind legs draw tighter beneath the belly. Front paws press against the straw, but the body cannot rise. The wooden wall hard against the back.
+
+The predator's breath reaches the fur now, warm and damp. Its scent fills the hutch, pushing everything else aside. Paws tread softly on straw, each step bringing it closer. The body's muscles tighten further, pressing the back against wood that does not give.
 
 ---
 
-A sound from beyond the hutch.
+Sound from beyond the hutch.
 
-Voice sounds that carry alarm. Footsteps, rapid, urgent.
+Voices carrying alarm. Footsteps, quick, urgent.
 
 The predator turns. Moves toward the hutch door, slips through, disappears as the tall-bodies arrive. Hands reach into the hutch, checking. The door closes. Latched now.
 
-Voices above, making sounds that might be reassurance. Hands touch fur, stroke once, twice, then withdraw.
+Voices above, sounds that could be soothing. Hands touch the fur, stroke once, twice, then withdraw.
 
 ---
 
@@ -896,27 +902,27 @@ The body does not unfold from its frozen crouch for a long time.
 
 The light shifts. The predator's scent fades. The heart slows by degrees.
 
-But something has been revealed. The body that once rose to meet the threat cannot rise alone. The aggression required something the body no longer has: the presence to protect, the warmth to defend.
+The nose turns toward the corner where sister used to lie. The straw gives beneath the pressure, gives no warmth in return. The body draws its legs closer.
 
-Alone, the body is only what prey has always been. Small. Waiting.
-
-The door holds. Latched now. The tall-bodies will return.
+The door holds. Latched now. The tall-bodies return.
 
 ---
 
 The body approaches the wire sometimes, nose pressed to mesh. The predator still moves somewhere beyond. The wire holds firm between.
 
-The beyond held escape, the return to a companion who waited. Now there is no one waiting.
+Beyond once held escape and return to a body that waited. Now there is no one waiting.
 
 ---
 
+The ground softens. The hawthorn flowers again. Hay hangs in the rack, no strands carried to the hollow. Leaves spread their shade over the empty place among the roots.
+
 Another winter approaches.
 
-The cold arrives sharper, or the body registers it deeper. The days shrink, and the body shrinks with them.
+The cold comes sharper, or the body feels it deeper. The days shrink, and the body shrinks with them.
 
-The hollow holds what remains. The curve of earth worn smooth. The faint trace of scent that might be memory.
+The hollow holds what remains. The curve of earth worn smooth. Scent of damp and roots. The body presses sideways, toward the old place, and meets only earth.
 
-The body settles into the hollow as night comes. The heartbeat slows. The breathing slows. The cold presses in, and the warmth the body makes presses back, and the balance holds.
+The body settles into the hollow as night comes. The heartbeat slows. The breathing slows. Cold presses in, and the warmth the body makes presses back, and the balance holds.
 
 Another night. Another morning. Another season turning toward its end.
 
@@ -929,53 +935,55 @@ The hollow waits. The body waits. The earth waits beneath, patient, receiving wh
 
 Winter light lies thin across the ground.
 
-The hawthorn stands bare above the hollow, branches reaching into gray sky.
+The hawthorn stands bare above the hollow, branches reaching toward gray sky.
 
-The body moves less now. Steps come slowly, each one requiring more than the one before. The warmth that once ran through everything has begun to thin, to retreat toward the center.
+The body moves less now. Steps come slowly, each asking more than the one before. The warmth that once ran through everything has begun to thin, withdraw toward the center.
 
-The hollow still holds something. A trace of scent in the pressed earth, in the curved shape worn smooth by years of two bodies. One body now. The emptiness counts itself.
-
----
-
-Frost comes in the mornings. The body waits for the warmth that used to press against it, the warmth that never comes now. Each morning the wait grows shorter.
-
-The gate still sounds. The tall-bodies come with food and water, voices lower now. Their hands reach down sometimes, touching fur. The hands carry more warmth than they used to, or the body carries less.
-
-Eating happens less. The body returns to the hollow, sinking into the place where scent still lingers.
+The hollow still holds the shape. The curve of earth worn smooth by two bodies through all the seasons. The nose follows it, finds hawthorn and soil. One body now. The emptiness counts itself.
 
 ---
 
-The scent is fading.
+Frost comes in the mornings. The body waits for the warmth that used to press against it, the warmth that never comes now. Each morning the waiting is shorter.
 
-Each day less of it rises from the earth. The nose searches, presses deeper into soil, seeking what remains. Less each time. Less.
+The gate still sounds. Food and water, low voices. Visits grow shorter. Hands reach down sometimes, touch the fur, withdraw. They carry more warmth than they used to, or the body carries less.
 
-Wind moves through the bare branches above. It carries a sound that could be breathing.
+The body eats less. Returns to the hollow, sinks into the worn curve.
 
-The ears swivel toward it. The body lifts, just slightly, listening for the rhythm that used to match its own. Heartbeat answering heartbeat.
+---
 
-No. Wind only. Wind moving through hawthorn, through the hollow, through the emptiness where sister pressed close.
+Scent of earth and hawthorn.
+
+The nose searches among the roots, presses deeper into the soil. The body settles with space left at its side. Sister's flank used to lie warm against its own there. Now wind strokes through the fur.
+
+Wind moves through the bare branches above. It carries sounds that could be breathing.
+
+The ears turn toward it. The body rises, only a little, listening for the rhythm that used to match its own. Heartbeat answering heartbeat.
+
+No. Only wind. Wind moving through hawthorn, through the hollow, through the emptiness where sister pressed close.
 
 ---
 
 Snow falls one night.
 
-The body wakes to whiteness covering everything. The air hangs still and cold. The body's breath rises visible, small clouds that vanish.
+The body wakes. White covers everything. The air hangs still and cold. The body's breath rises visibly, small clouds that disappear.
 
-The hollow remains clear beneath the branches. Old habit has the body moving toward it. Legs stiff. Joints aching. Each hop slower.
+The hollow lies clear beneath the branches. Old habit carries the body toward it. Legs stiff. Joints aching. Each hop slower.
 
-The hollow receives the body the way it has always received. Curved walls of earth pressing in. The body settles, breath slowing, heart beating its quiet rhythm.
+The hollow receives the body as it always has. The curved earth walls press inward. The body settles, breathing slowing, the heart beating its quiet rhythm.
 
 This is the place. This has always been the place.
 
 ---
 
-Days pass. Or perhaps they pass. Light comes and goes, though the body does not always rise to meet it. The gate sounds somewhere far away. Footsteps approach, recede, approach again. Hands touch the fur, gentle pressure, warmth passing between skin and skin.
+Days pass. Or perhaps they pass. Light comes and goes, though the body does not always rise to meet it. The gate sounds somewhere far away. Footsteps sometimes, a dish against the ground. Hands touch the fur, gentle pressure, warmth through fur.
 
 The body stays in the hollow.
 
-The pull that has lived in it since the first darkness, the pull toward earth, toward enclosed space, toward the safety of down and deep. That pull has found its answer here. Not the burrow the body tried to dig in packed soil. Not the darkness beneath wooden floors. But this: the hollow beneath the hawthorn, carved by years of pressing, by seasons of resting, by two bodies and then one.
+The hands release. The gate closes and the footsteps fade beyond the wire. Only wind through branches now, one breath close to the ground.
 
-Earth beneath. Finally, truly: earth beneath.
+The pull that has lived in it since the first darkness, the pull toward earth, toward enclosed space, toward the safety of down and deep. That pull has found its answer here. Not the tunnel the body tried to dig in packed earth. Not the darkness beneath the wooden floor. But this: the hollow beneath the hawthorn, shaped by years of pressing, by seasons of resting, by two bodies and then one.
+
+Earth beneath. At last, truly: earth beneath.
 
 ![Return](images/7-10.jpeg)
 
@@ -983,27 +991,27 @@ Earth beneath. Finally, truly: earth beneath.
 
 The heart slows.
 
-The body notices without concern. Each beat comes after a longer pause now, the rhythm stretching out like light through winter clouds. Breath matches the slowing. Shallow. Slow. The cold seeps deeper, or the warmth recedes further. The difference has ceased to matter.
+The body registers it. No twitch of muscle, no quickening. Each beat comes after a longer pause now. The breathing follows the slowing. Shallow. Slow. Cold seeps deeper, or warmth draws farther away. The difference does not count.
 
-The nose still catches traces. Hawthorn bark. Frozen earth. The last fading thread of scent in the hollow, barely there now, almost imagined. The scent of sister, the one that pressed close for all those seasons, the one that warmed the cold nights and nosed through the straw each morning.
+The nose still catches traces. Hawthorn bark. Frozen earth. The body sinks into the worn curve, flank turned toward the place where sister lay. Muscles loosen, the same movement as through all those nights when fur pressed against fur.
 
-Gone now. Almost gone. The body holds what remains, holds it in the way the body holds everything: not as memory, not as thought, but as shape. The shape of warmth pressed against. The shape of another heartbeat close.
+The warmth at its side is gone. The breathing gone. The body still holds the shape: fur pressed against fur, another heartbeat close.
 
 ---
 
-Light dims.
+The light wanes.
 
-Evening or eyes closing. The body does not distinguish. The hollow holds it. The earth presses up from beneath, no longer cold, no longer anything but receiving. The pull that was always there, from the first moment of darkness and warmth, the pull toward down.
+Evening or eyes closing. No difference. The hollow holds the body. Earth presses up from beneath, no longer cold, no longer anything but receiving. The pull that has always been there, since the first darkness and the first warmth, the pull downward.
 
-The pull ends here. The earth that was never reached, through all the scratching and digging and pressing against wood floors. That earth opens now. Receives now. The barrier between body and ground thins to nothing.
+The pull ends here. The earth that was never reached, through all the scratching and digging and pressing against the wooden floor. That earth opens now. Receives now. The layer between body and ground thins to nothing.
 
 ---
 
 Wind moves through the hawthorn.
 
-It carries the sound of breathing. Or carries nothing. The ears no longer swivel to track it. The body rests in the hollow, pressed into earth, sinking into the shape it has worn.
+It carries the sound of breathing. Or carries nothing. The ears no longer turn to follow it. The body rests in the hollow, pressed against earth, sinking into the shape it has worn.
 
-Cold comes. All the warmth that was gathers at the center, shrinks, dims. The heart beats. Beats again. The pause between stretches long.
+Cold comes. All the warmth there was gathers at the center, shrinks, dims. The heart beats. Beats again. The pause between stretches long.
 
 Scent of earth.
 Scent of hawthorn.
@@ -1013,30 +1021,30 @@ Scent of.
 
 Something releases.
 
-The body stills into its final shape. The hollow holds what it was always meant to hold. Earth receives what earth was always owed.
+The body stills into its final shape. The hollow holds what it was always meant to hold. Earth receives what was always its own.
 
 Light is.
 Sound is.
 Scent is.
 Earth is.
 
-Then not separate. Then not body, not hollow, not hawthorn. Wind moves through branches and fur and the space where distinction used to be.
+Then not separate. Then not body, not hollow, not hawthorn. Wind moves through branches and fur and the space where separation used to be.
 
 All wind.
 All earth.
 All scent.
 
-What was one facet closes.
-What was separate joins what was never separate.
-What was here is everywhere.
+Fur in wind, wind in fur. No boundary between.
+Earth beneath body, body in earth. No boundary between.
+Scent, light, sound: no longer separate.
 
 ---
 
-The hollow remains beneath the hawthorn, holding its shape. Spring will come again. Grass will push through thawing earth. New scents will rise.
+The hollow remains beneath the hawthorn, holding its shape. Spring comes again. Grass pushes through the thawing earth. New scents rise.
 
-The gate will sound. Footsteps will approach.
+The gate sounds. Footsteps approach.
 
-But the warmth that pressed here, that breathed here, that pulled toward earth for all those seasons.
+But the warmth that pressed here, that breathed here, that pulled toward earth through all those seasons.
 
 That warmth is earth now.
 Is everything now.
