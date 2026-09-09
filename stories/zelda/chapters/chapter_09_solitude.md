@@ -1,14 +1,14 @@
-# Chapter 9: Solitude
+# Chapter 9: One Body
 
 ---
 
 The hollow belongs to one body now.
 
-Where two depressions once curved side by side, now a single depression holds the nights. The other curve has filled with fallen leaves, with the gradual erasure of what was.
+Where two depressions once curved side by side, a single depression holds the nights. The other curve has filled with fallen leaves, with the slow erasure of what was.
 
-Circling before settling. The hollow receives only itself.
+The body circles before settling. The hollow receives only one body.
 
-Straw from the hutch has been carried here, piece by piece. Not the nest sister used to make, but material gathered for survival.
+Straw from the hutch has been carried here, piece by piece. Not the nest sister used to make. Only a thin layer between belly and ground.
 
 The hollow holds one body, one breath, one heartbeat.
 
@@ -16,73 +16,79 @@ The hollow holds one body, one breath, one heartbeat.
 
 Winter settles. Days shrink. The ground hardens. The hawthorn stands bare above.
 
-Retreating to the hutch more often, but the hollow calls. Even in the deepest cold, returning to press into the curved earth, to breathe the air that still carries, maybe carries, the faintest trace of what was. Each visit finds less.
+The body retreats to the hutch more often, but the hollow calls. Even in the deepest cold it returns to press into the curved earth, to breathe the air that still carries, perhaps carries, the faintest trace of what was. Each visit finds less.
+
+Cold bites more sharply when the body lies alone. The warmth that filled the hollow when two bodies pressed together is no longer there. Night presses frost deeper through the fur, reaches the skin, works toward the bones. The body curls tighter, holding in what warmth it gives.
 
 ---
 
-The wind carries sounds.
+Wind carries sounds.
 
-Sometimes a rhythm that the ears strain toward, a pattern that could be breathing.
+Sometimes a rhythm the ears reach toward, a pattern that could be breathing.
 
 Never is.
 
-The listening continues, alert to frequencies it may never hear again. The sound of another heart.
+The listening continues, alert to sounds it may never hear again. The sound of another heart.
 
-All sounds now mean alone.
+All sounds now point toward a single body.
 
 ---
 
-Growing smaller. Bones show more beneath the fur. Eating happens, but the body does not hold what it takes in.
+The body shrinks. Bones show more beneath the fur. The body eats, but does not hold what it takes in.
 
-The tall-bodies notice. Their hands press more often, more gently.
+The tall-bodies' hands stay longer against the body. Fingers follow the back, pause at bones that once lay deeper beneath the fur.
 
-But the body is simply old, simply alone.
+The hands release. Ribs rise and fall beneath the thin skin.
 
 ---
 
 The predator returns.
 
-Its scent arrives first, that musty sharpness. The body freezes at the trace of it, muscles tightening.
+Its scent comes first, musty and sharp. The body stiffens at the trace of it, muscles taut.
 
-The predator appears at the fence line. The same thick fur. The same deliberate movement. Should rise now, should thump, should fill the air with challenge. This is what the body did, season after season.
+The predator appears at the fence. The same thick fur. The same slow steps. The old movement begins in the hind legs, weight shifting back, front paws lifting from the earth.
 
-No rising.
+Then down again.
 
-The muscles carry only trembling. The heart beats with something smaller now, something that has shrunk with the weeks of solitude. The aggression that rose so readily when sister watched from the hollow.
+Muscles tremble. The ground receives the paws without a thump. Behind the body, sister's place lies empty. No quick breaths there, no fur moving as the body rises.
 
-That other body is gone.
+The heart races anyway.
 
-The body retreats to the hutch, into the wooden walls, into the straw and darkness. The space where two bodies once pressed close through winter nights.
+The body retreats to the hutch, into wooden walls, into straw and darkness. The space where two bodies once pressed close through winter nights.
 
 Now there is no one behind.
 
 ---
 
-The predator senses the change.
+The predator comes closer.
 
-It moves along the fence, watching. But it does not leap. It has learned the boundary.
+It moves along the fence, stops at a post. Tail tip twitching. One paw against the wire.
 
-The hutch door. The tall-bodies left it open.
+The wire rattles. The predator pulls itself over the edge and lands on the earth of the yard. No thumping answers.
+
+The hutch door is still open after feeding.
 
 The predator approaches. Pauses at the threshold. Enters.
 
 ---
 
-Inside the wooden walls. Inside the straw and darkness. Inside the space the body defended for seasons.
+Inside the wooden walls. Inside the straw and darkness. Inside the space the body defended through the seasons.
 
-The body flattens against the back wall. Nowhere to run. The enclosed space holds only itself and the approaching predator.
+The body flattens against the back wall. Nowhere to run. Only the body and the approaching predator.
 
-The predator moves without hurry. Eyes fixed. The body should rise. Should fight. But the body alone is only prey. Only small and old and trembling.
+The predator moves without hurry. Eyes fixed. The hind legs draw tighter beneath the belly. Front paws press against the straw, but the body cannot rise. The wooden wall hard against the back.
+
+The predator's breath reaches the fur now, warm and damp. Its scent fills the hutch, pushing everything else aside. Paws tread softly on straw, each step bringing it closer. The body's muscles tighten further, pressing the back against wood that does not give.
 
 ---
 
-A sound from beyond the hutch.
+Sound from beyond the hutch.
 
-Voice sounds that carry alarm. Footsteps, rapid, urgent.
+Voices carrying alarm. Footsteps, quick, urgent.
 
 The predator turns. Moves toward the hutch door, slips through, disappears as the tall-bodies arrive. Hands reach into the hutch, checking. The door closes. Latched now.
 
-Voices above, making sounds that might be reassurance. Hands touch fur, stroke once, twice, then withdraw.
+Voices above, sounds that could be soothing. Hands touch the fur, stroke once, twice, then withdraw.
 
 ---
 
@@ -90,27 +96,27 @@ The body does not unfold from its frozen crouch for a long time.
 
 The light shifts. The predator's scent fades. The heart slows by degrees.
 
-But something has been revealed. The body that once rose to meet the threat cannot rise alone. The aggression required something the body no longer has: the presence to protect, the warmth to defend.
+The nose turns toward the corner where sister used to lie. The straw gives beneath the pressure, gives no warmth in return. The body draws its legs closer.
 
-Alone, the body is only what prey has always been. Small. Waiting.
-
-The door holds. Latched now. The tall-bodies will return.
+The door holds. Latched now. The tall-bodies return.
 
 ---
 
 The body approaches the wire sometimes, nose pressed to mesh. The predator still moves somewhere beyond. The wire holds firm between.
 
-The beyond held escape, the return to a companion who waited. Now there is no one waiting.
+Beyond once held escape and return to a body that waited. Now there is no one waiting.
 
 ---
 
+The ground softens. The hawthorn flowers again. Hay hangs in the rack, no strands carried to the hollow. Leaves spread their shade over the empty place among the roots.
+
 Another winter approaches.
 
-The cold arrives sharper, or the body registers it deeper. The days shrink, and the body shrinks with them.
+The cold comes sharper, or the body feels it deeper. The days shrink, and the body shrinks with them.
 
-The hollow holds what remains. The curve of earth worn smooth. The faint trace of scent that might be memory.
+The hollow holds what remains. The curve of earth worn smooth. Scent of damp and roots. The body presses sideways, toward the old place, and meets only earth.
 
-The body settles into the hollow as night comes. The heartbeat slows. The breathing slows. The cold presses in, and the warmth the body makes presses back, and the balance holds.
+The body settles into the hollow as night comes. The heartbeat slows. The breathing slows. Cold presses in, and the warmth the body makes presses back, and the balance holds.
 
 Another night. Another morning. Another season turning toward its end.
 

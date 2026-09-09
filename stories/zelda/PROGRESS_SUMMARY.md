@@ -26,6 +26,14 @@ chapters are the review material; compiled books and audio are not regenerated.
 Author review of style remains pending. Older revision notes below are historical,
 including the v2.1 claim that the nesting viewpoint had already been fixed.
 
+The English retrotranslation covers all ten chapters, including the Swedish
+sensory additions and quieter phrasing in the early chapters. Chapter 9 is now
+titled "One Body", matching "En kropp"; its existing filename is retained.
+Both languages have received a continuity and voice review, including independent
+bilingual checks. Chapter order, local illustration paths, targeted forbidden
+constructions and whitespace were checked. This is a manuscript and documentation
+change, so no application behavior or automated acceptance tests were changed.
+
 ---
 
 ## Version History

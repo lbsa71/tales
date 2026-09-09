@@ -8,7 +8,7 @@ The body moves differently here, where ground gives beneath weight, where each h
 
 The hawthorn rises from the ground at an angle, bark rough and gray. At its base, where roots push up through packed earth, a hollow has formed. Not deep. Not enclosed. But the closest thing to burrow this ground has offered.
 
-The body approaches, nose lowered. The scent here is complex: bark and earth and old leaves decomposing, layering into something rich. The hollow is shallow, barely deeper than the body is long, but the shape of it calls to something older than memory.
+The body approaches, nose lowered. Scent here in layers: bark and earth and old leaves decomposing, gathering into something rich. The hollow is shallow, barely longer than the body, but its shape stirs something older than memory.
 
 The body circles. Lowers. Presses into the curved space.
 
@@ -36,13 +36,13 @@ The gap remains.
 
 ---
 
-The gap widens over days. Teeth at wire in quiet hours. The strands fray, part.
+The gap widens over days. The body gnaws at the wire in quiet hours. The strands fray, part.
 
 One morning: the gap wide enough. The body approaches, tests it. Through the first gap, then through a second gap in the outer fence. Beyond: trees, leaf litter, forest.
 
-The body moves forward. Scent rises in layers so thick the nose can barely parse them. Nothing here is mapped. Ground soft with fallen leaves. The body moves forward, one hop, then another.
+The body moves forward. Scent rises in layers so thick the nose can barely read them. No familiar trace. Ground soft with fallen leaves. The body moves forward, one hop, then another.
 
-Afternoon. Predator scent, sudden and sharp. Fox. The body knows the category: danger.
+Afternoon. Predator scent, sudden and sharp. Fox. The heart quickens, muscles tightening.
 
 Heart racing. Ears flat. The body runs. Just away.
 
@@ -52,13 +52,13 @@ The body does not sleep.
 
 Dawn arrives. The body emerges, stiff. The nose searches for the scent of the hutch, of the hawthorn, of sister waiting.
 
-The body follows it.
+The body follows the trail.
 
 ---
 
 The fence appears through trees. Beyond it, the hawthorn, and in the hollow, a shape that moves. Sister.
 
-The heart surges. The body pushes through the gap.
+The heart surges. The body pushes through the gaps.
 
 Sister presses close immediately, nose working over every inch of fur, reading the night. Tongue follows, grooming the places where twigs caught.
 
@@ -68,9 +68,7 @@ Settling into the hollow beside sister, bodies fitted together. The trembling sl
 
 The tall-bodies find the gnawed wire.
 
-Their voices carry alarm. They crouch near the hutch's base, fingers probing the severed strands. The hands return with tools. With new wire.
-
-The work takes most of an afternoon. The gnawed gap disappears beneath fresh mesh, tighter than before, buried deeper in soil.
+Their voices carry alarm. They crouch at the bottom of the wire, fingers probing the severed strands. The hands return with tools. With new wire. Metal against metal, the sound of twisting. The work takes most of an afternoon. The gnawed gap disappears beneath fresh mesh, tighter than before, buried deeper in soil.
 
 The body circles the perimeter when the tall-bodies have gone. Nose pressed to wire, to the places where gaps used to form.
 
@@ -80,7 +78,7 @@ The wire holds firm. The boundary is complete again.
 
 No hole. Wall. More wall.
 
-Sister returns to the hollow. Sister waits there, grooming, unconcerned. For her, nothing has changed. The walls were always walls.
+Sister returns to the hollow and settles to groom. Nothing in her movements marks a change. The walls were always walls.
 
 The body settles into the hollow. Sister alongside. The warmth gathers between them.
 
