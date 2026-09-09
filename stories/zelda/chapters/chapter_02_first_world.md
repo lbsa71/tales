@@ -4,7 +4,7 @@
 
 The square stands open.
 
-Light pours through, carrying scents unfamiliar and strange. The body freezes, nose working. Not the close darkness of the nest box, not milk-scent and mother-warmth. Something else entirely.
+Light pours through, carrying scents from outside, sharp and unfamiliar. The body freezes, nose working. Not the close darkness of the nest box, not milk-scent and mother-warmth. Something else entirely.
 
 Sister behind, nose pushed forward, whiskers trembling.
 
@@ -22,7 +22,7 @@ Sister waits behind. She doesn't approach until the first body steps back. Then 
 
 One approaches first, one waits. The order establishes itself.
 
-Hay hangs from a wooden rack. The body stretches upward, teeth catching a strand, pulling it free. Slow grinding. The belly fills differently, not with liquid warmth but with dry substance that sits heavier.
+Hay hangs from a wooden rack. The body stretches upward, teeth catching strands, pulling them free. Slow grinding. The belly fills differently, not with liquid warmth but with a dry weight that settles deeper.
 
 Sister joins, pulling hay from the opposite side. Both eating now.
 
@@ -46,17 +46,17 @@ Then the hands retreat. The gate closes.
 
 The hearts slow. The bodies unfreeze.
 
-The pattern begins: gate sound, then hands, then food, then retreat. The body learns to anticipate the sound, learns that it brings fullness, not danger.
+The pattern begins: gate sound, then hands, then food, then retreat. The body learns the sound. The sound brings fullness, not danger.
 
 ---
 
-Light changes angle through the gaps, higher, then lower, then gone. The body follows these shifts without counting. Bright means active, dim means rest, dark means sister pressed close.
+Light changes angle through the gaps, higher, then lower, then gone. The body follows the shifts. Bright: movement. Dim: rest. Dark: sister pressed close.
 
-A gap between boards carries scents from beyond: earth, grass, living things in open air.
+The nose presses to a gap between boards, seeking scents from beyond: earth, grass, living things in open air.
 
-The nose presses to that gap repeatedly. Earth. The pull toward earth persists, but the gap offers only the scent of it, not the thing itself.
+The nose to the same gap, over and over. Earth. The pull toward earth persists, but the gap offers only scent, never earth itself.
 
-Sister mounts sometimes. Weight pressing down. The body allows it, waits for it to end. The purpose remains absent.
+Sister mounts sometimes. Weight pressing down. The body stays beneath it, waiting until the weight lifts.
 
 ---
 
@@ -68,7 +68,7 @@ The gate sound becomes the only event that breaks the rhythm. Beyond the walls, 
 
 The pulling grows stronger.
 
-Earth scent rises thick today, damp and rich. Rain has fallen somewhere beyond. Paws scratch at the boards near the gap. The wood holds firm. The body scratches harder, instinct driving deeper than the uselessness of the action. Dig. Burrow.
+Earth scent rises thick today, damp and rich. Rain has fallen somewhere beyond. Paws scratch at the boards near the gap. The wood holds firm. The body scratches harder, the pull persisting against the wood. Dig. Burrow.
 
 The gate sounds.
 
@@ -76,7 +76,7 @@ Both bodies freeze. The gate opens. Light pours in, brighter than before. And wi
 
 The gate doesn't close.
 
-A shape stands in the opening, the smaller tall-body. Hands gesture. The opening remains.
+A shape stands in the opening, the smaller tall-body. Hands move. The opening remains.
 
 The body approaches slowly. Nose forward. Ears high.
 

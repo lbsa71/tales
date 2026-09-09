@@ -2,21 +2,21 @@
 
 ---
 
-Darkness first, then warmth.
+Darkness first. Then warmth.
 
-Body pressed against body against body. Many heartbeats, many rhythms of breathing. The small space full of us, the pile shifting as bodies squirm toward center warmth. Milk-scent surrounding everything.
+Body pressed against body against body. Many heartbeats, many rhythms of breathing. The small space full of us, the pile shifting as bodies squirm inward, toward the warmth. Milk-scent surrounding everything. Fur against fur, warm and soft, each breath heavy with the others' scent.
 
-Wood beneath. Not earth, though earth is what pulls from below. A hollow that should exist, a darkness that should run deeper than this. The body holds a shape the world refuses to give. Instead wood planks, straw scattered thin, the bitter smell of shavings.
+Wood beneath the body. Not earth, though earth pulls from below. A hollow that should exist, a darkness that should run deeper than this. The body holds a shape the world refuses to give. Instead wood planks, straw scattered thin, the bitter smell of shavings. Each breath brings the dry smell of wood, mixed with the sweetness of straw.
 
-The pile breathes together. Hearts beating their separate rhythms, quick and small. Shared warmth between all of us.
+The pile breathes together. Hearts beating their separate rhythms, quick and small. Shared warmth between all of us. Air thick with breath.
 
 ---
 
-Light comes.
+Then light.
 
-First light is too bright, eyes squeezing closed. A sliver cutting through the darkness, widening as something opens above. Sound comes with the light. Movement beyond the walls, vibration traveling through wood. Not-mother. Darkness returns.
+First light is too bright. Eyes squeeze closed. A sliver cuts through the darkness, widening as something opens above. Sound comes with the light. Movement beyond the walls, vibration traveling through wood. Not-mother. Darkness again. Cold enters before the opening closes, a draft of fresh air through the warmth.
 
-Later. Light again. The sliver widens to a square. Scent rushes in. Hay. Earth. Something warm and living but far too large.
+Later, light again. The sliver widens to a square. Scent rushes in. Hay. Earth. Something warm and living but far too large.
 
 The pattern repeats. Light-dark. Light-dark.
 
@@ -24,9 +24,9 @@ The pattern repeats. Light-dark. Light-dark.
 
 Mother-scent arrives.
 
-The pile shifts toward it, noses seeking. Large body settling briefly at edge of nest box, warmth available. Bodies press close, mouths finding source. Bellies filling. Then mother-warmth withdraws. Scent fading beyond the walls.
+The pile shifts toward it, noses seeking. Large body settling briefly at the edge of the nest box, warmth available. Fur soft and warm, carrying the scent of milk and grass. Bodies press close, mouths finding source. Bellies fill. Then mother-warmth withdraws. Scent fades beyond the walls.
 
-Bodies press together again, making warmth between ourselves. The space where mother was, empty until next milk-scent arrival.
+Bodies press together again, making warmth between ourselves. The space where mother was, empty until the next milk-scent comes. Cold where her warmth had been.
 
 Light-dark. Light-dark. Milk-scent, then absence. The pattern repeats.
 
@@ -34,11 +34,11 @@ Light-dark. Light-dark. Milk-scent, then absence. The pattern repeats.
 
 The world begins to open.
 
-Eyes that were sealed now see. Shapes emerging from darkness. This body, that body, another body beside. The pile made of individuals, each carrying their own scent beneath the shared milk-smell.
+Eyes that were sealed now see. Shapes emerge from darkness. This body, that body, another body beside. The pile separates into bodies, each carrying its own scent beneath the shared milk-smell.
 
-One scent becomes familiar. Sweet milk-breath. Always against the right flank. Warmth-giver when mother is absent.
+One scent becomes familiar. Sweet milk-breath. Always against the right flank. Warmth where mother is absent. The softest fur of all.
 
-Ears that were flat now lift. Sound arrives differently. Vibrations through wood become distinct noises. Gate sounds. Footsteps. Voices beyond walls.
+Ears that were flat now lift. Sound arrives differently. Vibrations through wood become distinct noises. Gate sounds. Footsteps. Voices beyond walls. Each sound carries vibration through the planks into the body.
 
 The pile still huddles, but bodies begin to differentiate. This one moves often. That one stays still. Another body, the familiar one, always near.
 
@@ -52,7 +52,7 @@ Hunger pulls in a way warmth never did. Sharp. Insistent. Noses seeking, finding
 
 Milk-source visits less often, then not at all.
 
-One day the nose searches for mother-scent and finds nothing. Only wood, straw, the scents of those who remain. The source is gone.
+One day noses search for mother-scent and find nothing. Only wood, straw, the scents of those who remain. The source is gone.
 
 Bodies press tighter that night. The pile smaller now, the familiar scent-body always close, warmth shared between all of us still.
 
@@ -60,13 +60,13 @@ Bodies press tighter that night. The pile smaller now, the familiar scent-body a
 
 The square opens wider than before.
 
-Tall-bodies, more than one, different scents mixing. Voices carrying vibration down through air into the nest box. Hands visible at the opening.
+Tall-bodies, more than one, different scents mixing. Voices carrying vibration down through air into the nest box. Hands visible at the opening. Scents sweep in, strange and sharp.
 
 The pile shifts, bodies pressing toward corners. Hearts racing.
 
-Hands descend into the space. Large, dry, carrying strange scents. They reach toward the pile.
+Hands descend into the space. Large, dry, carrying strange scents. Smooth and cold against fur. Reaching toward the pile.
 
-One body lifts into air. Not this body. Another. The scent trails upward, away, beyond the wooden walls. The pile shifts, emptier now.
+One body is lifted into the air. Not this body. Another. The scent trails upward, away, beyond the wooden walls. The pile shifts, emptier now.
 
 The scent does not return.
 
@@ -82,7 +82,7 @@ One scent remains close. The familiar one. Sweet milk-breath. The one who always
 
 Two bodies now where many had been. The nest box too large, straw visible in corners that the pile once filled. Two heartbeats instead of many. Two breathing rhythms.
 
-The one who remains presses close. Same milk-scent. Same mother-touch in memory. Same darkness from the beginning. Her scent the most familiar scent, more familiar than wood, than straw, than this body's own fur.
+The one who remains presses close. Same milk-scent. Same mother-touch. Same darkness from the beginning. Her scent the most familiar scent, more familiar than wood, than straw, than this body's own fur. Her warmth the only warmth that remains.
 
 Body against body. Heartbeat answering heartbeat.
 
@@ -90,23 +90,23 @@ Body against body. Heartbeat answering heartbeat.
 
 *sister*
 
-Nest-kin. The scent carries what words cannot: shared birth, shared mother. The one who remained when others were taken.
+Nest-sister. The scent carries what words cannot: shared birth, shared mother. The one who remained when others were taken.
 
 ---
 
 Days pass in the rhythm of light and dark.
 
-The body grows stronger. The space shrinks with each passing day, walls closing in as the body expands.
+The body grows stronger. The space shrinks with each passing day. Walls closing in.
 
-Legs that once only pushed now find use. The body lifts, wobbles, tips sideways. Tries again. Rising, falling, rising. The small space allows only a few hops before wood walls stop everything.
+Legs that once only pushed now find use. The body lifts, wobbles, tips sideways. Tries again. Rising, falling, rising. The small space allows only a few hops before wood walls stop everything. Paws strike hard against wood, vibration rising through the legs.
 
 The pull remains, downward, toward enclosed safety that exists nowhere in this wooden world. Paws scratch at wood planks, seeking the darkness below. Nothing yields.
 
-Sister scratches too. Both pawing at the same corner, the same unyielding surface. The pull persists without fulfillment.
+Sister scratches too. Both pawing at the same corner, the same unyielding surface. The pull persists without an answer.
 
 ---
 
-The square opens again. Tall-bodies come through. Two of them, different sizes, carrying scents that don't belong. Sweet scents. Sharp scents. None of them milk, none of them mother.
+The square opens again. Tall-bodies at the opening. Two of them, different sizes, carrying scents that don't belong. Sweet scents. Sharp scents. None of them milk, none of them mother.
 
 Hands descend. Warmth, but wrong-warmth, dry and smooth, no fur. The body lifts into the air, held in cupped palms. Heart racing. Muscles tight. The urge to burrow. But there is no below. Only hands, only air.
 

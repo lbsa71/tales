@@ -6,9 +6,9 @@ Hålan tillhör en kropp nu.
 
 Där två fördjupningar en gång kurvade sida vid sida, bär nu en enda fördjupning nätterna. Den andra kurvan har fyllts med fallna löv, med det långsamma utsuddandet av vad som var.
 
-Kroppen cirklar innan den lägger sig. Hålan tar bara emot sig själv.
+Kroppen cirklar innan den lägger sig. Hålan tar bara emot en kropp.
 
-Halm från buren har burits hit, bit för bit. Inte boet systern brukade göra, utan material hopsamlat för att hålla sig vid liv.
+Halm från buren har burits hit, bit för bit. Inte boet systern brukade göra. Bara ett tunt lager mellan buken och marken.
 
 Hålan bär en kropp, en andedräkt, ett hjärtslag.
 
@@ -36,9 +36,9 @@ Alla ljud pekar nu mot en enda kropp.
 
 Kroppen krymper. Benen syns mer under pälsen. Kroppen äter, men behåller inte vad den tar in.
 
-Långkropparna märker. Deras händer trycker oftare, försiktigare. Fingrarna känner efter vad som doldes under pälsen förut, finner ben som skjuter mer framträdande nu.
+Långkropparnas händer stannar längre mot kroppen. Fingrarna följer ryggen, stannar vid ben som förut låg djupare under pälsen.
 
-Men kroppen är helt enkelt gammal, helt enkelt utan den andra kroppens värme.
+Händerna släpper. Revbenen höjs och sänks under den tunna huden.
 
 ---
 
@@ -46,13 +46,13 @@ Rovdjuret återvänder.
 
 Dess doft kommer först, unket vass. Kroppen stelnar vid dess spår, musklerna spända.
 
-Rovdjuret dyker upp vid stängslet. Samma tjocka päls. Samma envisa rörelse. Borde resa sig nu, borde dunka, borde fylla luften med utmaning. Detta är vad kroppen gjorde, årstid efter årstid.
+Rovdjuret dyker upp vid stängslet. Samma tjocka päls. Samma långsamma steg. Den gamla rörelsen börjar i bakbenen, tyngden bakåt, framtassarna lättar från jorden.
 
-Ingen resning.
+Sedan ner igen.
 
-Musklerna bär bara darrning. Hjärtat slår med något mindre nu, något som har krympt under veckorna med bara en kropp i hålan. Viljan att resa sig, som förut kom så lätt när systern iakttog från hålan.
+Musklerna darrar. Marken tar emot tassarna utan dunk. Bakom kroppen ligger systerns plats tom. Inga snabba andetag där, ingen päls som rör sig när kroppen lyfter.
 
-Den andra kroppen är borta.
+Hjärtat rusar ändå.
 
 Kroppen drar sig tillbaka till buren, in i träväggar, in i halm och mörker. Utrymmet där två kroppar en gång låg tätt genom vinternätter.
 
@@ -60,11 +60,13 @@ Nu finns ingen bakom.
 
 ---
 
-Rovdjuret känner förändringen.
+Rovdjuret kommer närmare.
 
-Det rör sig längs stängslet, iakttagande. Men det hoppar inte. Det har lärt sig gränsen.
+Det rör sig längs stängslet, stannar vid en stolpe. Svansspetsen rycker. En tass mot nätet.
 
-Burens dörr. Långkropparna lämnade den öppen.
+Nätet skallrar. Rovdjuret drar sig över kanten och landar på gårdens jord. Inget dunkande svarar.
+
+Burens dörr står kvar öppen efter maten.
 
 Rovdjuret närmar sig. Pausar vid tröskeln. Går in.
 
@@ -72,9 +74,9 @@ Rovdjuret närmar sig. Pausar vid tröskeln. Går in.
 
 Innanför träväggarna. Innanför halm och mörker. Innanför utrymmet som kroppen försvarat genom årstider.
 
-Kroppen plattar sig mot bakväggen. Ingenstans att springa. Det slutna utrymmet bär bara sig själv och rovdjuret som närmar sig.
+Kroppen plattar sig mot bakväggen. Ingenstans att springa. Bara kroppen och rovdjuret som närmar sig.
 
-Rovdjuret rör sig utan brådska. Ögonen fasta. Kroppen borde resa sig. Borde kämpa. Men utan den andra kroppen är denna kropp bara byte. Bara liten och gammal och darrande.
+Rovdjuret rör sig utan brådska. Ögonen fasta. Bakbenen dras tätare in under buken. Framtassarna pressar mot halmen, men kroppen kommer inte upp. Träväggen hård mot ryggen.
 
 Rovdjurets andetag når fram nu, varmt och fuktigt mot päls. Dess doft fyller buren helt, tränger undan allt annat. Tassarna trampar mjukt mot halmen, varje steg för det närmare. Musklerna i kroppen stelnar hårdare, pressar ryggen mot trä som inte ger.
 
@@ -94,9 +96,7 @@ Kroppen vecklar inte ut sig ur sin frusna hopkurade ställning på lång tid.
 
 Ljuset skiftar. Rovdjurets doft bleknar. Hjärtat saktar gradvis.
 
-Men något har avslöjats. Kroppen som en gång reste sig för att möta hotet kan inte resa sig ensam. Viljan att resa sig krävde något kroppen inte längre har: någon att skydda, någon värme att försvara.
-
-Utan systern är kroppen bara det som byte alltid har varit. Liten. Väntande.
+Nosen vänder in mot hörnet där systern brukade ligga. Halmen viker sig under trycket, ger ingen värme tillbaka. Kroppen drar in benen tätare.
 
 Dörren håller. Låst nu. Långkropparna återvänder.
 
@@ -108,11 +108,13 @@ Bortom var en gång flykt och återkomst till en kropp som väntade. Nu finns in
 
 ---
 
+Marken mjuknar. Hagtornet blommar igen. Höet hänger kvar i ställningen, inga strån bärs till hålan. Löven breder ut sin skugga över den tomma platsen vid rötterna.
+
 Ännu en vinter närmar sig.
 
 Kylan kommer skarpare, eller kroppen känner den djupare. Dagarna krymper, och kroppen krymper med dem.
 
-Hålan bär vad som återstår. Jordkurvan nött slät. Det svaga spåret av doft som dröjer kvar i jorden.
+Hålan bär vad som återstår. Jordkurvan nött slät. Doft av fukt och rötter. Kroppen pressar sig åt sidan, mot den gamla platsen, och möter bara jord.
 
 Kroppen lägger sig i hålan när natten kommer. Hjärtslaget saktar. Andningen saktar. Kylan trycker in, och värmen som kroppen skapar trycker tillbaka, och balansen håller.
 

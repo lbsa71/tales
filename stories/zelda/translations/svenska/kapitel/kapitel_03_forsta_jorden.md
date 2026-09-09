@@ -8,7 +8,7 @@ Kroppen rör sig annorlunda här, där marken ger efter under tyngd, där varje 
 
 Hagtornet reser sig snett från marken, bark grov och grå. Vid basen, där rötterna trycker upp genom packad jord, ligger en håla. Inte djup. Inte innesluten. Men det närmaste gryt denna mark erbjudit.
 
-Kroppen närmar sig, nos sänkt. Doft här lager på lager: bark och jord och gamla löv som sönderfaller, lagrar sig till något rikt. Hålan grund, knappt djupare än kroppen är lång, men formen väcker något äldre än minnet.
+Kroppen närmar sig, nos sänkt. Doft här lager på lager: bark och jord och gamla löv som sönderfaller, lagrar sig till något rikt. Hålan grund, knappt längre än kroppen, men formen väcker något äldre än minnet.
 
 Kroppen cirklar. Sänker sig. Trycker in i det böjda utrymmet.
 
@@ -36,7 +36,7 @@ Glipan återstår.
 
 ---
 
-Glipan vidgas över dagar. Tänder vid nätet i tysta timmar. Strängarna fransas, splittras.
+Glipan vidgas över dagar. Kroppens tänder vid nätet i tysta timmar. Strängarna fransas, splittras.
 
 En morgon: glipan bred nog. Kroppen närmar sig, testar. Genom första glipan, sedan genom en andra glipa i det yttre stängslet. Bortom: träd, lövströ, skog.
 
@@ -58,7 +58,7 @@ Kroppen följer spåret.
 
 Stängslet genom träd. Bortom, hagtornet, och i hålan, en gestalt som rör sig. Systern.
 
-Hjärtat sväller. Kroppen genom glipan.
+Hjärtat sväller. Kroppen genom gliporna.
 
 Systern nära genast, nosen arbetar över hela pälsen, läser natten. Tungan följer, putsar platser där kvistar fastnat.
 
@@ -68,7 +68,7 @@ Kroppen sätter sig i hålan bredvid systern, kropparna passar samman. Darrandet
 
 Långkropparna finner det gnagda nätet.
 
-Rösterna bär larm. De hukar nära burens fot, fingrarna provar de kapade strängarna. Händerna återvänder med verktyg. Med nytt nät. Metall mot metall, ljud av vridning. Arbetet tar större delen av eftermiddagen. Den gnagda glipan försvinner under färska maskor, tätare än förut, nedgrävda djupare i jorden.
+Rösterna bär larm. De hukar vid nätets nederkant, fingrarna provar de kapade strängarna. Händerna återvänder med verktyg. Med nytt nät. Metall mot metall, ljud av vridning. Arbetet tar större delen av eftermiddagen. Den gnagda glipan försvinner under färska maskor, tätare än förut, nedgrävda djupare i jorden.
 
 Kroppen cirklar gårdens kant när långkropparna gått. Nosen tryckt mot nätet, mot platser där glipor brukade formas.
 

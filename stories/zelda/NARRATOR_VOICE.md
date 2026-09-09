@@ -96,7 +96,7 @@
 
 ### Instincts Without Fulfillment
 - **Burrow-longing**: Pull toward earth, digging that yields nothing
-- **Nesting**: Building without pregnancy, waiting for nothing
+- **Sister's nesting**: Hay-carrying, fur-pulling and empty nests observed through the narrator's senses; no access to the sister's internal sensations
 - **Territorial marking**: Boundaries within boundaries
 - **Flight response**: Running within enclosure
 

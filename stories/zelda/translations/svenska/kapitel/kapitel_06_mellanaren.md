@@ -6,7 +6,7 @@ Rutinen djupnar in i kroppen.
 
 Grinden låter varje morgon, varje kväll. Händerna sträcks in med mat och vatten. Gården håller sina gränser, gränserna håller kroppen som spårat dem otaliga gånger.
 
-Nätet håller, förstärkt många årstider tillbaka. Systern cirklar omkretsen varje morgon, nosen söker svaghet som inte kommer. Systern bygger bo när våren anländer. Mönstren upprepas utan variation, årstider cirklar, åren hopar sig i slitna stigar och kroppar som växer tyngre, långsammare, gråare vid mulen.
+Nätet håller, förstärkt många årstider tillbaka. Kroppen cirklar omkretsen varje morgon, nosen söker svaghet som inte kommer. Systern bygger bo när våren anländer. Mönstren upprepas utan variation, årstider cirklar, åren hopar sig i slitna stigar och kroppar som växer tyngre, långsammare, gråare kring nosen.
 
 Långkropparna har förändrats också. Rösterna har lagt sig i lägre tonläge, målbrottet avlöst av jämnare toner. De besöker mindre ofta nu, uppmärksamheten kortare.
 
@@ -28,25 +28,25 @@ Det lilla rovdjuret rör sig framåt, prövar marken. Öron höga. Svans uppe.
 
 ---
 
-Systern rör sig framåt, mot det. Hjärtat rusande. Musklerna spända. Men något driver kroppen framåt istället för bort. Detta är kroppen som åt först, som ledde, som gnagde genom nät.
+Kroppen rör sig framåt, mot det. Hjärtat rusande. Musklerna spända. Men något driver kroppen framåt istället för bort. Detta är kroppen som åt först, som ledde, som gnagde genom nät.
 
-Kroppen reser sig på bakbenen. Dunkar.
+Systern ligger kvar i hålan. Kroppen reser sig på bakbenen. Dunkar.
 
-Ljudet knakar genom luften. Det lilla rovdjuret rycker till, hastar bakåt. En dunk till. Systern störtar framåt.
+Ljudet knakar genom luften. Det lilla rovdjuret rycker till, hastar bakåt. En dunk till. Kroppen störtar framåt.
 
 Rovdjuret hoppar uppåt, fångar stängslets kant, drar sig över. Borta.
 
 ---
 
-Rovdjuret återvänder. Årstider passerar och det växer. Varje gång det faller ner i gården, varje gång systern reser sig, varje gång dunkandet kommer, varje gång det flyr.
+Rovdjuret återvänder. Årstider passerar och det växer. Varje gång det faller ner i gården, varje gång kroppen reser sig, varje gång dunkandet kommer, varje gång det flyr.
 
-Mönstret håller. Det lilla rovdjuret lär sig.
+Mönstret håller.
 
 ---
 
 Det står fullvuxet nu. Tjock päls, ögonen fasta vid hålan. Men det går inte in. Det ligger på andra sidan stängslet, svansspetsen ryckande. Tittar.
 
-Från hålan: hjärtat snabbar, men kroppen reser sig inte. Rovdjuret har lärt sig stanna bortom gränsen.
+Från hålan: hjärtat snabbar, men kroppen reser sig inte. Rovdjuret ligger kvar på andra sidan nätet.
 
 ---
 
@@ -54,7 +54,7 @@ Lederna värker mer i fuktigt väder nu. Hoppen kommer långsammare. Brådskan s
 
 Systern stannar närmare, vilar längre. Putsandet fortsätter mellan dem, tungan arbetar genom päls som växt grövre.
 
-Två kroppar i hålan när kvällen kommer. Rovdjurets närvaro vid kanterna, hanterad men inte bortglömd.
+Två kroppar i hålan när kvällen kommer. Rovdjurets doft vid kanterna, öronen vända mot nätet.
 
 ---
 
@@ -66,13 +66,13 @@ Trädet bär årstiderna som kroppen inte håller tal på. Trädet fortsätter m
 
 ---
 
-Långkropparnas besök växer kortare. Ibland bara händer, placerar skålar, drar sig tillbaka. Uppmärksamheten har skiftat till platser kroppen inte kan nå.
+Långkropparnas besök växer kortare. Ibland bara händer, placerar skålar, drar sig tillbaka. Stegen fortsätter bortom nätet, rösterna avtar.
 
 Kropparna anpassar sig. De äter vad som ges när det ges. Hålan, värmen, systern tryckt nära.
 
 ---
 
-Med våren kommer draget, men svagare än förut. Höbärandet fortsätter, men pälsdragandet ger mindre. Boet tar längre innan det är klart. Tomheten i slutet kommer tidigare, släpper sitt grepp snabbare.
+Med våren bär systern hö igen. Hon drar päls från buken, men mindre päls samlas i hålan än förr. Längre mellan vändorna med hö, längre innan boet täcker jorden. Hon lägger sig där och väntar. Snart ligger det tomt igen.
 
 Cykeln försvagas även när den fortsätter.
 

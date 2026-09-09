@@ -18,23 +18,21 @@ Järndoften stärks.
 
 Systern vilar mer, andas långsammare. Matskålen kallar henne mindre ofta. När hon äter, bara munfullar innan hon återvänder till vilan.
 
-Kroppen äter först utan invändning nu. Systern väntar. Att närma sig kräver ansträngning hon inte längre ger lätt.
+Kroppen äter först. När tänderna tystnar ligger systern ännu kvar i hålan. Hennes nos lyfter mot skålen, sjunker igen.
 
 ---
 
-Deras doft förändras när de närmar sig nu, något vassare i den. Spårdoft av oro. De sträcker sig genom grinden oftare, händer rör systerns sidor, trycker försiktigt mot den svullna buken.
+Långkropparnas doft blir skarpare. De sträcker sig genom grinden oftare, händer rör systerns sidor, trycker försiktigt mot den svullna buken.
 
-Systern stelnar, sedan slappnar av. Men något i tryckningen får musklerna att spännas kort kring smärta som bor inuti. Kort ryck, nästan omärkligt, går som en våg genom hennes kropp.
+Systern stelnar under händerna. Ett kort ryck genom flanken, sedan stillhet igen. Andningen kommer tätare tills trycket lättar.
 
-Långkropparna gör fler ljud, rösterna bär lägre toner, en sprucken klang av oro.
+Långkropparna gör fler ljud. Rösterna låga, orden korta med pauser emellan.
 
 Kropparna ensamma igen, den större vilande i hålan, den mindre cirklande längs stängslet.
 
 ---
 
-Transportburens doft. Det slutna utrymmet som betyder åkande.
-
-Men transportburen är inte för kroppen denna gång.
+Ett nytt slutet utrymme innanför grinden. Halm därinne, kall metall vid öppningen. Transportburen.
 
 Långkropparna lyfter systern, försiktigt, händer vaggar den tunga buken, och de sänker ner henne i transportburens mörker. Systerns doft försvinner när transportburen rör sig bort, försvinner bortom gårdens nät.
 
@@ -56,11 +54,11 @@ Hålan är kall när kroppen lägger sig. Kurvan bär formen av två kroppar, me
 
 Kroppen vaknar med mellanrum, nosen prövar luften efter doft som borde finnas där. Varje gång: ingenting.
 
-Nattljud fyller tystnaden där andningen borde vara. Och något annat: rovdjurets doft, svagare än förut men närvarande vid stängslet. Iakttagande.
+Nattljud fyller tystnaden där andningen borde vara. Och något annat: rovdjurets doft, svagare än förut men närvarande vid stängslet.
 
-Kroppen reser sig inte. Systern reste sig alltid.
+Bakbenen spänns. Kroppen lyfter ett stycke, sjunker tillbaka. Ingen päls mot sidan. Jorden under tassarna förblir tyst.
 
-Gryningen kommer. Kanske återvänder transportburen med doften den förde bort.
+Gryningen ljusnar vid nätet. Nosen söker längs marken där transportburen stod.
 
 ---
 
@@ -74,19 +72,19 @@ Järn, överväldigande. Sötma ruttnar under. Och något annat, något som var 
 
 Kroppen närmar sig, nos framåt. Trycker mot den välbekanta pälsen. Kall. Inget svar. Inget hjärtslag vibrerar genom beröringen. Ingen andedräkt värmer pälsen där andedräkt borde vara.
 
-Trycker hårdare. Kroppen borde värmas. Kroppen borde svara. Detta är vad kroppar gör. De blir varma, de rör sig, de trycker tillbaka mot tryckningen.
+Trycker hårdare. Nosen in under systerns haka, sidan mot hennes. Pälsen kall längs hela flanken. Inget tryck tillbaka.
 
 Ingenting.
 
 ---
 
-Långkropparna gråter.
+Ljud ovanför.
 
-Saltvattendoft stiger från dem, strömmar rinner nedför deras ansikten. Deras kroppar skakar, ljud som inte är ord, rörelser som inte är avsiktliga. De hukar nära transportburen, nära kroppen som fortfarande trycker mot den kalla pälsen, och de gör de spruckna ljuden av sin arts sorg.
+Saltvattendoft stiger från långkropparna, strömmar rinner nedför deras ansikten. De hukar nära transportburen, nära kroppen som fortfarande trycker mot den kalla pälsen. Axlarna rycker. Andetagen hackar, fastnar i ljud som inte blir ord.
 
 Händer sträcker sig in i transportburen, lyfter den inlindade stillheten. Systern bärs bort, ut ur gården, bortom nätet, till ett ställe kroppen inte kan följa.
 
-Doften stannar ett ögonblick, dröjer kvar i luften, i hålan, i halmen som täckte transportburen. Sedan försvinner även den, buren bort av vind, insupen av jorden, borta.
+Järndoften dröjer i luften där transportburen stod, sedan skingras den med vinden. Under hagtornet finns den äldre doften kvar, svag i jorden, i pälsen som fastnat mellan rötterna.
 
 ---
 
