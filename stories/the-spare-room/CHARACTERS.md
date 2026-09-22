@@ -1,72 +1,69 @@
-# Characters — The Spare Room
+# Characters — *The Spare Room*
 
-Character particulars introduced in revision 2 and carried forward for the revision 3 writer handoff. These facts were introduced in response to the producer's request for particular lives; they are not retroactively attributed to the initial conversation. The writer may revise them where the scenes warrant it.
+Second-draft particulars, 22 September 2026. These are sources of conduct and pleasure, not biographies the dialogue must recite. The actors play three living people. Ruth's personhood is settled; no later revelation converts her into a copy or ghost.
 
 ## Ruth
 
-Ruth once called dances in provincial halls. She counts under her breath when other people move furniture. She is good at getting a reluctant group started and less good at letting another person choose the tempo. One of her favourite stories concerns calling the wrong turn for an entire evening, then accepting thanks for an exciting new dance.
+Ruth called dances in provincial halls. She knows how to get a reluctant group started and how to recover when it goes wrong. She is less good at letting somebody else choose the tempo. She once called a wrong turn for an evening and accepted compliments on it. Remembering the dance can make her get up and show it, inaccurately, without stopping to make a point about herself.
 
-She gave up a reserved place with a travelling group when Helen asked her to remain. They were waiting for her final answer, not depending on her to travel; Helen can therefore dispute Ruth's claim of commitment without inventing her hesitation. The work was real and she wanted it; she also preferred being uniquely necessary to Helen over being one of several competent people in a company. She has had three centuries in which to turn a choice into a sacrifice.
+She gave up a reserved place with a travelling group when Helen asked her to stay. The opportunity was real, but the group was waiting for her answer rather than depending on her arrival. She had doubts about being one among several capable callers. Being necessary to Helen was frightening and gratifying. Neither qualification cancels the care she gave.
 
-At Sal's house she has begun learning dances whose participants can share movement and change the bodies through which they experience it. She can attempt shared attention; there is no incapacity that makes Sal's invitation possible but Helen's impossible. She recoils specifically from encountering her daughter as someone she cannot immediately recognise. Learning beside Sal feels less exposing than learning from Helen. Sal asks her to lead. Helen assumes Ruth is flattered and is partly correct. Ruth is attracted to Sal's willingness to let her be bad at something without rushing to help.
+Ruth has already visited Sal's house. She knows more about it than Helen assumes and likes the possibility of being bad at something there. She wants to learn a dance whose participants move and share experience in ways she has not mastered. Her interest is active; she is not being assigned a more suitable place to be looked after.
 
-Ruth brings food to a house where not everyone eats. She is embarrassed by this but continues because arriving empty-handed feels worse. She thinks Sal's invitation to lead means everyone will follow her count. That misunderstanding is a potential future quarrel, not evidence that Sal is deceiving her.
+She can share a sensory experience when invited. In the later duet she tries Helen's harbour and asks to stop. Learning from her own daughter feels more exposing than learning beside Sal. Discomfort is neither incapacity nor proof that she should remain unchanged.
 
-**What she wants tomorrow:** to try a turn she cannot yet picture, then complain about somebody else's timing.
+Ruth can know exactly what is wrong with a chair and fail to complete a request for company. She may lose the point of a story, fuss about food, want to be admired, or accept practical help while resenting who offers it.
 
-**Understandable, non-exemplary choice:** she has liked the new house for weeks and concealed that from Helen in order to make Helen ask again. During the play she demands Helen return to the familiar form immediately after insisting she should be free to change her own.
+**What she wants tomorrow:** to try the new turn and complain about somebody else's timing.
 
-**Variation in voice:** exact at the table; expansive and inaccurate when telling a dance story; unable to finish a simple request when she cannot recognise Helen's manner. Her silence need not be manipulative.
+**Today's compromised choice:** she wants freedom to change and still wants Helen readily available in the familiar relationship. Her successful quiet trial shows her a life she could continue; she chooses Sal instead.
 
 ## Helen
 
-Helen makes tidal arrangements for inhabited ocean worlds. She likes useless beauty as much as useful work: water reaching several harbour steps together, people turning to look without anyone having told them to. She also likes being named as the person responsible. She notices when praise becomes plural.
+Helen helps compose tides for inhabited ocean worlds. She enjoys water reaching separate harbour steps together, a crowd waiting for it, and a child ruining an arrangement in a way she likes better. She also enjoys being named as its maker. Praise becoming plural still gets under her skin.
 
-Three hundred and twelve years ago she ended an eighty-year shared marriage. Four other people did not abandon her; she left a life in which she could no longer tell which desires and achievements were hers. The first night of being alone frightened her enough to call Ruth. Ruth talked about shopping, and Helen kept asking questions so the voice would continue.
+Three hundred and twelve years ago she ended an eighty-year shared marriage with four other people. They did not abandon her. She wanted separation, then found the first unshared night unbearable. Ruth talked about shopping. Helen asked questions so the voice would continue and invited Ruth to stay as long as she liked.
 
-The face and bodily habits she uses in this room are those of herself at twenty-seven. She brings her present knowledge into that form. She is not becoming a child or a stored younger person. Keeping her attention shaped for this encounter restricts the breadth of experiences she can readily share with Kit elsewhere. It does not automatically end contact she has already invited: Kit can still receive the small part of the harbour she continues attending to, and the memory she later relives. Helen must deliberately withdraw that invitation after Kit's breach.
+The Helen onstage is her own self-representation inside her mind: how she imagines herself in this encounter with her mother and child. It is a present self-image, not a preserved twenty-seven-year-old, a second Helen or an external controller. Her current life and knowledge are present. Familiar daughter and capable mother are roles she can inhabit without being all she is.
 
-Helen has kept the chair because she remembers Ruth sitting in it while she recovered. Ruth remembers a chair that hurt her leg. Both memories are true.
+She can enjoy the harbour while answering Ruth. What she wants to stop supplying automatically is always-reachable, familiar, undivided company. The actor need not suggest a new body to make that cost visible.
 
-**What she wants tomorrow:** to return to a difficult tide she has been devising, let Kit see it from within, and tell Ruth about the part that made people laugh.
+Helen grants Kit access to her current experience. It continues while the family talks; a recalled fragment can intrude, but Kit cannot search her history. Helen deliberately closes the view after its misuse. She can subsequently invite Ruth to try the harbour without restoring Kit's access.
 
-**Understandable, non-exemplary choice:** she tries to stop Ruth's departure when Ruth will not promise to remain recognisable and available for familiar visits. She would rather postpone her own freedom than admit she expected to determine the shape of Ruth's.
+She kept the chair because she remembers Ruth sitting in it during her recovery. Ruth remembers a chair that hurt her leg and that she gave away. Helen can accept those facts and still find the rearrangement intolerable.
 
-**Variation in voice:** qualified and managerial with Ruth; physically freer, more sensual and more talkative about her work; abrupt when shared credit or privacy is threatened. A long speech can be an attempt to share pleasure rather than an explanation of the future.
+**What she wants tomorrow:** to finish a difficult tide, receive proper credit, and have something about it she wants to tell her family.
+
+**Today's compromised choice:** having demanded separation, she holds Ruth's bag until Ruth will promise recognisable visits. Letting go precedes knowing how future contact will work.
 
 ## Kit
 
-Kit and Neri are joining seven other adults in a shared household. Kit knows how to enter shared attention but has not committed to a continuing household of this size before. They want it, have pursued it, and are frightened.
+Kit and Neri are joining seven other adults in a household. Kit wants the life, has helped bring it about and fears entering it as someone who needs more reassurance than they advertised.
 
-Kit asked Helen to be at the first gathering. Helen said she would try. Kit told Neri yes. They have also told Helen that Ruth is nearly packed and wants help. Their apparent efficiency depends on treating two provisional answers as completed decisions.
+Their planned contribution to the first meal is a deliberately burnt crust. Its smell recalls the place Kit and Neri met. Neri dislikes the smell; that is part of the joke. Seed the anticipated pleasure early enough that the broken loaf at the end represents a missed contribution, not a new symbol announced after the fact.
 
-The neglected conversation in the earlier sample concerned this invitation. Kit wanted more than an uninterrupted account of their plans: they wanted Helen there, exclusively attentive through their arrival, without Ruth in the encounter.
+Helen said she would try to attend. Kit told Neri yes. Ruth named a less inconvenient day. Kit sold it to Helen as readiness to move. Their efficiency depends on everyone proceeding before checking.
 
-Kit admires the expansive Helen and likes being someone Ruth cannot follow her into. They also want the familiar parent when ashamed. After admitting the lie to Neri, they want Helen's hand while they face the household: permission to arrive as someone's child before having to be an equal. Their progressive language about freedom hides an ordinary wish to possess someone's attention.
+Kit enjoys the Helen who shares the harbour with them and likes being the welcome companion to that part of her life. They then use a private memory to force **Helen** to surrender the bag. Kit chooses to expose what they received; their inference about what the old fear proves is neither Helen's agreement nor the play's conclusion.
 
-**What they want tomorrow:** to wake inside the new household with a memory of Helen having brought them there.
+Kit leaves to correct the assurance to Neri. The household goes ahead. Kit remains welcome but cannot recover its first shared beginning or pretend their absence was entirely Ruth's fault. The private view stays closed. No correct apology automatically reopens it.
 
-**Understandable, non-exemplary choices:** they help Helen widen her attention while Ruth is still trying to speak; they repeat an intimate memory encountered through that invitation; they use Neri's expectation as if it were Helen's promise.
+**What they want tomorrow:** to wake in the household they chose, with a place in its jokes and the relief of having arrived.
 
-**Cost paid today:** they leave the room to tell Neri what they misrepresented. The gathering proceeds. Kit returns having missed its first shared experience, still welcome but no longer able to pretend their absence was Ruth's fault.
+**Today's compromised choice:** they want Helen's freedom and special intimacy, then want her familiar attention and hand when their own courage fails.
 
-**Variation in voice:** brisk comic questions while organising; warmth and anticipation with the wider Helen; one ugly exact sentence during the privacy breach; hesitant requests when they have to ask for care themselves.
+**Variation in conduct:** premature organising, real pleasure in the harbour, a damaging intervention, failed repair and an exposed request for company. Kit need not be verbally equal to the older women in every exchange.
 
 ## Offstage people
 
-Only two new names are needed in dialogue:
+**Sal** lives in Ruth's chosen household and has offered a dance to learn and a chance to lead. Sal is neither a guaranteed rescue nor a hidden threat. Ruth can misjudge this new life and still be entitled to try it.
 
-- **Neri:** Kit's partner in the new household. Has arranged the first gathering on the strength of Kit's assurance. Neri is allowed to proceed without waiting for this family.
-- **Sal:** resident of Ruth's chosen house. Has invited Ruth to lead an unfamiliar dance. Sal offers neither permanent rescue nor guaranteed compatibility.
+**Neri** is beginning the new household with Kit. Neri can be disappointed by Kit's assurance and proceed without them while still wanting them to come. The relationship has pleasures independent of this family dispute.
 
-Neither needs an additional actor, recording, message projection, or explanatory biography.
+Earlier acquaintances or partners may occur in reminiscence, but none requires a performer, recording, projected message or an explanatory biography.
 
-## Relationships that resist a verdict
+## What the ending leaves open
 
-Ruth saved Helen from an unbearable night and has used that history unfairly.
+Helen recalls Kit because she does not want to be alone yet. She accompanies them only as far as the door before another decision must be made. Setting aside the harbour and accepting their hand supplies familiar company by choice; it does not restore private access or settle forgiveness.
 
-Helen gives her mother a real home and has mistaken preservation for agreement.
-
-Kit loves Helen's changing life and asks her to become smaller when their own courage fails.
-
-None of these cancels the other fact.
+The gesture can be generous and costly. The workshop should establish that spectators see a choice. It need not make them agree about its future.

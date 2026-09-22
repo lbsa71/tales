@@ -1,238 +1,139 @@
 # Outline — *The Spare Room*
 
-Revision 3 for writer handoff: a limited rules-and-causality pass following the [producer follow-up](editorial/PRODUCER_FOLLOWUP_2026-09-22.md). [Revision 2](drafts/outline-v2.md) is preserved. The later concerns about proportion, individuality and the ending remain tests for the full draft.
+Second-draft architecture, 22 September 2026. Seven continuous movements for three actors in one ordinary room. The [chapter manuscript](chapters/README.md) is the authoritative dramatic text. The [first-draft baseline](drafts/first-draft-2026-09-22/) preserves the previous version and its development documents.
 
-Nine continuous movements, provisionally seventy minutes. These allocations describe the intended shape; they are not measured performance times. The new [dramatic pages](EXAMPLE_DRAFT.md) test part of the middle. A full draft and a timed reading remain necessary.
+Approximately seventy minutes remains an ambition, not a measured runtime. These movements describe changes of action and rhythm, not allocations to fill with pauses. There are no blackouts between them.
 
 ## The engine
 
-Helen has brought a bag to help her mother, Ruth, move out. Kit, Helen's adult child, has encouraged both women to believe the arrangements are further advanced than they are.
+Helen arrives to help her mother, Ruth, move. Kit has told Helen that Ruth agreed more definitely than she did. Kit has also told Neri that Helen will attend the beginning of their new household, although Helen only promised to try. Kit wants this move finished and their mother beside them tonight. Neither promise obliges Ruth to leave.
 
-This evening Kit begins life in a household with Neri and seven other people. Helen said she would *try* to attend their first shared meal. Kit has told Neri she is coming. Kit wants their mother beside them for something frightening and pleasurable; they also want, for once, her attention without Ruth in it.
+Ruth lives within Helen. Keeping the room costs little; being always reachable and expected to give familiar, undivided company costs Helen more. A trial demonstrates a workable alternative. Ruth then decides that she wants something else. The daughter who wanted the move becomes its obstacle.
 
-The gathering can proceed without Kit or Helen. There is no disaster if they miss it. But these people will begin their life together, and Kit will have to join a beginning already shared by the others. Kit's false assurance makes the cost worse. This is Kit's urgency, not a deadline forcing Ruth to move. Helen has chosen today to ask directly; Ruth chooses today only after the trial makes staying mean something different to her.
+The Helen we see is her own contextual self-representation within her mind, present as daughter and mother. Ordinary shifts of attention make her availability playable; no performer must demonstrate a different body.
 
-Ruth can live elsewhere. The difficult question is whether Helen will accept her leaving without preserving the version of her mother she expects to visit.
+The audience must know what each person is trying to obtain before knowing the whole situation. The room becomes explicitly a place within Helen near the end of the trial. Later discoveries complicate their history and choices; they do not keep resetting the basic premise.
 
-## What the staging must make readable
+## 1. The Failed Move
 
-The same three actors, ordinary furniture and single entrance serve throughout. No voice or performer represents Neri or Sal.
+**Wants:** Helen wants Ruth packed and settled. Ruth wants to be asked rather than processed. Kit wants two exaggerated assurances to come true before either is checked.
 
-- The entrance marks entering or leaving this encounter. Crossing it does not itself change residency.
-- While Ruth lives within Helen, she can address Helen when Helen is elsewhere. Helen can refuse to answer, but cannot stop receiving that call while leaving the residence intact. Kit has no such residence.
-- Helen presents a familiar bodily and conversational self here. She can relax that accommodation without becoming a different character.
-- Helen can invite Kit to share her current sensory attention. She means to show the harbour and trusts Kit to treat the intimacy discreetly; the invitation is not a perfectly isolated picture of the harbour. A fragment of memory can intrude when Helen relives it. Kit cannot search or direct her memories, and receives her experience rather than an objective record.
-- Helen can end that shared view. Kit remains able to speak normally in the room. Nothing about closing the view removes Ruth's residence or her ability to call Helen.
-- Agreement and departure end Ruth's residence. She remains alive and independent; the room remains Helen's.
+**Action:** A single accumulating packing attempt exposes Kit's false assurance about Ruth. Practical disagreements belong to these particular people; the bag is not repeatedly emptied to restart the joke. Ruth stops the packing.
 
-The invitation into Helen's wider experience must be demonstrated as pleasurable before it enables an injury. Ruth's need for the familiar Helen must be demonstrated before Helen demands a familiar Ruth.
+Kit steps out. Ruth calls and gets no answer. Helen subsequently leaves through the same entrance; Ruth addresses her normally and Helen answers from outside. Helen returns because leaving the conversation has not given her privacy. Keep the contrast distinct enough to remember without explaining it yet.
 
-All spoken dialogue is public. Private receipt is silent and acted; a subsequent utterance makes the received detail public. The chair and Ruth's account of the invitation trigger Helen's recollection. After the breach, repeat the earlier exit pattern: Kit loses the view, Helen steps out, Kit cannot call her back, Ruth can. This supplies the distinction without a technology lesson.
+Kit's first evening with Neri becomes concrete: the new household will begin together, and Kit has a contribution planned involving a deliberately burnt crust. The smell recalls where Kit and Neri met; Neri dislikes it and understands the joke. Helen has promised to try to attend. The others can start without them.
 
-Private continuity choices, including the elapsed years and each person's life elsewhere, are in [Characters](CHARACTERS.md) and the [Conceptual Map](CONCEPTUAL_MAP.md). They need not all become lines.
+Ruth proposes keeping quiet while Helen does what she wants here. Helen agrees to an actual trial.
 
----
+**Change:** The move loses its assumed consent. They must attempt the less painful alternative they have just proposed.
 
-## 1. The bag — 0–7 minutes
+**Audience gains:** A recognisable family dispute, Kit's positive reason to hurry, and an inequality in whom Ruth can reach. No literal mind explanation yet.
 
-**Wants:** Helen wants packing to confirm a completed decision. Ruth wants Helen to ask, rather than implement. Kit wants the two agreements they have overstated to become true before either is checked.
+**Rhythm:** Familiar bustle, exposure, then a pause in the practical campaign. The trial comes from the failed attempt at privacy, not from a desire to demonstrate the premise.
 
-**Action:** Retain the swimming-bag opening from the [first dialogue draft](drafts/dialogue-v1.md), revising Kit's evasions around their concealed commitment. Cold tea, a scarf and the chair provide delays, but the scene must reach a direct question: did Ruth agree to move today?
+## 2. A Workable Arrangement
 
-Helen calls Kit as her witness. Kit admits Ruth said today was better than Thursday, not that she would go. Under pressure, Kit acknowledges having told Helen Ruth was ready.
+**Wants:** Helen wants to enjoy her work while remaining available for conversation. Kit wants to share it. Ruth wants the trial to succeed and her daughter's familiar company to continue.
 
-**Turn:** Helen learns Kit helped create the apparent agreement. Ruth makes Helen stop packing.
+**Action:** Kit asks plainly to see what Helen sees. Helen agrees. They look towards the same empty part of the playing space, react to cold and follow an event together. Kit names the shoe before Helen supplies that information. Ruth has neither their sensation nor their view, but can speak to both. Helen offers her a look too; Ruth declines for now. Helen answers her promptly and intelligibly.
 
-**Audience gains:** A mother, daughter and grandchild are negotiating a move. Kit is implicated from the start, rather than positioned outside the conflict.
+Helen's harbour becomes a source of enthusiasm, pride and affectionate mockery. Ruth's miscalled dance gets a brief, clumsy physical demonstration with Kit; Helen watches and laughs. The family enjoys something without converting the pleasure into evidence against one another.
 
-**What can no longer proceed:** Helen cannot complete the move by treating Ruth's consent as an administrative fact.
+Ruth then keeps her promise. Helen and Kit enjoy the work during a real, unfilled interval; Ruth does not interrupt. Helen finishes and turns back of her own accord. The compromise succeeds. Ruth discovers that this success can mean waiting for company she wants to receive without asking each time.
 
-**Rhythm:** Quick familiarity with enough pleasure to make this family worth staying with. Seven minutes is a ceiling to test, not a quota for empty-bag business.
+Ruth's request for familiar company brings the plain confirmation that she lives within Helen, and that this room is within her too. The statement resolves the visible facts rather than starting an explanation of technology.
 
-## 2. The other promise — 7–15 minutes
+Ruth recalls the dance Sal offered to teach her and chooses to go.
 
-**Wants:** Helen wants a reason Ruth cannot dispute. Ruth wants to prove that staying could be easy. Kit wants Helen at their gathering and does not yet want to reveal what they told Neri.
+**Change:** Ruth accepts the move for a positive reason of her own. She is not defeated by failing the quiet trial.
 
-**Action:** Kit steps out to check their arrangements. Ruth calls after them without effect. Helen tries to leave for her own brief private conversation; Ruth continues speaking and Helen answers from outside, returning exasperated.
+**Audience gains:** Invited sensory sharing is real, Ruth is not automatically included, Helen remains responsive, and the stage room is literally within Helen.
 
-Helen argues from the inconvenience of maintaining the room. Ruth knows it is slight. Helen admits she wants intervals when nobody can call her back. Kit presses their own invitation, bringing tonight's first meal into the argument. Helen remembers promising to try.
+**Rhythm:** Pleasure and a small family event interrupt the dispute. Quiet has duration because something is being enjoyed and something else is being missed.
 
-Ruth proposes a trial: she will keep quiet, and Helen can do what she likes while remaining here. Kit backs it because a successful trial might let Helen attend without completing the move.
+## 3. Packing at Last
 
-**Turn:** Helen agrees to try. They have chosen an apparently workable alternative, not merely described one they tried long ago.
+**Wants:** Ruth wants to leave for Sal's. Helen wants the move completed with recognisable visits guaranteed. Kit wants to help and get going.
 
-**Audience gains:** Helen's availability is literal and unequal. Kit has a positive reason to hurry. The place Ruth might move to is Sal's house, which Ruth already knows.
+**Action:** Ruth packs efficiently. Her knowledge of Sal's household exceeds Helen's; she has already begun imagining a life there. Their dances offer changes Ruth wants to learn, not a care arrangement Helen controls.
 
-**What can no longer proceed:** The move cannot be justified as a physical necessity. They must try the less painful solution they have proposed.
+Helen proposes keeping the room ready for visits. Ruth moves her chair. She gave the original away; Helen has preserved a remembered arrangement Ruth did not even like. The disagreement immediately affects the move: Helen puts the chair back and takes the bag, trying to secure Ruth's agreement to return here as expected.
 
-**Rhythm:** The bustle stops. The three must endure the experiment they have agreed to.
+Both women hold a handle without pulling. Ruth could go without the bag. She stays to refuse the visiting terms Helen is attaching to the departure.
 
-## 3. Being here differently — 15–25 minutes
+**Change:** Helen visibly becomes the obstruction. Ruth's agreement to leave cannot be treated as agreement about the person she will be when she returns.
 
-**Wants:** Helen wants to remain present without narrowing herself to the daughter Ruth recognises. Kit wants to join the Helen they enjoy elsewhere. Ruth wants the quiet trial to work, but discovers she wants a particular kind of answer too.
+**Audience gains:** An ordinary object is part of Helen's preserved memory; Ruth remains free to dispute and rearrange it. Kit's invited view of the harbour is still open, established by one plain check.
 
-**Action:** Helen lets the familiar stance and sequence of attention loosen. Kit recognises the change, asks to share what she is experiencing, and receives permission. They enjoy a harbour tide Helen has made; Kit answers an observation before Helen has spoken it. Helen has room for a longer, awkwardly happy attempt to describe her work.
+**Rhythm:** Sudden competence, then a stopped action. Allow the bag to carry the contradiction without following it with a complete verbal diagnosis.
 
-Ruth tries to participate. For a moment they laugh together over an old dance Ruth called wrongly; the amusement need not injure anyone. Ruth then explicitly lets Helen finish the work. A sustained interval follows in which Ruth really does keep quiet and Helen enjoys the harbour with Kit. Helen turns back voluntarily when it is done.
+## 4. Kit Makes It Worse
 
-The compromise has worked in its narrow terms. Ruth discovers that staying can mean waiting quietly for the familiar daughter, with no guarantee that answering will bring that daughter back. She can secure familiar Helen by asking, but does not want to spend her days waiting and making that request.
+**Wants:** Ruth wants the original invitation acknowledged. Helen wants to renegotiate it without displaying her worst night. Kit wants Helen to stop obstructing the departure.
 
-Helen tries to include Ruth in the larger experience. Ruth can attempt this kind of contact, but recoils from learning how with an unfamiliar version of her daughter. She wants Helen to come back properly.
+**Action:** Kit's question about whether Helen will expect this arrangement from them opens the history. Helen originally begged Ruth to stay. The potatoes and the questions Helen used to keep Ruth talking make the need particular.
 
-Helen finally says, impatiently, that Ruth lives in her and that this is how she is when she is not arranging herself for the room. It confirms the action; it does not launch an explanation.
+Ruth's account and the chair prompt Helen to relive a fragment. Kit receives only that fragment through the invitation still open from the harbour. They cannot search memory, find objective truth or know the rest of the night. Kit looks towards the bag and uses what they received against Helen: she was frightened then; she can let Ruth go now. Helen challenges the conclusion and the act of exposing her.
 
-**Turn:** Helen resumes the familiar form, at a cost the actor makes perceptible. Ruth remembers that Sal offered to show her a dance before the others arrive. She chooses to go and learn it, rather than remain waiting here. She begins packing. This is a positive alternative she already knows, not a new destination supplied by the plot.
+Helen explicitly ends the shared view. Kit says the water has gone. Helen steps out; Kit cannot reach her, Ruth can. Helen returns. Ordinary conversation is still possible, and Ruth's residence has not ended.
 
-**Audience gains:** The room is a meeting place within Helen. Keeping Ruth's company involves making a particular self available. Helen's wider life contains pleasure as well as obligations.
+Kit's second misrepresentation emerges: Neri expects Helen. Kit leaves to correct it.
 
-**What can no longer proceed:** Ruth will not keep the residence on the basis of this successful quiet. Its cost to her has become concrete. The scene need not prove that every possible compromise would fail.
+**Change:** Kit loses private access and the role of trusted ally. Their attempted shortcut has delayed the outcome and injured someone whose company they want.
 
-**Rhythm:** An experiment, genuine pleasure, a wandering story, then discomfort. Avoid twenty-five minutes of escalating short retorts.
+**Audience gains:** The original promise was freely and desperately invited. Sharing experience does not authorise its use as leverage. Closing a view and ending a residence have different consequences.
 
-## 4. The chair stops the move — 25–34 minutes
+**Rhythm:** An injury interrupts the argument. Do not organise the aftermath as a lesson whose successful completion earns Kit forgiveness.
 
-**Wants:** Ruth wants to leave for the life she has privately begun imagining. Helen wants to complete the move while securing recognisable future visits. Kit wants to seize Ruth's agreement and go.
+## 5. Without the Witness
 
-**Action:** Ruth packs decisively. She has liked Sal's house for weeks, and has been asked to call a dance there. She admits the new dancers do not keep separate movements or always use the bodies Helen expects. She intends to learn.
+**Wants:** Ruth wants her care to count. Helen wants it to stop settling every future choice. Both want something easier than another account of who sacrificed more.
 
-Helen offers to retain the room exactly as it is for visits. Ruth moves the chair out of its customary position. She hated the original chair, which she had replaced; this preserved version comes from Helen's memory. She refuses to return to the same place and same shape simply to reassure Helen.
+**Action:** Alone, the women give less satisfactory versions of the past. Ruth's travelling opportunity was real, but so were her reservations. Helen left her long shared marriage; fear followed a choice she made. Neither disclosure cancels the care that happened.
 
-Kit takes the packed bag to accompany her. Helen takes it back. She wants a definite promise that Ruth will return to this room in the familiar form. Ruth could leave without the bag, but Helen is speaking as though accepting the move would also accept those visiting terms. Ruth stays to make Helen acknowledge that no such agreement exists. Her purpose is control over future visits, not recovery of a transport device.
+The incomplete dog story interrupts the accounting. It has bad detail, lost detail and affection; no one has to interpret it. Helen takes the bag from beneath her chair and places it by the entrance. She comes back without it.
 
-**Turn:** Helen stops the departure she spent the opening trying to arrange. Ruth tells her to put the chair back herself if she wants it there.
+Ruth asks for a brief look at the harbour; Helen explicitly invites her. They share the established sightline and one sensation. Ruth asks Helen to stop. Helen does so immediately. They are left together with no proof that future meetings will be easy.
 
-**Audience gains:** Helen has maintained selected parts of their shared past. Ruth's proposed home offers change, not just less demanding care.
+**Change:** Helen permits departure before receiving reassurance. Trying the wider experience does not remove Ruth's unease or excuse a new demand on Helen.
 
-**What can no longer proceed:** Ruth will not accept a move whose unspoken condition is remaining Helen's familiar mother on request. Helen will not yet give her the bag on other terms.
+**Audience gains:** Both women have fuller histories than their arguments admit. Ruth can share experience; her difficulty is neither an incapacity nor an abstract transformation an actor must represent.
 
-**Rhythm:** Packing briefly becomes fast and competent. Helen's obstruction must be conspicuous, not a sentiment inferred from another argument.
+**Rhythm:** An uneven duet: longer, less efficient speech, interruption, failed recollection, then a short practical experiment. It does not replay the entire first trial.
 
-## 5. An invitation misused — 34–43 minutes
+## 6. Ruth Leaves
 
-**Wants:** Ruth wants her original sacrifice acknowledged. Helen wants the present dispute kept separate from a night of desperate need. Kit wants to use the intimacy Helen granted them to force the decision forward.
+**Wants:** Ruth wants to go without guaranteeing future versions of herself. Helen wants to help and obtain some certainty. Kit, returning after correcting their assurance, wants to remain useful.
 
-**Action:** Kit asks the retained question: “Are you going to expect me to do this for you?” Helen says no; Ruth says she did not expect it either.
+**Action:** The departure is possible without a visit schedule. A brief exchange states its consequence: Ruth will no longer automatically reach Helen; they can arrange to meet. No ritual, prop or special wording effects the change.
 
-The women quarrel about the invitation. Helen had left a long shared marriage and could not bear the first nights alone. Ruth gave up a place with travelling dance callers. The potatoes exchange remains: Helen asked questions to keep Ruth talking; Ruth now knows that.
+Ruth knows where she is going and can go alone. Sal may disappoint her; that ordinary uncertainty is not a threat of death or disappearance. They can still laugh about a dance, Helen's preparations or the household Ruth is about to join.
 
-Helen and Kit's invited contact has not yet been withdrawn. Looking at the chair while Ruth recalls the invitation prompts a fragment of Helen's memory: being on the floor, asking Ruth to breathe louder. Kit receives it silently, then looks towards the bag and chooses to use it aloud. They claim the moment proves Ruth should leave. Helen rejects that inference: Kit does not know what she asked afterwards. A received memory is neither complete testimony nor an explanation of the promise.
+Ruth's sleeve catches. She refuses Helen's help and accepts Kit's. The awkwardness is not followed by an explanation. Ruth takes her bag and leaves. Helen remains.
 
-Helen ends the shared view: the water is gone for Kit. She briefly steps out. Kit cannot reach her; Ruth calls and Helen answers from outside, then returns. Closing the view has not ended Ruth's residence. Kit cannot recover the invitation by insisting they meant to help. Only now do they admit that Neri expects Helen's definite attendance.
+**Change:** The residence ends without either woman obtaining all the reassurance she wanted.
 
-**Turn:** Helen refuses to accompany Kit under a promise Kit made for her. Kit must go outside and correct their assurance to Neri.
+**Audience gains:** Ruth leaves for another life. She is alive, autonomous and capable of making a mistake. The room stays because it is Helen's.
 
-**Audience gains:** The original promise was “As long as you like.” Invited closeness can make a private memory available without making its use permissible. Kit can inflict harm, and has recruited Helen as ruthlessly as either older woman recruited them.
+**Rhythm:** Allow ordinary preparations and departure to happen. Cut negotiations that have no remaining power to change the action.
 
-**What can no longer proceed:** Kit cannot remain Helen's privileged companion inside the argument or quietly deliver her to the household as promised.
+## 7. Company
 
-**Rhythm:** The memory has time to hurt before Kit tries to make it useful. The breach should be a specific act, not a general discussion of mental privacy.
+**Wants:** Kit wants Helen beside them when they arrive late. Helen wants company after Ruth's departure, but has not agreed to the evening Kit arranged for her.
 
-## 6. Without the witness — 43–51 minutes
+**Action:** The household has begun without Kit. The loaf has been broken without their burnt-crust contribution. The remembered pleasure seeded in movement one now has a specific absence; Kit remains welcome.
 
-**Wants:** Ruth wants Helen to acknowledge what she surrendered. Helen wants to stop owing her entire future to it. Both also want relief from being watched by Kit.
+Helen attends again to the harbour, recognisably as before. Kit has no share in it. Kit begins to leave; Helen calls them back because she does not yet want to be alone. They agree to walk only as far as the door, with the next decision still open.
 
-**Action:** Kit leaves to speak to Neri. Alone, the women stop performing their best accounts for the grandchild.
+Kit asks for familiar company and offers a hand. Helen can refuse. She deliberately sets aside the harbour activity, turns fully towards Kit and takes their hand. She has not reopened private access. They leave together.
 
-Helen challenges Ruth's travelling-group story. Ruth did give up a place, but she was already uneasy about no longer leading everything herself. Ruth challenges Helen's account of the marriage: Helen left; she was not simply deserted. Neither correction cancels the actual loneliness or care.
+**Change:** Helen uses a freedom she has obtained to give some of her attention. Kit's request has become a request that can receive an answer.
 
-Let an unfinished story or a wholly ordinary reminiscence run here without requiring a lesson. Ruth can fail to finish it. Helen can fail to find a useful reply. No object must rescue the silence.
+**Audience gains:** No new speculative rule. Accommodation can be chosen without its future cost being settled.
 
-Ruth gets her bag back from Helen and sets it by the entrance. Helen does not retrieve it.
+**Rhythm:** Short requests, incomplete repair and an ordinary voluntary action. No final maxim, return for spectacles or verdict supplied by an object.
 
-**Turn:** Helen allows a concrete preparatory act of departure before receiving reassurance about future visits.
+## What remains to discover
 
-**Audience gains:** Both women have selected the past to make their present positions defensible. Their affection also survives occasions when neither can turn it into evidence.
-
-**What can no longer proceed:** Helen cannot restore the old arrangement by attributing Ruth's whole life to her sacrifice. Ruth cannot require gratitude to settle every future decision.
-
-**Rhythm:** A slower duet. Its necessary endpoint is the returned bag; its internal route remains open to drafting.
-
-## 7. A visit rehearsed badly — 51–59 minutes
-
-**Wants:** Helen wants proof that they will still know how to meet. Ruth wants freedom for herself while still recognising Helen. Kit, returning partway through, wants somewhere to stand after their new household has started without them.
-
-**Action:** Helen asks Ruth to try meeting her differently now. This reprises the earlier trial with the stakes reversed: Ruth is preparing for change herself.
-
-Helen loosens the familiar presentation again. Ruth can answer her, but struggles to address her as her daughter. She asks Helen to come back. Helen points out the asymmetry badly, with anger rather than an elegant account of reciprocity. Ruth still will not promise that she herself will return unchanged.
-
-Kit returns. They have told Neri what happened; the others have begun. Neri has not expelled or punished Kit. Kit has missed the experience they wanted Helen to share and has had to admit lying about her agreement.
-
-**Turn:** No rehearsal supplies a mutually reassuring version of the future. Ruth nevertheless puts on her coat.
-
-**Audience gains:** Ruth's wish to change does not instantly make her generous about Helen's changes. Kit's deadline had a real, proportionate cost.
-
-**What can no longer proceed:** The move cannot wait for both women to feel ready, or for a demonstration that future meetings will be comfortable.
-
-**Rhythm:** A short, exposed attempt at contact. Resist repeating all the positions from movement three; this attempt ends sooner because Ruth now has a bag beside the door.
-
-## 8. Ruth goes — 59–66 minutes
-
-**Wants:** Ruth wants to arrive at Sal's with the ability to decide what happens next. Helen wants to help and to make one last bid for certainty. Kit wants to repair something and offers to accompany Ruth.
-
-**Action:** Ruth declines the escort. She knows where she is going. Her independence must include the ordinary possibility of misjudging Sal or being a poor beginner, without the play threatening annihilation.
-
-Helen and Ruth make the change of residence explicit in a brief practical exchange. Ruth will no longer be able to call through the room and receive Helen wherever she is. Visits are possible; neither promises a schedule or a recognisable form.
-
-A sleeve catches. Ruth permits help, or asks Kit instead of Helen: choose in the full draft according to what the actors have made of their allegiance. This is a small remaining choice, not the scene's main action.
-
-Ruth leaves for Sal's. Helen does not follow. Ruth does not return for spectacles.
-
-**Turn:** The move occurs without either woman obtaining the assurance she wanted.
-
-**Audience gains:** Departure means another life. The familiar mother may change beyond the present terms of recognition; she is not deleted, revealed as unreal, or secretly dying.
-
-**What can no longer proceed:** They cannot continue negotiating as if no decision has been enacted. Future contact will begin from elsewhere.
-
-**Rhythm:** Give the departure enough ordinary duration to be real. Do not underline it with a scenic transformation.
-
-## 9. Just for the arrival — 66–70 minutes
-
-**Wants:** Kit still wants Helen beside them when they enter their household late. Helen wants contact after the rupture and also has a wider self to return to.
-
-**Action:** Kit asks again, this time acknowledging that Helen did not promise attendance. Helen agrees to accompany them.
-
-As Helen begins to meet Kit in the expansive manner Kit earlier preferred, Kit falters. They ask for the familiar mother “just for the arrival,” wanting her hand while they face Neri after admitting the lie. Earlier Kit advertised Helen's impressive work; now they want to arrive as someone's child before taking their place among equals. Let the request, not an explanatory speech, reveal this. Kit celebrated the expansive Helen while Ruth found her difficult; their own shame now makes familiar reassurance desirable.
-
-Helen considers. She deliberately resumes that familiar form and leaves with Kit. Her choice is neither compelled by the room nor presented as proof that no separation is possible.
-
-The room remains, empty. No object supplies a final moral.
-
-**Turn:** Helen has obtained the freedom she asked for and uses some of it to accommodate her child. How much she has freely given, and how much she has already resumed carrying, is unsettled.
-
-**Audience gains:** No further mechanism. The final action spends what the audience already knows.
-
-**What has changed:** Ruth has moved. Kit's first evening began without them. Helen's relationship to both is altered, but recognisable need remains.
-
-**Rhythm:** Brief, awkward, with no summing-up speech.
-
-**Test in the full draft:** Let Ruth's departure register before Kit asks. Helen may want company herself; Kit must be able to hear a refusal. Accompanying Kit need not restore the shared perception Helen withdrew. Care can continue while trust has not recovered. Test whether “just for the arrival” overstates the echo of the old promise; the wording and ending remain replaceable.
-
----
-
-## Revelation order
-
-| By approximately | What the audience understands | What changes the action |
-| --- | --- | --- |
-| 7 minutes | Kit overstated Ruth's consent | Packing stops |
-| 15 minutes | Helen remains reachable; tonight matters to Kit | They choose a quiet trial |
-| 25 minutes | Helen contains the room; quiet does not guarantee familiar company | Ruth chooses Sal's life over waiting here |
-| 34 minutes | Helen preserves the room; Ruth may change beyond it | Helen stops the move |
-| 43 minutes | Helen begged Ruth to stay; shared intimacy can expose memory | Kit misuses it and loses access |
-| 51 minutes | The family accounts omit inconvenient choices | Helen gives back the bag |
-| 59 minutes | A future meeting may hurt despite goodwill | Ruth puts on her coat without resolving that hurt |
-| 66 minutes | Residence has ended; Ruth lives elsewhere | Helen and Kit must speak without her |
-| 70 minutes | The familiar mother is something Helen can choose to provide | Helen leaves with Kit; the room remains |
-
-## What remains open
-
-The causal spine is a draft proposition, not a claim that every movement works. In particular:
-
-- The audience must be able to distinguish shared experience from simultaneous conversation. If Kit's acquisition of the private memory reads as a guess, the central new action has failed.
-- The chair scene must actually prevent a departure that could have happened. More information about furniture is insufficient.
-- Movements six and seven may need compressing or combining after a continuous read. Time should go to lived encounters, not an extra round of an already clear argument.
-- The ending is a new working version. Keep it only if Helen's choice feels both voluntary and costly, rather than illustrating an inevitable cycle.
-- Kit's disclosure must not make resolving the violation the sole remaining subject. Ask listeners what they now think the play needs to resolve.
-- Particulars and longer speeches must make these people enjoyable and surprising, rather than merely illustrating the development notes.
-- The dancing story, the exact interruption and the sleeve business can change. The biographies should supply choices, not compel explanatory speeches.
-
-A cold reader should be able to recount the same physical events as another reader while disagreeing about which person has been most generous or most unfair.
+The exact durations, where laughter needs space, and how much private history survives in speech require a blocked workshop. The test is whether an unfamiliar audience follows the actions without hearing the stage directions. See the [workshop guide](WORKSHOP_GUIDE.md). A completed rewrite is not performance evidence.

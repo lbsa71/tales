@@ -1,8 +1,6 @@
 # Dramatic Pages — *The Spare Room*
 
-> Historical revision-3 excerpt, superseded by the [complete second draft](chapters/README.md). Its staging instructions and proposed dialogue are preserved for development history.
-
-Revision 3 for writer handoff. A limited pass clarifies the quiet trial, Ruth's choice to leave, and the distinction between shared perception and residence. This continuous exploratory passage covers movements three to five of the [then-current outline](drafts/first-draft-2026-09-22/development/OUTLINE.md); it is not a complete act and has not been timed in a reading.
+Revision 3 for writer handoff. A limited pass clarifies the quiet trial, Ruth's choice to leave, and the distinction between shared perception and residence. This continuous exploratory passage covers movements three to five of the [outline](OUTLINE.md); it is not a complete act and has not been timed in a reading.
 
 The [first dialogue draft](drafts/dialogue-v1.md) preserves the earlier opening and later sample. The swimming-bag opening remains the intended starting material. Here the audience has already seen Ruth reach Helen outside the room and fail to reach Kit. Kit has disclosed the household gathering this evening, but not the assurance given to Neri.
 

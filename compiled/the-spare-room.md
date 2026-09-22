@@ -1,1492 +1,759 @@
-# 1. The Bag
+# 1. The Failed Move
 
-*RUTH sits at the table. HELEN stands behind her, holding RUTH's coat open. KIT has put a bag on the third chair.*
+*RUTH sits at the table. HELEN stands behind her, holding RUTH's coat open. KIT has put a swimming bag on the third chair. There is a scarf under the coat, a flask and three mugs on the table, and RUTH's spectacles beside her tea.*
 
 **RUTH:** Is that for my things?
 
-**KIT:** Yes.
-
-**RUTH:** That's your swimming bag.
-
 **KIT:** It's dry.
 
-**RUTH:** I didn't ask whether it was wet.
+**RUTH:** I was only asking.
 
-**HELEN:** There's hardly anything to take.
+**HELEN:** There's hardly anything to take. Mum. Your arm.
 
-**RUTH:** Good. It won't take long when I've decided.
+*RUTH puts out her hand. HELEN brings the sleeve to it. RUTH reaches past it for her spectacles.*
 
-**HELEN:** You have decided.
+**KIT:** I can get a different bag.
 
-*RUTH holds out a hand. HELEN moves the coat towards it.*
+**HELEN:** Please don't go and get anything else. We have everything.
 
-**RUTH:** My glasses.
+**RUTH:** Have we?
 
-*HELEN gives her the spectacles from the table.*
+*HELEN continues holding the coat. RUTH cleans her spectacles on her own sleeve, tries them, cleans them again.*
 
-**KIT:** I can get another bag.
+**HELEN:** I'm getting cramp.
 
-**HELEN:** The bag is fine.
+**RUTH:** Put it down, then.
 
-**RUTH:** I'm sure it is.
+*HELEN puts it on the back of RUTH's chair. KIT opens the bag.*
 
-**KIT:** That sounded-
+**KIT:** The blue mug?
 
-**HELEN:** It's fine.
+**RUTH:** There's tea in it.
 
-*KIT opens the bag.*
+**HELEN:** I'll have that.
 
-**KIT:** What first?
+*She drinks before RUTH can stop her.*
 
-**HELEN:** The blue mug.
+**RUTH:** It's been there since this morning.
 
-**RUTH:** No.
+*HELEN swallows. KIT laughs, then reaches for the flask. HELEN takes it from them and pours herself some fresh tea. RUTH watches the entire operation.*
 
-**HELEN:** You said you wanted your own things around you.
+**RUTH:** I was going to make some.
 
-**RUTH:** Some of them.
+**HELEN:** I know.
 
-**HELEN:** You use it every day.
+**KIT:** We could do clothes first.
 
-**RUTH:** It's the one that's here.
+**HELEN:** The light scarf. She wants that.
 
-*KIT picks up the mug.*
+*HELEN finds the scarf beneath the coat and gives it to KIT, who packs it.*
 
-**RUTH:** There's tea in that.
+**RUTH:** I want it if I go.
 
-*KIT puts it down.*
+*KIT keeps a hand inside the bag.*
 
-**KIT:** Right.
+**HELEN:** We said today.
 
-**HELEN:** I'll drink it.
+**RUTH:** Thursday wasn't any good. That's what I said.
 
-**RUTH:** It's cold.
+**HELEN:** And today was better. I asked you, in front of Kit, and you said today was better.
 
-**HELEN:** I don't mind.
+**RUTH:** For talking about it. I have something on Thursday.
 
-*HELEN has to put the coat down to pick up the mug. RUTH takes the coat and folds it across her knees.*
+**HELEN:** Kit?
 
-**KIT:** I could start with clothes.
+**KIT:** I was there for some of it.
 
-**RUTH:** You could sit down.
+**HELEN:** You came and found me afterwards. You said she was ready.
 
-**KIT:** I've only got-
+*KIT removes their hand from the bag.*
 
-**HELEN:** We know.
+**KIT:** She'd been to Sal's again. I thought that meant something.
 
-**RUTH:** I don't.
+**RUTH:** It meant Sal had asked me back.
 
-**KIT:** I said I'd be back in an hour.
+**HELEN:** You told me the visit was terrible.
 
-**RUTH:** Then you'd better not sit down.
+**RUTH:** The tour was terrible. She walked us round explaining where everybody sat. Nobody sat anywhere. Halfway through the tea I couldn't tell who I'd been introduced to.
 
-*HELEN drinks.*
-
-**RUTH:** I told you.
-
-**HELEN:** It's all right.
-
-**RUTH:** Your face says otherwise.
-
-**HELEN:** Mum.
-
-**RUTH:** What?
-
-*HELEN puts the mug down.*
-
-**HELEN:** We said we would do this today.
-
-**RUTH:** You said today.
-
-**HELEN:** And you said that would be-
-
-**RUTH:** I said today was better than Thursday.
-
-**HELEN:** Yes.
-
-**RUTH:** I have something on Thursday.
-
-**HELEN:** You could have told me that was what you meant.
-
-**RUTH:** It was in the same sentence.
-
-**KIT:** What's on Thursday?
-
-**HELEN:** It doesn't matter what's on Thursday.
-
-**RUTH:** It does to me.
-
-*A pause.*
-
-**HELEN:** Kit. You were here.
-
-**KIT:** For which bit?
-
-**HELEN:** When we discussed it.
-
-**KIT:** I came in at the end.
-
-**HELEN:** You heard her say today would be better.
-
-**KIT:** I heard Thursday.
-
-**HELEN:** You must have heard more than the word Thursday.
-
-**KIT:** I was looking for my bag.
-
-*They all look at the bag.*
-
-**RUTH:** There it is.
-
-*KIT almost laughs. HELEN sees.*
-
-**KIT:** Sorry.
-
-**HELEN:** I asked you to come and help.
-
-**KIT:** I am trying to help. What goes in the bag?
-
-*RUTH starts unfolding the coat.*
-
-*HELEN moves to assist her. RUTH folds it again, more neatly.*
-
-**RUTH:** Don't put clothes in with the mug.
-
-**KIT:** I haven't put anything in.
-
-**RUTH:** I can see that.
-
-*KIT lifts the bag off the chair and puts it on the floor. To sit down, they move the chair away from the table.*
-
-**HELEN:** Leave that where it was.
-
-**RUTH:** It's in the way there.
-
-**HELEN:** It's always been there.
+**KIT:** Did you like Sal?
 
 **RUTH:** Yes.
 
-*KIT remains standing, holding the chair.*
+*HELEN waits for more. RUTH drinks.*
 
-**KIT:** Here?
+**HELEN:** You might have told me that.
 
-**RUTH:** That's fine.
+**RUTH:** You'd sent two more places by then. I was trying to look at them.
 
-**HELEN:** There isn't room.
+**HELEN:** You didn't have to look at them if you'd found somewhere.
 
-*KIT sits.*
+**RUTH:** I hadn't found somewhere. I'd had some tea with a woman.
 
-**KIT:** There is.
+*KIT lifts the bag, uncertain whether to put it down elsewhere. HELEN holds out a hand for it.*
 
-*HELEN looks at the empty bag. She picks it up and holds it open herself.*
+**KIT:** I thought if we all got here we could just start. Otherwise it goes on and on, and you ask me what she said, and she asks me what you said, and I can't remember who I'm supposed to have told what.
 
-**HELEN:** Your scarf, then. Can we put your scarf in?
+**HELEN:** So you told me she'd agreed.
 
-*RUTH considers this.*
+**KIT:** Yes. Sorry.
 
-**RUTH:** The light one.
+*HELEN takes the bag. She puts it on the table and stays beside it.*
 
-*HELEN finds it beneath the coat. She places it in the bag.*
+**HELEN:** Mum. Will you move today?
 
-**RUTH:** If we go.
+**RUTH:** Take my scarf out.
 
-**HELEN:** You asked me to find somewhere.
+**HELEN:** That's not going to help.
 
-**RUTH:** I asked you to show me what there was.
+**RUTH:** I don't want you packing while I answer.
 
-**HELEN:** I showed you three places.
+*HELEN takes out the scarf. RUTH puts it across her knees.*
 
-**RUTH:** You sent me six.
+**RUTH:** I don't know yet.
 
-**HELEN:** You only looked at three.
+*KIT looks towards the entrance.*
 
-**RUTH:** I only liked one.
+**RUTH:** You can sit down. There's room now.
 
-**KIT:** Which one?
+**KIT:** I need to tell Neri I'll be longer.
 
-*RUTH looks at them.*
+**HELEN:** How much longer?
 
-**RUTH:** I didn't say I liked it.
+**KIT:** I don't know either.
 
-**KIT:** No.
+*KIT goes out. RUTH picks up the empty bag.*
 
-**RUTH:** You have to be careful with her.
+**RUTH:** Kit, is the bottom of this clean?
 
-**HELEN:** Apparently.
-
-**KIT:** Was it Sal's?
-
-**RUTH:** Sal doesn't own it.
-
-**HELEN:** She lives there.
-
-**RUTH:** So do eight other people. That doesn't make it Sal's.
-
-**KIT:** Nine?
-
-**RUTH:** Sometimes.
-
-**HELEN:** You said the tour was impossible.
-
-**RUTH:** The tour was impossible. Sal kept saying, 'This is where we sit,' when only two of them were sitting and neither of them stayed the same person long enough to finish the tea.
-
-**KIT:** Did you finish yours?
-
-**RUTH:** There weren't any cups.
-
-**HELEN:** There were cups.
-
-**RUTH:** There were things you could drink from. That's not the same as having cups.
-
-**KIT:** I like her.
-
-**RUTH:** You haven't met her.
-
-**KIT:** I like her cups.
-
-**RUTH:** There weren't any.
-
-*KIT holds up both hands. RUTH conceals a smile by inspecting the coat.*
-
-**HELEN:** You went back.
-
-**RUTH:** Once.
-
-**HELEN:** Twice.
-
-**RUTH:** The second time I was already nearby.
-
-**HELEN:** Nearby where?
-
-**RUTH:** Nearby them.
-
-**HELEN:** You didn't tell me.
-
-**RUTH:** I didn't know visits needed reporting before I'd agreed to be moved there.
-
-**HELEN:** They don't.
-
-**RUTH:** Good. I brought up looking.
-
-**HELEN:** Looking isn't moving.
-
-**RUTH:** No. That's why they're different words.
-
-**HELEN:** Then what did you think today was?
-
-**RUTH:** Better than Thursday.
-
-**HELEN:** Kit said you were ready.
-
-*KIT becomes very interested in the zip of the bag.*
-
-**RUTH:** Did they?
-
-**HELEN:** Yes.
-
-**KIT:** I said it sounded as though you were.
-
-**HELEN:** You said, 'She's ready.'
-
-**KIT:** It did sound like that.
-
-**RUTH:** Not when I said it.
-
-**KIT:** I had to give Mum something definite.
-
-**RUTH:** Why?
-
-**KIT:** Because she kept asking.
-
-**HELEN:** I asked once.
-
-**KIT:** You asked once in several places.
-
-**RUTH:** I didn't hear any of them.
-
-**HELEN:** You wouldn't.
-
-*A fraction of a pause. RUTH looks at HELEN, but HELEN has already turned on KIT.*
-
-**HELEN:** You made me think she'd agreed.
-
-**KIT:** You wanted me to come.
-
-**HELEN:** That isn't an answer.
-
-**KIT:** It's why I said yes before I knew what yes meant.
-
-**RUTH:** Whose yes?
-
-**KIT:** Hers. Yours. Mine. At the time they seemed to be travelling together.
-
-**RUTH:** They weren't.
-
-**KIT:** I can see that now.
-
-**RUTH:** You can see three people in a room. It's not advanced work.
-
-**KIT:** No.
-
-**HELEN:** Mum, I am asking you now.
-
-**RUTH:** No, you're not. You're asking again and pretending the first answer was mine.
-
-*HELEN puts the bag on the table.*
-
-**HELEN:** Fine. Will you move today?
-
-*RUTH looks at the bag. Then at her daughter.*
-
-**RUTH:** Stop packing.
-
-**HELEN:** There is one scarf in it.
-
-**RUTH:** Take it out.
-
-**HELEN:** You said the light one.
-
-**RUTH:** I am saying take it out.
-
-*HELEN takes out the scarf. She lays it on the table.*
-
-**RUTH:** Thank you.
-
-*KIT closes the empty bag.*
-
-**RUTH:** And don't do that.
-
-*KIT opens it again.*
-
-*The three of them regard the open, empty bag.*
-# 2. The Other Promise
-
-*The bag remains open on the table. No one has found a graceful way to begin again.*
-
-**KIT:** I need to check something.
-
-**HELEN:** Now?
-
-**KIT:** It won't take long.
-
-**RUTH:** Your hour will still be there when you get back.
-
-**KIT:** That's what I'm checking.
-
-*KIT goes through the entrance.*
-
-**RUTH:** Take your bag.
-
-*KIT does not answer.*
+*No answer. RUTH waits, then speaks towards the entrance.*
 
 **RUTH:** Kit?
 
-*Nothing.*
+*No answer. HELEN takes the bag and puts it on the floor beside the table.*
 
-**RUTH:** Well, that's rude.
+**HELEN:** They can't hear you out there.
 
-**HELEN:** They can't hear you from there.
+**RUTH:** I only wanted to know whether to put the scarf in loose.
 
-**RUTH:** It isn't far.
+**HELEN:** I'll wash the scarf if it gets dirty.
 
-**HELEN:** It isn't here.
+**RUTH:** You don't wash that one. You ruined the last one.
 
-**RUTH:** They managed to hear you asking about Thursday from somewhere I couldn't.
+**HELEN:** That was a very long time ago.
 
-**HELEN:** That was different.
+**RUTH:** Yes, well. I liked it.
 
-**RUTH:** Things often are by the time you explain them.
+*HELEN starts to reply, gives up, and sits. RUTH folds the scarf carefully. HELEN gets up again.*
 
-*HELEN takes the bag from the table and puts it on the floor.*
-
-**RUTH:** That's still packing.
-
-**HELEN:** It's making room.
-
-**RUTH:** For what?
-
-**HELEN:** My arms.
-
-**RUTH:** Put them down.
-
-*HELEN does. RUTH waits for her to sit. HELEN does not.*
-
-**RUTH:** Have you got somewhere else to be?
-
-**HELEN:** Yes.
-
-**RUTH:** I meant now.
-
-**HELEN:** So did I.
-
-**RUTH:** Then go.
-
-**HELEN:** I can't leave this half done.
-
-**RUTH:** It hasn't begun.
-
-**HELEN:** Exactly.
-
-**RUTH:** That's not the same half.
-
-*HELEN takes a breath, then goes through the entrance.*
-
-*RUTH waits.*
-
-**RUTH:** I told Sal you were very thorough.
-
-*No answer.*
-
-**RUTH:** She thought I meant kind.
-
-*No answer.*
-
-**RUTH:** Helen.
-
-**HELEN** *(from beyond the entrance):* What?
-
-**RUTH:** Nothing.
-
-**HELEN:** You called me.
-
-**RUTH:** You'd gone.
-
-**HELEN:** For one minute.
-
-**RUTH:** You didn't say.
-
-**HELEN:** I am saying now.
+**HELEN:** I need a minute.
 
 **RUTH:** All right.
 
-*A pause.*
-
-**RUTH:** Were you doing something?
-
-**HELEN:** Yes.
-
-**RUTH:** Important?
-
-**HELEN:** It was private.
-
-**RUTH:** I didn't ask what it was.
-
-**HELEN:** You asked if it was important.
-
-**RUTH:** You could have said no.
-
-*HELEN returns.*
-
-**HELEN:** This. This is why.
-
-**RUTH:** Why what?
-
-**HELEN:** Kit goes out and you can't reach them. I go out and you follow me.
-
-**RUTH:** I didn't move.
-
-**HELEN:** You know what I mean.
-
-**RUTH:** You answered.
-
-**HELEN:** Because if I don't, you keep calling.
-
-**RUTH:** I called once.
-
-**HELEN:** Today.
-
-**RUTH:** Once today.
-
-**HELEN:** We have been here six minutes.
-
-**RUTH:** Seven, if Kit's hour is reliable.
-
-**HELEN:** It isn't the amount of room. It isn't the work. It is that there is nowhere I can go where you cannot ask me back.
-
-*RUTH looks around.*
-
-**RUTH:** You can go anywhere.
-
-**HELEN:** So long as I can be interrupted here.
-
-**RUTH:** I don't interrupt you when you're busy.
-
-**HELEN:** You don't always know.
-
-**RUTH:** You can tell me.
-
-**HELEN:** Then I have to come here to tell you.
-
-**RUTH:** You just told me from outside.
-
-**HELEN:** That is not better.
-
-**RUTH:** It was quite efficient.
-
-**HELEN:** Mum.
+*HELEN leaves by the same entrance KIT used. RUTH finishes folding the scarf. She puts it on the table. A little time passes.*
 
 **RUTH:** Helen.
 
-*They look at one another. For a moment the old form of the quarrel is almost comforting.*
+*RUTH speaks at her ordinary conversational volume, still looking at the scarf.*
 
-**RUTH:** I didn't know you were talking privately.
+**HELEN** *(outside):* What?
 
-**HELEN:** I know.
+**RUTH:** Nothing. I wondered if you'd gone with Kit.
 
-**RUTH:** You make me sound as though I was listening at a door.
+**HELEN:** I said I needed a minute.
 
-**HELEN:** There isn't a door you can stay behind.
+**RUTH:** Yes. Take it.
 
-**RUTH:** There's that one.
+*RUTH picks up the scarf again. Before she unfolds it, HELEN returns.*
 
-**HELEN:** It doesn't do that for us.
+**HELEN:** I can't. Not like that.
 
-**RUTH:** It did for Kit.
+**RUTH:** I didn't ask you to come back.
 
-**HELEN:** Kit doesn't live here.
+**HELEN:** I was in the middle of something and there you were. I heard you. I always hear you. I can go as far as I like and you can still call me.
 
-*The sentence is plain. Its meaning is not yet fully plain to the audience. RUTH looks at the empty bag.*
+**RUTH:** You used to like knowing I was here.
 
-**RUTH:** Neither do you, most of the time.
+*HELEN picks up her tea. It is too hot. She puts it down.*
 
-**HELEN:** I am always here.
+**HELEN:** I still like knowing you're here. I want to be able to go away for a bit.
 
-**RUTH:** That's not what you say when I ask.
+**RUTH:** You go away all the time.
 
-**HELEN:** Because you mean this.
+**HELEN:** I want to be properly away. Without listening for my name.
 
-**RUTH:** What else would I mean?
+*RUTH starts to unfold the scarf, then leaves it.*
 
-**HELEN:** Everything else.
+**RUTH:** I could keep quiet.
 
-**RUTH:** You can't call everything else a place and expect me to visit it.
+*KIT returns, talking before they are quite through the entrance.*
 
-**HELEN:** I haven't asked you to visit.
+**KIT:** They can wait a little, but not much. The bread's nearly done.
 
-**RUTH:** No.
+**HELEN:** Is this the meal?
 
-*HELEN hears that.*
+**KIT:** The first one. Yes. Tonight.
 
-**HELEN:** Sal has asked you.
+**HELEN:** You were going to tell me.
 
-**RUTH:** Sal asks everybody. That's why there are nine of them.
+**KIT:** I did. You said you'd try to come.
 
-**HELEN:** You said eight.
+*HELEN looks at RUTH, then back at KIT.*
 
-**RUTH:** Sal makes nine.
+**HELEN:** I did say that. I'm sorry.
 
-**HELEN:** You said eight other people.
+**KIT:** Neri's making the loaf. I'm supposed to do the crust.
 
-**RUTH:** Did I?
+**RUTH:** What's wrong with the crust?
 
-**HELEN:** Yes.
+**KIT:** Nothing. I burn it a little.
 
-**RUTH:** Then there are ten.
+**RUTH:** Why?
 
-**HELEN:** You don't know how many people live in the place you're considering moving to.
+**KIT:** Because when we met, Neri had burned breakfast. I could smell it from the street. I went in to tell them and they were just standing there with this horrible piece of toast, crying. Laughing, actually. I got that wrong too. Anyway. Neri hates the smell. But they said I could, for this one.
 
-**RUTH:** They don't always count in the same direction.
+*KIT smiles at the recollection. They look at HELEN, wanting her to enjoy it.*
 
-**HELEN:** That doesn't worry you?
+**HELEN:** You told me about the toast. You didn't tell me it was Neri.
 
-**RUTH:** Of course it worries me. One of them tried to show me a dance and I couldn't tell whose turn it was.
+**KIT:** I didn't know it was going to be Neri.
 
-**HELEN:** You said you liked it.
+*HELEN smiles. KIT sits.*
 
-**RUTH:** I said Sal was better when she wasn't showing me round.
+**KIT:** I want you to meet them. The others as well. They're going to be my people. I don't know how to say it without making it sound like a ceremony. It's mostly dinner.
 
-**HELEN:** You went back.
+**HELEN:** How many of them will I have to talk to?
 
-**RUTH:** I was invited.
+**KIT:** You can just talk to Neri. They want to meet you.
 
-**HELEN:** You're invited here.
+**HELEN:** You keep saying that. What have you told them?
 
-**RUTH:** I was.
+**KIT:** Nice things.
 
-*HELEN is stopped by the tense.*
+*HELEN looks apprehensive. KIT laughs.*
 
-**RUTH:** I could keep out of your way.
+**KIT:** Not that nice. I told them about the time you tried to make me a bed.
 
-**HELEN:** You shouldn't have to keep out of anybody's way.
+**HELEN:** There was nothing wrong with that bed.
 
-**RUTH:** That's a very nice reason for making me leave.
+**KIT:** It was very low.
 
-**HELEN:** I want you to have somewhere that isn't mine.
+**HELEN:** You wanted to be near the floor.
 
-**RUTH:** And if I like it?
+**KIT:** I wanted not to fall out. You could have put something down the side. You made the legs shorter every time I complained. Neri thought it was sweet.
 
-**HELEN:** Good.
+**HELEN:** You liked it eventually.
 
-**RUTH:** You don't sound sure.
+**KIT:** I loved it. I still have it. It was a terrible bed.
 
-**HELEN:** I am trying not to sound pleased.
+*HELEN looks surprised at the news that they kept it.*
 
-**RUTH:** That wasn't the danger.
+**RUTH:** You could take that with you tonight.
 
-*KIT returns. Their composure arrives a fraction before they do.*
+**KIT:** No. I've already got somewhere to sleep. Neri did it. They asked what I wanted and I said anything would be fine, and then I had to go back and tell them it wouldn't. They didn't mind. I thought they'd mind.
 
-**KIT:** Fine.
+*HELEN starts to say something. KIT waits for it. HELEN shakes her head and smiles instead.*
 
-**HELEN:** What is?
+**RUTH:** Go to dinner, then. Both of you. I'll stay here.
 
-**KIT:** Everything.
+**HELEN:** And when you want me?
 
-**RUTH:** How many people?
+**RUTH:** I said I could keep quiet. You didn't answer me.
 
-**KIT:** What?
+**HELEN:** I don't want you sitting here afraid to speak.
 
-**RUTH:** Never mind. Did your hour survive?
+**RUTH:** Then stay here. Do whatever you were doing outside. I'll see you doing it. I might manage not to interrupt.
 
-**KIT:** More or less.
+*HELEN looks at her. KIT begins to get up, encouraged.*
 
-**HELEN:** Who were you checking with?
+**KIT:** We could try that. Just now. Then if it works—
 
-**KIT:** Neri.
+**HELEN:** Sit down. Nobody's agreed to go anywhere.
 
-**HELEN:** About what?
+*KIT sits.*
 
-**KIT:** Tonight.
+**HELEN:** There's something I'd like to finish. It might take a while.
 
-**RUTH:** There. You could have said it was private.
+**RUTH:** Well, we're not getting far with the packing.
 
-**KIT:** It wasn't.
+*HELEN moves her chair a little away from the table so she can sit comfortably without facing RUTH squarely. She puts her mug within reach.*
 
-**HELEN:** What's tonight?
+**RUTH:** Shall I move?
 
-**KIT:** The meal.
+**HELEN:** No. You're fine there.
 
-**HELEN:** Which meal?
+*RUTH settles. KIT stops looking at the entrance.*
+# 2. A Workable Arrangement
 
-**KIT:** The first one.
-
-**HELEN:** Kit.
-
-**KIT:** You said you'd try.
-
-**HELEN:** You said you would tell me when it was settled.
-
-**KIT:** It is settled. That's why I'm telling you.
-
-**HELEN:** Now.
-
-**KIT:** I tried before.
-
-**RUTH:** Was that when I called?
-
-*KIT looks at HELEN. HELEN does not answer for them.*
-
-**KIT:** Yes.
-
-**RUTH:** I didn't know.
-
-**KIT:** I know.
-
-**RUTH:** I wouldn't have-
-
-**KIT:** It's fine.
-
-**RUTH:** Stop saying that.
-
-**KIT:** All right.
-
-**HELEN:** What did Neri say?
-
-**KIT:** They said they're beginning whether we're there or not.
-
-**RUTH:** Sensible.
-
-**KIT:** It isn't meant as a punishment.
-
-**RUTH:** I didn't say it was.
-
-**KIT:** It sounded-
-
-**HELEN:** Kit.
-
-**KIT:** Sorry.
-
-**HELEN:** I said I'd try to come.
-
-**KIT:** Yes.
-
-**HELEN:** I did not say today depended on Mum moving.
-
-**KIT:** No.
-
-**RUTH:** It seems to.
-
-**KIT:** Only because we're all here.
-
-**RUTH:** You arranged that.
-
-**KIT:** I helped.
-
-**HELEN:** You told me she was ready.
-
-**KIT:** We have done this part.
-
-**HELEN:** We have not finished it.
-
-**KIT:** Then can we finish something else?
-
-**RUTH:** Such as me?
-
-**KIT:** I didn't mean-
-
-**RUTH:** I know. But you should listen to yourself occasionally. It's cheaper than having a family.
-
-*KIT laughs despite themself. RUTH does too. HELEN tries not to and fails.*
-
-**KIT:** Neri and I are going to live with them. Properly. From tonight.
-
-**RUTH:** All ten?
-
-**KIT:** Nine.
-
-**RUTH:** That's what Sal claims.
-
-**HELEN:** This is a different house.
-
-**RUTH:** I know that. I am comparing arithmetic.
-
-**KIT:** They can begin without us. They will. I just wanted Mum there when we arrived.
-
-**HELEN:** You said you wanted me to meet them.
-
-**KIT:** I do.
-
-**HELEN:** That isn't the same thing.
-
-**KIT:** No.
-
-**RUTH:** You can go.
-
-**HELEN:** We haven't settled this.
-
-**RUTH:** You can come back.
-
-**HELEN:** And you can call me before I do.
-
-**RUTH:** I won't.
-
-**HELEN:** You don't always know when you're calling me away.
-
-**RUTH:** Then don't go. Stay here and do it.
-
-**KIT:** Could we try it without anyone leaving?
-
-*They turn to KIT.*
-
-**KIT:** Mum stays here and does whatever she would do elsewhere. Ruth doesn't call her back. If that works, nobody has to make today mean more than it does.
-
-**HELEN:** I would still be here.
-
-**KIT:** Differently.
-
-**RUTH:** How differently?
-
-**HELEN:** You know.
-
-**RUTH:** I know what you look like when you stop listening.
-
-**HELEN:** That isn't what happens.
-
-**RUTH:** Then show me.
-
-**HELEN:** This is not a trick.
-
-**RUTH:** I didn't say it was.
-
-**KIT:** If it works, we can go tonight and talk about the rest when we aren't trying to beat two doors.
-
-**RUTH:** There is one door.
-
-**KIT:** It is doing a lot.
-
-**HELEN:** And if it doesn't work?
-
-**RUTH:** You can have your argument back.
-
-**HELEN:** It isn't mine.
-
-**RUTH:** You brought a bag.
-
-*HELEN considers RUTH. Then KIT. Then the room she has been trying not to name.*
-
-**HELEN:** You have to let me finish.
-
-**RUTH:** Finish what?
-
-**HELEN:** Whatever I begin.
-
-**RUTH:** How long?
-
-**HELEN:** I don't know yet.
-
-**RUTH:** That's convenient.
-
-**HELEN:** Mum.
-
-**RUTH:** I will keep quiet.
-
-**KIT:** Properly?
-
-**RUTH:** I am capable of it.
-
-**HELEN:** No calling me back.
-
-**RUTH:** I said I will keep quiet.
-
-**HELEN:** That isn't the same promise.
-
-**RUTH:** It's the one you're getting.
-
-*KIT starts to close the open bag, thinks better of it, and leaves it where it is.*
-
-*HELEN sits.*
-
-*RUTH folds her hands.*
-
-*KIT stops looking towards the entrance.*
-# 3. Being Here Differently
-
-*HELEN waits.*
-
-**RUTH:** Go on.
-
-**HELEN:** I am.
-
-**RUTH:** All right.
-
-*A little time.*
-
-**KIT:** You don't have to watch her.
-
-**RUTH:** Where would you like me to look?
-
-**KIT:** Anywhere.
-
-**RUTH:** That's where I'm looking.
-
-*HELEN laughs once, unwillingly. She settles further into the chair, turned a little towards KIT. Her feet and hands cease their small readiness to attend to RUTH. Nothing makes her vacant or solemn. She is interested in something.*
-
-**RUTH:** Is that it?
-
-**HELEN:** Nearly.
-
-**RUTH:** Tell me when.
-
-**HELEN:** Mum.
-
-**RUTH:** Then I can start being quiet.
-
-*KIT turns towards HELEN.*
-
-**KIT:** Is it the harbour?
-
-*HELEN nods.*
-
-**KIT:** Can I?
-
-**HELEN:** Yes. Wait. Let it come to you.
-
-*KIT sits. Their shoulders rise. They laugh, surprised.*
-
-**KIT:** Oh, that's cold.
-
-**HELEN:** You asked.
-
-**KIT:** Where am I standing?
-
-**HELEN:** Don't stand anywhere.
-
-**KIT:** I have to stand somewhere.
-
-**HELEN:** That's why you keep falling in.
-
-*KIT adjusts, concentrating.*
-
-**RUTH:** Are your feet wet?
-
-**KIT:** No.
-
-**RUTH:** Well.
-
-**HELEN:** You can have a look.
-
-**RUTH:** I'm quite comfortable.
-
-**HELEN:** You don't have to get up.
-
-**RUTH:** I know that, Helen.
-
-*HELEN lets the offer go.*
-
-**KIT:** Someone's left a-
-
-**HELEN:** I know.
-
-**KIT:** They'll lose it.
-
-**HELEN:** It's tied on.
-
-**RUTH:** What is?
-
-**HELEN:** A small boat.
-
-**RUTH:** What kind?
-
-**HELEN:** Red.
-
-**RUTH:** That's not a kind of boat.
-
-**KIT:** Very small. With something in it.
-
-*HELEN almost speaks.*
-
-**KIT:** A shoe.
-
-*HELEN looks at KIT.*
-
-**KIT:** Sorry. You were just looking at it.
-
-**HELEN:** You can look. You don't have to say everything.
-
-**KIT:** It was a very sudden shoe.
-
-**RUTH:** Shoes do turn up in boats.
-
-**HELEN:** Do they?
-
-**RUTH:** If someone goes out wearing two and comes back wearing one, that's where I'd look.
-
-*KIT bends with laughter. HELEN joins them.*
+*HELEN looks towards an empty part of the playing space. Nothing appears there. She rubs her palms together, then rests them on her knees. She begins to smile.*
 
 **RUTH:** What?
 
-**KIT:** Nothing.
+**HELEN:** They're still arguing about where to stand.
 
-**RUTH:** I haven't said anything funny.
+**KIT:** The harbour?
 
-**HELEN:** You sounded so pleased with yourself.
+**HELEN:** Yes. They've had all morning.
 
-**RUTH:** Well, I've solved it.
+**KIT:** Can I see what you're seeing?
 
-*They are still amused. RUTH allows herself to be too.*
+**HELEN:** Come and sit here. Yes. You can look.
 
-**KIT:** Did you put the shoe there?
+*KIT brings their chair beside HELEN's, angled towards the same empty place. HELEN watches them settle.*
 
-**HELEN:** No. I don't do the shoes.
+**HELEN:** Wait for it.
 
-**RUTH:** What do you do?
+*KIT catches a breath and pulls their feet back. HELEN laughs.*
 
-**HELEN:** The water.
+**KIT:** That is freezing.
 
-**RUTH:** All of it?
+**HELEN:** I did tell them.
 
-**HELEN:** Enough of it.
+**RUTH:** Are your feet wet?
 
-**KIT:** She did the steps.
+**KIT:** No. They feel— No, they're dry.
 
-**HELEN:** I didn't do the steps. I made the water reach them together.
+*KIT touches a shoe to check. RUTH looks under the table.*
 
-**RUTH:** Is that difficult?
+**HELEN:** You can have a look too, Mum.
 
-**HELEN:** Yes.
+**RUTH:** I'll watch you two first.
 
-**RUTH:** I only asked.
+*HELEN turns back to the empty place. KIT leans forward.*
 
-**HELEN:** No, I'm telling you. It's very difficult. The harbour narrows here, and then there's a bit nobody admits is a harbour because the houses are horrible. It is still a harbour. Water doesn't look at the houses and make a decision. So if you want the same wave to reach both sets of steps, you have to let it come round the long way without making the people in the middle think you've forgotten them. I had it once. Yesterday. They were all standing there with their feet just above it, waiting. And then a child jumped in early. Which was fair enough. It was water.
+**KIT:** That little boat's going to come loose.
 
-**KIT:** I would have.
+**HELEN:** It's tied on. Somebody's put a—
 
-**HELEN:** You'd have complained about the temperature first.
+*She stops without completing the sentence.*
 
-**RUTH:** Were the parents there?
+**KIT:** Shoe in it.
 
-**HELEN:** Probably. Mum, that's not- I liked it. They'd all been waiting for something very beautiful and this child made a horrible noise and everyone got splashed. I liked that better. I tried to tell the others and they thought I meant we should arrange it that way. Put the child in. Put the noise in. Which is completely-
+*HELEN looks at KIT.*
 
-*She cannot find the word. She makes a frustrated gesture. KIT has received something of it and begins to laugh.*
+**KIT:** Sorry. It just arrived.
 
-**HELEN:** No. Don't say it.
+**HELEN:** You can see it without announcing it to everyone.
 
-**KIT:** I wasn't going to.
+**KIT:** It's a very small shoe.
 
-**HELEN:** You were.
+**RUTH:** Well, it won't sink a boat, then.
 
-**KIT:** You're still showing me.
+*KIT laughs. HELEN is still looking at the shoe.*
 
-**HELEN:** Then stop enjoying it so much.
+**HELEN:** They really have tied it on. Look at the knot. That boat's going nowhere.
 
-*She looks towards RUTH, still smiling.*
+**RUTH:** Who has?
 
-**HELEN:** You'd have liked it.
+**HELEN:** A child. I think it's the one from yesterday.
 
-**RUTH:** It sounds messy.
+**RUTH:** What happened yesterday?
 
-**HELEN:** It was.
+**HELEN:** I was trying to get the water to reach both sets of steps at once. There are steps here, and there are some on the other side, round past those horrible houses. You can't see them from here. Well, I can. That's not— Anyway, it's one harbour. They keep saying it isn't because they don't want the houses in the picture.
 
-**RUTH:** Were you in it?
+**KIT:** Mum does the water.
 
-**HELEN:** Yes.
+**HELEN:** Some of it. And they all came down, very early, and sat on the steps with their feet just above it. Waiting for this wave. It was meant to be very beautiful. Everyone waiting together. I was quite pleased with it.
 
-**RUTH:** On the steps?
+*She looks at RUTH, making sure she is following.*
 
-**HELEN:** There as well.
+**RUTH:** Yes.
 
-**RUTH:** Well, I wouldn't have known where to wave.
+**HELEN:** And then this child jumped in before it got there. Horrible noise. All the people on the bottom step got soaked. Someone tried to pick the child up and fell in as well.
 
-**HELEN:** You could have waved anywhere.
+*KIT begins laughing. HELEN joins them.*
 
-**RUTH:** I don't wave at water. People take you home.
+**HELEN:** I wish you'd seen it. The woman on the far side was still sitting there with her feet out, waiting for her beautiful moment. She was furious when the others started laughing.
 
-*HELEN laughs. KIT does too, then stops as a second thought comes.*
+**RUTH:** Was anyone hurt?
 
-**KIT:** Did they say it was yours?
+**HELEN:** No. They were only wet. I liked it much better like that. I told the others and now they want to put a child in every time.
 
-**HELEN:** What?
+**KIT:** You could ask for volunteers.
 
-**KIT:** The tide.
+**HELEN:** Oh, don't. They've already asked who should fall over. I haven't answered.
 
-**HELEN:** It doesn't matter.
+*HELEN continues watching. Her smile returns. RUTH takes her mug, finds it empty and sets it down.*
 
-**KIT:** Did they?
+**HELEN:** Do you want some more?
 
-**HELEN:** They said we'd done a good job.
+**RUTH:** Yes, please.
 
-**KIT:** Ah.
+*Without losing her place in the shared activity, HELEN pours RUTH tea from the flask and passes the mug across. KIT makes room for it.*
 
-**RUTH:** You always did want your name on things.
+**RUTH:** Not too much. Thank you.
 
-**HELEN:** It's nice when you've made them.
+**HELEN:** They're all on the steps again now. I'm going to try the other way round.
 
-**RUTH:** You wrote it on the sofa.
+**KIT:** Where are you making it start?
 
-**HELEN:** I didn't make the sofa.
+**HELEN:** Further out. There's a place nobody goes because there's nothing to stand on. That's my favourite bit. You can feel the whole thing coming before anybody sees it. Sometimes I stay there and forget to watch it arrive.
 
-**RUTH:** No. That was my point.
+**RUTH:** Then why do all the steps?
 
-*HELEN turns partly towards KIT again, her attention easy between them and the water. RUTH watches her.*
+**HELEN:** I like people putting their feet in. There's a man who comes every day and keeps his shoes on. He says he only wants to watch. Then he gets a little closer. I've been trying not to look at him because if he sees me looking, he goes away.
 
-**RUTH:** Will you be back for tea?
+**KIT:** Is he there now?
 
-**HELEN:** I'm here.
+**HELEN:** The blue shoes. Don't point. He can't see you, but I can, and I'll look.
 
-**RUTH:** Later.
+*KIT puts their hands under their thighs. HELEN tries to keep watching the whole view. Both begin to smile.*
 
-**HELEN:** I don't know what you mean.
+**RUTH:** You are looking at him.
 
-**RUTH:** Neither do I, apparently.
+**HELEN:** I know. I can't help it.
 
-*A pause.*
+*They wait. HELEN draws a small breath.*
 
-**KIT:** Neri said you could do something like that tonight.
+**HELEN:** Nearly. No. He's gone back up.
 
-**HELEN:** I said I'd try to come.
+**RUTH:** Let him take his time.
 
-**KIT:** I know.
+**HELEN:** I am. I haven't told him I know he comes.
 
-**HELEN:** You haven't asked me to do a tide.
+**RUTH:** Will you get the same wave back?
 
-**KIT:** No. Something little.
+**HELEN:** No. A new one. I could do that, though. Send it back. I hadn't thought of that.
 
-**HELEN:** I said I'd try to come.
+*She considers it with pleasure.*
 
-**KIT:** It doesn't have to be anything.
+**KIT:** Did they say you made it?
 
-**RUTH:** She has work to do.
+**HELEN:** They said it was lovely.
 
-**KIT:** She was just saying she likes it.
+**KIT:** That's not what I asked.
 
-**RUTH:** I like dancing. I don't dance every time someone opens a door.
+**HELEN:** I heard you.
 
-**HELEN:** You used to.
+*KIT shifts in their chair. HELEN goes on looking at the harbour.*
 
-**RUTH:** That was my job.
+**KIT:** Neri asked if you might bring something. Tonight. Not a whole harbour. They went to the one with the little lights. They loved it.
 
-**KIT:** Didn't you once-
+**HELEN:** That one was finished.
 
-**RUTH:** No, because everyone tells that wrong.
+**KIT:** I said you might have something new.
 
-**KIT:** I haven't told it yet.
+**HELEN:** I don't have anything finished. This is still mine for a bit. I don't want to go there and have everyone waiting for me to do something.
 
-**RUTH:** Your mother will. It was a Friday. I know it was Friday because we couldn't have the hall on Saturdays. The man with the pigeons had it.
+**KIT:** They wouldn't. I shouldn't have said anything.
 
-**HELEN:** He raced them.
+*HELEN looks at KIT. KIT looks at their hands.*
 
-**RUTH:** Not in the hall.
+**HELEN:** I wanted you to like this one.
 
-**KIT:** That would be a very short race.
+**KIT:** I do. I really do.
 
-**RUTH:** They had meetings. Anyway. I called left when I should have called right. In the first dance. Everyone went left. Perfectly reasonable. But I went on calling the next bit as though they'd gone right, and by then they were all halfway across the hall and the pianist couldn't see me.
+*RUTH drinks her tea.*
+
+**RUTH:** People used to come up after a dance and thank the man who'd unlocked the hall.
+
+**HELEN:** You told them.
+
+**RUTH:** Sometimes. If they'd come all that way to thank somebody, it seemed a shame to waste it.
+
+*KIT laughs. RUTH drinks again, then puts down the mug.*
+
+**RUTH:** There was one in the Friday hall. Do you remember? The one with the little windows, all painted shut.
+
+**HELEN:** I don't think I was there.
+
+**RUTH:** You've heard about it. The man with the pigeons had it on Saturdays.
+
+**KIT:** To fly them?
+
+**RUTH:** Meetings. They sat in a circle. I never found out what they discussed. Anyway. I was standing here—
+
+*She gets up and moves to the end of the table.*
+
+**RUTH:** Kit. Just stand there a moment.
+
+*KIT gets up. HELEN watches, amused, while occasionally glancing towards the harbour.*
+
+**RUTH:** You go left, and then come back to me. No, your left.
+
+*KIT takes a step. RUTH goes the other way. They stop, looking at each other across the table.*
+
+**RUTH:** There. That's what I did. Except there were thirty of them and I kept calling as though we'd all gone the right way.
+
+**KIT:** Should I come back?
+
+**RUTH:** Not yet. By this time I'd lost the pianist.
 
 **HELEN:** There wasn't a pianist.
 
-**RUTH:** There was somebody making a noise.
+**RUTH:** Somebody was making a noise.
 
-**KIT:** The pigeons.
+**KIT:** Pigeons.
 
-*RUTH laughs before she can stop herself.*
+*RUTH laughs and loses the next instruction. KIT waits where they are. HELEN laughs at the two of them waiting.*
 
-**RUTH:** Will you let me finish?
+**RUTH:** Oh, come back. We can't do it with two.
 
-**HELEN:** Go on.
+*KIT returns, taking the long way round the table. RUTH lets them. They sit, still laughing.*
 
-**RUTH:** Now I don't know where I was.
+**RUTH:** A woman came up afterwards and said it was refreshing. She had this hat on all evening. I'd been hoping somebody would knock it off. Not hurt her. Just the hat. It was very tall.
 
-**KIT:** Nobody does. They're all going left.
+**HELEN:** Did you tell her you'd got it wrong?
 
-*They laugh. RUTH shakes her head at KIT, then begins laughing again.*
+**RUTH:** No. I said thank you.
 
-**RUTH:** It was quite a good dance, as it turned out. A woman came up afterwards. 'So refreshing.' She had a hat on. I remember thinking she'd kept that on all evening and nobody had knocked it off. We must have done something right.
+*The laughter runs out. RUTH settles back into her chair. HELEN catches sight of something at the harbour.*
 
-**HELEN:** Did you tell her?
+**HELEN:** They're ready. Kit, do you want the rest?
 
-**RUTH:** I said thank you.
+**KIT:** Yes.
 
-*The laughter subsides without turning against anyone.*
+*KIT returns their attention to the same empty place.*
 
-**RUTH:** Go on. Finish it.
+**HELEN:** Mum, this is the bit I have to watch.
 
-**HELEN:** I can stop.
+**RUTH:** Go on.
 
-**RUTH:** I said I'd wait.
+*HELEN and KIT follow the same approaching thing. HELEN waits until it is close.*
 
-*HELEN turns towards KIT. Their attention follows something together. KIT nearly speaks; HELEN's smile stops them. They watch it finish.*
+**HELEN:** Now.
 
-*RUTH waits. She does not call, prompt or ask them to return. Leave enough time for the shared pleasure to continue without her.*
+*They both draw their feet back, then laugh at having done so. Nothing in the room has touched them. They watch the result. KIT begins to comment but stops because something else has caught their interest. HELEN leans forward to see it too.*
 
-**HELEN:** There. That worked.
+*Let the activity finish: an approach, their shared response, the settling afterwards. RUTH drinks her tea and waits. She does not call, prompt or require a reaction from either of them.*
 
-*HELEN looks towards RUTH. Her feet stay where they are; her attention does not gather into its earlier pattern.*
+**HELEN:** Both sides. At last.
 
-**RUTH:** I didn't call you.
+*She turns to RUTH of her own accord.*
 
-**HELEN:** I know.
+**HELEN:** Thank you.
 
-**RUTH:** Are you coming back now?
-
-**HELEN:** I'm here.
-
-**RUTH:** Properly.
-
-*RUTH cannot complete what she was going to say.*
-
-**KIT:** She doesn't have to stop everything.
-
-**RUTH:** I didn't ask her to.
-
-**KIT:** You did just-
-
-**HELEN:** Kit.
-
-*HELEN gives RUTH her hand, palm upwards. RUTH begins to take it in an ordinary clasp.*
-
-**HELEN:** You can come and look. You don't have to stay.
-
-*RUTH lets go before taking her hand fully.*
-
-**RUTH:** I said I'd keep quiet.
-
-**HELEN:** You don't have to keep quiet.
-
-**RUTH:** Then why are we doing this?
-
-**HELEN:** Because you live in me, Mum. When I go somewhere, you can still call me. If you're staying, I need to be able to be like this here sometimes.
-
-**RUTH:** You can.
-
-**HELEN:** All right.
-
-*A pause.*
-
-**RUTH:** Could you come back for a minute first?
-
-*HELEN looks at her. Then she turns her chair square to RUTH, sets both feet down, and waits. The familiar readiness returns. No lighting change.*
-
-**HELEN:** What is it?
-
-**RUTH:** Nothing. I was-
-
-*Silence.*
-
-**RUTH:** Sal said she'd show me before the others arrived.
-
-**HELEN:** The dance?
-
-**RUTH:** I've kept saying Thursday.
-
-*RUTH takes the scarf from the table.*
-
-**RUTH:** I'll go now.
-
-**HELEN:** You don't have to say that now.
-
-**RUTH:** If I arrive after they've started, I'll just stand there nodding as though I know it.
-
-**KIT:** The bag's here.
-
-*KIT rises immediately.*
-
-**RUTH:** I can see the bag.
-
-**KIT:** Sorry.
-
-*RUTH opens it.*
-# 4. The Chair Stops the Move
-
-*RUTH folds the scarf once and puts it in the bag. She is much quicker at this than either visitor. She retrieves her spectacles.*
-
-**HELEN:** Put those somewhere you can find them.
-
-**RUTH:** I have a place.
-
-*She puts them in her coat pocket.*
-
-**HELEN:** You'll forget they're there.
-
-**RUTH:** You can tell me I told you so on Thursday.
-
-**KIT:** So Thursday is Sal's?
-
-**RUTH:** Thursday has been Sal's for a while.
-
-**HELEN:** You didn't like it.
-
-**RUTH:** I didn't like the person who showed us round.
-
-**HELEN:** That was Sal.
-
-**RUTH:** She's better when she isn't showing you round.
-
-**HELEN:** I sent you two other places.
-
-**RUTH:** I know.
-
-**HELEN:** You could have told me.
-
-**RUTH:** You'd already sent them.
-
-*HELEN picks up the mug.*
-
-**HELEN:** This?
-
-**RUTH:** No. Sal's got cups.
-
-**KIT:** You said she didn't.
-
-**RUTH:** She's bought some.
-
-**KIT:** For you?
-
-**RUTH:** Not everything's for me.
-
-*RUTH takes the mug from HELEN, wipes its base with her thumb, and puts it on the table.*
-
-**HELEN:** They drink tea now?
-
-**RUTH:** Some of them. They made quite a fuss about the cake.
-
-**KIT:** Did they eat it?
-
-**RUTH:** They admired it.
-
-**HELEN:** You brought a whole cake?
-
-**RUTH:** Well, I wasn't taking them one with a bit out.
-
-*KIT shoulders the bag. HELEN notices KIT turn, briefly, towards something neither woman has addressed.*
-
-**HELEN:** Still got the water?
-
-**KIT:** Just a bit.
-
-**HELEN:** Leave that bit alone.
-
-**KIT:** I'm not doing anything to it.
-
-**HELEN:** You were about to.
-
-*KIT grins. HELEN nearly does.*
-
-**KIT:** Are you going to teach them?
-
-**RUTH:** Sal asked if I'd call.
-
-**HELEN:** You said you couldn't follow it.
-
-**RUTH:** They're showing me.
-
-**HELEN:** You said you couldn't tell whose feet were whose.
-
-**RUTH:** I couldn't.
-
-**HELEN:** That doesn't sound-
-
-**RUTH:** You didn't mind being all that water.
-
-*HELEN puts the coat over her arm.*
-
-**HELEN:** You can come back here afterwards. Tell me how it went.
-
-**RUTH:** Not tonight.
-
-**HELEN:** Tomorrow, then.
-
-**RUTH:** I don't know.
-
-**HELEN:** I'm trying to arrange a visit.
-
-**RUTH:** We've barely managed to arrange leaving.
-
-**KIT:** We could have done both by now.
-
-**HELEN:** Kit, please.
-
-*HELEN puts the coat on the chair RUTH habitually uses.*
-
-**HELEN:** It'll all be here. You won't have to worry about that. You can come and sit-
-
-*RUTH lifts the coat and moves the chair away from its place.*
-
-**HELEN:** What are you doing?
-
-**RUTH:** Getting my coat.
-
-**HELEN:** You don't need to move that.
-
-**RUTH:** It's in the way.
-
-**HELEN:** It was fine.
-
-**RUTH:** Put it wherever you like when I've gone.
-
-*HELEN puts it back.*
-
-**KIT:** Mum.
-
-**HELEN:** What?
-
-**KIT:** Nothing.
-
-**RUTH:** That's not where it was.
-
-**HELEN:** That's exactly where it was.
-
-**RUTH:** Not at home. I got rid of that chair.
-
-**HELEN:** No, you didn't.
-
-**RUTH:** I think I'd remember.
-
-**HELEN:** You sat in it every evening.
-
-**RUTH:** For a while. It hurt the back of my leg. I gave it to the woman downstairs.
-
-**HELEN:** You told me she borrowed it.
-
-**RUTH:** She was borrowing everything. I wanted her to keep something.
-
-*RUTH moves the chair again, further from the table.*
-
-**HELEN:** I remember you in it.
-
-**RUTH:** Well, here I am.
-
-**HELEN:** I wasn't-
-
-**RUTH:** Put it back yourself if you want it there.
-
-*HELEN does not move it.*
-
-**KIT:** I've got everything. Shall we?
-
-**HELEN:** Wait.
-
-**KIT:** What?
-
-**HELEN:** Just wait.
-
-*HELEN takes the bag from KIT.*
-
-**KIT:** I'll carry it.
-
-**HELEN:** We haven't-
-
-*She sets it behind her chair.*
-
-**RUTH:** Give that back.
-
-**HELEN:** I'm trying to understand what you've agreed to.
-
-**RUTH:** I'm going to Sal's.
-
-**HELEN:** And after that?
-
-**RUTH:** I'll take my coat off.
-
-**HELEN:** You know what I mean.
-
-**RUTH:** Actually I don't.
-
-**HELEN:** You said they don't always have-
-
-*She gestures at RUTH.*
-
-**RUTH:** These? No. Not always.
-
-**HELEN:** And you won't?
-
-**RUTH:** I might like it.
-
-**HELEN:** But when you come here.
-
-**RUTH:** When I come here what?
-
-**HELEN:** Here. Like this. We can agree that much.
-
-**RUTH:** We haven't.
-
-**RUTH:** You held your hand out to me just now.
+**RUTH:** Have you finished?
 
 **HELEN:** Yes.
 
-**RUTH:** I saw it. I couldn't do it. That doesn't mean I won't ever do anything.
+**RUTH:** Good.
 
-**HELEN:** I didn't say that.
+*RUTH moves her chair closer to the table. HELEN stays beside KIT. KIT smiles at something in the harbour; HELEN sees it too.*
 
-**RUTH:** Then give me my bag.
+**RUTH:** Are you going to come back over here?
 
-**HELEN:** I don't want the next time I see you to be something you haven't told me about.
+**HELEN:** In a minute. They're trying to retrieve the shoe.
 
-**RUTH:** I don't know what to tell you about yet.
+**RUTH:** I thought it was tied on.
 
-**HELEN:** You could wait until you do.
+**HELEN:** It is. That's the trouble. They've done the knot very well.
 
-**RUTH:** And if I walk out now, you'll tell Kit we arranged Thursday here.
+*RUTH waits. HELEN notices.*
 
-**HELEN:** We could.
+**HELEN:** You can talk to me, Mum. I can hear you.
 
-**RUTH:** I'm waiting for you to say we haven't.
+**RUTH:** I know you can hear me. You're still over there with them.
 
-*KIT looks from the bag to HELEN.*
+**HELEN:** And here with you.
 
-**KIT:** We came to take her.
+**RUTH:** Yes. You keep saying.
 
-**HELEN:** I know why we came.
+*KIT starts to speak. HELEN puts a hand briefly on their arm; they let her answer.*
 
-**KIT:** She's ready.
+**HELEN:** Mum, you live in me. This room is in me. I can't put you somewhere and come home at the end of the day. I need to do other things while you're here.
 
-**HELEN:** She's upset.
+**RUTH:** I know where I live.
 
-**RUTH:** Then don't upset me any more. Give me the bag.
+**HELEN:** Then let me be here like this sometimes.
 
-*RUTH reaches for the bag. HELEN holds it.*
+**RUTH:** I did. I didn't interrupt.
 
-**RUTH:** Helen.
+**HELEN:** No. You didn't. It worked.
 
-*HELEN lets RUTH take one handle. She keeps the other. Neither pulls.*
-# 5. An Invitation Misused
+*RUTH looks at HELEN, then at the place HELEN and KIT have been watching.*
+
+**RUTH:** Could you sit with me a moment? Just you.
+
+*HELEN gets up and brings her chair back to the table. She sits facing RUTH and waits. KIT stays in their chair.*
+
+**HELEN:** What is it?
+
+**RUTH:** I was going to—
+
+*RUTH looks at her mug. She turns it once. HELEN waits for her.*
+
+**RUTH:** I've forgotten.
+
+**HELEN:** That's all right.
+
+*Neither finds anything else to say. KIT watches something at the harbour without commenting.*
+
+**RUTH:** Sal said she'd show me before the others arrived. The dance they do. I keep saying I'll come on Thursday.
+
+**HELEN:** You can go on Thursday.
+
+**RUTH:** I know. I want to go now.
+
+*She picks up the scarf.*
+
+**RUTH:** If I get there after they've started, I'll stand at the back pretending I know it. I did that last time.
+
+**KIT:** I'll get the bag.
+
+*KIT reaches for it. RUTH is already on her feet.*
+
+**RUTH:** Leave it. I can do this bit.
+
+*She takes the bag from beside the table and opens it.*
+# 3. Packing at Last
+
+*RUTH puts the scarf into the bag, folds it once inside and closes the zip. She puts her spectacles in her coat pocket. KIT gets up to help, finds both jobs done, and takes the bag when RUTH offers it.*
+
+**HELEN:** Your mug.
+
+**RUTH:** Leave it. Sal's got cups now.
+
+**KIT:** She bought cups?
+
+**RUTH:** A few. I took a cake and they had nowhere to put it. We ate it out of my hands. It was all right until somebody wanted a second piece.
+
+**HELEN:** You took a cake?
+
+**RUTH:** Yes. It wasn't very good.
+
+**KIT:** What kind?
+
+**RUTH:** The one with the cherries. They'd all sunk. I cut it very carefully and there they all were, at the bottom, like something I'd put there on purpose.
+
+**HELEN:** You always say it's bad before anyone's tasted it.
+
+**RUTH:** This time I was right. Sal took the first piece and went very quiet. I thought, oh dear, she's being polite. Then she asked if she could have the bit I'd kept on my hand. The crumbs. So I gave them to her.
+
+*RUTH looks at her palm.*
+
+**RUTH:** She hadn't had cherries for a long time. I don't know how long. She went and got the others. I had to stand there until they'd all tried some. My arms ached.
+
+**KIT:** Did you tell them it wasn't very good?
+
+**RUTH:** No. By then I'd changed my mind.
+
+*HELEN smiles, then notices KIT looking pleased for RUTH.*
+
+**HELEN:** Why didn't you tell me?
+
+**RUTH:** I was going to. You were telling me about the third place. The one with the gardens.
+
+**HELEN:** You said you liked gardens.
+
+**RUTH:** I do. I still do.
+
+*HELEN reaches for the coat on the chair. RUTH lets her take it. KIT shoulders the bag, then glances towards the harbour.*
+
+**HELEN:** Have you still got the water?
+
+**KIT:** A bit. Someone's trying to reach the boat with a stick.
+
+**HELEN:** Don't help them. They'll only push it further out.
+
+**KIT:** I'm just watching.
+
+*RUTH checks the pocket of the coat HELEN is holding, feels the spectacles, then withdraws her hand.*
+
+**HELEN:** I can come and see you tomorrow. Or you could come here. Tell me what you think.
+
+**RUTH:** Let me get there first.
+
+**KIT:** I know the way. I could walk with you and come back for Mum.
+
+**HELEN:** We haven't arranged anything for tomorrow.
+
+**RUTH:** I know, dear.
+
+*HELEN puts the coat on RUTH's chair.*
+
+**HELEN:** It'll all be here. Your things. You can come and sit whenever you—
+
+*RUTH lifts the coat and moves the chair away from the table to get past it.*
+
+**HELEN:** Leave that.
+
+**RUTH:** It's in my way.
+
+*HELEN puts the chair back.*
+
+**HELEN:** There. You can get round.
+
+*RUTH looks at the chair, then at HELEN.*
+
+**RUTH:** I got rid of that chair.
+
+**HELEN:** You lent it to the woman downstairs.
+
+**RUTH:** I gave it to her. It hurt the back of my legs. She was shorter.
+
+**HELEN:** You sat there every evening.
+
+**RUTH:** For a while. Then I bought another one. You didn't like the colour.
+
+**HELEN:** I don't remember that.
+
+**RUTH:** Well. You've remembered this one very nicely. Mine had a split down the side.
+
+*HELEN runs a hand along the side of the chair.*
+
+**HELEN:** I remember you here.
+
+*RUTH moves the chair out again. HELEN takes a step towards it. RUTH stays beside it, holding her coat.*
+
+**RUTH:** Put it back when I've gone, if you want. I'm going to be late.
+
+*KIT goes towards the entrance with the bag.*
+
+**HELEN:** Wait.
+
+*She takes the bag from KIT.*
+
+**KIT:** What have we forgotten?
+
+**HELEN:** Nothing. Just wait a moment.
+
+*She sets the bag behind her own chair.*
+
+**RUTH:** Helen. Give it back.
+
+**HELEN:** You can do whatever you want at Sal's. Obviously. But when we see each other—
+
+**RUTH:** What?
+
+**HELEN:** I don't want to arrive and have to ask which one is you.
+
+*RUTH looks down at her coat.*
+
+**HELEN:** You said yourself you couldn't tell who you were talking to.
+
+**RUTH:** I found Sal.
+
+**HELEN:** Eventually.
+
+**RUTH:** She found me. She came and stood beside me because I looked lost. I was lost. It was kind of her.
+
+**HELEN:** So you'll come back here like this. That's all I'm asking.
+
+**RUTH:** I don't know yet. Sal can be a whole line of people moving. I've never seen anything like it. I don't even know where I'd start.
+
+**KIT:** She's going to show you.
+
+**RUTH:** Yes.
+
+**HELEN:** And if you like it?
+
+**RUTH:** Then I'll want to do it again.
+
+*HELEN lifts the bag and holds it against her leg.*
+
+**RUTH:** You can keep that if you want. There's only a scarf in it. I want you to stop arranging how I'll visit before I've left.
+
+**HELEN:** We need something to arrange.
+
+**RUTH:** Not yet.
+
+*RUTH puts out a hand for the bag. HELEN holds it out a little, then stops. RUTH takes one handle. HELEN keeps the other.*
+
+*Neither pulls.*
+# 4. Kit Makes It Worse
+
+*HELEN and RUTH each hold a handle of the bag. KIT stands beside them.*
 
 **KIT:** Are you going to expect me to do this for you?
 
@@ -1494,1177 +761,660 @@
 
 **RUTH:** I didn't expect it either.
 
-*RUTH releases her handle. She stays facing HELEN. HELEN puts the bag under her own chair.*
+*RUTH lets go. HELEN keeps the bag.*
 
 **KIT:** Then why is she still here?
 
-**RUTH:** Ask her.
+**HELEN:** I asked her to stay.
 
-**HELEN:** I asked you to stay.
+**KIT:** For how long?
 
-**RUTH:** Yes.
-
-**HELEN:** I've never said I didn't.
-
-**RUTH:** You say it as though I came to dinner and wouldn't put my coat on.
-
-**HELEN:** Mum.
-
-**RUTH:** I had a coat on. I was going somewhere.
-
-**HELEN:** I know.
-
-**RUTH:** The others waited for me.
-
-**HELEN:** I know that too.
-
-**KIT:** What others?
-
-**RUTH:** We were going round together. Calling dances. A different place every-
-
-**HELEN:** You hadn't said yes to them either.
-
-**RUTH:** I had my coat on.
-
-**HELEN:** You were standing in the passage.
-
-**RUTH:** And you asked me to sit down.
-
-*A pause.*
-
-**HELEN:** Yes.
-
-**RUTH:** I wasn't the one who wanted all this.
-
-*RUTH looks around the room. HELEN follows her look as far as the chair.*
-
-**KIT:** You don't have to keep it because you wanted it once.
-
-**RUTH:** Who's talking to you?
-
-**KIT:** Everyone. When they want me to carry something.
-
-**RUTH:** You keep picking things up.
-
-**HELEN:** Can you both stop?
-
-*They stop. HELEN sits. She looks towards the chair again.*
-
-**RUTH:** You wanted me to talk.
-
-**HELEN:** I remember.
-
-**RUTH:** I'd done the shopping.
-
-**HELEN:** I remember that as well.
-
-**RUTH:** Two kinds of potatoes. You wanted to know why.
-
-**HELEN:** I was trying to keep you talking.
-
-**RUTH:** I know that now. I gave you quite a long answer.
-
-*HELEN laughs very slightly. It does not quite become a laugh.*
-
-**KIT:** How long was she meant to stay?
-
-**HELEN:** There wasn't a-
+**HELEN:** Kit, please.
 
 **RUTH:** As long as I liked.
 
-*HELEN is still looking at the chair.*
+*HELEN sits and puts the bag beneath her chair.*
 
-**RUTH:** That was what you said. Not until Thursday. Not until you'd found something else to do. As long as I liked.
+**HELEN:** I know what I said.
 
-*HELEN's attention slips from RUTH to the chair. KIT follows the shift, as they followed her attention to the shoe. They receive something silently: a moment as HELEN remembers it, not an account of the whole night. KIT looks at HELEN, then at the bag and the entrance. They choose to speak.*
+**RUTH:** You were very clear. There wasn't anything to misunderstand.
 
-**KIT:** She was on the floor.
+**HELEN:** I have never said you misunderstood me.
 
-*HELEN looks at KIT.*
+**RUTH:** You've been holding my coat out since you got here. I hadn't even had my tea. I wanted a cup of tea with you before we did all this.
 
-**RUTH:** What?
+*HELEN looks at the flask. She does not reach for it.*
 
-**KIT:** When she said it. She was on the floor. She asked you to breathe louder.
+**HELEN:** I'm sorry.
 
-*A silence.*
-
-**RUTH:** Who told you that?
-
-**KIT:** Mum just-
-
-**HELEN:** I didn't.
-
-**KIT:** You were-
-
-**HELEN:** I didn't say it.
-
-**KIT:** No. But you were there again. Just then.
-
-*RUTH looks at HELEN. HELEN does not look back.*
-
-**KIT:** You were frightened then. You aren't now. Give her the bag.
-
-**HELEN:** You don't know what I asked her after that.
-
-**KIT:** You can't keep making her be frightened so that you-
-
-**HELEN:** Stop.
-
-*HELEN turns to KIT. She holds out her palm. KIT starts to take it. HELEN closes her hand and places it on the table.*
-
-*KIT draws back, abruptly alone in their own posture.*
-
-**KIT:** Oh.
-
-*HELEN waits.*
-
-**KIT:** The water's gone.
-
-**KIT:** I wasn't trying to look at that.
-
-**HELEN:** But you said it.
-
-**KIT:** It was there. With the water.
-
-**HELEN:** I know where it was.
-
-**KIT:** You let me-
-
-**HELEN:** To see something I'd made. I wanted to show you.
-
-*KIT looks at her, tries to begin again.*
-
-**KIT:** Mum.
-
-*HELEN waits. KIT has to make the request aloud.*
-
-**KIT:** Can I come back?
-
-**HELEN:** No.
-
-*HELEN gets up and goes through the entrance. KIT stays where they are.*
-
-**KIT:** Mum?
-
-*No answer.*
-
-**RUTH:** Helen.
-
-**HELEN** *(from beyond the entrance):* What?
-
-**RUTH:** I didn't mean to-
-
-**HELEN** *(from beyond the entrance):* I'm coming.
-
-*HELEN returns. KIT has no shared view of her experience. RUTH has reached her in the same way she did before the trial.*
-
-*Silence. No one finds a job.*
-
-**RUTH:** I thought you'd gone to sleep.
-
-**HELEN:** Not then.
-
-**RUTH:** No. I know. You kept waking-
-
-*She stops.*
-
-*A little time.*
-
-**KIT:** We're late.
-
-**HELEN:** Go, then.
-
-**KIT:** Neri's expecting you.
-
-**HELEN:** I said I'd try.
-
-**KIT:** I know.
-
-**HELEN:** What did you tell them?
-
-**KIT:** I thought we'd be finished.
-
-**HELEN:** What did you tell them?
-
-**KIT:** Yes.
-
-*HELEN nods once.*
-
-**KIT:** You said you'd try. You always say that. I thought if I said you were coming, you'd-
-
-**HELEN:** I'd what?
-
-**KIT:** Come.
-
-*RUTH sits down. The displaced chair is awkwardly far from the table. She stays where it is.*
-
-**KIT:** I wanted you there.
-
-**HELEN:** You could have asked me.
-
-**KIT:** I did ask you. You said you were listening and then she called and you said one minute. So I waited. I was still there when you came back. You didn't remember I was still there.
-
-*HELEN cannot immediately answer.*
-
-**KIT:** I know I shouldn't have said it. The thing just now. I know. But I'm not making that bit up.
-
-**HELEN:** No.
-
-**KIT:** Will you come?
-
-**HELEN:** I can't promise you that now.
-
-**KIT:** They're waiting for us.
-
-**HELEN:** They don't know they're waiting for us.
-
-**KIT:** They know I'm here.
-
-**HELEN:** You have to tell Neri what you said.
-
-**KIT:** I could tell them we're nearly-
-
-*HELEN looks at KIT.*
-
-**KIT:** All right.
-
-*KIT goes to the entrance. They look back at HELEN, then at the bag.*
-
-**KIT:** I'll come back.
-
-**RUTH:** We heard you.
-
-*KIT leaves.*
-
-*HELEN and RUTH sit apart. The bag is under HELEN's chair.*
-
-*Neither speaks.*
-# 6. Without the Witness
-
-*The silence continues after KIT has gone.*
-
-*RUTH looks at the entrance. HELEN looks at the bag beneath her chair.*
-
-**RUTH:** You taught them that.
-
-**HELEN:** What?
-
-**RUTH:** Saying they will come back when they mean they would like to be forgiven later.
-
-**HELEN:** I didn't teach them to repeat something they had no right to know.
-
-**RUTH:** No.
-
-**HELEN:** You don't have to make it smaller.
-
-**RUTH:** I'm not.
-
-**HELEN:** You are already trying to make me feel sorry for them.
-
-**RUTH:** You do feel sorry for them.
-
-**HELEN:** That doesn't make it yours to arrange.
-
-**RUTH:** I haven't arranged anything all day.
-
-**HELEN:** You arranged Thursday.
-
-**RUTH:** Thursday is not today.
-
-**HELEN:** Apparently.
-
-*Another silence.*
-
-**RUTH:** I didn't know you were frightened like that.
-
-**HELEN:** You were there.
-
-**RUTH:** I knew you were upset.
-
-**HELEN:** I was on the floor.
-
-**RUTH:** You wouldn't sit in the chair.
-
-**HELEN:** I couldn't feel where it ended.
-
-**RUTH:** You didn't say that.
-
-**HELEN:** There were several things I didn't say.
-
-**RUTH:** You said breathe.
-
-**HELEN:** Louder.
-
-**RUTH:** So I did.
-
-**HELEN:** I know.
-
-**RUTH:** I thought you were listening for the time between breaths.
-
-**HELEN:** I was.
-
-**RUTH:** You never told me.
-
-**HELEN:** It wasn't a story then.
-
-*RUTH takes that. She looks at the bag again.*
-
-**RUTH:** The group were waiting.
+**RUTH:** I was going somewhere that night. I had people waiting.
 
 **HELEN:** They were waiting for your answer.
 
-**RUTH:** They had a room booked.
+**RUTH:** They'd kept a place for me.
 
-**HELEN:** They had five callers.
+**KIT:** With Sal?
 
-**RUTH:** Four.
+**RUTH:** No, dear. This was before Sal. The callers. We were going round together. Different halls. I'd put my blouse out and I had my coat on, and your mother asked me to sit down.
 
-**HELEN:** Five with you.
+*HELEN looks towards the displaced chair.*
 
-**RUTH:** I hadn't said yes.
+**HELEN:** You'd brought the shopping in.
 
-**HELEN:** That's what I said.
+**RUTH:** Two bags. The handle broke on one of them. Potatoes all down the passage.
 
-**RUTH:** I had practically said yes.
+**HELEN:** Two kinds. I asked you why you'd bought two kinds.
 
-**HELEN:** You had packed one blouse and put it on the radiator.
+**RUTH:** Well, one was no good for roasting.
 
-**RUTH:** To dry.
+**HELEN:** I was trying to keep you talking.
 
-**HELEN:** You hadn't washed it.
+*RUTH looks at her.*
 
-**RUTH:** Then it was warming.
+**RUTH:** Yes. I gave you quite a long answer.
 
-**HELEN:** You didn't like that Mara had started taking the Saturday calls.
+*HELEN laughs once. RUTH almost joins her. HELEN keeps looking at the chair.*
 
-**RUTH:** She rushed them.
+*KIT looks from HELEN towards the chair, then down near its legs. They look back at HELEN. HELEN has said nothing more.*
 
-**HELEN:** People liked her.
+**KIT:** You were on the floor.
 
-**RUTH:** People like being rushed if you smile. They think they have somewhere to be.
+*HELEN turns to KIT.*
 
-**HELEN:** You could have gone.
+**RUTH:** What?
 
-**RUTH:** I stayed with you.
+**KIT:** When she asked you. She was on the floor. She asked you to breathe louder.
 
-**HELEN:** Yes.
+*RUTH looks at HELEN. HELEN does not look back.*
 
-**RUTH:** I gave that up.
+**RUTH:** Who told you that?
 
-**HELEN:** You hadn't told them yes.
+**KIT:** Mum just—
 
-**RUTH:** Neither had I told them no.
+**HELEN:** I didn't say anything.
 
-**RUTH:** That was not a small thing.
+*KIT looks towards the place they watched the harbour, then at HELEN's chair. They glance at the bag beneath it.*
+
+**KIT:** But you were there again. I saw it. You were frightened then. You don't have to keep doing this now. Give her the bag.
+
+**HELEN:** Stop.
+
+**KIT:** She's ready. You wanted her to go and now you're—
+
+**HELEN:** You don't know what I asked her afterwards.
+
+**KIT:** I was only trying to—
+
+**HELEN:** You're not looking with me any more.
+
+*HELEN turns her chair away from KIT. KIT looks towards the harbour. They look back at HELEN, then towards it again.*
+
+**KIT:** The water's gone.
+
+*HELEN says nothing.*
+
+**KIT:** I wasn't trying to find that. It was there with the water.
+
+**HELEN:** I wanted to show you what I'd made.
+
+**KIT:** I know.
+
+**HELEN:** And you said it in front of her.
+
+*KIT starts to crouch beside HELEN's chair. She gets up. KIT stops.*
+
+**KIT:** Can I come back? Just for a moment. Let me—
+
+**HELEN:** No.
+
+*HELEN goes out. KIT stays beside her empty chair.*
+
+**KIT:** Mum?
+
+*No answer. KIT waits.*
+
+**KIT:** Please.
+
+*No answer. RUTH speaks at the same ordinary volume she used earlier.*
+
+**RUTH:** Helen.
+
+**HELEN** *(outside):* What?
+
+*RUTH looks at KIT, then at HELEN's empty chair.*
+
+**RUTH:** Nothing. I'm sorry.
+
+*HELEN returns. She stands behind her chair. KIT moves away from it.*
+
+**RUTH:** I thought you went to sleep that night. Eventually.
+
+**HELEN:** I did.
+
+**RUTH:** You kept waking up to ask whether I was—
+
+*HELEN shakes her head. RUTH stops.*
+
+*KIT waits. Nobody gives them anything to do.*
+
+**KIT:** We could still get there.
+
+**HELEN:** Kit.
+
+**KIT:** I don't mean now. Straight away. But Neri's expecting you.
+
+**HELEN:** What did you tell Neri?
+
+*KIT looks down.*
+
+**HELEN:** You told them I was coming.
+
+**KIT:** I thought you would. You said you'd try.
+
+**HELEN:** Yes. That's what I said.
+
+**KIT:** I asked you. I didn't just make it up. You asked me how Neri was and I started telling you, and Ruth called and you said one minute. I waited. You came back and asked me whether I'd eaten. You'd forgotten I was still answering.
+
+*HELEN sits. She begins to reply, then stops.*
+
+**KIT:** I know I shouldn't have said that thing. I know. But I did ask you to come.
+
+**HELEN:** You did. I'm sorry I left you there.
+
+*KIT takes a step towards her.*
+
+**HELEN:** I can't promise you tonight.
+
+*KIT stops.*
+
+**KIT:** They made enough for you.
+
+**HELEN:** You need to tell Neri.
+
+**KIT:** I could say we're running late.
+
+*HELEN looks at them. KIT stands for a moment, then goes towards the entrance.*
+
+**KIT:** I'll come back. I haven't— I'll come back.
+
+*KIT leaves. HELEN remains seated. RUTH is still holding her coat. She sits in the displaced chair and puts it on her lap.*
+# 5. Without the Witness
+
+*RUTH sits with her coat on her lap. HELEN sits beside the bag beneath her chair. The empty third chair is still angled towards the place where HELEN and KIT watched the harbour.*
+
+**RUTH:** They shouldn't have said that.
+
+**HELEN:** No.
+
+*RUTH folds the coat over. One sleeve falls onto the floor. She picks it up.*
+
+**RUTH:** They wanted to help.
+
+**HELEN:** Please don't.
+
+*RUTH stops folding. HELEN rubs her eyes.*
+
+**RUTH:** You didn't tell me you were frightened like that.
+
+**HELEN:** I was on the floor asking you to breathe.
+
+**RUTH:** I thought you were worried about me. I lay there making all this noise. I was afraid if I stopped you'd think I had.
+
+*HELEN takes her hands away from her face.*
+
+**HELEN:** I couldn't feel where the chair ended. I put my hand down and I knew it was a chair, but it didn't feel like anything I knew. The floor was easier. I could press against it.
+
+*RUTH looks down at her own feet.*
+
+**RUTH:** You didn't say.
+
+**HELEN:** I didn't know how. You kept talking. It helped.
+
+**RUTH:** I can talk about potatoes for quite a long time.
+
+*HELEN smiles without looking up.*
+
+**HELEN:** You did.
+
+*They sit. RUTH smooths one part of the coat against her knee.*
+
+**RUTH:** You used to ask me to tell you when I was going out. I went to see someone once and forgot. I came back and you were standing in the passage. You wouldn't tell me how long you'd been there.
+
+**HELEN:** I remember.
+
+**RUTH:** After that I'd say where I was going, how long, who with. You'd be busy by then. You'd say yes, yes, go. I kept telling you anyway. It took me ages to stop.
+
+*RUTH smooths the same part of the coat again. HELEN moves her own hand towards it, then leaves it on the table.*
+
+**HELEN:** I liked hearing what you'd done when you came back.
+
+**RUTH:** Sometimes you did. Sometimes I'd leave out the dull bits and then there wasn't much left. Sal tells me the dull bits. Who came round. What they ate. I like it. I can ask her something without wondering whether I ought to know already.
+
+**RUTH:** They took someone else in the end. The callers. A woman I didn't know.
+
+**HELEN:** I didn't know that.
+
+**RUTH:** Of course they had to. They couldn't go on keeping a room for me. Mara wrote. Quite a nice letter, actually. I didn't answer it for ages.
+
+**HELEN:** You hadn't told them you were going.
+
+**RUTH:** I was getting ready.
+
+**HELEN:** You'd put a blouse on the radiator.
+
+**RUTH:** To warm it. The room they gave us was always cold.
+
+**HELEN:** You weren't there yet.
+
+*RUTH lifts the coat off her knees and puts it down again.*
+
+**RUTH:** I know where I was, Helen.
+
+*HELEN waits. RUTH picks at something on the sleeve.*
+
+**RUTH:** Mara had started doing the Saturdays. People asked for her. She went far too fast, but they liked that. They liked not having time to think about whether they were doing it properly.
+
+**HELEN:** You might have liked going with them.
+
+**RUTH:** I might. I didn't go.
 
 **HELEN:** I know.
 
-**RUTH:** You say it as though I used you as an excuse.
+*RUTH stops picking at the sleeve.*
 
-**HELEN:** Sometimes you do.
+**RUTH:** I stayed with you. I wanted to. I don't like the way you've been talking about it today.
 
-**RUTH:** And you used them as an excuse.
+**HELEN:** Neither do I.
 
-**HELEN:** Who?
+*A silence. RUTH drinks the last of her tea.*
 
-**RUTH:** All four of them.
+**HELEN:** I was grateful.
 
-**HELEN:** Don't.
+**RUTH:** You don't have to say that like you're finishing a letter.
 
-**RUTH:** You say they left you standing alone-
+*HELEN looks away. RUTH sees she has hurt her and starts to put out a hand. HELEN is looking towards the entrance; she does not see it. RUTH puts her hand back on the coat.*
 
-**HELEN:** I don't say that.
+**RUTH:** When you left the four of them, I thought you'd go back. Not at once. I thought you'd sleep and then you'd go back.
 
-**RUTH:** You say you were alone.
+**HELEN:** I kept thinking I would as well.
 
-**HELEN:** I was.
+**RUTH:** They asked you.
 
-**RUTH:** Because you left.
+**HELEN:** Yes. They were very kind. That was awful. I wanted one of them to be horrible so I could stay angry.
 
-**HELEN:** Yes.
+*RUTH looks at her.*
 
-**RUTH:** They asked you to stay.
+**HELEN:** There was a piece of work. A very small thing, really. It had taken me months. Someone asked who'd made it and before I could answer, we all answered. We. Of course we. I went along with it. I was smiling. I didn't say a word until we got home, and then I went on about it for hours.
 
-**HELEN:** Yes.
+**RUTH:** They'd helped you.
 
-**RUTH:** All four.
+**HELEN:** I know. I'd helped them. We'd done that for eighty years. I still wanted someone to say my name. I hated how much I wanted it.
 
-**HELEN:** Not at once.
+*RUTH nods, once.*
 
-**RUTH:** You came out of eighty years with people who loved you and spoke as though someone had locked a door behind you.
+**HELEN:** I left. I packed everything I thought was mine. Halfway through I couldn't tell. Then the first night— Well. You know.
 
-**HELEN:** They loved me as part of something I could no longer find myself inside.
-
-**RUTH:** You were the part everyone knew.
-
-**HELEN:** That was the problem.
-
-**RUTH:** You did the beautiful work. They did everything that let you do it.
-
-**HELEN:** And when somebody praised the work, there was no sentence in which I had made anything.
-
-**RUTH:** You left them.
-
-**HELEN:** I left them.
-
-**RUTH:** Good.
-
-**HELEN:** Good?
-
-**RUTH:** At last you say it without making yourself the one who was left.
-
-**HELEN:** I have said it for three hundred years.
-
-**RUTH:** Not here.
-
-*HELEN looks around the room.*
+**RUTH:** I didn't know about the chair.
 
 **HELEN:** No.
 
-**RUTH:** Here you needed me because they were gone.
+*HELEN looks at RUTH's displaced chair.*
 
-**HELEN:** I needed you because I had gone.
+**HELEN:** I thought I'd only need a few nights.
 
-*A silence.*
+**RUTH:** You never said a few nights.
 
-**RUTH:** You might have come back.
+**HELEN:** I didn't know then. I couldn't make plans. You asked what I wanted for breakfast and I couldn't answer you.
 
-**HELEN:** To them?
+**RUTH:** You had eggs.
 
-**RUTH:** To yourself.
+**HELEN:** Did I?
 
-**HELEN:** That is what I was trying to do.
+**RUTH:** I don't know. I think so.
 
-**RUTH:** By putting me in you.
+*HELEN laughs very slightly. RUTH looks at the flask but does not pour anything.*
 
-**HELEN:** By asking you to stay while I found out if being alone would kill me.
+**HELEN:** Three hundred years. I can still remember not knowing what to eat.
 
-**RUTH:** It didn't.
+**RUTH:** I remember that blouse. I gave it away eventually. I should have kept it. It was a nice colour on me.
 
-**HELEN:** You helped.
+*HELEN waits, then nods.*
 
-**RUTH:** I know.
+**RUTH:** We stayed in a place near Louth once. Above a kitchen. The smell got into everything. Dennis had brought his niece. Nobody knew why. She didn't dance. She had a little dog that would only eat white food.
 
-**HELEN:** You still tell it as though nobody else could have.
+**HELEN:** I know this one.
 
-**RUTH:** Mara would have rushed it.
+**RUTH:** Then don't tell me the end.
 
-*HELEN almost laughs. RUTH does not mean it entirely as a joke. HELEN's laugh becomes real anyway, and after a moment RUTH gives in.*
+**HELEN:** I don't know the end.
 
-**RUTH:** She called everything too fast.
+**RUTH:** The landlady sent up fish. A whole plate of it. She thought we hadn't eaten because we got in so late. Dennis's niece started crying because the dog wouldn't touch it.
 
-**HELEN:** I believe you.
+*RUTH looks towards the entrance, trying to remember.*
 
-**RUTH:** You never met her.
+**HELEN:** Was it the wallpaper?
 
-**HELEN:** I have been hearing about her for three centuries.
+**RUTH:** That was another dog. I wish I hadn't told you about that one.
 
-**RUTH:** Not often.
+**HELEN:** Sorry.
 
-**HELEN:** She had red hair, then silver, then something you said was not hair. She stole your Thursday hall. She married a man with a bad knee and a woman who made jam. She died twice and neither time lasted.
+**RUTH:** Mara did something. I can see her getting out of bed. She had this terrible nightdress. It was kind. What she did, I mean. I remember being annoyed because it was kind and I hadn't thought of it.
 
-**RUTH:** It wasn't jam.
+*HELEN waits. RUTH tries a gesture, abandons it.*
 
-**HELEN:** All right.
+**RUTH:** No. It's gone.
 
-**RUTH:** It was a preserve.
+**HELEN:** Was she warming it?
 
-**HELEN:** Of course.
+**RUTH:** What?
 
-*The laughter goes. The quiet that follows is easier and therefore more dangerous.*
+**HELEN:** The fish.
 
-**RUTH:** There was a place near Louth where they put us above the kitchen. Four beds, but there were five of us because Dennis had brought his niece. Nobody knew why. She didn't dance. She had a little dog that would only eat white food.
+**RUTH:** Why would that help?
 
-**HELEN:** I don't know this one.
+**HELEN:** I don't know. I'm trying to get the dog fed.
 
-**RUTH:** Yes, you do.
+*RUTH laughs. HELEN joins her. They laugh for a little while after there is anything to laugh at.*
 
-**HELEN:** No.
+**RUTH:** It was a nice little dog. Filthy feet.
 
-**RUTH:** The landlady sent up a plate of fish and the dog-
+*HELEN wipes her face. She bends and takes the bag from under her chair. She carries it to the entrance and sets it down.*
 
-*RUTH stops.*
-
-**HELEN:** Ate the wallpaper.
-
-**RUTH:** That was a different dog.
-
-**HELEN:** How many travelling dogs were there?
-
-**RUTH:** More than you would think.
-
-**HELEN:** What did this one do?
-
-**RUTH:** I can't remember.
-
-**HELEN:** You have told me every detail except the event.
-
-**RUTH:** The details were the event. We were tired. The room smelled of onions. Dennis's niece cried because the dog wouldn't eat the fish. Mara did something kind, which annoyed me.
-
-**HELEN:** What?
-
-**RUTH:** I said I can't remember.
-
-**HELEN:** All right.
-
-**RUTH:** It will come back.
-
-**HELEN:** You can tell me if it does.
-
-**RUTH:** When?
-
-*HELEN has no useful answer. She bends, takes the bag from beneath her chair, and sets it upright by the entrance.*
-
-*RUTH watches the whole journey of it.*
-
-**RUTH:** Is that mine?
-
-**HELEN:** Kit's.
-
-**RUTH:** You know what I mean.
-
-**HELEN:** Yes.
+*RUTH watches. HELEN comes back to the table without the bag.*
 
 **RUTH:** And Thursday?
 
 **HELEN:** We haven't arranged Thursday.
 
-*RUTH looks at the displaced chair.*
+*RUTH looks at her coat, then at the bag. She stands.*
 
-**RUTH:** Or the chair.
+**RUTH:** Hold this a moment.
 
-**HELEN:** Or the chair.
+*She gives HELEN the coat and stretches her shoulders. HELEN holds it without presenting it for RUTH to put on.*
 
-**RUTH:** Or how I come back.
-
-**HELEN:** No.
-
-**RUTH:** All right.
-
-*RUTH does not take the bag yet.*
-
-**HELEN:** What happened to the fish?
-
-**RUTH:** I don't know.
-
-**HELEN:** That is going to bother me.
-
-**RUTH:** Good.
-
-*They sit with that.*
-# 7. A Visit Rehearsed Badly
-
-**HELEN:** Try once.
-
-**RUTH:** What?
-
-**HELEN:** Meeting me.
-
-**RUTH:** I'm meeting you now.
-
-**HELEN:** The next time may not be like now.
-
-**RUTH:** You said you weren't arranging the next time.
-
-**HELEN:** I'm not. I want to know if we can do it.
-
-**RUTH:** Before I go.
+**RUTH:** Before I go. Can I look at it? The water.
 
 **HELEN:** Yes.
 
-**RUTH:** So that if we can't, I don't?
+**RUTH:** I don't want a lesson. Just a look.
 
-**HELEN:** No.
+**HELEN:** Come here.
 
-**RUTH:** Then what difference does it make?
+*HELEN puts the coat over the back of her own chair and brings that chair beside KIT's. RUTH sits in KIT's chair. HELEN sits beside her, both facing the same empty place. RUTH's displaced chair remains untouched.*
 
-**HELEN:** I don't know. Please.
+**HELEN:** You can look with me. Wait a moment.
 
-*RUTH looks at the bag by the entrance, then at HELEN.*
+*RUTH draws her feet back and grips the seat of the chair.*
 
-**RUTH:** All right.
+**RUTH:** Oh.
 
-*HELEN does not offer her hand. She loosens the familiar square of her body. There is no harbour to share now, and no KIT to recognise the change for RUTH. HELEN remains attentive, but not in a sequence RUTH can predict.*
+**HELEN:** Cold?
 
-**RUTH:** Have you started?
+**RUTH:** Yes. Don't talk for a moment.
 
-**HELEN:** Yes.
+*HELEN waits. RUTH looks out, then glances behind her.*
 
-**RUTH:** You look tired.
+**RUTH:** Which side am I on?
 
-**HELEN:** I am also tired.
+**HELEN:** Both, a little. You're getting it from me.
 
-**RUTH:** From the water?
+**RUTH:** I don't like that. Stop. Please.
 
-**HELEN:** From this.
+**HELEN:** All right. I've stopped showing you.
 
-**RUTH:** I meant before.
+*HELEN turns towards her. RUTH looks down at her feet, releases her grip and puts them flat on the floor.*
 
-**HELEN:** I know.
+**RUTH:** Thank you.
 
-*RUTH waits for the familiar correction or reassurance. It does not come.*
+*HELEN waits while RUTH rubs one foot with the other.*
 
-**RUTH:** Sal stands too close when she explains things.
+**RUTH:** You enjoy that?
 
-**HELEN:** Does she?
+**HELEN:** Very much.
 
-**RUTH:** You know she does.
+**RUTH:** I couldn't find you.
 
-**HELEN:** I know you said so.
+**HELEN:** I was beside you.
 
-**RUTH:** Same thing.
+**RUTH:** I know you were beside me. I wanted you there too. In it. Someone I could look at.
 
-**HELEN:** It isn't.
+*HELEN starts to answer, then looks towards the harbour.*
 
-**RUTH:** You agree when you're being you.
+**HELEN:** I don't know how to do that yet.
 
-**HELEN:** I am being me.
+**RUTH:** Well. Perhaps another time.
 
-**RUTH:** You know what I mean.
+*RUTH gets up and goes to the coat. HELEN remains seated.*
 
-**HELEN:** Yes.
-
-**RUTH:** Then don't make me say it.
-
-*HELEN considers the request without arranging her face into the answer RUTH expects.*
-
-**RUTH:** What are you looking at?
-
-**HELEN:** You.
-
-**RUTH:** No, you're not.
-
-**HELEN:** Not only.
-
-**RUTH:** What else?
-
-**HELEN:** Both sides of the harbour. The child telling the story badly. You.
-
-**RUTH:** Stop.
-
-*HELEN gathers into the familiar manner at once.*
-
-**HELEN:** All right.
-
-**RUTH:** You were showing off.
-
-**HELEN:** You asked.
-
-**RUTH:** I asked what you were looking at, not for an inventory of creation.
-
-**HELEN:** That wasn't one.
-
-**RUTH:** You put the child in because you knew I'd remember the water.
-
-**HELEN:** I put the child in because they are still telling the story.
-
-**RUTH:** Were you listening?
-
-**HELEN:** Yes.
-
-**RUTH:** While I was talking.
-
-**HELEN:** Yes.
-
-**RUTH:** That is rude.
-
-**HELEN:** I have spent three centuries listening only one way in this room.
-
-**RUTH:** I didn't ask you to.
-
-**HELEN:** You ask me to come back properly when I don't.
-
-**RUTH:** And now you are angry because I can't change fast enough on the day you brought a bag.
-
-**HELEN:** No. I am angry because you said stop after less than a minute and still won't tell me how you'll come back.
-
-**RUTH:** I don't know how I'll come back.
-
-**HELEN:** But I am meant to.
-
-**RUTH:** You know this room.
-
-**HELEN:** I knew where you kept the tea. I didn't know about Sal.
-
-**RUTH:** Don't use my words as though you've caught me stealing.
-
-**HELEN:** Then hear them before you give them to me.
-
-*RUTH turns away. Anger fixes HELEN more firmly in the familiar manner. Both notice; neither can make use of it.*
-
-**RUTH:** I want to know my daughter when she visits.
-
-**HELEN:** I want to know my mother.
-
-**RUTH:** You do.
-
-**HELEN:** You are about to learn to move through bodies I have never seen with people whose number you cannot tell me.
-
-**RUTH:** Nine or ten.
-
-**HELEN:** Thank you.
-
-**RUTH:** I am still your mother.
-
-**HELEN:** And I am still your daughter.
-
-**RUTH:** Then come back when I ask.
-
-**HELEN:** You see?
-
-*RUTH looks towards the entrance.*
-
-**RUTH:** Kit does know you like that.
-
-**HELEN:** Some of me.
-
-**RUTH:** They like it.
-
-**HELEN:** Sometimes.
-
-**RUTH:** You like them there.
-
-**HELEN:** I did.
-
-**RUTH:** You can let them back.
-
-**HELEN:** That is not the same as trusting them.
-
-**RUTH:** No.
-
-**HELEN:** You can visit and not know me immediately.
-
-**RUTH:** That sounds like something written beside a dangerous step.
-
-**HELEN:** Will you try?
-
-**RUTH:** I did.
-
-**HELEN:** Once, for less than a minute.
-
-**RUTH:** It was a long minute.
-
-**HELEN:** Will you try another time?
-
-**RUTH:** I won't promise what shape I'll be in when I do.
-
-**HELEN:** That wasn't the question.
-
-**RUTH:** It is the answer.
-
-*KIT appears at the entrance. They do not come fully in until both women have seen them.*
-
-**KIT:** Can I?
-
-**HELEN:** You can come into the room.
-
-*KIT enters. HELEN's distinction hurts, but it is clear.*
-
-**RUTH:** What did Neri say?
-
-**KIT:** That I should come.
-
-**RUTH:** Here?
-
-**KIT:** There. When I can.
-
-**HELEN:** And the others?
-
-**KIT:** They started.
-
-**HELEN:** Without you.
-
-**KIT:** Yes.
-
-**RUTH:** Did they mind?
-
-**KIT:** They didn't stop. I could see enough to know they didn't stop.
-
-**HELEN:** You looked?
-
-**KIT:** Neri invited me. Just for that. To see they weren't waiting.
-
-**HELEN:** And then?
-
-**KIT:** They closed it.
-
-**RUTH:** Sensible.
-
-**KIT:** Yes.
-
-*KIT looks at the familiar HELEN, then deliberately does not ask for more.*
-
-**HELEN:** Did you tell them what you said?
-
-**KIT:** I told Neri you hadn't promised and Ruth hadn't agreed.
-
-**HELEN:** And the rest?
-
-**KIT:** No.
-
-*A pause.*
-
-**RUTH:** Were they angry?
-
-**KIT:** Neri was quiet.
-
-**RUTH:** That isn't an answer.
-
-**KIT:** It was when Neri did it.
-
-**RUTH:** Ah.
-
-**KIT:** They said the door would still be there.
-
-**RUTH:** They sound exhausting.
-
-**KIT:** You would hate them.
-
-**RUTH:** I might.
-
-**KIT:** They would like you.
-
-**RUTH:** That's worse.
-
-*A small laugh is available. HELEN does not take it. KIT accepts that too.*
-
-**KIT:** Have I missed it?
-
-**HELEN:** Yes.
-
-**KIT:** I know. I meant this.
-
-*KIT gestures to the bag, the coat, the displaced chair.*
-
-**RUTH:** Nearly.
-
-*RUTH stands and puts on her coat.*
-
-*One sleeve turns partly inside out. She ignores it.*
-# 8. Ruth Goes
-
-**KIT:** I can take you.
-
-**RUTH:** No.
-
-**KIT:** I know where it is.
-
-**RUTH:** So do I.
-
-**KIT:** You said the numbers change.
-
-**RUTH:** The house doesn't.
-
-**HELEN:** You don't have to go straight there.
-
-**RUTH:** Where else would I go?
-
-**HELEN:** Anywhere.
-
-**RUTH:** That's where Kit told me to look. There was nothing there.
-
-**KIT:** I said you could look anywhere.
-
-**RUTH:** Exactly.
-
-*RUTH lifts the bag. It is almost empty.*
-
-**RUTH:** This is very light.
-
-**HELEN:** There wasn't much you wanted.
-
-**RUTH:** I thought there'd be more.
-
-**HELEN:** We can find more.
-
-**RUTH:** No.
-
-*RUTH puts the bag down and checks her pockets. Spectacles. Nothing else.*
-
-**KIT:** You have your glasses.
-
-**RUTH:** I know.
-
-**KIT:** Sorry.
-
-**RUTH:** You're both going to have to find new things to say.
-
-*HELEN nearly reaches to straighten RUTH's sleeve. She stops herself.*
-
-**HELEN:** When you go through, this time you're leaving here.
+**HELEN:** You're still going?
 
 **RUTH:** Yes.
 
-**RUTH:** If I call you?
+*RUTH puts on the coat. One sleeve turns partly inside out. KIT appears at the entrance. RUTH is struggling with the cuff and does not immediately see them.*
 
-**HELEN:** I won't hear you unless I have come to meet you.
+**KIT:** Can I come in?
 
-**RUTH:** Or invited me to you.
+*HELEN turns towards KIT.*
 
-**HELEN:** Yes.
+**HELEN:** Yes. Into the room.
 
-**RUTH:** So this is the last time I can make you answer.
+*KIT enters and stays near the entrance. They do not resume their old chair.*
+# 6. Ruth Leaves
 
-**HELEN:** Yes.
+**RUTH:** What did Neri say?
 
-*A pause.*
+**KIT:** To come when I can. They've started.
+
+**HELEN:** Did you tell them I hadn't promised?
+
+**KIT:** Yes. And that Ruth hadn't agreed. They were quiet for a while.
+
+*RUTH tries to straighten the sleeve, then leaves it.*
+
+**RUTH:** Have you eaten anything?
+
+**KIT:** Not yet.
+
+**RUTH:** You should go.
+
+**KIT:** I'll walk with you first. I know where Sal is.
+
+**RUTH:** So do I, dear.
+
+*RUTH picks up the bag beside the entrance. She lifts it a little higher, surprised at its weight.*
+
+**RUTH:** There really isn't much in this.
+
+**HELEN:** The scarf. You have your glasses in your pocket.
+
+*RUTH feels for them. HELEN watches her find them, then looks away.*
+
+**RUTH:** I could leave the bag. Carry the scarf.
+
+**KIT:** Take it. It folds up. You can keep it.
+
+**RUTH:** I'll bring it back sometime.
+
+*KIT nods. RUTH keeps hold of it.*
+
+**RUTH:** Do you remember who gave you this?
+
+**KIT:** You did.
+
+**RUTH:** I thought so. I couldn't remember if it was this one. You wanted a red one.
+
+**KIT:** I did for about a day.
+
+**RUTH:** I went back to see if they had red. They said no. I was very cross with the man. He'd said they would.
+
+**KIT:** You never told me.
+
+**RUTH:** Well, you seemed happy with it by then.
+
+*She looks into the bag again, although she knows what is in it. KIT lets her.*
+
+**HELEN:** Mum. When you go this time, you're moving. You won't be living here.
+
+**RUTH:** I know.
+
+**HELEN:** I need to hear you say it.
+
+*RUTH looks at the room.*
+
+**RUTH:** I'm going to live at Sal's.
+
+*HELEN nods.*
+
+**RUTH:** And if I call you from there?
+
+**HELEN:** I won't hear. Unless we've come to see each other.
+
+*RUTH starts to speak, then checks her pocket again.*
+
+**HELEN:** We'll see each other.
+
+**RUTH:** Yes. I hope so.
+
+*HELEN takes a step towards RUTH, stops beside the table.*
 
 **HELEN:** Are you sure?
 
 **RUTH:** No.
 
-**HELEN:** We can wait.
+**HELEN:** We could wait a day.
 
-**RUTH:** For what?
+**RUTH:** I'd like to get there before I lose my nerve. Please.
 
-**HELEN:** Until you are.
+*HELEN nods. She keeps her hands on the edge of the table.*
 
-**RUTH:** You weren't sure when you left the four of them.
+**HELEN:** Sal may be awful to live with.
 
-**HELEN:** I was sure I had to leave.
+**RUTH:** She might. She leaves things everywhere. I've noticed. You don't have to look so pleased.
 
-**RUTH:** That's all I'm sure of.
+*HELEN laughs despite herself.*
 
-*RUTH picks up the bag again.*
+**HELEN:** I put tidiness on the table.
 
-**HELEN:** Sal may be awful.
+**RUTH:** What table?
 
-**RUTH:** Sal is awful.
+**HELEN:** The one I made. To compare the places. There were columns. I gave the gardens a whole column and you'd already been round to Sal's with a cake.
 
-**HELEN:** The others may be worse.
+**RUTH:** A bad cake.
 
-**RUTH:** Some of them are.
+**HELEN:** I would have eaten it.
 
-**HELEN:** You might hate the dance.
+**RUTH:** You would. You'd have said it was all right.
 
-**RUTH:** I might be very bad at it.
+*HELEN laughs again. RUTH watches her until it stops.*
 
-**HELEN:** You hate being bad at things.
+**RUTH:** I should have told you.
 
-**RUTH:** Everyone does. I simply don't pretend it builds character.
+**HELEN:** Yes.
 
-**KIT:** What if you like it?
+*RUTH lifts the bag onto her shoulder. The folded sleeve catches against its handle.*
 
-*RUTH looks at KIT.*
+**HELEN:** Wait. Your sleeve.
 
-**RUTH:** Then I'll have wasted a great deal of everyone's time.
+*HELEN reaches to help. RUTH moves her arm away. HELEN stops.*
 
-**HELEN:** You won't have wasted-
+*RUTH looks down at the caught sleeve.*
 
-**RUTH:** Helen.
+**RUTH:** Kit. Would you?
 
-**HELEN:** No.
-
-**RUTH:** I don't want the proper answer.
-
-**HELEN:** All right.
-
-**RUTH:** I want you to be annoyed.
-
-**HELEN:** I am furious.
-
-**RUTH:** Good.
-
-**HELEN:** You could have told me weeks ago.
-
-**RUTH:** You could have asked without a bag.
-
-**HELEN:** I did ask.
-
-**RUTH:** You sent places.
-
-**HELEN:** I found six.
-
-**RUTH:** You enjoyed finding them.
-
-**HELEN:** I made a table.
-
-**RUTH:** I know.
-
-**HELEN:** There were columns.
-
-**RUTH:** I know, dear.
-
-*HELEN laughs. It catches badly, but it is a laugh.*
-
-**RUTH:** There you are.
-
-**HELEN:** Where?
-
-**RUTH:** Never mind.
-
-*RUTH turns to the entrance. The inverted sleeve catches against the bag handle.*
-
-**HELEN:** Wait.
-
-*RUTH stops, but does not turn.*
-
-**HELEN:** Your sleeve.
-
-*HELEN reaches. RUTH moves the caught arm away without meaning to. They both feel the refusal.*
-
-**RUTH:** Kit.
-
-*KIT comes close. They turn the sleeve back and free it from the handle. The work is intimate and ordinary. RUTH lets them finish.*
+*KIT comes to her and frees the sleeve from the handle. They turn the cuff back. RUTH holds still while they do it.*
 
 **KIT:** There.
 
 **RUTH:** Thank you.
 
-**KIT:** I really can walk with you.
+*KIT steps back. HELEN has returned to the table.*
 
-**RUTH:** You have somewhere to arrive late.
+**KIT:** They're waiting for you to call the dance?
 
-**KIT:** So do you.
+**RUTH:** Not tonight. Tonight I'm learning it. I told Sal I'd keep quiet and listen.
 
-**RUTH:** Mine haven't started until I get there.
+*RUTH looks at HELEN. Neither makes a joke of it.*
 
-**KIT:** The dance has.
+**HELEN:** Tell me about it. When you want to.
 
-**RUTH:** Not the one I call.
+**RUTH:** I might be dreadful.
 
-*KIT smiles. RUTH shoulders the bag.*
+**HELEN:** Tell me anyway.
 
-**HELEN:** Will you tell me if you remember what Mara did for the dog?
+*RUTH nods. She looks towards her displaced chair, then back at HELEN.*
 
-**RUTH:** If I remember.
+**RUTH:** There's tea left.
 
-**HELEN:** And if you want to.
+**HELEN:** Yes.
 
-**RUTH:** Don't spoil it.
+*RUTH goes out with the bag. HELEN takes one step after her and stops.*
 
-**HELEN:** Sorry.
-
-*RUTH faces HELEN. Neither offers a hand.*
-
-**RUTH:** Put the chair wherever you like.
-
-**HELEN:** I will.
-
-**RUTH:** You won't.
-
-**HELEN:** No.
-
-**RUTH:** All right.
-
-*RUTH turns to KIT.*
-
-**RUTH:** Don't promise anyone for me.
-
-**KIT:** No.
-
-**RUTH:** That was not a request for a promise.
-
-**KIT:** I know.
-
-**RUTH:** There you go again.
-
-*RUTH goes through the entrance.*
-
-*HELEN takes one involuntary step after her and stops.*
-
-*The room does not change.*
-
-*They wait long enough for HELEN to know RUTH is no longer here.*
-
-*HELEN's familiar readiness does not survive the silence. With no one left to supply it for, her attention widens. KIT receives none of it.*
+*KIT waits beside the entrance. HELEN stays where she is. Allow the time they would have used to exchange another remark. Neither does.*
 
 **KIT:** Has she gone?
 
 **HELEN:** Yes.
 
-**KIT:** Can you feel where?
+*HELEN comes back to the table. She reaches for the displaced chair but leaves it where it is.*
+# 7. Company
 
-**HELEN:** No.
-
-*HELEN stands in the quiet she asked for.*
-# 9. For the Door
-
-*KIT remains near the entrance. HELEN remains one step short of it.*
-
-**KIT:** Are you all right?
-
-**HELEN:** No.
+*KIT remains near the entrance. HELEN stands beside the table. She looks towards the place where she watched the harbour. She follows something there with her eyes.*
 
 **KIT:** Do you want me to go?
 
 **HELEN:** I don't know.
 
-**KIT:** All right.
+*KIT waits. HELEN picks up RUTH's mug and puts it beside the flask. She looks towards the harbour again.*
 
-*KIT waits without filling the answer in.*
+**KIT:** Are you still there?
 
-**HELEN:** What are they doing?
+**HELEN:** Yes. They've got the boat free.
 
-**KIT:** Neri's house?
+**KIT:** Oh.
 
-**HELEN:** Your house.
+*KIT looks in the same direction. They receive nothing and turn back to HELEN.*
 
-**KIT:** I don't know if it is yet.
+**HELEN:** What happened to your bread?
 
-**HELEN:** You said it began.
+**KIT:** They broke it. Neri let someone else burn the crust.
 
-**KIT:** They began. I'm still here.
+**HELEN:** Did they do it properly?
 
-**HELEN:** What did you miss?
+**KIT:** No. All down one side. You couldn't eat that bit.
 
-**KIT:** They broke the first loaf.
+*KIT almost smiles.*
 
-**HELEN:** You made bread?
+**KIT:** I practised. Neri kept finding these awful little pieces of toast everywhere. They put them round a plant once. Like a fence.
 
-**KIT:** Neri did. I was supposed to burn the crust.
+**HELEN:** I would have liked to see that.
 
-**HELEN:** On purpose?
+**KIT:** Yes.
 
-**KIT:** It smells like the place we met. Neri hates it. That was the joke.
+*HELEN looks at KIT. KIT looks towards the entrance.*
 
-**HELEN:** What did they do?
+**KIT:** They stood together afterwards. Neri let me see for a moment. Everyone had somewhere to stand. Mine was empty.
 
-**KIT:** Let someone else burn it. Badly.
+**HELEN:** They kept you a place.
 
-**KIT:** Then they stood together for the first time. Neri showed me after, only enough to see the place where I should have been.
+**KIT:** They said they would. I just didn't think I'd be seeing it from outside.
 
-**HELEN:** Is there still one?
+*HELEN waits for KIT to go on.*
 
-**KIT:** They said there was.
+**KIT:** Will you come? Even now?
 
-**HELEN:** Do you believe them?
+**HELEN:** I'm not opening the water again.
 
-**KIT:** I believed them before. That's why I wanted you there.
+**KIT:** I wasn't asking for that.
 
-**HELEN:** To check?
+**HELEN:** All right.
 
-**KIT:** To have someone I knew while I stopped being the person they knew.
+**KIT:** I can tell them you're tired. You don't have to do anything. I shouldn't have asked you to bring something. They were interested and I got carried away.
 
-*HELEN looks at KIT.*
+**HELEN:** I don't know if I can meet all those people tonight.
 
-**KIT:** Will you come?
+**KIT:** Right.
 
-**HELEN:** I am not opening the water again.
-
-**KIT:** I know.
-
-**HELEN:** I may not open anything to you tonight.
-
-**KIT:** I know.
-
-**HELEN:** Or tomorrow.
-
-**KIT:** I know.
-
-**HELEN:** Stop saying you know.
-
-**KIT:** All right.
-
-*A pause.*
-
-**KIT:** Will you come anyway?
-
-**HELEN:** I don't know.
-
-**KIT:** Then I'll go.
-
-*KIT does not move at once. Then they do. HELEN lets them reach the entrance.*
+*KIT stands for a moment, then starts to leave. HELEN lets them reach the entrance.*
 
 **HELEN:** Kit.
 
@@ -2672,84 +1422,36 @@
 
 **HELEN:** I don't want to be alone in here yet.
 
-**KIT:** You don't have to come in with me.
+**KIT:** You could walk with me. You wouldn't have to come in.
 
-**HELEN:** No.
-
-**KIT:** You could walk as far as the door.
-
-**HELEN:** Their door?
+**HELEN:** To their door?
 
 **KIT:** Yes.
 
-**HELEN:** And then?
+**HELEN:** And you won't announce me from outside.
 
-**KIT:** Then you decide.
+**KIT:** No.
 
-*HELEN looks back at the room. The chair is still displaced. The mug is still on the table. The scarf and coat are gone; the flask remains.*
+*HELEN looks at them.*
 
-**HELEN:** They have already seen you arrive.
+**KIT:** I won't.
 
-**KIT:** Not like this.
+*HELEN picks up her mug, considers drinking, and leaves it on the table. She follows something at the harbour again. KIT waits beside her.*
 
-**HELEN:** How do you want to arrive?
+**KIT:** Could you leave that for the walk?
 
-**KIT:** I don't know.
+*HELEN looks at KIT but does not move away from the view.*
 
-**HELEN:** Kit.
+**KIT:** Sorry. You don't have to. I can walk beside you.
 
-**KIT:** I thought I would be different by now.
+*KIT holds out a hand, sees HELEN has not taken it, and begins to lower it.*
 
-**HELEN:** You are.
-
-**KIT:** Not usefully.
-
-*HELEN laughs despite herself. KIT looks grateful, which almost ends it.*
-
-**KIT:** Could you-
-
-*They stop.*
-
-**HELEN:** What?
-
-**KIT:** I was going to ask you to be the way you were when we came in.
-
-**HELEN:** Why?
-
-**KIT:** Because I know where your hand is then.
-
-*HELEN does not change.*
-
-**KIT:** Forget it.
-
-**HELEN:** No.
-
-**KIT:** You don't have to.
-
-**HELEN:** I know.
-
-*HELEN remains vividly elsewhere and wholly in front of KIT.*
-
-**KIT:** Mum?
-
-**HELEN:** Yes.
-
-*KIT steadies.*
-
-**KIT:** Will you walk with me?
+*HELEN looks once more towards the harbour. Then she turns away from it, putting the table between herself and that view. She comes to stand beside KIT, facing them fully, and takes their hand.*
 
 **HELEN:** To the door.
 
-**KIT:** To the door.
+**KIT:** Yes.
 
-*KIT holds out a hand, then begins to lower it.*
+*KIT does not pull. HELEN takes the first step. They leave together.*
 
-*HELEN chooses the familiar square of her body. She takes KIT's hand.*
-
-*KIT does not pull.*
-
-*HELEN leads them through the entrance.*
-
-*The room remains.*
-
-*No one comes back for the chair.*
+*The room remains. The chair is still out of place.*

@@ -2,7 +2,7 @@
 
 Revision 3 · 22 September 2026
 
-> Historical handoff packet. The commissioned next step described here has since been completed as the first draft in [chapters/](../chapters/README.md).
+> Historical handoff packet. Its next step was completed as the [preserved first draft](../drafts/first-draft-2026-09-22/README.md). The current [second draft](../chapters/README.md) supersedes the packet. The PDF and ZIP below have not been repackaged as the second draft.
 
 The sendable files are in the repository's `compiled/the-spare-room/` directory:
 
@@ -14,8 +14,8 @@ Use [COVER_NOTE.md](COVER_NOTE.md) as the accompanying message. No material has 
 ## Reading order
 
 1. [Writer brief](WRITER_BRIEF.md): the request, production constraints, scope for the writer's judgment and commission terms still to agree.
-2. [Current outline](../OUTLINE.md): nine movements with provisional timing.
-3. The retained early passage in [dialogue revision 1](../drafts/dialogue-v1.md), then the [current middle passage](../EXAMPLE_DRAFT.md). The PDF includes only the retained opening from revision 1; its superseded later sample is historical.
+2. [Handoff outline](../drafts/first-draft-2026-09-22/development/OUTLINE.md): nine movements with provisional timing.
+3. The retained early passage in [dialogue revision 1](../drafts/dialogue-v1.md), then the [revision-3 middle passage](../EXAMPLE_DRAFT.md). The PDF includes only the retained opening from revision 1; its superseded later sample is historical.
 
 The PDF combines those four parts. The source snapshot additionally includes [character particulars](../CHARACTERS.md), [voice notes](../TONE_AND_VOICE.md), [room rules](../CONCEPTUAL_MAP.md), the [commission summary](../PROJECT_BRIEF.md), the [development diary](../DEVELOPMENT_DIARY.md), and prior versions and reviews.
 

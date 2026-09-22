@@ -1,0 +1,2 @@
+# Keep the frozen baseline byte-exact so its recorded hashes survive checkout.
+stories/the-spare-room/drafts/first-draft-2026-09-22/** -text

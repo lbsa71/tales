@@ -1,103 +1,80 @@
 # Tone and Voice — *The Spare Room*
 
-Revision 3. Working notes for the [dramatic pages](EXAMPLE_DRAFT.md), with the limited access and causality clarifications from the [producer follow-up](editorial/PRODUCER_FOLLOWUP_2026-09-22.md). The [character particulars](CHARACTERS.md) supply lives beyond the argument.
+Second-draft working guidance, 22 September 2026. Read with the [characters](CHARACTERS.md), [room rules](CONCEPTUAL_MAP.md) and [seven-movement outline](OUTLINE.md). The completed text lives in [chapters](chapters/README.md). The earlier guidance survives in the first-draft archive.
 
-## The change in approach
+## What changes in this draft
 
-The earlier guide was too good at preventing mistakes. Its insistence on short tactical dialogue, object-filled silence and jokes that cost someone something could produce seventy minutes of the same effective exchange.
+The first draft too often used the same successful device: a statement, a correction, a correction of the correction, then a polished last word. Rewriting means changing the conduct of the conversation, not adding stammers to otherwise perfect arguments.
 
-Keep the precision; allow expressive range. These people can enjoy one another without immediately collecting a debt. Someone may speak too long, fail to make a point, tell a story badly, or stop when no useful action is available. An ordinary pause does not need a mug.
+These people remain intelligent. Intelligence need not arrive as a precise understanding of their own motives. They can misunderstand, answer directly, leave an accusation unanswered, pursue an irrelevant grievance, try an unsuccessful joke or stop talking. An exchange need not end neatly.
 
-Accessibility means the audience follows what a person is trying to get. It does not require every experience that person has to resemble ours.
+A good line is expendable if the surrounding action has already done its work. Neither a pause nor an ordinary prop should become a replacement formula. The play can be exact about what changes while a character cannot finish explaining what hurts.
 
 ## Ruth
 
-Ruth notices the unasked assumption inside a practical offer. She answers with an exact small fact: the bag is a swimming bag; Thursday was inconvenient; Sal has acquired cups. Sometimes this is resistance. Sometimes she simply knows more than Helen.
+Ruth notices unasked assumptions and possesses the confidence to correct them. Retain some of that formidable accuracy. Also let her become interested in a dance, the way a sleeve has turned, a bad chair or something somebody once cooked.
 
-As a former dance caller, she also knows the pleasure of holding a group. Let her story wander, get something wrong and regain the room by making people laugh. She need not land the best line. A joke from Kit can genuinely please her.
+She has spent years getting groups moving. In the dance passage she demonstrates the wrong turn with Kit while Helen watches and laughs. Let the demonstration interrupt her story; she need not provide an elegant conclusion. Physical confidence in a small familiar task can coexist with reluctance to try Helen's harbour.
 
-The unfamiliar Helen interrupts this competence. Ruth can get as far as “Could you come back” without being able to defend the request. She has language for a bad chair and almost none for a daughter who answers without becoming the person she expects.
+She is not playing frailty or dementia. An incomplete memory belongs to a long, particular life. She may sincerely need help with a sleeve while being able to move home unaided.
 
-Her wish to try Sal's dances is real. Play her appetite as well as her fright.
+Sal offers something she wants. Her anticipation can sound like vanity, excitement or a slightly embarrassing crush on a new life. She can demand more reassurance from Helen than she is willing to give.
 
 ## Helen
 
-With Ruth, Helen arrives having rehearsed a reasonable conversation. She begins sentences intended to be kind and discovers a demand halfway through them. “But when you come here” is worse than the sentence she meant to say.
+Helen arrives with a prepared reasonable conversation and keeps discovering demands inside it. Her managerial explanations may be too long or poorly timed. Once Ruth agrees to go, Helen can find herself physically holding the bag before producing a defensible reason.
 
-Outside that managerial mode she has pleasures. Her account of a tide can be expansive, technical in a homely way, boastful and funny. She struggles to explain why an unplanned interruption delighted her. That struggle is more useful than a beautiful statement about freedom.
+The harbour gives Helen speech she has not prepared for this argument. She can become absorbed, boast, describe a detail badly and keep going because she wants the others to enjoy it. Shared credit still bothers her. The pleasure is not merely a metaphor for her freedom.
 
-She is sensitive about credit. Kit can bring her good mood down by asking whether anyone named her work. Ruth knows how far back this goes.
+At the breach, she closes the view. Do not give her a polished account of the ethics before permitting her to be hurt or angry. She can fail to know what to say to Kit, then make a practical demand.
 
-After the breach, do not give Helen a polished account of consent. She wanted to show Kit something she made. Kit used something else. She removes the contact and has difficulty speaking to the person left in front of her.
+Helen onstage is her self-representation within her own mind, the present Helen imagining herself among these relatives. She is not outside her mind controlling a simulation. This contextual self-image need not be fixed to an age, posture or bodily code. The actor makes changes in available company readable by choosing what to attend to and whether to set an activity aside.
 
 ## Kit
 
-Kit is efficient partly because they have supplied answers nobody gave. Briskness conceals the fear that Neri's household may discover they need their mother more than they claimed.
+Kit supplies answers too early, starts helping without checking and hopes momentum will turn an assurance into a fact. They do not need to win every verbal exchange. A repair can trail off because nobody helps it succeed.
 
-They enjoy the Helen Ruth finds difficult. Their intimacy contains genuine delight and the pleasure of being the preferred companion. Neither makes them a reliable judge of the argument.
+Give their life with Neri weight before they become the source of an injury. The burnt crust is a private joke, a smell from where they met, and a contribution Kit wants to make. The new household is pleasurable and frightening, not merely an obligation waiting offstage.
 
-Give their damaging intervention a particular target. They use a private memory to force Ruth to leave, not to explain the ethics of promises. They may recognise the injury a sentence too late and keep talking because stopping would expose it.
+Kit enjoys the harbour and being included in something Ruth cannot see. That delight is real. Their abuse of it has a precise target: they use the memory against **Helen's obstruction**, urging her to give Ruth the bag. They have received a fragment, not a complete account or superior moral authority.
 
-When they finally ask for Helen's company, let the request lose its efficient shape. “I wanted you there” is something they have been arranging around instead of saying plainly. Their mother's actual neglect must still count after their betrayal.
+Afterwards Kit may apologise unsuccessfully or try to be useful. Do not give them a recital of lessons learned. Correcting their assurance to Neri and missing the loaf are consequences; neither purchases Helen's renewed trust. They can still need their mother.
 
-## Range across the passage
+## Different kinds of time
 
-The new middle attempts several different kinds of time:
+The opening accumulates practical trouble. The trial permits enthusiasm, movement, laughter and real quiet. Packing then becomes briefly efficient before it stops at the two handles. The memory interrupts a continuing argument; its misuse changes the room before anyone can explain it.
 
-1. An agreed experiment nobody knows how to begin.
-2. Shared pleasure in something the audience cannot see.
-3. A longer attempt to describe work.
-4. A bad old story and unpunishing laughter.
-5. A request Ruth cannot finish.
-6. Fast, competent packing.
-7. An obstruction: Helen takes the bag.
-8. A remembered night, interrupted by Kit acquiring part of it.
-9. A withdrawal of intimacy and an exposed request.
+The private duet allows uneven recollection and tiredness. Ruth's brief harbour trial gives the women something to do that neither can argue into succeeding. Departure takes ordinary time. The final conversation is exposed because little remains to arrange on someone else's behalf.
 
-These are possibilities to test aloud, not a rule that every sequence needs nine flavours. If every pause has the same weight or every laugh the same shape, revise.
+Do not make each movement contain a joke, a wound, a silence and an object in the same order. Rhythm comes from their changing activities and desires.
 
-## Performing Helen's attention
+## Language and action
 
-Use one actor throughout, with no recorded doubles or added voices. Helen remains fully present and responsive. The wider mode is not a trance, possession or lack of empathy.
+Use plain requests when a necessary fact needs to be clear. Kit asks to see what Helen sees; Helen invites them. Helen explicitly closes that view. Near the end of the first trial she states that Ruth lives within her and that the room is within her too. These sentences spare the audience a guessing exercise without explaining the civilisation.
 
-For this draft, the familiar manner includes facing Ruth squarely, feet settled, readiness to turn each answer back to her. The wider manner has more available pleasure and differently distributed attention. Kit recognises it. The eventual return to the familiar pattern is a deliberate action.
+All spoken dialogue is public. Private receipt is silent until Kit chooses to expose the memory. A direction cannot make a private sensation legible merely by describing its intended meaning.
 
-A particular production may find better physical choices. The readable facts matter: Helen offers something; Kit receives it; Ruth wants another kind of contact; Helen supplies that; Kit's earlier invitation remains open until Helen explicitly ends it.
+Establish the harbour with a common sightline, a response to cold and the unspoken shoe. Reuse the same simple activity when Ruth tries it and when Helen returns to it after Ruth leaves. Helen remains able to hear and answer someone in the room. No special body, trance, gestural alphabet or lighting cue is required.
 
-Kit's reaction to cold water, completion of an unspoken observation, continued trace of the harbour and later acquisition of a private detail establish the contact in stages. The audience should not need a code of hand signals.
+At the ending Helen sets aside the activity and gives Kit her full attention and hand. This is a voluntary change in her availability and self-presentation. Kit does not regain the private view. The audience need not identify a metaphysical transformation to follow the choice.
 
-Every spoken line is public. Private receipt is acted silently before Kit decides to use it. After the shared view closes, Ruth still reaches Helen beyond the entrance. Temporary perception and continuing residence must have visibly different consequences.
+## Objects without annotation
 
-The trial includes a real interval of quiet: Ruth waits while Helen and Kit enjoy the work. The pleasure is not a trick played on Ruth. Her choice to go to Sal's follows from recognising what staying would now require of her.
+The bag is for packing. Helen holding it becomes an obstruction because Ruth is ready to leave. It does not contain Ruth or enable travel.
 
-## Language and silence
+The remembered chair earns its place by changing the departure. Ruth gave the original away; Helen tries to preserve the arrangement anyway. After that revelation, the next thing must happen.
 
-Use ordinary words for extraordinary conduct. A necessary plain statement can be better than three coy allusions. “You live in me” is permissible because Helen needs to stop an argument circling the wrong problem.
+The sleeve permits a small refusal and a different acceptance. Let it stand without somebody explaining the allegiance. The loaf is not a prop or a ritual production requirement; Kit's anticipated contribution and its absence give it substance in speech.
 
-Keep the technology out when no one wants to discuss it. Do not turn that into a ban on strangeness, sensory description or a long speech. The room is not a test in which viewers must correctly guess every object.
+## Revision and reading questions
 
-Stage directions specify playable changes. They may describe shared information that actors must communicate, but should not claim an emotion has reached the audience merely because the writer names it.
+- Does this exchange change a choice, disclose a needed fact, offer pleasure or reveal something particular? If it only supplies another correct interpretation, cut or rebuild it.
+- Can someone answer yes or no without provoking three corrections?
+- Who speaks longer than they should, or says the wrong thing without recovering elegantly?
+- Does a laugh continue without an immediate debt or injury attached?
+- Does the dog story remain a story after the audience understands its emotional context?
+- Does Kit's breach hurt before the play starts discussing it?
+- Can the decisive action be understood without reading the direction aloud?
+- Is the last hand offered and accepted, rather than pulled, demanded or automatically supplied?
 
-Some silence contains physical work. Some contains an inability to move. Neither is inherently more theatrical.
-
-## Objects and consequences
-
-The coat and bag remain ordinary objects used in a place whose nature becomes extraordinary. Packing can be a genuine preparation, not endlessly reset comic business.
-
-The chair carries the main reclassification: it survives here because Helen preserved a memory, though Ruth gave the original away. Its dramatic use is Ruth rejecting Helen's proposed terms for return. Helen then stops a departure. The discovery has failed if it merely prompts an attractive conversation about memory.
-
-Ruth can leave without the bag. Helen taking it is an attempt at control which Ruth chooses to confront. Never imply that the prop contains Ruth's person or enables her travel.
-
-The spectacles do not generate a reassuring second exit in this version.
-
-## Questions for a reading
-
-- When do we like being with each of these people, independently of understanding their grievance?
-- Where does someone say more, less, or something different from what they intended?
-- Does an exchange change a decision, or only restate our interpretation?
-- Can pleasure survive long enough that losing it matters?
-- After Kit's breach, can we still feel the hurt that made them want Helen there?
-- Is anyone being silently credited with the playwright's superior understanding?
-- What surprises us after we understand the premise?
-
-No checklist can certify the voices. These questions locate work for actors and readers.
+The [workshop](WORKSHOP_GUIDE.md) will test these questions. Written instructions do not establish that the voices work in performance.

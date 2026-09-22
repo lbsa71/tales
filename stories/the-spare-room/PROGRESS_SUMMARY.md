@@ -1,56 +1,42 @@
-# Progress Summary - *The Spare Room*
+# Progress Summary - The Spare Room
 
 ## Current phase
 
-**Complete first draft; ready for a three-voice table-read checkpoint.**
+**Complete English second draft; blocked workshop pending.**
 
-The continuous manuscript is in [chapters/](chapters/README.md). It carries the nine-movement architecture from the writer packet through Ruth's enacted departure and Helen's final choice to accompany Kit as far as the household door.
+The [seven-movement manuscript](chapters/README.md) implements the approved response to the stage curator. Approximately seventy minutes remains the project's ambition, not a verified duration. No actor workshop, audience test or timed performance has occurred.
 
-The draft has received two text-based critical passes. Their findings and the resulting revisions are recorded in [First-draft review - 22 September 2026](editorial/FIRST_DRAFT_REVIEW_2026-09-22.md). The second pass found no substantive blocker before a table read. No performance, audience test or measured runtime has occurred.
+## Completed in this rework
 
-## Work completed
+- Preserved the nine-movement first draft, compiled Markdown/PDF and top-level development notes in a [baseline archive](drafts/first-draft-2026-09-22/README.md), with byte sizes and SHA-256 hashes.
+- Recorded the [curator's review](editorial/CURATOR_REVIEW_2026-09-22.md), clearly distinguishing its invented hypothetical review from any actual production evidence.
+- Rebuilt nine movements as seven, compressing the opening and folding the later encounter experiment into departure preparation.
+- Kept the gradual reveal. Paired calls, an explicit sensory invitation, cold and an unspoken shoe precede direct confirmation that Ruth and the room are within Helen.
+- Retained Helen as her own self-representation within her mind. Shared activity and chosen attention now carry stage-readable consequences; no body transformation is required.
+- Gave Kit's loaf an early anticipated pleasure and a later missed contribution. Added ordinary family life through the bad bed, cherry cake, harbour visitor, briefly enacted dance and unfinished dog story.
+- Kept Ruth's successful quiet, Helen's bag obstruction, Kit's deliberate misuse against Helen, explicit loss of Kit's view, Ruth's independent departure, the sleeve refusal and the voluntary final hand.
+- Replaced the second abstract demonstration with Ruth's requested, uncomfortable and promptly ended experience of the harbour.
+- Updated the outline, characters, room rules and voice guidance. Prepared a [workshop guide](WORKSHOP_GUIDE.md) and a [response note](editorial/RESPONSE_TO_CURATOR_2026-09-22.md).
+- Regenerated the continuous English Markdown from the authoritative chapter sources, using the same order and concatenation as CI.
 
-- Integrated the retained swimming-bag opening with Kit's false assurance about Ruth's consent.
-- Wrote the missing bridge that demonstrates Ruth can reach Helen outside the room while Kit cannot.
-- Preserved and divided the revision 3 middle passage: successful quiet trial, harbour, dance story, chair dispute and privacy breach.
-- Wrote the four previously outlined final movements: the unwitnessed mother-daughter account, failed rehearsal, Ruth's departure and Helen's final choice.
-- Gave Kit a concrete missed contribution to Neri's household and a proportionate cost for the false promise.
-- Tracked Helen's familiar and expansive physical modes continuously through the ending.
-- Compressed repeated pre-trial bargaining and reduced explanatory diagnoses after the dramatic action.
-- Added a manuscript reading guide, cast, staging rules and ordered chapter index.
+## Review evidence and its limits
 
-## Commitments retained
+Text-based reviews checked causal progression, voice variety, access rules, ordinary staging and the ending. They found the protected turns intact and identified small chair/coat blocking errors, which were corrected. This supports taking the draft into a workshop; it does not establish that spectators will understand the room or that the play will last seventy minutes.
 
-Three performers; one stable playing space; ordinary objects and clothing; no additional voices, projections or effects-dependent events.
+The rewrite contains fewer verbal exchanges and less spoken text. Neither fact measures accessibility or dramatic quality. If a timed performance is substantially shorter than the intended length, develop from what the audience and actors find missing; do not fill the difference with prescribed waiting.
 
-The family disagreement is legible before its circumstances are. Ruth is a living, autonomous person. Helen's original invitation was sincere. Moving changes Ruth's standing access without ending her life. Kit's invited perception and Ruth's residence are different relationships with different consequences.
+The archive manifest, source/compiled equivalence, current links and chapter order are checked separately from the dramatic review. Such checks do not certify the play's emotional effect.
 
-The quiet trial succeeds. Ruth leaves because she does not want continued residence to consist of waiting for the familiar daughter to return. Helen then obstructs the departure because she wants a recognisable mother preserved for future visits.
+## Publication and preserved versions
 
-Kit's breach uses the speculative premise to cause harm but does not settle what the original promise meant. The shared view remains closed after Kit returns. Helen can still choose care without restoring trust.
+The current reading text is [compiled/the-spare-room.md](../../compiled/the-spare-room.md). The author expressly left PDF generation to CI. No second-draft PDF has been built locally, and an existing local PDF may still be the first draft until CI runs. No CI run is claimed.
 
-## Current evidence
-
-| Question | Evidence in the draft | Still unproved |
-| --- | --- | --- |
-| Can the premise change action? | Kit receives and weaponises a private remembered instant; Helen withdraws the view | Whether actors make silent receipt unmistakable |
-| Why does Ruth leave after the trial? | She keeps quiet, watches Helen return voluntarily, then chooses Sal's already offered dance | Whether the waiting interval is long enough in performance |
-| Why does Helen stop the move? | She takes the bag and demands future visits in the familiar form | Whether the reversal shocks rather than merely explains |
-| Does Kit have an independent stake? | Neri's household begins; Kit misses their crust-burning contribution and first shared standing | Whether the offstage loss feels sufficient aloud |
-| Do the people exceed the thesis? | Tide, dance error, Mara, the unfinished dog story, cake, cups and bread create non-argumentative life | Whether all three voices remain distinct over the full runtime |
-| Can the ending remain unsettled? | Kit accepts a possible refusal; Helen calls them back because she does not want the empty room yet | Whether the hand reads as gift, habit, fear or an imposed moral |
+Swedish translation and audio remain first-draft materials. The historical writer packet remains a record of the earlier development handoff. Neither has been silently updated to agree with this rewrite. Existing unrelated audio and tool work have been left alone.
 
 ## Next evidence
 
-Read the play with three actors and time it. Ask listeners first what happened, then what they thought it meant.
+Use three performers and the ordinary props in a fully blocked, script-in-hand workshop. Spectators should be unfamiliar with the text, hear no stage directions and receive no explanatory synopsis. Collect individual accounts before discussion.
 
-The reading should specifically test:
+The decisive tests are the successful quiet, Helen's reversal, the acquired fragment and its misuse, the distinction between closing a view and ending residence, the ordinary departure, and the freedom of the final accommodation. Track pleasure and attention as well as comprehension. Record actual runtime and production conditions.
 
-1. Helen's familiar and expansive modes without technical cues.
-2. Kit's continuing trace of the harbour, its withdrawal, and Ruth's different access.
-3. The duration and effect of the successful quiet trial.
-4. The proportionality of the private-memory breach.
-5. Ruth's exit before the final request begins.
-6. Whether the ending supports incompatible but defensible readings.
-
-Revise from performance evidence rather than adding another explanatory planning layer.
+The requested writing and preparation are complete. Live testing, audience findings and revisions based on them remain future work requiring actors and spectators.

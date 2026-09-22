@@ -1,0 +1,107 @@
+[
+  {
+    "path": "the-spare-room.md",
+    "sha256": "b6e659088d646c7b54fd5d1dd0ff9df46334bd0bd4ab1d2be6d28e78e27a4008",
+    "bytes": 57067
+  },
+  {
+    "path": "the-spare-room.pdf",
+    "sha256": "32d1cda16a4e90c7e2c6cdbd87ff84499ea8a25372f3fd5b08b9931fa7c89321",
+    "bytes": 198957
+  },
+  {
+    "path": "chapters/chapter_01_the-bag.md",
+    "sha256": "4275b74766869d9620f6f5d5f3b97cad6d471058c4d8b87e57fac3812d01be22",
+    "bytes": 6687
+  },
+  {
+    "path": "chapters/chapter_02_the-other-promise.md",
+    "sha256": "718eba30bff74added4547d7ca806b1d6b77f0ed454aeef3e58ea2f58c38edb8",
+    "bytes": 8951
+  },
+  {
+    "path": "chapters/chapter_03_being-here-differently.md",
+    "sha256": "98ee4dfecf2e2a10de4182af1c1869004be4013c6d11625610b95af0f55c862f",
+    "bytes": 8767
+  },
+  {
+    "path": "chapters/chapter_04_the-chair-stops-the-move.md",
+    "sha256": "34dee41071c7230c262e3034eeb666bc4ef443e810535663d470b36818b0b197",
+    "bytes": 5034
+  },
+  {
+    "path": "chapters/chapter_05_an-invitation-misused.md",
+    "sha256": "658d3ecbcc522b40d8a1cc88ae8fdd40d8293c85bdcf16aed8e041e76db2765d",
+    "bytes": 5432
+  },
+  {
+    "path": "chapters/chapter_06_without-the-witness.md",
+    "sha256": "7e7b9b0705128b6672cc92a2628e68f8b4ce5569d6132952f31518dacd0a3466",
+    "bytes": 6426
+  },
+  {
+    "path": "chapters/chapter_07_a-visit-rehearsed-badly.md",
+    "sha256": "7b0dfb7a11ef81f2c7f72a476c543c6a9ccabccf5cc4f8d4f222b384d2c49ab4",
+    "bytes": 5696
+  },
+  {
+    "path": "chapters/chapter_08_ruth-goes.md",
+    "sha256": "a537322908f7ef96af3e659e85fae793657b37ee1da7ae653e192c52beb650ba",
+    "bytes": 4227
+  },
+  {
+    "path": "chapters/chapter_09_for-the-door.md",
+    "sha256": "bdf78e96bba7f985330d1392fad0ed2ae1c1d99eda735496ccb190486f0b4be5",
+    "bytes": 3092
+  },
+  {
+    "path": "chapters/README.md",
+    "sha256": "f0db22b6ab0a1ee66906b6d6e1e977eb5a55777d31bff6d488ad15e385c2205f",
+    "bytes": 1824
+  },
+  {
+    "path": "development/CHARACTERS.md",
+    "sha256": "3f09da6e3fbbec8195197cf16271efd4476d4b6f933dabe80c55ded9d76c05d1",
+    "bytes": 7529
+  },
+  {
+    "path": "development/CONCEPTUAL_MAP.md",
+    "sha256": "0cc689f6765a80415855b97cd39a40427d9ce91ecdade5509b789bc0019cc424",
+    "bytes": 9292
+  },
+  {
+    "path": "development/DEVELOPMENT_DIARY.md",
+    "sha256": "659408a69b3a04173dd1fc1fc057f3cbb7f43d1aa03c2008cd6067b03a45416f",
+    "bytes": 28217
+  },
+  {
+    "path": "development/EXAMPLE_DRAFT.md",
+    "sha256": "1b3351dd3ac19e85c40b01a6054d80cf425d20be3e4dec44ccc8250bbc0c3964",
+    "bytes": 22206
+  },
+  {
+    "path": "development/OUTLINE.md",
+    "sha256": "88242e4e32332174929133ebcff95212ecfa041763fd0596d84945b57609d9c2",
+    "bytes": 22045
+  },
+  {
+    "path": "development/PROGRESS_SUMMARY.md",
+    "sha256": "40c8372d6a9017748f17b438eb122c22e096879e5aa6cf875aba950f9b96efca",
+    "bytes": 4385
+  },
+  {
+    "path": "development/PROJECT_BRIEF.md",
+    "sha256": "fcfc90c14d85d1c12e8a6eaf7e4bbacf8042c7372ce384ab5064ccb5b8847470",
+    "bytes": 3299
+  },
+  {
+    "path": "development/README.md",
+    "sha256": "d860e4da179ed302f40fbab72afaa1106268d2ae4fcdec03e41ece61ab1f639e",
+    "bytes": 5374
+  },
+  {
+    "path": "development/TONE_AND_VOICE.md",
+    "sha256": "df5ed8dc0aaa418e6a335555a544de4c75ffa2c47b43b5af85a8ddeda9769c1e",
+    "bytes": 7904
+  }
+]
