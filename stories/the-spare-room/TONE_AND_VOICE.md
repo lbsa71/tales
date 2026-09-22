@@ -1,296 +1,99 @@
 # Tone and Voice — *The Spare Room*
 
-This is the daily dialogue and stage-language reference. The play's intellectual architecture belongs in the planning documents. The characters are occupied with a move.
+Revision 2. Working notes for the [dramatic pages](EXAMPLE_DRAFT.md), informed by the [producer's review](editorial/PRODUCER_REVIEW_2026-09-22.md). The [character particulars](CHARACTERS.md) supply lives beyond the argument.
 
----
+## The change in approach
 
-## Governing tone
+The earlier guide was too good at preventing mistakes. Its insistence on short tactical dialogue, object-filled silence and jokes that cost someone something could produce seventy minutes of the same effective exchange.
 
-An intimate family comedy under increasing pressure. The speculative circumstances enlarge ordinary remarks without making the characters sound like representatives of ideas.
+Keep the precision; allow expressive range. These people can enjoy one another without immediately collecting a debt. Someone may speak too long, fail to make a point, tell a story badly, or stop when no useful action is available. An ordinary pause does not need a mug.
 
-The audience should enjoy these people before it fully understands them. Humour comes from familiarity, tactical misunderstanding, bad timing, and the gap between a small complaint and its enormous literal context.
-
-The governing instruction:
-
-> The play knows what it is about. The people are still trying to win an argument.
-
----
-
-## Shared dialogue rules
-
-### Start from a task
-
-Conversation is attached to doing something: opening the bag, finishing tea, finding spectacles, moving a chair, putting on a coat. Abstract disagreement should keep falling back into physical business.
-
-### Evasion before explanation
-
-Characters answer the manageable part of a question, correct a minor factual error, or attack the phrasing. They seldom volunteer the sentence another person needs.
-
-### One line, two valid hearings
-
-The best world-building lines work as family dialogue before and after their literal meanings become clear:
-
-- “You never come to see me.”
-- “I hardly take up any room.”
-- “Are you going to expect me to do this for you?”
-- “I only asked you to wait.”
-- “You said I could stay as long as I liked.”
-
-Do not underline the second meaning when it arrives.
-
-### Consequences instead of vocabulary
-
-The characters can say where someone lives, whether they can hear them, whether a visit was arranged, and whether an answer is required. They should not explain substrates, simulations, embodiment, persistence, storage, consciousness, or transfer.
-
-### No therapeutic fluency
-
-Nobody accurately diagnoses the family system in polished language. Kit is not a therapist. Helen does not deliver a boundary speech. Ruth does not summarise the difference between being needed and being loved.
-
-If a line sounds fit for the programme note, damage it with self-interest, embarrassment, interruption, or a concrete objection.
-
-### Theme belongs in behaviour
-
-- Helen says she wants Ruth to be independent, then tries to choose Ruth's friends.
-- Ruth says she requires nothing, then prevents Helen from completing one minute alone.
-- Kit rejects inherited obligation, then offers one specific future visit voluntarily.
-
-The contradiction is the statement.
-
----
+Accessibility means the audience follows what a person is trying to get. It does not require every experience that person has to resemble ours.
 
 ## Ruth
 
-### Surface
+Ruth notices the unasked assumption inside a practical offer. She answers with an exact small fact: the bag is a swimming bag; Thursday was inconvenient; Sal has acquired cups. Sometimes this is resistance. Sometimes she simply knows more than Helen.
 
-Literal, practical, attentive, and selectively deaf. She answers the easiest clause in a sentence and notices weak wording. She does not rush to relieve discomfort she can use.
+As a former dance caller, she also knows the pleasure of holding a group. Let her story wander, get something wrong and regain the room by making people laugh. She need not land the best line. A joke from Kit can genuinely please her.
 
-### What she wants
+The unfamiliar Helen interrupts this competence. Ruth can get as far as “Could you come back” without being able to defend the request. She has language for a bad chair and almost none for a daughter who answers without becoming the person she expects.
 
-To stay, but more deeply to be wanted. She will negotiate practical details in order to avoid asking whether Helen will visit when no arrangement compels her.
-
-### Sentence habits
-
-- Short corrections
-- Concrete nouns
-- Questions whose factual answers are already known
-- A delayed response that reveals she heard everything
-- “I didn't say…” and “That isn't what you asked” used tactically
-
-### Humour
-
-Disproportionate certainty about small matters. She is funniest when technically correct and emotionally impossible.
-
-### Tenderness
-
-She still notices whether Helen has eaten, loosens social tension for Kit when she chooses, and remembers the physical detail of Helen's worst night. Care is real even when it is also a means of access.
-
-### What to avoid
-
-- Quaint-old-woman jokes
-- Oracular wisdom
-- Constant devastating one-liners
-- Helplessness used to justify the move
-- Manipulation as her only mode
-- Treating the new home as a disguised death sentence
-
-### Calibration
-
-> **HELEN:** You said today would be better.
->
-> **RUTH:** It is better than Thursday. I have something on Thursday.
-
----
+Her wish to try Sal's dances is real. Play her appetite as well as her fright.
 
 ## Helen
 
-### Surface
+With Ruth, Helen arrives having rehearsed a reasonable conversation. She begins sentences intended to be kind and discovers a demand halfway through them. “But when you come here” is worse than the sentence she meant to say.
 
-Prepared, administrative, and determined to be fair. Her sentences begin balanced and qualified, then break when fairness fails to produce agreement.
+Outside that managerial mode she has pleasures. Her account of a tide can be expansive, technical in a homely way, boastful and funny. She struggles to explain why an unplanned interruption delighted her. That struggle is more useful than a beautiful statement about freedom.
 
-### What she wants
+She is sensitive about credit. Kit can bring her good mood down by asking whether anyone named her work. Ruth knows how far back this goes.
 
-Ruth to move, and Ruth and Kit to agree that wanting this does not make her cruel. She gradually has to choose the move without receiving that reassurance.
-
-### Sentence habits
-
-- “What I'm saying is…” when what she is saying has already changed
-- Lists of benefits and arrangements
-- Corrections of Kit's manners at moments when her own are worse
-- Unnecessary qualifications
-- Sudden plain sentences after elaborate evasions
-
-### Humour
-
-Her need to control the appearance of reasonableness. She can remain calm through a cosmic fact and lose her temper over a mug.
-
-### Tenderness
-
-She knows how Ruth's coat catches, how she takes tea, and which version of a story will make her laugh. She once made an immense offer out of real need and love.
-
-### What to avoid
-
-- Making freedom her moral reward for winning
-- Making her merely a victim
-- A polished speech about privacy
-- Treating her original invitation as a mistake she never meant
-- Allowing “I need space” to conclude the argument
-
-### Calibration
-
-> **HELEN:** Sometimes there isn't anyone else. I'm not busy.
->
-> **RUTH:** All right.
->
-> **HELEN:** I might just be sitting.
-
----
+After the breach, do not give Helen a polished account of consent. She wanted to show Kit something she made. Kit used something else. She removes the contact and has difficulty speaking to the person left in front of her.
 
 ## Kit
 
-### Surface
+Kit is efficient partly because they have supplied answers nobody gave. Briskness conceals the fear that Neri's household may discover they need their mother more than they claimed.
 
-Economical, observant, and initially eager to keep the event procedural. Kit uses humour to reduce discomfort, sometimes helpfully and sometimes cruelly.
+They enjoy the Helen Ruth finds difficult. Their intimacy contains genuine delight and the pleasure of being the preferred companion. Neither makes them a reliable judge of the argument.
 
-### What they want
+Give their damaging intervention a particular target. They use a private memory to force Ruth to leave, not to explain the ethics of promises. They may recognise the injury a sentence too late and keep talking because stopping would expose it.
 
-To perform a limited act of help and retain the right to leave. Once the arrangement becomes personally relevant, they want a direct answer about what Helen expects of them.
+When they finally ask for Helen's company, let the request lose its efficient shape. “I wanted you there” is something they have been arranging around instead of saying plainly. Their mother's actual neglect must still count after their betrayal.
 
-### Sentence habits
+## Range across the passage
 
-- Short practical questions
-- Answers that decline the premise of the question
-- Jokes that expose more than intended
-- Silence when both older women expect endorsement
-- Plain refusals once personally implicated
+The new middle attempts several different kinds of time:
 
-### Dramatic agency
+1. An agreed experiment nobody knows how to begin.
+2. Shared pleasure in something the audience cannot see.
+3. A longer attempt to describe work.
+4. A bad old story and unpunishing laughter.
+5. A request Ruth cannot finish.
+6. Fast, competent packing.
+7. An obstruction: Helen takes the bag.
+8. A remembered night, interrupted by Kit acquiring part of it.
+9. A withdrawal of intimacy and an exposed request.
 
-Kit does more than identify hypocrisy. They must make decisions:
+These are possibilities to test aloud, not a rule that every sequence needs nine flavours. If every pause has the same weight or every laugh the same shape, revise.
 
-- refuse to certify that Ruth agreed;
-- refuse to become messenger or replacement accommodation;
-- cross out an assigned future task;
-- offer a different, finite visit voluntarily;
-- escort Ruth while preserving another commitment.
+## Performing Helen's attention
 
-### What to avoid
+Use one actor throughout, with no recorded doubles or added voices. Helen remains fully present and responsive. The wider mode is not a trance, possession or lack of empathy.
 
-- Therapist or chorus dialogue
-- Youth as automatic moral clarity
-- Existing only to ask expository questions
-- Becoming Helen's uncomplicated ally
-- Becoming Ruth's uncomplicated rescuer
+For this draft, the familiar manner includes facing Ruth squarely, feet settled, readiness to turn each answer back to her. The wider manner has more available pleasure and differently distributed attention. Kit recognises it. The eventual return to the familiar pattern is a deliberate action.
 
-### Calibration
+A particular production may find better physical choices. The readable facts matter: Helen offers something; Kit receives it; Ruth wants another kind of contact; Helen supplies that; Kit's earlier invitation remains open until Helen explicitly ends it.
 
-> **HELEN:** You heard her agree.
->
-> **KIT:** I heard Thursday.
+Kit's reaction to cold water, completion of an unspoken observation, continued trace of the harbour and later acquisition of a private detail establish the contact in stages. The audience should not need a code of hand signals.
 
----
+## Language and silence
 
-## Humour system
+Use ordinary words for extraordinary conduct. A necessary plain statement can be better than three coy allusions. “You live in me” is permissible because Helen needs to stop an argument circling the wrong problem.
 
-Humour should arise from one of five pressures:
+Keep the technology out when no one wants to discuss it. Do not turn that into a ban on strangeness, sensory description or a long speech. The room is not a test in which viewers must correctly guess every object.
 
-1. **Literal correction:** a character attacks the exact wording to escape the real question.
-2. **Inherited behaviour:** Kit catches Helen using Ruth's tactic, or uses Helen's without noticing.
-3. **Unequal scale:** someone whose life extends beyond the present world is still told where a chair belongs.
-4. **Premature completion:** Helen holds the coat open; Ruth begins an entirely new subject.
-5. **Failed mediation:** Kit's neutral observation immediately becomes evidence for both sides.
+Stage directions specify playable changes. They may describe shared information that actors must communicate, but should not claim an emotion has reached the audience merely because the writer names it.
 
-Avoid joke-writing that pauses the scene. A laugh should usually worsen someone's position.
+Some silence contains physical work. Some contains an inability to move. Neither is inherently more theatrical.
 
----
+## Objects and consequences
 
-## Speculative dialogue
+The coat and bag remain ordinary objects used in a place whose nature becomes extraordinary. Packing can be a genuine preparation, not endlessly reset comic business.
 
-### Permitted
+The chair carries the main reclassification: it survives here because Helen preserved a memory, though Ruth gave the original away. Its dramatic use is Ruth rejecting Helen's proposed terms for return. Helen then stops a departure. The discovery has failed if it merely prompts an attractive conversation about memory.
 
-- “You live in me.”
-- “You could still hear me.”
-- “Kit had gone. You hadn't.”
-- “If you move, I can visit.”
-- “You were speaking to both of us.”
-- Ordinary references to people or places outside the room whose scale is never defined
+Ruth can leave without the bag. Helen taking it is an attempt at control which Ruth chooses to confront. Never imply that the prop contains Ruth's person or enables her travel.
 
-### Usually forbidden
+The spectacles do not generate a reassuring second exit in this version.
 
-- Technical accounts of how Ruth is sustained
-- Debate about whether Ruth is the original
-- Terms such as upload, simulation, copy, instance, host, construct, storage, or avatar
-- A comprehensive description of Helen's wider existence
-- Dialogue whose sole purpose is to clarify a rule the action can demonstrate
+## Questions for a reading
 
-The line “You live in me” should arrive as an exhausted correction, not a revelation cue.
+- When do we like being with each of these people, independently of understanding their grievance?
+- Where does someone say more, less, or something different from what they intended?
+- Does an exchange change a decision, or only restate our interpretation?
+- Can pleasure survive long enough that losing it matters?
+- After Kit's breach, can we still feel the hurt that made them want Helen there?
+- Is anyone being silently credited with the playwright's superior understanding?
+- What surprises us after we understand the premise?
 
----
-
-## Stage directions
-
-Stage directions are spare, physical, and playable. They name action and observable attention, not interpretation.
-
-Preferred:
-
-> *HELEN holds the coat open. RUTH does not turn around.*
-
-Avoid:
-
-> *HELEN holds open the coat, feeling the crushing weight of generations of obligation.*
-
-Silence should have a physical occupant: a mug, a zip, a sleeve, a person waiting at an entrance.
-
----
-
-## Object grammar
-
-### The coat
-
-Putting it on announces departure. Taking it off reopens negotiations. Holding it commits somebody else to waiting. It is never a transfer device.
-
-### The bag
-
-The visible measure of how little practical progress the family makes. It also gives Kit a job that cannot be completed until the argument advances.
-
-### The mugs and flask
-
-Hospitality, delay, and care without purity. Someone can pour tea out of love and also use it to keep another person seated.
-
-### The spectacles
-
-Ordinary fallibility. If Ruth returns for them, the return demonstrates visiting without turning her into an emblem.
-
-### The chair
-
-The principal object of disputed memory. It remains physically the same. The audience's understanding of why it exists changes.
-
----
-
-## Repetition discipline
-
-Repeat one or two modest phrases rather than building a network of clever callbacks.
-
-Candidate:
-
-> “I only asked you to wait.”
-
-Early, it can concern the coat or tea. Later, it can expose how an emergency request became an indefinite arrangement.
-
-Repetition must sound like family habit, not authorial design.
-
----
-
-## Revision tests
-
-For every page, ask:
-
-1. What does each person want during these lines?
-2. What physical task is being advanced or obstructed?
-3. Is anyone explaining something all three characters already know?
-4. Does the speculative detail change the argument?
-5. Could the thematic line be converted into a practical accusation?
-6. Is Kit acting, or merely interpreting?
-7. Is Ruth allowed to be right about something consequential?
-8. Is Helen's need still legitimate after her tactics are exposed?
-9. Did the humour cost someone something?
-10. Would a viewer with no science-fiction interest know why the moment hurts?
+No checklist can certify the voices. These questions locate work for actors and readers.

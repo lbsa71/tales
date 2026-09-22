@@ -1,8 +1,8 @@
 # Development Diary — *The Spare Room*
 
-This is a retrospective account of the development conversation that produced the current outline and voice samples. It preserves the consequential back-and-forth rather than attempting to reproduce every message verbatim.
+This records the development conversation and subsequent revisions. It preserves the consequential back-and-forth rather than attempting to reproduce every message verbatim.
 
-All entries were retrofitted on 2026-09-22 from the originating conversation.
+Entries 1–11 were retrofitted on 2026-09-22 from the originating conversation. Entry 12 records the later producer review and revision made that day. Earlier statements of readiness describe the first package, not the present assessment.
 
 ---
 
@@ -207,7 +207,7 @@ The dialogue needed to test whether the three people were specific and enjoyable
 
 ---
 
-## 9. Current outline: nine movements
+## 9. First outline: nine movements
 
 The resulting architecture places the basic premise at approximately minute 25 rather than saving it for the climax.
 
@@ -244,7 +244,7 @@ The later scene deliberately allows Ruth's care to remain active: after exposing
 
 ---
 
-## 11. Current position
+## 11. Position after the first package
 
 The project has moved from concept refinement to drafting readiness.
 
@@ -268,3 +268,98 @@ Intentionally open:
 - whether Ruth briefly returns after departing.
 
 The next drafting question is whether movements 1–4 can produce thirty minutes of accumulating pressure while the audience follows the family conflict effortlessly. The concept should now be tested in continuous stage time rather than further defended in prose.
+
+
+---
+
+## 12. Producer review: the documents are ahead of the play
+
+**Received and acted on: 2026-09-22.**
+
+The author returned with a detailed, sharply critical review and asked that its points be incorporated or refuted. The [full review](editorial/PRODUCER_REVIEW_2026-09-22.md) is preserved separately. The [first outline](drafts/outline-v1.md) and [original dialogue samples](drafts/dialogue-v1.md) were archived before revision.
+
+The review was not a rejection of the premise. It distinguished a promising development package from evidence of a distinctive completed play. Its central charge was that the documents understood the project too comfortably: they explained how errors would be avoided, while the sample scenes had not yet demonstrated enough surprise, consequence or expressive range.
+
+Five connected problems were identified:
+
+1. The future could remain an elaborate metaphor for familiar domestic boundaries.
+2. Discoveries changed interpretation more often than they changed what anyone did.
+3. The three roles lacked particular lives; Kit's structural function was still that of a sensible mediator.
+4. The voice rules risked making all seventy minutes share one rhythm of precise, defensive repartee.
+5. The ending might deliver a separation whose moral meaning the play had already settled.
+
+The review also proposed commercial comparisons and routes. Those are preserved as the producer's suggestions, not verified opportunities, market evidence or plans for submission. The citation markers in the supplied text did not include resolved sources.
+
+### What the revision accepts
+
+The distinction between ambition and evidence is right. Calling architecture and voice calibration “complete” was premature. The status documents now distinguish drafted actions from performance findings, and no runtime or audience response is claimed.
+
+A particular speculative capacity must enable an actual event. The revised middle therefore gives Helen a pleasurable wider experience she can invite Kit to share. Kit subsequently receives a private memory Helen is reliving and uses it aloud to force Ruth towards departure. Helen withdraws the contact.
+
+This deliberately revises the earlier decision to avoid literal access to thoughts altogether. Ruth's residence still grants availability, not surveillance. Kit's access is narrower: an invited sharing of present experience, which includes a memory Helen is currently experiencing. There is no search through an archive and no involuntary access without an invitation. Kit's first reception is not the offence; choosing to use it is. The distinction must emerge through the scene, not be delivered as a rulebook.
+
+The trial now produces a change of intention. Ruth agrees to keep quiet; Helen tries being present in another manner; Ruth finds the encounter painful and becomes ready to leave. Helen then discovers that Ruth does not intend to preserve the familiar mother for future visits. Helen takes the packed bag and stops the move she had demanded.
+
+That is the chair's revised function. Its reclassification as a retained memory exposes a disputed condition for return. Ruth moves it; Helen restores it, then obstructs departure. The furniture discovery matters because somebody acts on it.
+
+### Particular lives chosen for revision 2
+
+The former blank spaces now have working answers in [CHARACTERS.md](CHARACTERS.md). These are new creative decisions, not recovered facts from an earlier exchange.
+
+- Helen left an eighty-year shared marriage 312 years ago, seeking independent desires and credit. The first nights of unshared experience frightened her. She invited Ruth; Ruth kept talking about potatoes. Helen now makes tides for inhabited ocean worlds and enjoys the work, including its unplanned imperfections.
+- Ruth gave up a reserved place with travelling dance callers. They awaited her decision, rather than relying on a commitment she had completed. She has both a real sacrifice and a selective account of it. At Sal's she wants to try unfamiliar shared dances; she is flattered by being asked to lead.
+- Kit and Neri are joining seven other adults in a household whose first gathering occurs this evening. Kit told Neri Helen would come, though Helen only promised to try. Kit also overstated Ruth's readiness to Helen. They want their mother with them, and their organising depends on making provisional agreements sound final.
+
+The household can start without Kit. Missing its first shared experience is the consequence, not a catastrophe or a contrived expiry. Kit will have to admit the false assurance. Their positive desire and capacity to hurt others replace the earlier reliance on principled refusals to give them agency.
+
+The exact numbers belong to private continuity unless dialogue needs them. The play is not obliged to recite the biography.
+
+### What the revision qualifies or resists
+
+The early domestic register is worth retaining. The swimming bag does not need to become strange immediately. Its task is to make us care about the people before the later action alters our account of them.
+
+Nor does each small gesture need an irreversible consequence. A story, an ordinary kindness or unpunishing laughter can give the family something worth losing. The test belongs to the progression of the encounter, not every line.
+
+Greater speculative ambition need not mean more explanatory vocabulary or a comprehensive future history. The revised shared experience earns its place only if it changes what Kit can do to Helen. If it requires an extended explanation in performance, it will need another approach.
+
+The review's challenge to the ending is accepted without treating darkness as proof of seriousness. Ruth remains a person with an independent future. There is no concealed deletion, fatal destination or punishment for Helen wanting privacy. Those commitments still leave the women capable of losing familiar ways of knowing one another.
+
+The references to other plays do not settle whether this play works. No commercial prediction is adopted from them.
+
+### A different working ending
+
+Ruth leaves for Sal's without an escort or a promise to remain the familiar mother Helen expects. She does not return for spectacles.
+
+Kit has missed the beginning they wanted to share with Helen. They ask her to come nevertheless. When Helen begins to meet them in her expansive manner, Kit asks for the familiar mother “just for the arrival”: someone whose hand they can take while facing the household after admitting the lie.
+
+Helen chooses to provide that form and leaves with Kit. The room remains empty.
+
+This replaces Helen alone with the quiet she requested. The intended difficulty is in a freely chosen accommodation whose extent may not be clear to either person. It must not be staged as automatic captivity or an inevitable family cycle. Whether the ending supports more than one reading remains a drafting question; it is outlined, not yet written.
+
+### Evidence produced, and corrections during review
+
+The revised [OUTLINE.md](OUTLINE.md) maps the choices removed by each movement. The new [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md) is a continuous middle passage through the trial, Ruth's packing, the chair dispute, the private memory and Kit's exclusion. The longer tide account and dance story allow pleasure and different rhythms. The potatoes exchange is retained.
+
+A read of the new materials caught several continuity issues:
+
+- Returning to Helen's familiar manner must restrict the breadth of her attention without automatically closing Kit's existing invitation. The pages retain a trace of the harbour before the breach.
+- Ruth can leave without her bag. Helen retaining it is attempted control, which Ruth chooses to confront, not a technological restraint.
+- Ruth can attempt shared experience. Her recoil is specifically from the unfamiliar daughter and the exposure of learning from her; it is not an incapacity conveniently removed at Sal's.
+- Kit's wish for a familiar mother at the ending needs the concrete embarrassment of facing Neri, not merely a neat thematic echo.
+- The old late excerpt openly disclosed Helen sitting on the floor. That disclosure must not migrate into the new opening before Kit acquires the private detail.
+
+These are editorial checks, not a table reading or audience test. The new passage remains untimed. The opening still needs integration, and the latter movements need dialogue.
+
+The next step remains dramatic writing and listening to it. The supporting documents record the changed decisions; they are not a substitute for the rest of the play.
+
+---
+
+## 13. A response note for the producer
+
+**Requested and written: 2026-09-22.**
+
+The author asked for a note outlining the changes and explaining acceptance or refusal of the critique. The resulting [response to the producer](editorial/RESPONSE_TO_PRODUCER_2026-09-22.md) addresses each of the five principal criticisms, the resulting dramatic choices and their remaining risks.
+
+The note makes the position explicit: all five central diagnoses were accepted. The qualifications concern execution and the evidence still needed; there is no substantive refusal to manufacture. Preserving the domestic opening, avoiding catastrophe and maintaining Ruth's personhood are shared commitments with the producer, rather than disagreements with the review. Commercial suggestions remain deferred hypotheses.
+
+The note is saved for the author's use. It has not been sent externally. No further changes to the play were made in preparing it.

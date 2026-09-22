@@ -1,78 +1,64 @@
 # The Spare Room
 
-*A three-person stage play about a daughter trying to move her mother out of the room she has made for her inside herself.*
-
----
+*A darkly funny family play about a woman who once made room for her mother inside herself—and now wants her to leave.*
 
 ## Status
 
-**Phase: architecture and voice calibration.** The commission brief, core dramatic premise, rules of the room, seventy-minute movement outline, and two dialogue samples are established. No full script has been drafted.
+**Revision 2: outline and exploratory dramatic pages. Full play incomplete.**
 
-The next useful step is a continuous first-act drafting pass through movements 1–4, ending after the audience has understood the basic nature of Ruth's residence.
+A detailed producer review prompted changes to the action, character particulars and ending. The [revised outline](OUTLINE.md) and [continuous middle passage](EXAMPLE_DRAFT.md) are the primary current deliverables. Neither the seventy-minute allocation nor the performance grammar has been tested in a reading.
 
----
+The next useful work is a read of the new pages, integration of the opening, and a continuous draft through the departure.
 
 ## Form
 
-- Original stage play
-- Approximately 70 minutes, played without interval
-- Three performers: Ruth, Helen, and Kit
-- One stable playing space
-- Ordinary furniture, clothing, and objects
-- No projections, effects, scenic transformations, or explanatory technology
+- Stage play, approximately seventy minutes without an interval.
+- Three performers: Ruth, Helen and Kit.
+- One stable playing space, ordinary furniture and clothes.
+- No additional voices, projections, effects or scenic transformations.
 
-The audience first experiences an ordinary family dispute about moving an older parent. Its understanding of the room expands underneath that argument. The actions stay legible even while the nature of the space is reclassified.
+The audience first meets a family arguing about a move. As the room's nature becomes clearer, it enables actions that would be impossible in an ordinary home. The immediate wants remain recognisable.
 
----
+## The argument
 
-## Dramatic center
+Helen wants Ruth to move out today. Kit wants Helen at the beginning of their new household tonight, and has exaggerated both women's agreement to get things moving.
 
-Helen wants her mother to move out today. Ruth wants Helen to want her to stay. Kit has agreed to help with a finite practical task and gradually discovers that both older generations are trying to enlarge that commitment.
-
-The central question is brutally ordinary:
+Ruth discovers she wants the new life on offer. Helen then discovers she has expected to retain access to the familiar mother inside it.
 
 > Can you love your mother and still want her out of your head?
 
-The science-fiction premise intensifies this question. It does not answer it.
+A second pressure develops through the action: how much of the person you recognise can you ask someone to keep being?
 
----
-
-## Planning artifacts
+## Current artifacts
 
 | File | Purpose |
-|------|---------|
-| [PROJECT_BRIEF.md](PROJECT_BRIEF.md) | Condensed source RfP and commission requirements |
-| [CONCEPTUAL_MAP.md](CONCEPTUAL_MAP.md) | Premise, dramatic engine, room grammar, revelation architecture, and failure modes |
-| [OUTLINE.md](OUTLINE.md) | Nine-movement, seventy-minute scene outline |
-| [TONE_AND_VOICE.md](TONE_AND_VOICE.md) | Character voices, dialogue rules, humour, stage language, and world-building discipline |
-| [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md) | Two dialogue calibration excerpts, early and late |
-| [DEVELOPMENT_DIARY.md](DEVELOPMENT_DIARY.md) | Chronological record of the conversation and the decisions it produced |
-| [PROGRESS_SUMMARY.md](PROGRESS_SUMMARY.md) | Current state, locked decisions, open discoveries, and next drafting gate |
+| --- | --- |
+| [PROJECT_BRIEF.md](PROJECT_BRIEF.md) | Source commission and production constraints |
+| [OUTLINE.md](OUTLINE.md) | Nine movements, intended timing, consequential turns and revelation order |
+| [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md) | Continuous middle passage: trial, chair and breach |
+| [CHARACTERS.md](CHARACTERS.md) | Particular lives, desires and compromises chosen for revision 2 |
+| [CONCEPTUAL_MAP.md](CONCEPTUAL_MAP.md) | Private continuity, room rules and the speculative action |
+| [TONE_AND_VOICE.md](TONE_AND_VOICE.md) | Voice range and performance questions |
+| [DEVELOPMENT_DIARY.md](DEVELOPMENT_DIARY.md) | Conversation history and reasons for revisions |
+| [PROGRESS_SUMMARY.md](PROGRESS_SUMMARY.md) | Completed work, unresolved risks and evidence still needed |
 
----
+## Review and earlier versions
 
-## Load-bearing principles
+- [Response to the producer, 2026-09-22](editorial/RESPONSE_TO_PRODUCER_2026-09-22.md): changes made, reasons for accepting the five principal criticisms, qualifications and work still to test.
+- [Producer review, received 2026-09-22](editorial/PRODUCER_REVIEW_2026-09-22.md): source text, including commercial suggestions not independently verified.
+- [Outline, revision 1](drafts/outline-v1.md).
+- [Dialogue samples, revision 1](drafts/dialogue-v1.md): includes the retained swimming-bag opening.
 
-1. The family conflict is effortless to follow before the speculative circumstances are understood.
-2. Each revelation changes someone's claim, leverage, or available choice.
-3. Ruth's personhood is ordinary and settled. The play does not ask whether she is a copy.
-4. The audience may revise what the room is while remaining certain what actions within it do.
-5. The room and its objects are literal stage realities, not a collection of symbols or puzzle clues.
-6. The play understands its theme more clearly than its characters can express it.
-7. Ruth's move is an independent future, not exile, deletion, or death.
+## Commitments
 
----
+The family conflict must be followable before the audience understands the circumstances. Ruth's personhood is ordinary and settled. The door remains an entrance and exit, not a transformation device.
+
+The chair's changing meaning must alter what somebody does. Ruth's move leads to an independent life. Its risks are those of living and changing, not hidden deletion or death.
+
+The people can be petty, funny, inarticulate and unfair. Their desires should outrun their accounts of themselves.
 
 ## Working references
 
-The references are directional rather than imitative:
+The original conversation drew on *Waiting for Godot* for economy, Kaufman for emotionally legible high concept, and *I'm Thinking of Ending Things* for the reclassification of ordinary encounters through memory and projection. It also discussed *The Real Thing*, *Arcadia* and *The Father*.
 
-- *Waiting for Godot*: dramatic economy and the offstage world
-- Charlie Kaufman's more accessible work: high concept with simple emotional grammar
-- *I'm Thinking of Ending Things*: ordinary domestic details gradually reclassified by memory and projection
-- *The Real Thing*: retrospective reclassification of an apparently straightforward scene
-- *Arcadia*: impossible theatrical reality held by a stable room and ordinary objects
-- *The Father*: the audience's relation to a domestic space becoming part of the drama
-
-The play should remain warmer, clearer in immediate action, and less ontologically destabilising than the most disorienting of these references.
-
+These remain references for particular formal possibilities, not templates or claims of equivalence. The producer's additional comparisons are preserved in the review. The current task is to find the play's own consequential action.

@@ -67,9 +67,9 @@ It should absorb viewers who would never choose to attend “a science-fiction p
 
 ---
 
-## Current development deliverable
+## Initial development deliverable
 
-The agreed next step consists of:
+The first agreed step consisted of:
 
 1. a practical, scene-by-scene outline of the seventy minutes;
 2. the wants and reversals within each movement;
@@ -77,5 +77,4 @@ The agreed next step consists of:
 4. an early dialogue sample before the audience fully understands the premise;
 5. a later sample after ordinary family remarks have acquired their literal second meanings.
 
-Those materials now live in [OUTLINE.md](OUTLINE.md), [TONE_AND_VOICE.md](TONE_AND_VOICE.md), and [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md).
-
+The first [outline](drafts/outline-v1.md) and [dialogue samples](drafts/dialogue-v1.md) are preserved. Following the [producer's review](editorial/PRODUCER_REVIEW_2026-09-22.md), the current deliverables are a revised causal [OUTLINE.md](OUTLINE.md) and a continuous middle passage in [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md), supported by [TONE_AND_VOICE.md](TONE_AND_VOICE.md). The commission and production constraints above still apply.
