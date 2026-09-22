@@ -33,6 +33,8 @@ A second pressure develops through the action: how much of the person you recogn
 
 ## Current artifacts
 
+The complete Swedish translation, **Gästrummet**, is in [translations/svenska/kapitel/](translations/svenska/kapitel/README.md), with its [translation plan and review record](translations/svenska/TRANSLATION_PLAN.md). The Swedish names are Rut, Helena and Kim. A continuous reading copy is available as [Markdown](../../compiled/gastrummet.md) and [PDF](../../compiled/gastrummet.pdf).
+
 | File | Purpose |
 | --- | --- |
 | [chapters/](chapters/README.md) | Complete first draft in nine continuous movements |

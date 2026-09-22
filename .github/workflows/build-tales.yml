@@ -6,6 +6,7 @@ on:
     paths:
       - 'stories/**/chapters/**'
       - 'stories/**/translations/**/kapitel/**'
+      - 'stories/the-spare-room/translations/svenska/ROLLER_OCH_SCENRUM.md'
       - '.github/workflows/build-tales.yml'
   workflow_dispatch:
 
@@ -38,7 +39,7 @@ jobs:
           mkdir -p compiled
           FAILED=""
 
-          # stem | title | lang | chapters_glob
+          # stem | title | lang | chapters_glob | optional_front_matter
           STORIES=(
             "unsung-heroes|Unsung Heroes|en|stories/unsung-heroes/chapters/chapter_*.md"
             "obesjungna-hjaltar|Obesjungna hjältar|sv|stories/unsung-heroes/translations/svenska/kapitel/kapitel_*.md"
@@ -54,16 +55,20 @@ jobs:
             "stay|Stay|en|stories/stay/chapters/tape_*.md"
             "pappa|Pappa|sv|stories/pappa/chapters/chapter_*.md"
             "the-spare-room|The Spare Room|en|stories/the-spare-room/chapters/chapter_*.md"
+            "gastrummet|Gästrummet|sv|stories/the-spare-room/translations/svenska/kapitel/kapitel_*.md|stories/the-spare-room/translations/svenska/ROLLER_OCH_SCENRUM.md"
           )
 
           for entry in "${STORIES[@]}"; do
-            IFS='|' read -r stem title lang glob <<< "$entry"
+            IFS='|' read -r stem title lang glob front_matter <<< "$entry"
             CHAPTERS=( $glob )
             if [ ${#CHAPTERS[@]} -eq 0 ]; then
               echo "::notice::No chapters found for $stem — skipping."
               continue
             fi
             mapfile -t CHAPTERS < <(printf '%s\n' "${CHAPTERS[@]}" | sort)
+            if [ -n "$front_matter" ]; then
+              CHAPTERS=( "$front_matter" "${CHAPTERS[@]}" )
+            fi
 
             # Concatenated markdown (truncates compiled/$stem.md)
             cat "${CHAPTERS[@]}" > "compiled/$stem.md"
