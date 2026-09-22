@@ -1,6 +1,6 @@
 # Tone and Voice — *The Spare Room*
 
-Revision 2. Working notes for the [dramatic pages](EXAMPLE_DRAFT.md), informed by the [producer's review](editorial/PRODUCER_REVIEW_2026-09-22.md). The [character particulars](CHARACTERS.md) supply lives beyond the argument.
+Revision 3. Working notes for the [dramatic pages](EXAMPLE_DRAFT.md), with the limited access and causality clarifications from the [producer follow-up](editorial/PRODUCER_FOLLOWUP_2026-09-22.md). The [character particulars](CHARACTERS.md) supply lives beyond the argument.
 
 ## The change in approach
 
@@ -65,6 +65,10 @@ For this draft, the familiar manner includes facing Ruth squarely, feet settled,
 A particular production may find better physical choices. The readable facts matter: Helen offers something; Kit receives it; Ruth wants another kind of contact; Helen supplies that; Kit's earlier invitation remains open until Helen explicitly ends it.
 
 Kit's reaction to cold water, completion of an unspoken observation, continued trace of the harbour and later acquisition of a private detail establish the contact in stages. The audience should not need a code of hand signals.
+
+Every spoken line is public. Private receipt is acted silently before Kit decides to use it. After the shared view closes, Ruth still reaches Helen beyond the entrance. Temporary perception and continuing residence must have visibly different consequences.
+
+The trial includes a real interval of quiet: Ruth waits while Helen and Kit enjoy the work. The pleasure is not a trick played on Ruth. Her choice to go to Sal's follows from recognising what staying would now require of her.
 
 ## Language and silence
 

@@ -4,7 +4,9 @@
 
 ## Status
 
-**Revision 2: outline and exploratory dramatic pages. Full play incomplete.**
+**Revision 3: prepared for writer handoff. Full play incomplete.**
+
+The [writer brief](handoff/WRITER_BRIEF.md) sets out the next deliverable and the writer's latitude. The [cover note](handoff/COVER_NOTE.md) is ready to adapt for sending. The packaged reading copy and source archive are listed in [handoff/README.md](handoff/README.md).
 
 A detailed producer review prompted changes to the action, character particulars and ending. The [revised outline](OUTLINE.md) and [continuous middle passage](EXAMPLE_DRAFT.md) are the primary current deliverables. Neither the seventy-minute allocation nor the performance grammar has been tested in a reading.
 
@@ -44,6 +46,8 @@ A second pressure develops through the action: how much of the person you recogn
 
 ## Review and earlier versions
 
+- [Producer follow-up, 2026-09-22](editorial/PRODUCER_FOLLOWUP_2026-09-22.md): two narrow rework requests and three tests for drafting. The reviewer had assessed the response note, not the revised dramatic pages.
+- [Outline, revision 2](drafts/outline-v2.md) and [dramatic pages, revision 2](drafts/dialogue-v2.md): preserved before the limited handoff pass.
 - [Response to the producer, 2026-09-22](editorial/RESPONSE_TO_PRODUCER_2026-09-22.md): changes made, reasons for accepting the five principal criticisms, qualifications and work still to test.
 - [Producer review, received 2026-09-22](editorial/PRODUCER_REVIEW_2026-09-22.md): source text, including commercial suggestions not independently verified.
 - [Outline, revision 1](drafts/outline-v1.md).

@@ -1,12 +1,18 @@
+# Dramatic pages revision 2
+
+Preserved before the limited writer-handoff revision on 2026-09-22. The current version is [EXAMPLE_DRAFT.md](../EXAMPLE_DRAFT.md).
+
+
+Relative links below have been adjusted for the archive location; the draft wording is unchanged.
+---
+
 # Dramatic Pages — *The Spare Room*
 
-Revision 3 for writer handoff. A limited pass clarifies the quiet trial, Ruth's choice to leave, and the distinction between shared perception and residence. This continuous exploratory passage covers movements three to five of the [outline](OUTLINE.md); it is not a complete act and has not been timed in a reading.
+Revision 2. One continuous exploratory passage through the quiet trial, Ruth's readiness to leave, the chair dispute and Kit's breach of confidence: movements three to five of the [revised outline](../OUTLINE.md). This is not a complete act. Its duration has not been established by a reading.
 
-The [first dialogue draft](drafts/dialogue-v1.md) preserves the earlier opening and later sample. The swimming-bag opening remains the intended starting material. Here the audience has already seen Ruth reach Helen outside the room and fail to reach Kit. Kit has disclosed the household gathering this evening, but not the assurance given to Neri.
+The [first dialogue draft](../drafts/dialogue-v1.md) preserves the earlier opening and later sample. The swimming-bag opening remains the intended starting material. Here the audience has already seen Ruth reach Helen outside the room and fail to reach Kit. Kit has disclosed the household gathering this evening, but not the assurance given to Neri.
 
 *Three actors throughout. Ordinary clothes. Table, three chairs, flask, mugs, spectacles, coat, scarf and a swimming bag. One entrance. No changes of light or sound announce changes of attention.*
-
-*All printed dialogue is spoken aloud and can be heard by everyone present. Shared perception is received silently, through attention and response. No unmarked aside or private spoken voice is used. Kit can see with Helen temporarily; Ruth's residence lets her call Helen even when Helen has left this encounter. Closing the former does not end the latter.*
 
 *HELEN has agreed to try doing what she wants while remaining with RUTH. RUTH has promised not to interrupt. KIT has stopped packing.*
 
@@ -306,29 +312,23 @@ The [first dialogue draft](drafts/dialogue-v1.md) preserves the earlier opening 
 
 *The laughter subsides without turning against anyone.*
 
-**RUTH:** Go on. Finish it.
+**RUTH:** Helen.
 
-**HELEN:** I can stop.
+**HELEN:** Mm?
 
-**RUTH:** I said I'd wait.
+**RUTH:** Look at me a minute.
 
-*HELEN turns towards KIT. Their attention follows something together. KIT nearly speaks; HELEN's smile stops them. They watch it finish.*
-
-*RUTH waits. She does not call, prompt or ask them to return. Leave enough time for the shared pleasure to continue without her.*
-
-**HELEN:** There. That worked.
-
-*HELEN looks towards RUTH. Her feet stay where they are; her attention does not gather into its earlier pattern.*
-
-**RUTH:** I didn't call you.
-
-**HELEN:** I know.
-
-**RUTH:** Are you coming back now?
-
-**HELEN:** I'm here.
+*HELEN looks towards her. Her feet stay where they are; her attention does not gather into its earlier pattern.*
 
 **RUTH:** Properly.
+
+**HELEN:** I am looking at you.
+
+**RUTH:** You're answering over there.
+
+**HELEN:** I'm answering you.
+
+**RUTH:** I know you are.
 
 *RUTH cannot complete what she was going to say.*
 
@@ -370,19 +370,11 @@ The [first dialogue draft](drafts/dialogue-v1.md) preserves the earlier opening 
 
 *Silence.*
 
-**RUTH:** Sal said she'd show me before the others arrived.
-
-**HELEN:** The dance?
-
-**RUTH:** I've kept saying Thursday.
-
-*RUTH takes the scarf from the coat.*
-
-**RUTH:** I'll go now.
+**RUTH:** I will go.
 
 **HELEN:** You don't have to say that now.
 
-**RUTH:** If I arrive after they've started, I'll just stand there nodding as though I know it.
+**RUTH:** When would you like me to say it?
 
 **KIT:** The bag's here.
 
@@ -465,6 +457,12 @@ The [first dialogue draft](drafts/dialogue-v1.md) preserves the earlier opening 
 **HELEN:** You were about to.
 
 *KIT grins. HELEN nearly does.*
+
+**RUTH:** They're doing the new one tonight.
+
+**HELEN:** The new what?
+
+**RUTH:** The dance.
 
 **KIT:** Are you going to teach them?
 
@@ -600,9 +598,9 @@ The [first dialogue draft](drafts/dialogue-v1.md) preserves the earlier opening 
 
 **RUTH:** When I come here what?
 
-**HELEN:** Here. Like this. We can agree that much.
+**HELEN:** You won't expect me to—
 
-**RUTH:** We haven't.
+*She stops.*
 
 **RUTH:** You held your hand out to me just now.
 
@@ -619,12 +617,6 @@ The [first dialogue draft](drafts/dialogue-v1.md) preserves the earlier opening 
 **RUTH:** I don't know what to tell you about yet.
 
 **HELEN:** You could wait until you do.
-
-**RUTH:** And if I walk out now, you'll tell Kit we arranged Thursday here.
-
-**HELEN:** We could.
-
-**RUTH:** I'm waiting for you to say we haven't.
 
 *KIT looks from the bag to HELEN.*
 
@@ -732,7 +724,7 @@ The [first dialogue draft](drafts/dialogue-v1.md) preserves the earlier opening 
 
 **RUTH:** That was what you said. Not until Thursday. Not until you'd found something else to do. As long as I liked.
 
-*HELEN's attention slips from RUTH to the chair. KIT follows the shift, as they followed her attention to the shoe. They receive something silently: a moment as HELEN remembers it, not an account of the whole night. KIT looks at HELEN, then at the bag and the entrance. They choose to speak.*
+*HELEN's attention slips from RUTH to the chair. KIT follows the shift, as they followed her attention to the shoe. They have received something before HELEN sees them react.*
 
 **KIT:** She was on the floor.
 
@@ -760,7 +752,7 @@ The [first dialogue draft](drafts/dialogue-v1.md) preserves the earlier opening 
 
 **KIT:** She was frightened. She isn't now. You can go.
 
-**HELEN:** You don't know what I asked her after that.
+**HELEN:** Kit.
 
 **KIT:** You can't keep making her be frightened so that you—
 
@@ -774,7 +766,9 @@ The [first dialogue draft](drafts/dialogue-v1.md) preserves the earlier opening 
 
 *HELEN waits.*
 
-**KIT:** The water's gone.
+**KIT:** I can't—
+
+**HELEN:** No.
 
 **KIT:** I wasn't trying to look at that.
 
@@ -797,22 +791,6 @@ The [first dialogue draft](drafts/dialogue-v1.md) preserves the earlier opening 
 **KIT:** Can I come back?
 
 **HELEN:** No.
-
-*HELEN gets up and goes through the entrance. KIT stays where they are.*
-
-**KIT:** Mum?
-
-*No answer.*
-
-**RUTH:** Helen.
-
-**HELEN** *(from beyond the entrance):* What?
-
-**RUTH:** I didn't mean to—
-
-**HELEN** *(from beyond the entrance):* I'm coming.
-
-*HELEN returns. KIT has no shared view of her experience. RUTH has reached her in the same way she did before the trial.*
 
 *Silence. No one finds a job.*
 
@@ -906,12 +884,9 @@ The performance questions are specific:
 
 - Can three actors make the shared experience readable without added sound, mime illustrating unseen scenery, or explanatory speeches?
 - Does the retained trace of water make it clear that Kit's invited contact continues after Helen adopts the familiar manner?
-- After the water disappears for Kit, is Ruth's continuing ability to call Helen clearly a different relationship?
-- Does the interval of successful quiet make Ruth's choice of Sal's company feel like a decision, rather than a hurt exit?
 - Does the private detail feel unmistakably acquired in this encounter, and does Kit's use of it hurt before anyone needs an account of the mechanism?
 - Does Ruth's readiness change the room's energy enough for Helen taking the bag to be shocking?
 - Does Helen's longer account sound like this particular woman enjoying her work, or like a writer providing attractive world-building?
 - Does the last exchange expose Kit's real injury without cancelling what they have done?
-- After the disclosure, do listeners still want the mother and daughter to resolve the move, or has Kit's offence taken over the play?
 
 The mother's dance story and Helen's account of the tide may need different lengths aloud. The remaining movements are outlined, not yet scripted.

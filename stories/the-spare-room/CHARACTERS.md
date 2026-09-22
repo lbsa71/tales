@@ -1,6 +1,6 @@
 # Characters — The Spare Room
 
-Revision 2: concrete choices for the next draft. These facts were introduced in response to the producer's request for particular lives; they are not retroactively attributed to the initial conversation.
+Character particulars introduced in revision 2 and carried forward for the revision 3 writer handoff. These facts were introduced in response to the producer's request for particular lives; they are not retroactively attributed to the initial conversation. The writer may revise them where the scenes warrant it.
 
 ## Ruth
 

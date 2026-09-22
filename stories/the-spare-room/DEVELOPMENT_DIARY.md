@@ -363,3 +363,21 @@ The author asked for a note outlining the changes and explaining acceptance or r
 The note makes the position explicit: all five central diagnoses were accepted. The qualifications concern execution and the evidence still needed; there is no substantive refusal to manufacture. Preserving the domestic opening, avoiding catastrophe and maintaining Ruth's personhood are shared commitments with the producer, rather than disagreements with the review. Commercial suggestions remain deferred hypotheses.
 
 The note is saved for the author's use. It has not been sent externally. No further changes to the play were made in preparing it.
+
+---
+
+## 14. Limited rework and handoff to the writer
+
+**Requested and prepared: 2026-09-22.**
+
+The author supplied a further [producer response](editorial/PRODUCER_FOLLOWUP_2026-09-22.md), asking that relevant material be salvaged and the project packaged for the writer. The reviewer had seen the response note rather than verified revision 2 pages. The new review asked for two narrow structural repairs and three concerns to be tested in the full draft.
+
+Both structural questions were useful. Closing Kit's temporary view now demonstrably leaves Ruth's residence intact: Kit loses the harbour, Helen steps out, and Ruth's call still reaches her. All dialogue is public; a privately received experience is acted silently before Kit chooses to repeat it. The chair and the ongoing conversation cause the remembered fragment. Helen disputes the conclusion Kit draws from it.
+
+The quiet trial now contains a sustained interval in which nobody breaks the agreement. Helen enjoys the work with Kit and returns voluntarily. Ruth discovers that staying may mean waiting for a familiar daughter, then chooses the existing invitation to learn a dance with Sal. Helen obstructs departure to secure future visits “here, like this.” Ruth stays to make clear that leaving does not mean accepting those terms. Kit's urgency is distinguished from the women's reasons for changing the arrangement.
+
+The other concerns are retained as drafting tests: whether Kit's violation takes over the play, whether the biographies become living people, and whether the ending permits care without automatically restoring trust. No additional biography or replacement ending was devised to answer these in advance.
+
+The revision 2 [outline](drafts/outline-v2.md) and [pages](drafts/dialogue-v2.md) were preserved. Revision 3 is the current handoff. The [writer brief](handoff/WRITER_BRIEF.md) distinguishes protected constraints from replaceable creative choices, discloses the gaps between excerpts, and requests a complete first draft once commission terms are agreed. A [cover note](handoff/COVER_NOTE.md) and [package guide](handoff/README.md) support sending.
+
+The reading packet combines the brief, current outline, retained opening and revised middle. The source archive preserves supporting notes and development history. No material has been sent to a writer, no commercial terms have been agreed, and no reading or runtime claim has been added.

@@ -2,7 +2,11 @@
 
 ## Current phase
 
-**Revision 2: causal outline and continuous middle passage drafted; full play incomplete and untested.**
+**Revision 3: prepared for writer handoff; full play incomplete and untested.**
+
+The latest [producer follow-up](editorial/PRODUCER_FOLLOWUP_2026-09-22.md) prompted a limited pass, not another wholesale revision. The pages now distinguish Kit's temporary view from Ruth's residence through a post-breach exit and call; the outline specifies why successfully keeping quiet makes Ruth choose Sal's company and why she then stays to contest Helen's visiting conditions. The memory remains a partial experience which Kit interprets.
+
+The [writer brief](handoff/WRITER_BRIEF.md) carries forward the three remaining tests: whether the breach dominates, whether the particulars become living people, and whether the ending earns its effect. A [cover note](handoff/COVER_NOTE.md), reading packet and editable source archive prepare the handoff. No material has been sent externally.
 
 The producer's critique identified a real gap between the package's ambitions and its dramatic evidence. Earlier descriptions of architecture and voice as “complete” were premature. The revised materials propose stronger actions; they do not establish a successful seventy-minute performance.
 

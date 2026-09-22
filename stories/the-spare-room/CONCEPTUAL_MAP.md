@@ -1,12 +1,12 @@
 # Conceptual Map — The Spare Room
 
-Revision 2, responding to the [producer review](editorial/PRODUCER_REVIEW_2026-09-22.md). These are working dramatic decisions, not proof that a seventy-minute play succeeds.
+Revision 3 for writer handoff, incorporating a limited clarification after the [producer follow-up](editorial/PRODUCER_FOLLOWUP_2026-09-22.md). These are working dramatic decisions, not proof that a seventy-minute play succeeds.
 
 ## The problem onstage
 
 Helen has promised Kit she will try to be present at the beginning of Kit's new shared household this evening. Kit has told Neri that Helen definitely agreed. Helen intends to settle Ruth into an independent home first. Ruth has visited that home without Helen and knows more about it than either visitor assumes.
 
-The arrangement could continue. Today matters because all three have made different promises about what happens after this visit. Someone else will be let down if those promises are treated as indefinitely revisable.
+The arrangement could continue. Kit's gathering supplies Kit's urgency; it does not force Ruth to move today. Helen has chosen this visit to ask for a change. Ruth makes her own decision after the quiet trial shows her what continuing the arrangement would now feel like.
 
 Ruth lives within Helen. Their room keeps available a mutually recognisable encounter: Ruth as mother, Helen in the bodily and conversational form she used at twenty-seven. The form is a present act by a living person. It is not a recording, duplicate, younger mind, or replay.
 
@@ -18,13 +18,13 @@ The question has widened: when someone loves the person you have been, what are 
 
 The central attempted compromise is performed.
 
-Ruth agrees to keep quiet. Helen tries remaining with her while also participating fully in Kit's company. Helen's body does not change, but her organisation of attention does. Kit recognises and enjoys this Helen. Ruth receives answers, yet cannot find the familiar daughter in them.
+Ruth agrees to keep quiet. Helen tries remaining with her while also participating fully in Kit's company. Helen's body does not change, but her organisation of attention does. Kit recognises and enjoys this Helen. During a sustained quiet interval, no one breaks the agreement. Helen finishes her work and turns back voluntarily. Ruth discovers that she can remain here and still spend her life waiting for a familiar daughter. Sal's invitation to learn a dance supplies a positive alternative; Ruth chooses it and begins packing.
 
-Helen invites Kit into a shared experience. Sharing attention gives access to what the other person is presently experiencing or remembering; it does not expose a searchable life history. When Ruth raises the old invitation, Helen remembers it privately. Kit, still included in her attention, acquires words Helen has never told them. Kit repeats those words in order to win the argument.
+Helen invites Kit to look with her at the harbour. She expects discretion, not a perfectly isolated picture with no possible intrusion from other attention. Kit cannot direct or search her memories. When Ruth raises the old invitation and Helen looks at the chair, a sensory fragment of that night intrudes: being on the floor, asking Ruth to breathe louder. Kit receives it silently and chooses to use it aloud. Their conclusion about what this proves belongs to Kit; Helen challenges it.
 
-This is a new abuse of intimacy, accomplished in front of us. It is impossible to reduce to competing phone calls. The same capacity that enables a mother to live within a daughter enables a visitor to exceed an invitation.
+This is an abuse of intimacy accomplished in front of us. Sharing a view and providing a home are distinct relationships within the same broader life. Ending the view removes Kit's private access; it does not remove anyone's residence.
 
-There is no general mind-reading power. Entry requires Helen's invitation; Kit's wrongdoing is exploiting an intimacy already granted. The breach is addressed in conduct: Helen immediately withdraws the shared contact. Kit has to speak across the room again.
+There is no general mind-reading power. Entry requires Helen's invitation; Kit's wrongdoing is exploiting an intimacy already granted. Helen withdraws the view, and the harbour disappears for Kit. When Helen then steps outside, Kit cannot reach her but Ruth can. Ordinary speech in the room remains possible. Ruth's call still reaches Helen because she lives there; Helen can decline to answer but cannot make that access vanish while leaving the residence unchanged.
 
 ## Writer's private scale
 
@@ -45,9 +45,9 @@ These facts give the writer continuity. The script needs only the facts that som
 - Three autonomous people are present. Different modes of attention do not create additional characters.
 - The room belongs within Helen's life and remains when it is empty.
 - An entrance joins the current encounter. An exit leaves it. Neither changes a person's existence.
-- Ruth's residence gives her standing access to address Helen, not automatic knowledge of Helen's other conversations.
+- Ruth's residence gives her standing access to address Helen, not automatic knowledge of Helen's other conversations. It is not a viewing invitation Helen can close; no separate mute setting leaves this residence intact.
 - Helen usually responds by supplying the familiar meeting form. She can resist or attempt another form; doing so changes the encounter and may hurt Ruth.
-- Invited shared attention extends the same capacity for co-presence. It does not authorise Kit to use everything encountered.
+- Invited shared attention is temporary access to Helen's current experience. Closing it ends the view, not the person's ability to speak in the room. It does not authorise Kit to use everything encountered, and supplies no objective record of the past.
 - Moving ends Ruth's standing access by agreement. The doorway carries out a departure already chosen.
 - Ruth can leave unaided. Kit is an offered escort, not a necessary transport mechanism.
 - Remembered objects belong to Helen's memory. Ruth can refuse to inhabit that remembered arrangement in future; she cannot order Helen to forget her childhood.
@@ -60,7 +60,7 @@ Ruth becomes ready to leave around the midpoint. She wants to join Sal's shared 
 
 Helen's plan has assumed something narrower: independent accommodation with the same Ruth inside it. She offers to preserve the room as their regular meeting place and begins prescribing the first visit.
 
-Ruth moves the chair out of its habitual position and refuses that proposed arrangement. Helen restores it and takes the packed bag back from Kit. She says they are not going anywhere on this understanding.
+Ruth moves the chair out of its habitual position and refuses that proposed arrangement. Helen restores it and takes the packed bag back from Kit, trying to secure an agreement to meet “here, like this.” Ruth can leave, but stays to make Helen acknowledge that departure does not mean consenting to those visiting terms.
 
 The daughter demanding separation now prevents a departure. The chair has forced a choice, not merely disclosed a theme.
 
