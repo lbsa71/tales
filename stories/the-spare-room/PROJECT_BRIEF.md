@@ -77,4 +77,4 @@ The first agreed step consisted of:
 4. an early dialogue sample before the audience fully understands the premise;
 5. a later sample after ordinary family remarks have acquired their literal second meanings.
 
-The first [outline](drafts/outline-v1.md) and [dialogue samples](drafts/dialogue-v1.md) are preserved. Following the [producer's review](editorial/PRODUCER_REVIEW_2026-09-22.md), the current deliverables are a revised causal [OUTLINE.md](OUTLINE.md) and a continuous middle passage in [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md), supported by [TONE_AND_VOICE.md](TONE_AND_VOICE.md). The commission and production constraints above still apply.
+The first [outline](drafts/outline-v1.md) and [dialogue samples](drafts/dialogue-v1.md) are preserved. Following the [producer's review](editorial/PRODUCER_REVIEW_2026-09-22.md), the causal [OUTLINE.md](OUTLINE.md) and middle passage in [EXAMPLE_DRAFT.md](EXAMPLE_DRAFT.md) supported development of the complete first draft in [chapters/](chapters/README.md). The commission and production constraints above still apply.

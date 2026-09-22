@@ -2,6 +2,8 @@
 
 Revision 3 · 22 September 2026
 
+> Historical handoff packet. The commissioned next step described here has since been completed as the first draft in [chapters/](../chapters/README.md).
+
 The sendable files are in the repository's `compiled/the-spare-room/` directory:
 
 - [The Spare Room Writer Packet](../../../compiled/the-spare-room/The_Spare_Room_Writer_Packet.pdf): the reading copy.

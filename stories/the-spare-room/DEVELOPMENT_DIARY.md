@@ -381,3 +381,19 @@ The other concerns are retained as drafting tests: whether Kit's violation takes
 The revision 2 [outline](drafts/outline-v2.md) and [pages](drafts/dialogue-v2.md) were preserved. Revision 3 is the current handoff. The [writer brief](handoff/WRITER_BRIEF.md) distinguishes protected constraints from replaceable creative choices, discloses the gaps between excerpts, and requests a complete first draft once commission terms are agreed. A [cover note](handoff/COVER_NOTE.md) and [package guide](handoff/README.md) support sending.
 
 The reading packet combines the brief, current outline, retained opening and revised middle. The source archive preserves supporting notes and development history. No material has been sent to a writer, no commercial terms have been agreed, and no reading or runtime claim has been added.
+
+---
+
+## 15. Complete first draft and two critique passes
+
+**Drafted and reviewed: 2026-09-22.**
+
+The writer packet was executed as a continuous nine-movement manuscript in [chapters/](chapters/README.md). The retained opening and revision 3 middle were integrated. The four outlined final movements were written through Ruth's departure and Helen's choice to accompany Kit as far as Neri's household door.
+
+The existing *Assess the RfP* review session read the manuscript twice. Its first pass accepted the structure and identified four manuscript problems: Kit briefly aimed the private memory at Ruth after Ruth had already chosen to leave; Helen's physical states were not continuous into the final request; later dialogue too often diagnosed the play; and the opening repeated its packing and waiting negotiations. It also asked for more particular life for Kit and a less procedural departure.
+
+The revision directed Kit's breach at Helen's withheld bag, established Helen's expansive mode after Ruth leaves, compressed repeated bargaining, replaced diagnoses with disputed particulars, and gave Kit a missed contribution involving the crust of Neri's first loaf. Ruth and Helen now state the consequence of moving briefly, after which the sleeve and exit carry the scene.
+
+The second pass found the script ready for a table-read checkpoint and identified one remaining prop-continuity error, which was corrected. The review and revision record is preserved in [editorial/FIRST_DRAFT_REVIEW_2026-09-22.md](editorial/FIRST_DRAFT_REVIEW_2026-09-22.md).
+
+This completes the requested first draft, not the performance process. Runtime, the readability of Helen's modes, the silent receipt of shared perception and the effect of played pauses remain to be established with actors.
