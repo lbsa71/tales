@@ -1,0 +1,434 @@
+{
+  "title": "Gästrummet — 010-a3-02, A3.2 – Stolen och väskan",
+  "chunk_id": "010-a3-02",
+  "section": "A3",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 235,
+    "end_spoken_index": 270,
+    "expected_spoken_lines": 36
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 235,
+      "source_line": 559,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Allt kommer att finnas kvar. Dina saker. Du kan komma och sitta här när du –"
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD: En stol skrapar.]",
+      "after_source_index": 235,
+      "source_line": 561,
+      "section": "A3"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut lyfter kappan från stolen för att bära den.]",
+      "after_source_index": 235,
+      "source_line": 563,
+      "section": "A3"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 236,
+      "source_line": 565,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Låt den stå."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 237,
+      "source_line": 567,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Den står i vägen."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 238,
+      "source_line": 569,
+      "section": "A3",
+      "speaker": "BERÄTTARE",
+      "text": "Rut har flyttat sin stol från bordet. Helena ställer tillbaka den.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 239,
+      "source_line": 571,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Så. Nu kommer du förbi."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 240,
+      "source_line": 573,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Den där stolen gjorde jag mig av med."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 241,
+      "source_line": 575,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Du lånade ut den till kvinnan på nedervåningen."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 242,
+      "source_line": 577,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Jag gav den till henne. Jag fick ont på baksidan av benen av den. Hon var kortare."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 243,
+      "source_line": 579,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Du satt där varje kväll."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 244,
+      "source_line": 581,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Ett tag. Sedan köpte jag en annan. Du tyckte inte om färgen."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 245,
+      "source_line": 583,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Det minns jag inte."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 246,
+      "source_line": 585,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Nähä. Den här har du i alla fall kommit ihåg väldigt fint. Min hade en spricka längs sidan."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena känner längs stolens sida.]",
+      "after_source_index": 246,
+      "source_line": 587,
+      "section": "A3"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 247,
+      "source_line": 589,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Jag minns dig här."
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD: Rut flyttar undan stolen igen.]",
+      "after_source_index": 247,
+      "source_line": 591,
+      "section": "A3"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 248,
+      "source_line": 593,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Ställ tillbaka den när jag har gått, om du vill. Jag kommer att bli sen."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 249,
+      "source_line": 595,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Vänta."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 250,
+      "source_line": 597,
+      "section": "A3",
+      "speaker": "BERÄTTARE",
+      "text": "Helena tar väskan från Kim. Hon ställer den bakom sin egen stol.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 251,
+      "source_line": 599,
+      "section": "A3",
+      "speaker": "KIM",
+      "text": "Vad har vi glömt?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 252,
+      "source_line": 601,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Ingenting. Vänta bara lite."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 253,
+      "source_line": 603,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Helena. Ge tillbaka den.",
+      "tags": "[firm]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 254,
+      "source_line": 605,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Du får göra vad du vill hos Sal. Naturligtvis. Men när vi träffas –"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 255,
+      "source_line": 607,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Vad?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 256,
+      "source_line": 609,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Jag vill inte komma dit och behöva fråga vilken av dem som är du."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut tittar ner på sin kappa.]",
+      "after_source_index": 256,
+      "source_line": 611,
+      "section": "A3"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 257,
+      "source_line": 613,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Du sa själv att du inte visste vem du pratade med."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 258,
+      "source_line": 615,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Jag hittade Sal."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 259,
+      "source_line": 617,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Till slut."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 260,
+      "source_line": 619,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Hon hittade mig. Hon kom och ställde sig bredvid mig för att jag såg vilsen ut. Jag var vilsen. Det var snällt av henne."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 261,
+      "source_line": 621,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Så du kommer tillbaka hit så här. Det är allt jag ber om."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 262,
+      "source_line": 623,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Jag vet inte än. Sal kan vara en hel rad människor som rör sig. Jag har aldrig sett något liknande. Jag vet inte ens var jag skulle börja."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 263,
+      "source_line": 625,
+      "section": "A3",
+      "speaker": "KIM",
+      "text": "Hon ska visa dig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 264,
+      "source_line": 627,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Ja."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 265,
+      "source_line": 629,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Och om du tycker om det?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 266,
+      "source_line": 631,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Då vill jag göra det igen."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena lyfter väskan och håller den mot benet.]",
+      "after_source_index": 266,
+      "source_line": 633,
+      "section": "A3"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 267,
+      "source_line": 635,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Du kan behålla den om du vill. Det ligger bara en halsduk i den. Jag vill att du slutar planera hur jag ska komma på besök innan jag ens har gått.",
+      "tags": "[firm]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 268,
+      "source_line": 637,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Vi måste ha något att planera."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 269,
+      "source_line": 639,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Inte än."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 270,
+      "source_line": 641,
+      "section": "A3",
+      "speaker": "BERÄTTARE",
+      "text": "Helena räcker fram väskan, men hejdar sig. Rut tar det ena handtaget. Helena behåller det andra. Ingen drar.",
+      "tags": "[calm, conversational]"
+    }
+  ],
+  "continuity": {
+    "previous_text": "Låt mig komma dit först.",
+    "future_text": "Kommer du att förvänta dig att jag gör det här för dig?"
+  }
+}

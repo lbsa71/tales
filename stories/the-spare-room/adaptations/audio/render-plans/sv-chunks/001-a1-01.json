@@ -1,0 +1,234 @@
+{
+  "title": "Gästrummet — 001-a1-01, A1.1 – Godkänt öppningsprov",
+  "chunk_id": "001-a1-01",
+  "section": "A1",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 1,
+    "end_spoken_index": 17,
+    "expected_spoken_lines": 17
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[LJUD: En dragkedja öppnas. Tygprassel, sedan en mugg som ställs på bordet.]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "tags": "[dry, measured]",
+      "text": "Är den där till mina saker?",
+      "source_index": 1
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "KIM",
+      "tags": "[matter-of-fact]",
+      "text": "Den är torr.",
+      "source_index": 2
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "tags": "[slightly defensive]",
+      "text": "Jag frågade bara.",
+      "source_index": 3
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "HELENA",
+      "tags": "[brisk, practical]",
+      "text": "Det är knappt någonting som ska med. Mamma. Armen.",
+      "source_index": 4
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "speaker": "BERÄTTARE",
+      "tags": "[calm, conversational]",
+      "text": "Helena håller en kappa öppen bakom Ruts stol. Rut sträcker sig förbi ärmen efter sina glasögon. Kim har tagit med en simväska.",
+      "source_index": 5
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "KIM",
+      "tags": "[helpful]",
+      "text": "Jag kan hämta en annan väska.",
+      "source_index": 6
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "HELENA",
+      "tags": "[restrained impatience]",
+      "text": "Snälla, gå inte och hämta något mer. Vi har allt.",
+      "source_index": 7
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "tags": "[dryly]",
+      "text": "Har vi det?",
+      "source_index": 8
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut putsar glasögonen. Helena fortsätter hålla upp kappan tills det blir för ansträngande.]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "HELENA",
+      "tags": "[strained]",
+      "text": "Jag får kramp.",
+      "source_index": 9
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "tags": "[matter-of-fact]",
+      "text": "Lägg ner den då.",
+      "source_index": 10
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena lägger kappan över Ruts stol.]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "KIM",
+      "tags": "[questioning]",
+      "text": "Den blå muggen?",
+      "source_index": 11
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "text": "Det är te i den.",
+      "source_index": 12
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "HELENA",
+      "tags": "[quickly]",
+      "text": "Jag tar det.",
+      "source_index": 13
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena dricker.]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "tags": "[deadpan]",
+      "text": "Det har stått där sen i morse.",
+      "source_index": 14
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena sväljer. Kim skrattar. Nytt te hälls upp.]"
+    },
+    {
+      "kind": "reaction",
+      "speaker": "HELENA",
+      "tags": "[swallows]",
+      "text": "Hm."
+    },
+    {
+      "kind": "reaction",
+      "speaker": "KIM",
+      "tags": "[chuckles]",
+      "text": "Ha!"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "text": "Jag tänkte göra nytt.",
+      "source_index": 15
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "HELENA",
+      "tags": "[brisk]",
+      "text": "Jag vet. Kim, den tunna halsduken. Hon vill ha den.",
+      "source_index": 16
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim lägger halsduken i väskan.]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "tags": "[firmly]",
+      "text": "Jag vill ha den om jag går.",
+      "source_index": 17
+    }
+  ],
+  "continuity": {
+    "previous_text": "",
+    "future_text": "Vi sa idag."
+  },
+  "reuse_approved": true
+}

@@ -1,0 +1,513 @@
+{
+  "title": "Gästrummet — 019-a7-01, A7.1 – Till dörren",
+  "chunk_id": "019-a7-01",
+  "section": "A7",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 492,
+    "end_spoken_index": 529,
+    "expected_spoken_lines": 38
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[LJUD: Helena ställer Ruts mugg bredvid termosen.]",
+      "after_source_index": 491,
+      "source_line": 1193,
+      "section": "A7"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 492,
+      "source_line": 1195,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Vill du att jag går?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 493,
+      "source_line": 1197,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "Jag vet inte."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim väntar.]",
+      "after_source_index": 493,
+      "source_line": 1199,
+      "section": "A7"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 494,
+      "source_line": 1201,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Är du kvar där? Vid vattnet?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 495,
+      "source_line": 1203,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "Ja. De har fått loss båten."
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD H4: HELENAS vatten, mycket svagt. Varken Kim eller Rut delar upplevelsen. Den här sista glimten kan ligga kvar svagt under samtalet fram till den sista anvisningen, utan att skymma rummet.]",
+      "after_source_index": 495,
+      "source_line": 1205,
+      "section": "A7"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 496,
+      "source_line": 1207,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Jag kan inte se det."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 497,
+      "source_line": 1209,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "Jag vet. Hur gick det med ditt bröd?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 498,
+      "source_line": 1211,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "De bröt brödet. Neri lät någon annan bränna skorpan."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 499,
+      "source_line": 1213,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "Gjorde hen det ordentligt?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 500,
+      "source_line": 1215,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Nej. Längs hela ena sidan. Den biten gick inte att äta."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim är nära att le.]",
+      "after_source_index": 500,
+      "source_line": 1217,
+      "section": "A7"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 501,
+      "source_line": 1219,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Jag övade. Neri hittade hemska små bitar rostat bröd överallt. En gång lade hen dem runt en växt. Som ett staket.",
+      "tags": "[conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 502,
+      "source_line": 1221,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "Det hade jag velat se."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 503,
+      "source_line": 1223,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Ja."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena väntar.]",
+      "after_source_index": 503,
+      "source_line": 1225,
+      "section": "A7"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 504,
+      "source_line": 1227,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "De stod tillsammans efteråt. Neri lät mig se en liten stund. Alla hade någonstans att stå. Min plats var tom."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 505,
+      "source_line": 1229,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "De sparade en plats åt dig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 506,
+      "source_line": 1231,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "De sa att de skulle det. Jag hade bara inte tänkt mig att jag skulle se den utifrån."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Ge Kim tid att bestämma sig för att fråga.]",
+      "after_source_index": 506,
+      "source_line": 1233,
+      "section": "A7"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 507,
+      "source_line": 1235,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Vill du följa med? Ändå?",
+      "tags": "[hesitant]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 508,
+      "source_line": 1237,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "Jag öppnar inte vattnet igen.",
+      "tags": "[firm]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 509,
+      "source_line": 1239,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Det var inte det jag bad om."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 510,
+      "source_line": 1241,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "Okej."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 511,
+      "source_line": 1243,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Jag kan säga att du är trött. Du behöver inte göra något. Jag borde inte ha bett dig ta med något. De var intresserade och jag rycktes med."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 512,
+      "source_line": 1245,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "Jag vet inte om jag orkar träffa alla de människorna ikväll."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 513,
+      "source_line": 1247,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Okej."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 514,
+      "source_line": 1249,
+      "section": "A7",
+      "speaker": "BERÄTTARE",
+      "text": "Kim går till ingången. Helena stannar vid bordet.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim kan gå. Låt hen komma fram innan Helena ropar.]",
+      "after_source_index": 514,
+      "source_line": 1251,
+      "section": "A7"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 515,
+      "source_line": 1253,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "Kim.",
+      "tags": "[conversational]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim stannar.]",
+      "after_source_index": 515,
+      "source_line": 1255,
+      "section": "A7"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 516,
+      "source_line": 1257,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "Jag vill inte vara ensam härinne än.",
+      "tags": "[gentle]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 517,
+      "source_line": 1259,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Du kan gå med mig. Du behöver inte följa med in."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 518,
+      "source_line": 1261,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "Till deras dörr?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 519,
+      "source_line": 1263,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Ja."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 520,
+      "source_line": 1265,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "Och du ropar inte in att jag har kommit."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 521,
+      "source_line": 1267,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Nej."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena väntar.]",
+      "after_source_index": 521,
+      "source_line": 1269,
+      "section": "A7"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 522,
+      "source_line": 1271,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Jag ska inte."
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD: Helena lyfter sin mugg och lämnar den på bordet. H4 ligger kvar; ingen förändring av tillgången.]",
+      "after_source_index": 522,
+      "source_line": 1273,
+      "section": "A7"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 523,
+      "source_line": 1275,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Kan du lägga det där åt sidan medan vi går?",
+      "tags": "[hesitant]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena svarar inte genast och vänder sig inte heller bort från det hon gör i hamnen.]",
+      "after_source_index": 523,
+      "source_line": 1277,
+      "section": "A7"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 524,
+      "source_line": 1279,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Förlåt. Du måste inte. Jag kan gå bredvid dig."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 525,
+      "source_line": 1281,
+      "section": "A7",
+      "speaker": "BERÄTTARE",
+      "text": "Kim sträcker fram en hand. Helena har inte tagit den. Kim börjar sänka den.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Ge Helena tid att titta tillbaka en gång till.]",
+      "after_source_index": 525,
+      "source_line": 1283,
+      "section": "A7"
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 526,
+      "source_line": 1285,
+      "section": "A7",
+      "speaker": "BERÄTTARE",
+      "text": "Helena vänder sig från platsen hon har tittat på. Hon går runt bordet till Kim och tar hens hand.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD: H4 tonar undan när Helena väljer att lägga aktiviteten åt sidan. Ingen klang eller effekt för att släppa taget; ingen inbjudan öppnas på nytt.]",
+      "after_source_index": 526,
+      "source_line": 1287,
+      "section": "A7"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 527,
+      "source_line": 1289,
+      "section": "A7",
+      "speaker": "HELENA",
+      "text": "Till dörren."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 528,
+      "source_line": 1291,
+      "section": "A7",
+      "speaker": "KIM",
+      "text": "Ja."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 529,
+      "source_line": 1293,
+      "section": "A7",
+      "speaker": "BERÄTTARE",
+      "text": "Kim drar inte. Helena tar det första steget. De går ut tillsammans. Stolen står fortfarande på fel plats.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD: Deras vanliga steg. Låt det tomma rummet vara kvar en kort stund, avsluta sedan.]",
+      "after_source_index": 529,
+      "source_line": 1295,
+      "section": "A7"
+    }
+  ],
+  "continuity": {
+    "previous_text": "Ja.",
+    "future_text": ""
+  }
+}

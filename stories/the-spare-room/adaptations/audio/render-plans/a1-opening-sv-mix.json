@@ -1,0 +1,273 @@
+{
+  "title": "Gästrummet – svenskt röst- och ljudprov, början av A1",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "section_anchor": "## A1 — Väskan",
+    "end_anchor": "**RUT:** Jag vill ha den om jag går.",
+    "expected_spoken_lines": 17
+  },
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[LJUD: En dragkedja öppnas. Tygprassel, sedan en mugg som ställs på bordet.]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "tags": "[dry, measured]",
+      "text": "Är den där till mina saker?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "KIM",
+      "tags": "[matter-of-fact]",
+      "text": "Den är torr."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "tags": "[slightly defensive]",
+      "text": "Jag frågade bara."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "HELENA",
+      "tags": "[brisk, practical]",
+      "text": "Det är knappt någonting som ska med. Mamma. Armen."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "speaker": "BERÄTTARE",
+      "tags": "[calm, conversational]",
+      "text": "Helena håller en kappa öppen bakom Ruts stol. Rut sträcker sig förbi ärmen efter sina glasögon. Kim har tagit med en simväska."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "KIM",
+      "tags": "[helpful]",
+      "text": "Jag kan hämta en annan väska."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "HELENA",
+      "tags": "[restrained impatience]",
+      "text": "Snälla, gå inte och hämta något mer. Vi har allt."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "tags": "[dryly]",
+      "text": "Har vi det?"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut putsar glasögonen. Helena fortsätter hålla upp kappan tills det blir för ansträngande.]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "HELENA",
+      "tags": "[strained]",
+      "text": "Jag får kramp."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "tags": "[matter-of-fact]",
+      "text": "Lägg ner den då."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena lägger kappan över Ruts stol.]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "KIM",
+      "tags": "[questioning]",
+      "text": "Den blå muggen?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "text": "Det är te i den."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "HELENA",
+      "tags": "[quickly]",
+      "text": "Jag tar det."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena dricker.]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "tags": "[deadpan]",
+      "text": "Det har stått där sen i morse."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena sväljer. Kim skrattar. Nytt te hälls upp.]"
+    },
+    {
+      "kind": "reaction",
+      "speaker": "HELENA",
+      "tags": "[swallows]",
+      "text": "Hm."
+    },
+    {
+      "kind": "reaction",
+      "speaker": "KIM",
+      "tags": "[chuckles]",
+      "text": "Ha!"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "text": "Jag tänkte göra nytt."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "HELENA",
+      "tags": "[brisk]",
+      "text": "Jag vet. Kim, den tunna halsduken. Hon vill ha den."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim lägger halsduken i väskan.]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "speaker": "RUT",
+      "tags": "[firmly]",
+      "text": "Jag vill ha den om jag går."
+    }
+  ],
+  "effects": [
+    {
+      "id": "01-bag-mug",
+      "prompt": "Close dry radio-drama foley in a quiet room: a fabric bag zipper opens, soft cloth shifts, then a ceramic mug is gently set on a wooden table. No voices, no music, no ambience.",
+      "duration_seconds": 2,
+      "start_seconds": 0,
+      "gain_db": -12,
+      "prompt_influence": 0.75,
+      "existing_audio": "dist/stories/the-spare-room/adaptations/audio/en/a1-opening-test/effects/01-bag-mug.mp3"
+    },
+    {
+      "id": "02-glasses-cloth",
+      "prompt": "Close subtle foley: a soft cloth rubs and polishes a pair of eyeglasses by hand. Quiet interior, no voices, no music.",
+      "duration_seconds": 1,
+      "start_seconds": 32.03,
+      "gain_db": -18,
+      "prompt_influence": 0.75,
+      "existing_audio": "dist/stories/the-spare-room/adaptations/audio/en/a1-opening-test/effects/02-glasses-cloth.mp3"
+    },
+    {
+      "id": "03-coat-chair",
+      "prompt": "Close dry foley: a wool coat is laid over the back of a wooden chair, one soft fabric rustle and a tiny chair creak. No voices, no music.",
+      "duration_seconds": 1,
+      "start_seconds": 35.92,
+      "gain_db": -17,
+      "prompt_influence": 0.75,
+      "existing_audio": "dist/stories/the-spare-room/adaptations/audio/en/a1-opening-test/effects/03-coat-chair.mp3"
+    },
+    {
+      "id": "04-sip-swallow",
+      "prompt": "Very subtle close foley: one small sip of cold tea from a ceramic mug followed by a restrained swallow. No voice, no music, no ambience.",
+      "duration_seconds": 1,
+      "start_seconds": 41.4,
+      "gain_db": -20,
+      "prompt_influence": 0.7,
+      "existing_audio": "dist/stories/the-spare-room/adaptations/audio/en/a1-opening-test/effects/04-sip-swallow.mp3"
+    },
+    {
+      "id": "05-pour-tea",
+      "prompt": "Close realistic foley: fresh tea is poured from a small teapot into a ceramic mug for one second. Quiet room, no voices, no music.",
+      "duration_seconds": 1,
+      "start_seconds": 46.85,
+      "gain_db": -14,
+      "prompt_influence": 0.8,
+      "existing_audio": "dist/stories/the-spare-room/adaptations/audio/en/a1-opening-test/effects/05-pour-tea.mp3"
+    },
+    {
+      "id": "06-scarf-bag",
+      "prompt": "Close soft foley: a light fabric scarf is folded once and placed into an open cloth bag. Quiet interior, no voices, no music.",
+      "duration_seconds": 1,
+      "start_seconds": 54.38,
+      "gain_db": -18,
+      "prompt_influence": 0.75,
+      "existing_audio": "dist/stories/the-spare-room/adaptations/audio/en/a1-opening-test/effects/06-scarf-bag.mp3"
+    }
+  ],
+  "mix_notes": {
+    "selected_dialogue": "dist/stories/the-spare-room/adaptations/audio/sv/a1-opening-test/sanna-eva/a1-opening-test.wav",
+    "lead_in_seconds": 2.2,
+    "tail_seconds": 0.5,
+    "timing_reference": "sanna-eva/qa-transcript.json; tiderna avser mix med 2,2 sekunders förspel",
+    "effects_reused_from": "English A1 opening, same physical actions; retimed for Swedish performance",
+    "stage_effects_added_to_dialogue": false
+  }
+}

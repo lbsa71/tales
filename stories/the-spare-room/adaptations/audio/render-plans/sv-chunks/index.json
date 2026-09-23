@@ -1,0 +1,179 @@
+{
+  "source": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+  "source_sha256": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "spoken_turns": 529,
+  "chunks": [
+    {
+      "id": "001-a1-01",
+      "section": "A1",
+      "start": 1,
+      "end": 17,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/001-a1-01.json",
+      "characters": 768,
+      "reused": true
+    },
+    {
+      "id": "002-a1-02",
+      "section": "A1",
+      "start": 18,
+      "end": 54,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/002-a1-02.json",
+      "characters": 1634,
+      "reused": false
+    },
+    {
+      "id": "003-a1-03",
+      "section": "A1",
+      "start": 55,
+      "end": 83,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/003-a1-03.json",
+      "characters": 1406,
+      "reused": false
+    },
+    {
+      "id": "004-a1-04",
+      "section": "A1",
+      "start": 84,
+      "end": 105,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/004-a1-04.json",
+      "characters": 1315,
+      "reused": false
+    },
+    {
+      "id": "005-a2-01",
+      "section": "A2",
+      "start": 106,
+      "end": 140,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/005-a2-01.json",
+      "characters": 1795,
+      "reused": false
+    },
+    {
+      "id": "006-a2-02",
+      "section": "A2",
+      "start": 141,
+      "end": 164,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/006-a2-02.json",
+      "characters": 1325,
+      "reused": false
+    },
+    {
+      "id": "007-a2-03",
+      "section": "A2",
+      "start": 165,
+      "end": 179,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/007-a2-03.json",
+      "characters": 923,
+      "reused": false
+    },
+    {
+      "id": "008-a2-04",
+      "section": "A2",
+      "start": 180,
+      "end": 211,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/008-a2-04.json",
+      "characters": 1249,
+      "reused": false
+    },
+    {
+      "id": "009-a3-01",
+      "section": "A3",
+      "start": 212,
+      "end": 234,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/009-a3-01.json",
+      "characters": 1324,
+      "reused": false
+    },
+    {
+      "id": "010-a3-02",
+      "section": "A3",
+      "start": 235,
+      "end": 270,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/010-a3-02.json",
+      "characters": 1754,
+      "reused": false
+    },
+    {
+      "id": "011-a4-01",
+      "section": "A4",
+      "start": 271,
+      "end": 296,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/011-a4-01.json",
+      "characters": 1209,
+      "reused": false
+    },
+    {
+      "id": "012-a4-02",
+      "section": "A4",
+      "start": 297,
+      "end": 341,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/012-a4-02.json",
+      "characters": 1800,
+      "reused": false
+    },
+    {
+      "id": "013-a5-01",
+      "section": "A5",
+      "start": 342,
+      "end": 358,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/013-a5-01.json",
+      "characters": 1301,
+      "reused": false
+    },
+    {
+      "id": "014-a5-02",
+      "section": "A5",
+      "start": 359,
+      "end": 375,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/014-a5-02.json",
+      "characters": 904,
+      "reused": false
+    },
+    {
+      "id": "015-a5-03",
+      "section": "A5",
+      "start": 376,
+      "end": 392,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/015-a5-03.json",
+      "characters": 1363,
+      "reused": false
+    },
+    {
+      "id": "016-a5-04",
+      "section": "A5",
+      "start": 393,
+      "end": 434,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/016-a5-04.json",
+      "characters": 1731,
+      "reused": false
+    },
+    {
+      "id": "017-a6-01",
+      "section": "A6",
+      "start": 435,
+      "end": 464,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/017-a6-01.json",
+      "characters": 1064,
+      "reused": false
+    },
+    {
+      "id": "018-a6-02",
+      "section": "A6",
+      "start": 465,
+      "end": 491,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/018-a6-02.json",
+      "characters": 1123,
+      "reused": false
+    },
+    {
+      "id": "019-a7-01",
+      "section": "A7",
+      "start": 492,
+      "end": 529,
+      "plan": "stories/the-spare-room/adaptations/audio/render-plans/sv-chunks/019-a7-01.json",
+      "characters": 1683,
+      "reused": false
+    }
+  ],
+  "new_api_characters": 24903
+}

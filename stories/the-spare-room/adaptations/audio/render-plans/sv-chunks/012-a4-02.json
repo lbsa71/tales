@@ -1,0 +1,567 @@
+{
+  "title": "Gästrummet — 012-a4-02, A4.2 – Överträdelsen",
+  "chunk_id": "012-a4-02",
+  "section": "A4",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 297,
+    "end_spoken_index": 341,
+    "expected_spoken_lines": 45
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena skrattar till. Rut är nära att skratta med. Inget återblicksljud, inga röster ur minnet eller förstärkta andetag. Kim får del av ett fragment av Helenas minne i nuet genom den redan öppna inbjudan; hen har inte letat efter det. Låt det gå en stund innan hen upptäcker det.]",
+      "after_source_index": 296,
+      "source_line": 699,
+      "section": "A4"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 297,
+      "source_line": 701,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Du var på golvet.",
+      "tags": "[surprised]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 298,
+      "source_line": 703,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Vad?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 299,
+      "source_line": 705,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "När hon bad dig. Hon var på golvet. Hon bad dig att andas så att det hördes."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 300,
+      "source_line": 707,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Vem har berättat det för dig?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 301,
+      "source_line": 709,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Mamma bara –"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 302,
+      "source_line": 711,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Jag sa ingenting."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 303,
+      "source_line": 713,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Men du var där igen. Jag såg det. Du var rädd då. Du behöver inte fortsätta med det här nu. Ge henne väskan."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 304,
+      "source_line": 715,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Sluta.",
+      "tags": "[firm]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 305,
+      "source_line": 717,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Hon är redo. Du ville att hon skulle gå och nu –"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 306,
+      "source_line": 719,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Du vet inte vad jag bad henne om efteråt."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 307,
+      "source_line": 721,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Jag försökte bara –"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 308,
+      "source_line": 723,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Du får inte titta med mig längre.",
+      "tags": "[firm]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kims inbjudan stängs. Helena har kvar sin hamn; Rut är fortfarande inte inbjuden. Ingen ljudförändring markerar att tillgången dras tillbaka.]",
+      "after_source_index": 308,
+      "source_line": 725,
+      "section": "A4"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 309,
+      "source_line": 727,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Vattnet är borta."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena säger ingenting. Kim väntar på att hon ska svara.]",
+      "after_source_index": 309,
+      "source_line": 729,
+      "section": "A4"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 310,
+      "source_line": 731,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Jag försökte inte hitta det. Det fanns där med vattnet."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 311,
+      "source_line": 733,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Jag ville visa dig det jag hade gjort."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 312,
+      "source_line": 735,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Jag vet."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 313,
+      "source_line": 737,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Och du sa det inför henne."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim rör sig mot Helena; hon reser sig. Kim stannar.]",
+      "after_source_index": 313,
+      "source_line": 739,
+      "section": "A4"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 314,
+      "source_line": 741,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Får jag komma tillbaka? Bara en liten stund. Låt mig –"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 315,
+      "source_line": 743,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Nej."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 316,
+      "source_line": 745,
+      "section": "A4",
+      "speaker": "BERÄTTARE",
+      "text": "Helena går ut. Kim står kvar vid hennes tomma stol.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 317,
+      "source_line": 747,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Mamma?"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Inget svar.]",
+      "after_source_index": 317,
+      "source_line": 749,
+      "section": "A4"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 318,
+      "source_line": 751,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Snälla."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Inget svar. Rut ropar med exakt samma vanliga röststyrka som i A1.]",
+      "after_source_index": 318,
+      "source_line": 753,
+      "section": "A4"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 319,
+      "source_line": 755,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Helena.",
+      "tags": "[conversational]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[RÖST: Helena, utanför, som i A1.]",
+      "after_source_index": 319,
+      "source_line": 757,
+      "section": "A4"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 320,
+      "source_line": 759,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Vad?",
+      "tags": "[conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 321,
+      "source_line": 761,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Ingenting. Förlåt."
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD: Helena kommer tillbaka.]",
+      "after_source_index": 321,
+      "source_line": 763,
+      "section": "A4"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 322,
+      "source_line": 765,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Jag trodde att du somnade den där natten. Till slut."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 323,
+      "source_line": 767,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Det gjorde jag."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 324,
+      "source_line": 769,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Du vaknade hela tiden och frågade om jag –"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 325,
+      "source_line": 771,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Mamma. Snälla."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut tystnar. Kim väntar; ingen av kvinnorna ger hen något att göra.]",
+      "after_source_index": 325,
+      "source_line": 773,
+      "section": "A4"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 326,
+      "source_line": 775,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Vi kan fortfarande hinna dit."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 327,
+      "source_line": 777,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Kim."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 328,
+      "source_line": 779,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Jag menar inte nu. På en gång. Men Neri väntar sig att du kommer."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 329,
+      "source_line": 781,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Vad sa du till Neri?"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim svarar inte.]",
+      "after_source_index": 329,
+      "source_line": 783,
+      "section": "A4"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 330,
+      "source_line": 785,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Du sa att jag skulle komma."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 331,
+      "source_line": 787,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Jag trodde att du skulle det. Du sa att du skulle försöka."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 332,
+      "source_line": 789,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Ja. Det var det jag sa."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 333,
+      "source_line": 791,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Jag frågade dig. Jag hittade inte bara på det. Du frågade hur Neri mådde och jag började berätta, och Rut ropade och du sa en minut. Jag väntade. Du kom tillbaka och frågade om jag hade ätit. Du hade glömt att jag fortfarande höll på att svara.",
+      "tags": "[earnest]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena börjar svara, men hejdar sig.]",
+      "after_source_index": 333,
+      "source_line": 793,
+      "section": "A4"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 334,
+      "source_line": 795,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Jag vet att jag inte borde ha sagt det där. Jag vet. Men jag bad dig faktiskt att komma."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 335,
+      "source_line": 797,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Det gjorde du. Förlåt att jag bara lämnade dig där."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim börjar röra sig mot henne.]",
+      "after_source_index": 335,
+      "source_line": 799,
+      "section": "A4"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 336,
+      "source_line": 801,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Jag kan inte lova att komma ikväll."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 337,
+      "source_line": 803,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "De har lagat så det räcker till dig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 338,
+      "source_line": 805,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Du måste säga till Neri."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 339,
+      "source_line": 807,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Jag kan säga att vi blir lite sena."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena svarar inte. Låt Kim själv höra sitt förslag.]",
+      "after_source_index": 339,
+      "source_line": 809,
+      "section": "A4"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 340,
+      "source_line": 811,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Jag kommer tillbaka. Jag har inte – Jag kommer tillbaka."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 341,
+      "source_line": 813,
+      "section": "A4",
+      "speaker": "BERÄTTARE",
+      "text": "Kim går. Rut sitter i stolen hon flyttade, med kappan i knät.",
+      "tags": "[calm, conversational]"
+    }
+  ],
+  "continuity": {
+    "previous_text": "Ja. Du fick ett ganska långt svar.",
+    "future_text": "Hen borde inte ha sagt det där."
+  }
+}

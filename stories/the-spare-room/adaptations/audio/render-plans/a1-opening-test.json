@@ -1,0 +1,111 @@
+{
+  "title": "The Spare Room — A1 opening cast and sound test",
+  "model_id": "eleven_v3",
+  "language_code": "en",
+  "seed": 71001,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/SCRIPT.md",
+    "section_anchor": "## A1 — The bag",
+    "end_anchor": "**RUTH:** I want it if I go.",
+    "expected_spoken_lines": 17
+  },
+  "voices": {
+    "RUTH": {
+      "name": "Eleanor – Gracious and Authoritative",
+      "voice_id": "2qQJWjw5XdG80GreshqG",
+      "casting": ["old", "female", "British", "seasoned and commanding"]
+    },
+    "HELEN": {
+      "name": "Lily – Velvety Actress",
+      "voice_id": "pFZP5JQG7iQjIQuC4Bku",
+      "casting": ["middle-aged", "female", "British", "confident"]
+    },
+    "KIT": {
+      "name": "Phoebe – Warm, Refined & Professional",
+      "voice_id": "Rvv3PaL7OEWNGWdvwS62",
+      "casting": ["young adult", "female", "British", "warm and clear"]
+    },
+    "NARRATOR": {
+      "name": "George – Warm, Captivating Storyteller",
+      "voice_id": "JBFqnCBsd6RMkjVDRZzb",
+      "casting": ["middle-aged", "male", "British", "plain and close"]
+    }
+  },
+  "effects": [
+    {
+      "id": "01-bag-mug",
+      "prompt": "Close dry radio-drama foley in a quiet room: a fabric bag zipper opens, soft cloth shifts, then a ceramic mug is gently set on a wooden table. No voices, no music, no ambience.",
+      "duration_seconds": 2.0,
+      "start_seconds": 0.0,
+      "gain_db": -12.0,
+      "prompt_influence": 0.75
+    },
+    {
+      "id": "02-glasses-cloth",
+      "prompt": "Close subtle foley: a soft cloth rubs and polishes a pair of eyeglasses by hand. Quiet interior, no voices, no music.",
+      "duration_seconds": 1.0,
+      "start_seconds": 28.05,
+      "gain_db": -18.0,
+      "prompt_influence": 0.75
+    },
+    {
+      "id": "03-coat-chair",
+      "prompt": "Close dry foley: a wool coat is laid over the back of a wooden chair, one soft fabric rustle and a tiny chair creak. No voices, no music.",
+      "duration_seconds": 1.0,
+      "start_seconds": 31.55,
+      "gain_db": -17.0,
+      "prompt_influence": 0.75
+    },
+    {
+      "id": "04-sip-swallow",
+      "prompt": "Very subtle close foley: one small sip of cold tea from a ceramic mug followed by a restrained swallow. No voice, no music, no ambience.",
+      "duration_seconds": 1.0,
+      "start_seconds": 36.15,
+      "gain_db": -20.0,
+      "prompt_influence": 0.7
+    },
+    {
+      "id": "05-pour-tea",
+      "prompt": "Close realistic foley: fresh tea is poured from a small teapot into a ceramic mug for one second. Quiet room, no voices, no music.",
+      "duration_seconds": 1.0,
+      "start_seconds": 41.65,
+      "gain_db": -14.0,
+      "prompt_influence": 0.8
+    },
+    {
+      "id": "06-scarf-bag",
+      "prompt": "Close soft foley: a light fabric scarf is folded once and placed into an open cloth bag. Quiet interior, no voices, no music.",
+      "duration_seconds": 1.0,
+      "start_seconds": 47.1,
+      "gain_db": -18.0,
+      "prompt_influence": 0.75
+    }
+  ],
+  "items": [
+    {"kind": "comment", "comment": "[SOUND: A zip opens. Cloth, then a mug set on the table.]"},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "RUTH", "tags": "[zipper opens] [cloth rustles] [ceramic mug set on a table] [sharp, controlled]", "text": "Is that for my things?"},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "KIT", "tags": "[young, matter-of-fact]", "text": "It's dry."},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "RUTH", "tags": "[defensive]", "text": "I was only asking."},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "HELEN", "tags": "[practical, hurried]", "text": "There's hardly anything to take. Mum. Your arm."},
+    {"kind": "narration", "source_spoken": true, "speaker": "NARRATOR", "tags": "[plain, close, unhurried]", "text": "Helen holds a coat open behind Ruth's chair. Ruth reaches past the sleeve for her glasses. Kit has brought a swimming bag."},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "KIT", "tags": "[helpful, tentative]", "text": "I can get a different bag."},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "HELEN", "tags": "[firm, trying not to snap]", "text": "Please don't go and get anything else. We have everything."},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "RUTH", "tags": "[dryly]", "text": "Have we?"},
+    {"kind": "comment", "comment": "[PLAY: Ruth cleans her glasses. Helen continues holding the coat until the effort prompts her.]"},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "HELEN", "tags": "[soft cloth rubbing over eyeglasses] [strained]", "text": "I'm getting cramp."},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "RUTH", "tags": "[matter-of-fact]", "text": "Put it down, then."},
+    {"kind": "comment", "comment": "[PLAY: Helen lays the coat over Ruth's chair.]"},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "KIT", "tags": "[coat fabric settles over a chair] [curious]", "text": "The blue mug?"},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "RUTH", "tags": "[flatly]", "text": "There's tea in it."},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "HELEN", "tags": "[decisive]", "text": "I'll have that."},
+    {"kind": "comment", "comment": "[PLAY: Helen drinks.]"},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "RUTH", "tags": "[a small sip from a mug] [watching her]", "text": "It's been there since this morning."},
+    {"kind": "comment", "comment": "[PLAY: Helen swallows. Kit laughs. Fresh tea is poured.]"},
+    {"kind": "reaction", "speaker": "HELEN", "tags": "[swallows hard]", "text": "Hm."},
+    {"kind": "reaction", "speaker": "KIT", "tags": "[laughs softly]", "text": "Ha!"},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "RUTH", "tags": "[tea poured into a ceramic mug] [defensive]", "text": "I was going to make some."},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "HELEN", "tags": "[already moving on]", "text": "I know. Kit, the light scarf. She wants that."},
+    {"kind": "comment", "comment": "[PLAY: Kit puts the scarf into the bag.]"},
+    {"kind": "dialogue", "source_spoken": true, "speaker": "RUTH", "tags": "[scarf fabric placed into an open bag] [correcting]", "text": "I want it if I go."}
+  ]
+}

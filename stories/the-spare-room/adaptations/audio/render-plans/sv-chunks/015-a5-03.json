@@ -1,0 +1,246 @@
+{
+  "title": "Gästrummet — 015-a5-03, A5.3 – Att bli nämnd",
+  "chunk_id": "015-a5-03",
+  "section": "A5",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 376,
+    "end_spoken_index": 392,
+    "expected_spoken_lines": 17
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena ser bort. Rut börjar sträcka fram en hand, men lägger den på kappan igen. Gesten ska inte berättas eller förklaras.]",
+      "after_source_index": 375,
+      "source_line": 899,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 376,
+      "source_line": 901,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "När du lämnade de fyra trodde jag att du skulle gå tillbaka. Inte på en gång. Jag trodde att du skulle sova och sedan gå tillbaka."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 377,
+      "source_line": 903,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag trodde också det, hela tiden."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 378,
+      "source_line": 905,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "De bad dig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 379,
+      "source_line": 907,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Ja. De var väldigt snälla. Det var hemskt. Jag ville att någon av dem skulle vara elak så att jag kunde fortsätta vara arg."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut låter henne fortsätta.]",
+      "after_source_index": 379,
+      "source_line": 909,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 380,
+      "source_line": 911,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Det var ett arbete. Något väldigt litet, egentligen. Det hade tagit mig flera månader. Någon frågade vem som hade gjort det och innan jag hann svara svarade vi allihop. Vi. Så klart vi. Jag spelade med. Jag log. Jag sa inte ett ord förrän vi kom hem, och sedan malde jag på om det i timmar.",
+      "tags": "[conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 381,
+      "source_line": 913,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "De hade hjälpt dig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 382,
+      "source_line": 915,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag vet. Jag hade hjälpt dem. Så hade vi gjort i åttio år. Jag ville ändå att någon skulle säga mitt namn. Jag hatade att jag ville det så mycket."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena väntar innan hon fortsätter.]",
+      "after_source_index": 382,
+      "source_line": 917,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 383,
+      "source_line": 919,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag gick. Jag packade allt jag trodde var mitt. Halvvägs visste jag inte längre. Och sedan första natten – Ja. Du vet."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 384,
+      "source_line": 921,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Jag visste inte det där med stolen."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 385,
+      "source_line": 923,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Nej. Jag trodde att jag bara skulle behöva några nätter."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 386,
+      "source_line": 925,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Du sa aldrig några nätter."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 387,
+      "source_line": 927,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Det visste jag inte då. Jag kunde inte planera. Du frågade vad jag ville ha till frukost och jag kunde inte svara."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 388,
+      "source_line": 929,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Du åt ägg."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 389,
+      "source_line": 931,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Gjorde jag?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 390,
+      "source_line": 933,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Jag vet inte. Jag tror det."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena skrattar lite.]",
+      "after_source_index": 390,
+      "source_line": 935,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 391,
+      "source_line": 937,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Trehundra år. Jag minns fortfarande hur det var att inte veta vad jag skulle äta.",
+      "tags": "[chuckles]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 392,
+      "source_line": 939,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Jag minns den där blusen. Jag gav bort den till slut. Jag borde ha behållit den. Jag klädde i den färgen."
+    }
+  ],
+  "continuity": {
+    "previous_text": "Du behöver inte säga det som om du avslutar ett brev.",
+    "future_text": "Vi bodde nära Louth en gång. Ovanför ett kök. Dennis hade tagit med sitt syskonbarn. Ingen visste va"
+  }
+}

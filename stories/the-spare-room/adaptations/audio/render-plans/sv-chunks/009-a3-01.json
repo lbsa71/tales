@@ -1,0 +1,300 @@
+{
+  "title": "Gästrummet — 009-a3-01, A3.1 – Kakan hos Sal",
+  "chunk_id": "009-a3-01",
+  "section": "A3",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 212,
+    "end_spoken_index": 234,
+    "expected_spoken_lines": 23
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[LJUD: Rut öppnar väskan, packar ner halsduken och drar igen dragkedjan.]",
+      "after_source_index": 211,
+      "source_line": 505,
+      "section": "A3"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut lägger glasögonen i kappfickan. Kappan ligger kvar på hennes stol tills hon flyttar den längre fram.]",
+      "after_source_index": 211,
+      "source_line": 507,
+      "section": "A3"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 212,
+      "source_line": 509,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Din mugg."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 213,
+      "source_line": 511,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Låt den stå. Sal har koppar nu."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 214,
+      "source_line": 513,
+      "section": "A3",
+      "speaker": "KIM",
+      "text": "Har hon köpt koppar?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 215,
+      "source_line": 515,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Några stycken. Jag tog med en kaka och de hade inget att lägga den på. Vi åt den ur mina händer. Det gick bra tills någon ville ha en bit till."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 216,
+      "source_line": 517,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Tog du med en kaka?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 217,
+      "source_line": 519,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Ja. Den var inte särskilt god."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 218,
+      "source_line": 521,
+      "section": "A3",
+      "speaker": "KIM",
+      "text": "Vad för sort?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 219,
+      "source_line": 523,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Den med körsbären. Alla hade sjunkit. Jag skar så försiktigt, och där låg de allihop, i botten, som om jag hade lagt dem där med flit."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 220,
+      "source_line": 525,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Du säger alltid att den är dålig innan någon har smakat."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 221,
+      "source_line": 527,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Den här gången hade jag rätt. Sal tog första biten och blev alldeles tyst. Jag tänkte, kära nån, nu är hon artig. Sedan frågade hon om hon kunde få det jag hade kvar i handen. Smulorna. Så dem fick hon.",
+      "tags": "[conversational]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut minns tyngden i händerna. Låt nästa detalj komma till henne.]",
+      "after_source_index": 221,
+      "source_line": 529,
+      "section": "A3"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 222,
+      "source_line": 531,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Hon hade inte ätit körsbär på länge. Jag vet inte hur länge. Hon gick och hämtade de andra. Jag fick stå där tills alla hade smakat. Jag fick ont i armarna."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 223,
+      "source_line": 533,
+      "section": "A3",
+      "speaker": "KIM",
+      "text": "Sa du att den inte var särskilt god?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 224,
+      "source_line": 535,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Nej. Då hade jag ändrat mig.",
+      "tags": "[warm]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 225,
+      "source_line": 537,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Varför berättade du inte det för mig?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 226,
+      "source_line": 539,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Jag tänkte göra det. Du berättade om det tredje stället. Det med trädgårdarna."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 227,
+      "source_line": 541,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Du sa att du tyckte om trädgårdar."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 228,
+      "source_line": 543,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Det gör jag. Fortfarande. Här, Kim. Nu kan du ta väskan."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 229,
+      "source_line": 545,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Har du kvar vattnet?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 230,
+      "source_line": 547,
+      "section": "A3",
+      "speaker": "KIM",
+      "text": "Lite. Någon försöker nå båten med en pinne."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 231,
+      "source_line": 549,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Hjälp dem inte. Då skjuter de bara ut den längre."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 232,
+      "source_line": 551,
+      "section": "A3",
+      "speaker": "KIM",
+      "text": "Jag tittar bara."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kims inbjudan är öppen genom hela den här delen och minnesbilden i A4.]",
+      "after_source_index": 232,
+      "source_line": 553,
+      "section": "A3"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 233,
+      "source_line": 555,
+      "section": "A3",
+      "speaker": "HELENA",
+      "text": "Jag kan komma och hälsa på dig imorgon. Eller så kan du komma hit."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 234,
+      "source_line": 557,
+      "section": "A3",
+      "speaker": "RUT",
+      "text": "Låt mig komma dit först."
+    }
+  ],
+  "continuity": {
+    "previous_text": "Låt den vara. Det här kan jag göra själv.",
+    "future_text": "Allt kommer att finnas kvar. Dina saker. Du kan komma och sitta här när du –"
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "title": "Gästrummet — 018-a6-02, A6.2 – Ärmen och avskedet",
+  "chunk_id": "018-a6-02",
+  "section": "A6",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 465,
+    "end_spoken_index": 491,
+    "expected_spoken_lines": 27
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena stannar vid bordet.]",
+      "after_source_index": 464,
+      "source_line": 1121,
+      "section": "A6"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 465,
+      "source_line": 1123,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Sal kanske är hemsk att bo med."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 466,
+      "source_line": 1125,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Det kan hon vara. Hon lämnar saker överallt. Jag har sett det. Du behöver inte se så nöjd ut."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena kan inte låta bli att skratta.]",
+      "after_source_index": 466,
+      "source_line": 1127,
+      "section": "A6"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 467,
+      "source_line": 1129,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Jag hade med ordning och reda i tabellen.",
+      "tags": "[chuckles]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 468,
+      "source_line": 1131,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Vilken tabell?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 469,
+      "source_line": 1133,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Den jag gjorde. För att jämföra ställena. Det fanns kolumner. Jag gav trädgårdarna en hel kolumn och då hade du redan varit hos Sal med en kaka."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 470,
+      "source_line": 1135,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "En dålig kaka."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 471,
+      "source_line": 1137,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Jag hade ätit den."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 472,
+      "source_line": 1139,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Det hade du. Du hade sagt att den var helt okej."
+    },
+    {
+      "kind": "reaction",
+      "source_spoken": false,
+      "relative_to_source_index": 472,
+      "speaker": "HELENA",
+      "text": "Ha!",
+      "tags": "[chuckles]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena skrattar igen. Rut väntar tills skrattet tystnar.]",
+      "after_source_index": 472,
+      "source_line": 1141,
+      "section": "A6"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 473,
+      "source_line": 1143,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Jag borde ha berättat det för dig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 474,
+      "source_line": 1145,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Ja."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 475,
+      "source_line": 1147,
+      "section": "A6",
+      "speaker": "BERÄTTARE",
+      "text": "Rut lyfter upp väskan på axeln. Ärmen fastnar under handtaget.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 476,
+      "source_line": 1149,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Vänta. Din ärm."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 477,
+      "source_line": 1151,
+      "section": "A6",
+      "speaker": "BERÄTTARE",
+      "text": "Helena sträcker sig efter ärmslutet. Rut drar undan armen. Helena hejdar sig.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut tittar ner på ärmen som fastnat innan hon väljer vem hon ska be.]",
+      "after_source_index": 477,
+      "source_line": 1153,
+      "section": "A6"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 478,
+      "source_line": 1155,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Kim. Vill du?",
+      "tags": "[gentle]"
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 479,
+      "source_line": 1157,
+      "section": "A6",
+      "speaker": "BERÄTTARE",
+      "text": "Kim lossar ärmen och viker tillbaka ärmslutet. Rut håller sig stilla medan hen gör det.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 480,
+      "source_line": 1159,
+      "section": "A6",
+      "speaker": "KIM",
+      "text": "Så."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 481,
+      "source_line": 1161,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Tack."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim tar ett steg tillbaka. Helena återvänder till bordet. Ingen replik eller musik förklarar avvisandet.]",
+      "after_source_index": 481,
+      "source_line": 1163,
+      "section": "A6"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 482,
+      "source_line": 1165,
+      "section": "A6",
+      "speaker": "KIM",
+      "text": "Väntar de på att du ska ropa ut turerna?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 483,
+      "source_line": 1167,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Inte ikväll. Ikväll ska jag lära mig. Jag sa till Sal att jag skulle vara tyst och lyssna."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Ingen skämtar om det.]",
+      "after_source_index": 483,
+      "source_line": 1169,
+      "section": "A6"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 484,
+      "source_line": 1171,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Berätta för mig. När du vill."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 485,
+      "source_line": 1173,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Jag kanske är usel."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 486,
+      "source_line": 1175,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Berätta ändå."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut tittar tillbaka på stolen hon har flyttat, sedan på Helena.]",
+      "after_source_index": 486,
+      "source_line": 1177,
+      "section": "A6"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 487,
+      "source_line": 1179,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Det finns te kvar."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 488,
+      "source_line": 1181,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Ja."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 489,
+      "source_line": 1183,
+      "section": "A6",
+      "speaker": "BERÄTTARE",
+      "text": "Rut går ut med väskan. Helena tar ett steg efter henne och stannar.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Låt den tid gå som de skulle ha behövt för att säga något mer till varandra. Inget ytterligare svar, inga borttonande andetag eller avskedsmusik. Rummet är som vanligt.]",
+      "after_source_index": 489,
+      "source_line": 1185,
+      "section": "A6"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 490,
+      "source_line": 1187,
+      "section": "A6",
+      "speaker": "KIM",
+      "text": "Har hon gått?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 491,
+      "source_line": 1189,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Ja."
+    }
+  ],
+  "continuity": {
+    "previous_text": "Jag vill gärna hinna dit innan jag tappar modet. Snälla.",
+    "future_text": "Vill du att jag går?"
+  }
+}

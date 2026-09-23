@@ -1,0 +1,314 @@
+{
+  "title": "Gästrummet — 011-a4-01, A4.1 – Löftet",
+  "chunk_id": "011-a4-01",
+  "section": "A4",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 271,
+    "end_spoken_index": 296,
+    "expected_spoken_lines": 26
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Låt dem stå kvar så innan Kim talar.]",
+      "after_source_index": 270,
+      "source_line": 643,
+      "section": "A3"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 271,
+      "source_line": 647,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Kommer du att förvänta dig att jag gör det här för dig?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 272,
+      "source_line": 649,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Naturligtvis inte."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 273,
+      "source_line": 651,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Det förväntade jag mig inte heller."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 274,
+      "source_line": 653,
+      "section": "A4",
+      "speaker": "BERÄTTARE",
+      "text": "Rut släpper taget. Helena behåller väskan.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 275,
+      "source_line": 655,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Varför är hon då kvar här?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 276,
+      "source_line": 657,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Jag bad henne stanna."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 277,
+      "source_line": 659,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Hur länge?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 278,
+      "source_line": 661,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Kim, snälla."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 279,
+      "source_line": 663,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Så länge jag ville."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 280,
+      "source_line": 665,
+      "section": "A4",
+      "speaker": "BERÄTTARE",
+      "text": "Helena sätter sig, med väskan under stolen.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 281,
+      "source_line": 667,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Jag vet vad jag sa."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 282,
+      "source_line": 669,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Du var väldigt tydlig. Det fanns ingenting att missförstå."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 283,
+      "source_line": 671,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Jag har aldrig sagt att du missförstod mig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 284,
+      "source_line": 673,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Du har stått och hållit fram min kappa sen du kom hit. Jag hade inte ens hunnit dricka te. Jag ville dricka en kopp te med dig innan vi gjorde allt det här."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 285,
+      "source_line": 675,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Förlåt."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 286,
+      "source_line": 677,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Jag var på väg någonstans den där kvällen. Det var folk som väntade på mig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 287,
+      "source_line": 679,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "De väntade på ditt svar."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 288,
+      "source_line": 681,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "De hade sparat en plats åt mig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 289,
+      "source_line": 683,
+      "section": "A4",
+      "speaker": "KIM",
+      "text": "Hos Sal?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 290,
+      "source_line": 685,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Nej, vännen. Det här var före Sal. Dansledarna. Vi skulle resa runt tillsammans. Till olika lokaler. Jag hade lagt fram min blus och tagit på mig kappan, och då bad din mamma mig att sätta mig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 291,
+      "source_line": 687,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Du hade burit in maten."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 292,
+      "source_line": 689,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Två kassar. Handtaget gick av på den ena. Potatis över hela hallen."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 293,
+      "source_line": 691,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Två sorter. Jag frågade varför du hade köpt två sorter."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 294,
+      "source_line": 693,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Den ena gick ju inte att ugnssteka."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 295,
+      "source_line": 695,
+      "section": "A4",
+      "speaker": "HELENA",
+      "text": "Jag försökte få dig att fortsätta prata."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 296,
+      "source_line": 697,
+      "section": "A4",
+      "speaker": "RUT",
+      "text": "Ja. Du fick ett ganska långt svar."
+    },
+    {
+      "kind": "reaction",
+      "source_spoken": false,
+      "relative_to_source_index": 296,
+      "speaker": "HELENA",
+      "text": "Ha!",
+      "tags": "[chuckles]"
+    }
+  ],
+  "continuity": {
+    "previous_text": "äcker fram väskan, men hejdar sig. Rut tar det ena handtaget. Helena behåller det andra. Ingen drar.",
+    "future_text": "Du var på golvet."
+  }
+}

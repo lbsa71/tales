@@ -1,0 +1,454 @@
+{
+  "title": "Gästrummet — 005-a2-01, A2.1 – Hamnen öppnas",
+  "chunk_id": "005-a2-01",
+  "section": "A2",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 106,
+    "end_spoken_index": 140,
+    "expected_spoken_lines": 35
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena sätter sig till rätta vid bordet. Hon hinner bli intresserad innan Rut frågar.]",
+      "after_source_index": 105,
+      "source_line": 253,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 106,
+      "source_line": 255,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Vad?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 107,
+      "source_line": 257,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "De grälar fortfarande om var de ska stå."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 108,
+      "source_line": 259,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Hamnen?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 109,
+      "source_line": 261,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Ja. De har haft hela förmiddagen på sig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 110,
+      "source_line": 263,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Får jag se det du ser?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 111,
+      "source_line": 265,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Kom och sätt dig här. Ja. Du får titta."
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD H1: Efter inbjudan hörs lite vatten mot sten. Det är HELENAS upplevelse; Kim delar den nu, Rut gör det inte. Låt rummet höras under ljudet. Kims stol kommer till ro vid bordet.]",
+      "after_source_index": 111,
+      "source_line": 267,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 112,
+      "source_line": 269,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Vänta bara."
+    },
+    {
+      "kind": "reaction",
+      "source_spoken": false,
+      "relative_to_source_index": 112,
+      "speaker": "KIM",
+      "text": "Ah.",
+      "tags": "[gasps]"
+    },
+    {
+      "kind": "reaction",
+      "source_spoken": false,
+      "relative_to_source_index": 112,
+      "speaker": "HELENA",
+      "text": "Ha!",
+      "tags": "[chuckles]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim drar efter andan och drar åt sig fötterna. Helena skrattar.]",
+      "after_source_index": 112,
+      "source_line": 271,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 113,
+      "source_line": 273,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Det är ju iskallt."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 114,
+      "source_line": 275,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Jag sa ju det till dem."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 115,
+      "source_line": 277,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Är du våt om fötterna?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 116,
+      "source_line": 279,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Nej. De känns – Nej, de är torra."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 117,
+      "source_line": 281,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Mina med. Jag hör ingenting av det."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 118,
+      "source_line": 283,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Du kan också få titta, mamma."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 119,
+      "source_line": 285,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Jag tittar på er två först."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 120,
+      "source_line": 287,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Den där lilla båten kommer att slita sig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 121,
+      "source_line": 289,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Den är fastbunden. Någon har lagt en –"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 122,
+      "source_line": 291,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Sko i den."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena har inte sagt ordet eller avslutat meningen.]",
+      "after_source_index": 122,
+      "source_line": 293,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 123,
+      "source_line": 295,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Förlåt. Det bara kom."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 124,
+      "source_line": 297,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Du kan se det utan att tala om det för alla."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 125,
+      "source_line": 299,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Det är en väldigt liten sko."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 126,
+      "source_line": 301,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Då lär den ju inte sänka en båt."
+    },
+    {
+      "kind": "reaction",
+      "source_spoken": false,
+      "relative_to_source_index": 126,
+      "speaker": "KIM",
+      "text": "Ha!",
+      "tags": "[chuckles]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim skrattar. H1 tonar undan under samtalet som följer; inbjudan till Kim är fortfarande öppen.]",
+      "after_source_index": 126,
+      "source_line": 303,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 127,
+      "source_line": 305,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Titta på knuten. Den båten kommer ingenstans."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 128,
+      "source_line": 307,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Vem knöt den?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 129,
+      "source_line": 309,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Ett barn. Jag tror det är samma som igår."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 130,
+      "source_line": 311,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Vad hände igår?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 131,
+      "source_line": 313,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Jag försökte få vattnet att nå båda trapporna samtidigt. Den här sidan och den andra, runt förbi de där hemska husen. De envisas med att säga att det är två hamnar för att de inte vill ha med husen."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 132,
+      "source_line": 315,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Mamma gör vattnet."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 133,
+      "source_line": 317,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "En del av det. De kom ner allihop, väldigt tidigt, och satte sig i trapporna med fötterna precis ovanför vattnet. Och väntade på den här vågen. Det skulle bli väldigt vackert. Alla skulle vänta tillsammans. Jag var rätt nöjd med det.",
+      "tags": "[pleased]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 134,
+      "source_line": 319,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Ja."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 135,
+      "source_line": 321,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Och så hoppade det här barnet i innan vågen hann fram. Ett förfärligt plask. Alla på nedersta trappsteget blev genomblöta. Någon försökte lyfta upp barnet och ramlade också i."
+    },
+    {
+      "kind": "reaction",
+      "source_spoken": false,
+      "relative_to_source_index": 135,
+      "speaker": "KIM",
+      "text": "Ha!",
+      "tags": "[laughs]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim börjar skratta. Helena skrattar med.]",
+      "after_source_index": 135,
+      "source_line": 323,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 136,
+      "source_line": 325,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Kvinnan på andra sidan satt fortfarande där med fötterna utsträckta och väntade på sitt vackra ögonblick. Hon blev ursinnig när de andra började skratta.",
+      "tags": "[chuckles]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 137,
+      "source_line": 327,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Gjorde någon sig illa?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 138,
+      "source_line": 329,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Nej. De blev bara blöta. Jag tyckte mycket bättre om det så. Jag sa det till de andra och nu vill de lägga in ett barn varje gång."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 139,
+      "source_line": 331,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Du kan fråga efter frivilliga."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 140,
+      "source_line": 333,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Åh, säg inte så. De har redan frågat vem som ska ramla omkull. Jag har inte svarat."
+    }
+  ],
+  "continuity": {
+    "previous_text": "Vi kommer ju ingen vart med packningen ändå.",
+    "future_text": "Vill du ha mer?"
+  }
+}

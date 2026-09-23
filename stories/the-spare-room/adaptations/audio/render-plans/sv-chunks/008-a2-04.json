@@ -1,0 +1,426 @@
+{
+  "title": "Gästrummet — 008-a2-04, A2.4 – Vågen och valet",
+  "chunk_id": "008-a2-04",
+  "section": "A2",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 180,
+    "end_spoken_index": 211,
+    "expected_spoken_lines": 32
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[SPEL: De sätter sig till rätta, fortfarande roade. Helena fångar upp det som händer i hamnen igen.]",
+      "after_source_index": 179,
+      "source_line": 423,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 180,
+      "source_line": 425,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Nu är de redo. Kim, vill du se resten?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 181,
+      "source_line": 427,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Ja."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 182,
+      "source_line": 429,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Mamma, nu kommer det jag måste titta på."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 183,
+      "source_line": 431,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Sätt igång."
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD H2: HELENAS annalkande våg, fortfarande delad enbart med Kim. En liten dyning mot sten; inga publikreaktioner. Ge plats åt vågens ankomst, deras gemensamma andetag och skratt, och åt hur den lägger sig. Det här är en aktivitet med ett slut, inte ett oavbrutet havsbrus. Rut dricker sitt te utan att ropa på någon av dem. Skynda inte från hennes tillåtelse till Helenas tack.]",
+      "after_source_index": 183,
+      "source_line": 433,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 184,
+      "source_line": 435,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Nu."
+    },
+    {
+      "kind": "reaction",
+      "source_spoken": false,
+      "relative_to_source_index": 184,
+      "speaker": "HELENA",
+      "text": "Ha!",
+      "tags": "[gasps] [laughs]"
+    },
+    {
+      "kind": "reaction",
+      "source_spoken": false,
+      "relative_to_source_index": 184,
+      "speaker": "KIM",
+      "text": "Ha!",
+      "tags": "[gasps] [laughs]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Båda drar åt sig fötterna och skrattar. Sedan följer de vattnet tills det lägger sig. H2 tonar undan.]",
+      "after_source_index": 184,
+      "source_line": 437,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 185,
+      "source_line": 439,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Båda sidorna. Äntligen.",
+      "tags": "[pleased]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena vänder sig till Rut utan att bli uppmanad.]",
+      "after_source_index": 185,
+      "source_line": 441,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 186,
+      "source_line": 443,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Tack."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 187,
+      "source_line": 445,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Är du färdig?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 188,
+      "source_line": 447,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Ja."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 189,
+      "source_line": 449,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Bra. Tänker du komma tillbaka hit nu?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 190,
+      "source_line": 451,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Om en minut. De försöker få tillbaka skon."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 191,
+      "source_line": 453,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Jag trodde den var fastbunden."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 192,
+      "source_line": 455,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Det är den. Det är det som är problemet. Knuten sitter väldigt bra."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut väntar. Helena märker det.]",
+      "after_source_index": 192,
+      "source_line": 457,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 193,
+      "source_line": 459,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Du kan prata med mig, mamma. Jag hör dig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 194,
+      "source_line": 461,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Jag vet att du hör mig. Du är fortfarande där borta hos dem."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 195,
+      "source_line": 463,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Och här hos dig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 196,
+      "source_line": 465,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Ja. Det säger du hela tiden."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 197,
+      "source_line": 467,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Mamma, du bor i mig. Det här rummet finns i mig. Jag kan inte lämna dig någonstans och komma hem när dagen är slut. Jag måste kunna göra annat medan du är här."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 198,
+      "source_line": 469,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Jag vet var jag bor."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 199,
+      "source_line": 471,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Låt mig då få vara här så här ibland."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 200,
+      "source_line": 473,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Det gjorde jag. Jag avbröt inte."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 201,
+      "source_line": 475,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Nej. Det gjorde du inte. Det fungerade."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 202,
+      "source_line": 477,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Kan du sitta hos mig en stund? Bara du.",
+      "tags": "[gentle]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD: Helena flyttar sin stol till bordet.]",
+      "after_source_index": 202,
+      "source_line": 479,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 203,
+      "source_line": 481,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Vad är det?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 204,
+      "source_line": 483,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Jag tänkte –"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut vrider på muggen. Helena väntar på henne.]",
+      "after_source_index": 204,
+      "source_line": 485,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 205,
+      "source_line": 487,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Jag har glömt det."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 206,
+      "source_line": 489,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Det gör inget."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Ingen av dem kommer på något mer att säga. Ge plats åt en begäran som inte kommer.]",
+      "after_source_index": 206,
+      "source_line": 491,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 207,
+      "source_line": 493,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Sal sa att hon skulle visa mig innan de andra kom. Dansen de dansar. Jag säger hela tiden att jag ska komma på torsdag."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 208,
+      "source_line": 495,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Du kan gå dit på torsdag."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 209,
+      "source_line": 497,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Jag vet. Jag vill gå nu. Kommer jag dit när de redan har börjat så står jag längst bak och låtsas att jag kan den. Det gjorde jag sist.",
+      "tags": "[resolute]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 210,
+      "source_line": 499,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Jag hämtar väskan."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 211,
+      "source_line": 501,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Låt den vara. Det här kan jag göra själv."
+    }
+  ],
+  "continuity": {
+    "previous_text": "Nej. Jag sa tack.",
+    "future_text": "Din mugg."
+  }
+}

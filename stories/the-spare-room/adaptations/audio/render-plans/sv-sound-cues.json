@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "status": "proposed_not_rendered",
+  "title": "Gästrummet — gles ljudläggning för hela A1–A7",
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "sha256": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+    "spoken_turns": 529,
+    "indexing": "One-based global index of paragraphs matching **RUT:**, **HELENA:**, **KIM:** or **BERÄTTARE:**, including narration. Added nonlexical reactions do not increment source indexes."
+  },
+  "schema_notes": {
+    "anchor": "{turn: integer, edge: start|end} addresses the aligned beginning/end of the source speech, after all earlier inserted pauses. An end anchor is before the gap following that turn; the next start anchor is after that gap. Appended actor reactions follow the source-speech end but precede any inserted silence. Never cut a reaction or speech to place a pause. anchor_checks supplies exact source text for validation.",
+    "point_cue": "placement=point uses anchor plus offset_seconds; play the named asset once, without time stretching. The sound may overlap following dialogue at the specified low gain. Opening offset -2.2 is supplied by lead_in_seconds, not clipped.",
+    "interval_cue": "placement=interval plays from start anchor plus start_offset_seconds to end anchor plus end_offset_seconds. Loop the same water asset with crossfades when needed; trim at the end. Never time-stretch speech. The interval includes intervening inserted pauses and reactions.",
+    "gain": "gain_db is attenuation relative to the source file. Preserve the existing six effects' established relative gain convention. For new effects remove only DC and trim silence, peak-normalise to -1 dBFS before cue attenuation. Final loudness and limiting belong to the mix stage.",
+    "fades": "Point fade lengths avoid clicks. Interval fade_in_seconds starts at the interval start. fade_out_seconds ends at the interval end. Optional gain_envelope points give normalised interval position and additional dB attenuation, linearly interpolated; this shapes H2's approach/settling without a new water identity.",
+    "pauses": "minimum_gap_seconds is the minimum TOTAL gap between the end of the stated source turn and the beginning of the next source turn, including existing silence and any appended actor reactions. Insert only any shortfall, at a safe silent seam after all reaction tails; never slice speech or add the target duration on top of an existing gap. Existing longer gaps remain untouched. Zero after421 prohibits adding a hold before Helena's response. Durations serve specific action, not a target runtime.",
+    "performance_events": "Actor reactions belong to the four cast voices, not the sound-effects generator. Place them in the stated gap if the dialogue take does not already contain them. Do not invent lexical dialogue. These instructions do not claim an audio asset has been generated.",
+    "missing_assets": "Assets with existing_path are reusable files. Assets with generation are prompts for missing material only; this manifest makes no API request. Any generated or processed asset must stay under dist."
+  },
+  "mix": {
+    "lead_in_seconds": 2.2,
+    "tail_seconds": 3.5,
+    "channels": 1,
+    "music": false,
+    "room_tone": "Maintain an ordinary, barely audible close-room floor through pauses, including the final tail. Prefer a clean quiet patch from the recorded room/dialogue; no clock, tonal hum or meaningful electronic noise. Do not create a room-to-exterior transition.",
+    "harbour_perspective": "Every H cue is HELENA'S present experience, heard selectively by the audience. It is neither physical room sound nor an access indicator. One centred, quiet water-against-stone identity serves all four cues; the room acoustic and every spoken voice remain unchanged.",
+    "excluded_sounds": [
+      "music or stings",
+      "device, notification, switch, interface or magic effects",
+      "harbour crowds, children, gulls, boats, engines, wind or outdoor panorama",
+      "memories reenacted with voices, potatoes, breathing or flashback sound",
+      "door or threshold effect on any entrance or exit",
+      "special treatment of Helenas replies from outside",
+      "foley for every narrated handle, sleeve, hand, glance or gesture"
+    ],
+    "performance_priority": "Speech and cast distinction remain primary. Foley supports the few concrete actions marked LJUD. Do not add a second long performance pause to repeat an action already described by BERÄTTARE. Sections are not audible breaks."
+  },
+  "assets": {
+    "bag_mug": {
+      "existing_path": "dist/stories/the-spare-room/adaptations/audio/en/a1-opening-test/effects/01-bag-mug.mp3",
+      "duration_seconds": 2.0,
+      "description": "Opening zipper, cloth and one mug placement; use only at the opening."
+    },
+    "glasses_cloth": {
+      "existing_path": "dist/stories/the-spare-room/adaptations/audio/en/a1-opening-test/effects/02-glasses-cloth.mp3",
+      "duration_seconds": 1.0
+    },
+    "coat_chair": {
+      "existing_path": "dist/stories/the-spare-room/adaptations/audio/en/a1-opening-test/effects/03-coat-chair.mp3",
+      "duration_seconds": 1.0
+    },
+    "sip_swallow": {
+      "existing_path": "dist/stories/the-spare-room/adaptations/audio/en/a1-opening-test/effects/04-sip-swallow.mp3",
+      "duration_seconds": 1.0
+    },
+    "pour_tea": {
+      "existing_path": "dist/stories/the-spare-room/adaptations/audio/en/a1-opening-test/effects/05-pour-tea.mp3",
+      "duration_seconds": 1.0
+    },
+    "scarf_bag": {
+      "existing_path": "dist/stories/the-spare-room/adaptations/audio/en/a1-opening-test/effects/06-scarf-bag.mp3",
+      "duration_seconds": 1.0,
+      "description": "Quiet cloth handling; suitable for scarf handling and a soft bag lift without a new zipper sound."
+    },
+    "ordinary_steps": {
+      "generation": {
+        "prompt": "Close dry radio-drama foley in an ordinary quiet room: three or four unhurried soft shoe footsteps on a plain indoor floor, coming to rest. Small natural footfalls, no dramatic heel clicks. No door, no voices, no breath, no music, no outdoor ambience, no echo, no transition or special ending.",
+        "duration_seconds": 2.2,
+        "prompt_influence": 0.8
+      },
+      "description": "Same ordinary acoustic for every exit/return. Never pan or fade to imply a rule of the world."
+    },
+    "chair_scrape": {
+      "generation": {
+        "prompt": "Close dry radio-drama foley: one wooden chair is shifted a short distance across an ordinary indoor floor, a small recognisable scrape and a gentle settling creak. Restrained real room scale. No voices, no music, no door, no outdoor ambience.",
+        "duration_seconds": 1.3,
+        "prompt_influence": 0.8
+      }
+    },
+    "bag_pack_close": {
+      "generation": {
+        "prompt": "Close dry radio-drama foley in a quiet room: an ordinary fabric swimming bag zipper opens, a light scarf is tucked inside with a soft cloth rustle, then the zipper closes. A single short practical action. No mug or clink, no voices, no music, no footsteps, no room transition.",
+        "duration_seconds": 3.0,
+        "prompt_influence": 0.8
+      }
+    },
+    "mug_set_down": {
+      "generation": {
+        "prompt": "Close dry foley: one ceramic tea mug is gently set on a wooden table, a quiet brief dull ceramic tap. Nothing else happens. No pouring, no spoon, no zipper, no voices, no music, no ambience.",
+        "duration_seconds": 0.7,
+        "prompt_influence": 0.8
+      }
+    },
+    "harbour_water_stone": {
+      "generation": {
+        "prompt": "A restrained close isolated wash of water against a small stone step. Soft short ripples gather into a gentle little swell, touch the stone and settle; small variations continue quietly. Intimate and detailed, not an ocean panorama, no large surf. Water against stone only: no people, voices, laughter, gulls, boats, engines, wind, rain, music, electronic sounds or reverberant effect. Even clean recording suitable for a quiet loop.",
+        "duration_seconds": 16.0,
+        "prompt_influence": 0.85
+      },
+      "loop_crossfade_seconds": 0.6,
+      "description": "The same source recording must supply H1, H2, H3 and H4. Loop quietly for longer glimpses; H2's envelope makes a discrete arrival and settling."
+    }
+  },
+  "anchor_checks": {
+    "1": {"speaker": "RUT", "text": "Är den där till mina saker?"},
+    "8": {"speaker": "RUT", "text": "Har vi det?"},
+    "10": {"speaker": "RUT", "text": "Lägg ner den då."},
+    "13": {"speaker": "HELENA", "text": "Jag tar det."},
+    "14": {"speaker": "RUT", "text": "Det har stått där sen i morse."},
+    "16": {"speaker": "HELENA", "text": "Jag vet. Kim, den tunna halsduken. Hon vill ha den."},
+    "41": {"speaker": "RUT", "text": "Jag vill inte att du packar medan jag svarar."},
+    "46": {"speaker": "BERÄTTARE", "text": "Kim går ut. Rut lyfter upp den tomma väskan."},
+    "57": {"speaker": "BERÄTTARE", "text": "Helena går ut samma väg. Rut viker halsduken."},
+    "62": {"speaker": "RUT", "text": "Ja. Gör det."},
+    "70": {"speaker": "RUT", "text": "Jag skulle kunna vara tyst."},
+    "103": {"speaker": "HELENA", "text": "Sätt dig. Ingen har gått med på att gå någonstans."},
+    "111": {"speaker": "HELENA", "text": "Kom och sätt dig här. Ja. Du får titta."},
+    "126": {"speaker": "RUT", "text": "Då lär den ju inte sänka en båt."},
+    "128": {"speaker": "RUT", "text": "Vem knöt den?"},
+    "140": {"speaker": "HELENA", "text": "Åh, säg inte så. De har redan frågat vem som ska ramla omkull. Jag har inte svarat."},
+    "142": {"speaker": "RUT", "text": "Ja tack."},
+    "183": {"speaker": "RUT", "text": "Sätt igång."},
+    "184": {"speaker": "HELENA", "text": "Nu."},
+    "185": {"speaker": "HELENA", "text": "Båda sidorna. Äntligen."},
+    "202": {"speaker": "RUT", "text": "Kan du sitta hos mig en stund? Bara du."},
+    "211": {"speaker": "RUT", "text": "Låt den vara. Det här kan jag göra själv."},
+    "235": {"speaker": "HELENA", "text": "Allt kommer att finnas kvar. Dina saker. Du kan komma och sitta här när du –"},
+    "247": {"speaker": "HELENA", "text": "Jag minns dig här."},
+    "270": {"speaker": "BERÄTTARE", "text": "Helena räcker fram väskan, men hejdar sig. Rut tar det ena handtaget. Helena behåller det andra. Ingen drar."},
+    "316": {"speaker": "BERÄTTARE", "text": "Helena går ut. Kim står kvar vid hennes tomma stol."},
+    "321": {"speaker": "RUT", "text": "Ingenting. Förlåt."},
+    "341": {"speaker": "BERÄTTARE", "text": "Kim går. Rut sitter i stolen hon flyttade, med kappan i knät."},
+    "415": {"speaker": "HELENA", "text": "Kom hit. Du får titta med mig. Vänta lite."},
+    "418": {"speaker": "RUT", "text": "Ja. Säg inget på en stund."},
+    "421": {"speaker": "RUT", "text": "Jag tycker inte om det. Sluta. Snälla."},
+    "422": {"speaker": "HELENA", "text": "Okej. Jag har slutat visa dig."},
+    "423": {"speaker": "RUT", "text": "Tack."},
+    "430": {"speaker": "RUT", "text": "Nähä. Kanske en annan gång."},
+    "443": {"speaker": "RUT", "text": "Det vet jag också, vännen."},
+    "489": {"speaker": "BERÄTTARE", "text": "Rut går ut med väskan. Helena tar ett steg efter henne och stannar."},
+    "491": {"speaker": "HELENA", "text": "Ja."},
+    "495": {"speaker": "HELENA", "text": "Ja. De har fått loss båten."},
+    "522": {"speaker": "KIM", "text": "Jag ska inte."},
+    "525": {"speaker": "BERÄTTARE", "text": "Kim sträcker fram en hand. Helena har inte tagit den. Kim börjar sänka den."},
+    "526": {"speaker": "BERÄTTARE", "text": "Helena vänder sig från platsen hon har tittat på. Hon går runt bordet till Kim och tar hens hand."},
+    "529": {"speaker": "BERÄTTARE", "text": "Kim drar inte. Helena tar det första steget. De går ut tillsammans. Stolen står fortfarande på fel plats."}
+  },
+  "pauses": [
+    {"after_turn": 41, "minimum_gap_seconds": 1.5, "reason": "Halsduken hinner tas upp och vikas innan Rut svarar."},
+    {"after_turn": 183, "minimum_gap_seconds": 2.2, "reason": "Rut har gett tillåtelse; den lilla vågen får närma sig före Helenas Nu."},
+    {"after_turn": 184, "minimum_gap_seconds": 6.0, "reason": "Gemensamt andetag och skratt för Helena och Kim, sedan vatten som lägger sig. Rut avbryter inte."},
+    {"after_turn": 211, "minimum_gap_seconds": 2.0, "reason": "Rut packar själv; ljudet kan börja genast och klinga av under nästa replik. Ingen sektionsövergång."},
+    {"after_turn": 270, "minimum_gap_seconds": 1.0, "reason": "Båda behåller var sitt handtag innan Kims fråga. Ingen förstärkande effekt."},
+    {"after_turn": 418, "minimum_gap_seconds": 1.7, "reason": "Rut har bett Helena att vara tyst en stund och får känna efter."},
+    {"after_turn": 421, "minimum_gap_seconds": 0.0, "reason": "Ingen tillagd väntan efter Ruts Sluta. Helena upphör genast att visa henne; ingen ljudsignal."},
+    {"after_turn": 423, "minimum_gap_seconds": 1.0, "reason": "Rut får båda fötterna i golvet och hämtar sig före nästa fråga."},
+    {"after_turn": 489, "minimum_gap_seconds": 1.8, "reason": "Vanligt rum och tid för ett ytterligare svar som inte kommer; inget slutljud eller utdragen andning."},
+    {"after_turn": 525, "minimum_gap_seconds": 0.8, "reason": "Helena hinner se tillbaka en gång till innan hon väljer Kims hand. H4 måste fortsätta."}
+  ],
+  "performance_events": [
+    {
+      "id": "H2-shared-reaction",
+      "after_turn": 184,
+      "within_pause": true,
+      "speakers": ["HELENA", "KIM"],
+      "suggested_tags": ["[gasps]", "[laughs]"],
+      "target_duration_seconds": 2.7,
+      "placement_offset_seconds": 0.15,
+      "notes": "Ett gemensamt förvånat andetag, sedan ett litet överlappande skratt när båda drar åt sig fötterna. Därefter minst ett kort utrymme för att följa vattnet tills det lagt sig. Använd de valda skådespelarrösterna; ingen publik och inget skratt från Rut. Behåll en redan lyckad reaktion från dialogtagningen; dubblera den inte."
+    }
+  ],
+  "cues": [
+    {"id": "A1-opening", "section": "A1", "asset_id": "bag_mug", "placement": "point", "anchor": {"turn": 1, "edge": "start"}, "offset_seconds": -2.2, "gain_db": -12, "fade_in_seconds": 0.02, "fade_out_seconds": 0.05},
+    {"id": "A1-glasses", "section": "A1", "asset_id": "glasses_cloth", "placement": "point", "anchor": {"turn": 8, "edge": "end"}, "offset_seconds": 0.1, "gain_db": -18, "fade_in_seconds": 0.03, "fade_out_seconds": 0.08},
+    {"id": "A1-coat", "section": "A1", "asset_id": "coat_chair", "placement": "point", "anchor": {"turn": 10, "edge": "end"}, "offset_seconds": 0.05, "gain_db": -17, "fade_in_seconds": 0.03, "fade_out_seconds": 0.08},
+    {"id": "A1-cold-tea", "section": "A1", "asset_id": "sip_swallow", "placement": "point", "anchor": {"turn": 13, "edge": "end"}, "offset_seconds": 0.0, "gain_db": -20, "fade_in_seconds": 0.03, "fade_out_seconds": 0.08, "note": "Keep the actor's delayed swallow/laugh after14; this is the initial sip only, not a second performed reaction."},
+    {"id": "A1-fresh-tea", "section": "A1", "asset_id": "pour_tea", "placement": "point", "anchor": {"turn": 14, "edge": "end"}, "offset_seconds": 0.7, "gain_db": -14, "fade_in_seconds": 0.03, "fade_out_seconds": 0.08},
+    {"id": "A1-scarf-in", "section": "A1", "asset_id": "scarf_bag", "placement": "point", "anchor": {"turn": 16, "edge": "end"}, "offset_seconds": 0.05, "gain_db": -18, "fade_in_seconds": 0.03, "fade_out_seconds": 0.08},
+    {"id": "A1-scarf-out", "section": "A1", "asset_id": "scarf_bag", "placement": "point", "anchor": {"turn": 41, "edge": "end"}, "offset_seconds": 0.1, "gain_db": -20, "fade_in_seconds": 0.03, "fade_out_seconds": 0.08},
+    {"id": "A1-kim-exit", "section": "A1", "asset_id": "ordinary_steps", "placement": "point", "anchor": {"turn": 46, "edge": "start"}, "offset_seconds": 0.2, "gain_db": -24, "fade_in_seconds": 0.04, "fade_out_seconds": 0.12},
+    {"id": "A1-helena-exit", "section": "A1", "asset_id": "ordinary_steps", "placement": "point", "anchor": {"turn": 57, "edge": "start"}, "offset_seconds": 0.2, "gain_db": -24, "fade_in_seconds": 0.04, "fade_out_seconds": 0.12},
+    {"id": "A1-helena-return", "section": "A1", "asset_id": "ordinary_steps", "placement": "point", "anchor": {"turn": 62, "edge": "end"}, "offset_seconds": 0.1, "gain_db": -24, "fade_in_seconds": 0.04, "fade_out_seconds": 0.12},
+    {"id": "A1-kim-return", "section": "A1", "asset_id": "ordinary_steps", "placement": "point", "anchor": {"turn": 70, "edge": "end"}, "offset_seconds": 0.0, "gain_db": -24, "fade_in_seconds": 0.04, "fade_out_seconds": 0.12, "note": "Steps may overlap Kim's sentence; Kim returns already speaking."},
+    {"id": "A1-kim-sits", "section": "A1", "asset_id": "chair_scrape", "placement": "point", "anchor": {"turn": 103, "edge": "end"}, "offset_seconds": 0.05, "gain_db": -23, "fade_in_seconds": 0.03, "fade_out_seconds": 0.1},
+    {
+      "id": "H1", "section": "A2", "asset_id": "harbour_water_stone", "placement": "interval",
+      "start": {"turn": 111, "edge": "end"}, "start_offset_seconds": 0.1,
+      "end": {"turn": 128, "edge": "end"}, "end_offset_seconds": 0.0,
+      "gain_db": -24, "fade_in_seconds": 1.1, "fade_out_seconds": 4.5,
+      "perspective_owner": "HELENA", "invited_participants": ["KIM"], "excluded_participants": ["RUT"],
+      "note": "Fade begins in the conversation after126. Fading is a change of audience focus; Kim's invitation remains open."
+    },
+    {"id": "A2-kim-chair", "section": "A2", "asset_id": "chair_scrape", "placement": "point", "anchor": {"turn": 111, "edge": "end"}, "offset_seconds": 0.0, "gain_db": -25, "fade_in_seconds": 0.03, "fade_out_seconds": 0.1},
+    {"id": "A2-rut-mug", "section": "A2", "asset_id": "mug_set_down", "placement": "point", "anchor": {"turn": 140, "edge": "end"}, "offset_seconds": 0.1, "gain_db": -22, "fade_in_seconds": 0.01, "fade_out_seconds": 0.07},
+    {"id": "A2-tea", "section": "A2", "asset_id": "pour_tea", "placement": "point", "anchor": {"turn": 142, "edge": "end"}, "offset_seconds": 0.05, "gain_db": -17, "fade_in_seconds": 0.03, "fade_out_seconds": 0.08},
+    {
+      "id": "H2", "section": "A2", "asset_id": "harbour_water_stone", "placement": "interval",
+      "start": {"turn": 183, "edge": "end"}, "start_offset_seconds": 0.1,
+      "end": {"turn": 185, "edge": "start"}, "end_offset_seconds": -0.1,
+      "gain_db": -20, "fade_in_seconds": 1.0, "fade_out_seconds": 2.2,
+      "gain_envelope": [{"position": 0.0, "db": -7}, {"position": 0.35, "db": 0}, {"position": 0.6, "db": -2}, {"position": 1.0, "db": -10}],
+      "perspective_owner": "HELENA", "invited_participants": ["KIM"], "excluded_participants": ["RUT"],
+      "note": "A finite small wave: approach before Nu, shared actor breath/laughter after it, then settling. No audience/crowd sound and no interruption from Rut. End before Båda sidorna. Äntligen.; do not hurry directly to Tack."
+    },
+    {"id": "A2-helena-chair", "section": "A2", "asset_id": "chair_scrape", "placement": "point", "anchor": {"turn": 202, "edge": "end"}, "offset_seconds": 0.1, "gain_db": -24, "fade_in_seconds": 0.03, "fade_out_seconds": 0.1},
+    {"id": "A3-pack", "section": "A3", "asset_id": "bag_pack_close", "placement": "point", "anchor": {"turn": 211, "edge": "end"}, "offset_seconds": 0.1, "gain_db": -20, "fade_in_seconds": 0.03, "fade_out_seconds": 0.1},
+    {"id": "A3-chair-first", "section": "A3", "asset_id": "chair_scrape", "placement": "point", "anchor": {"turn": 235, "edge": "end"}, "offset_seconds": 0.0, "gain_db": -19, "fade_in_seconds": 0.02, "fade_out_seconds": 0.08},
+    {"id": "A3-chair-again", "section": "A3", "asset_id": "chair_scrape", "placement": "point", "anchor": {"turn": 247, "edge": "end"}, "offset_seconds": 0.05, "gain_db": -19, "fade_in_seconds": 0.02, "fade_out_seconds": 0.08},
+    {"id": "A4-helena-exit", "section": "A4", "asset_id": "ordinary_steps", "placement": "point", "anchor": {"turn": 316, "edge": "start"}, "offset_seconds": 0.2, "gain_db": -24, "fade_in_seconds": 0.04, "fade_out_seconds": 0.12},
+    {"id": "A4-helena-return", "section": "A4", "asset_id": "ordinary_steps", "placement": "point", "anchor": {"turn": 321, "edge": "end"}, "offset_seconds": 0.1, "gain_db": -24, "fade_in_seconds": 0.04, "fade_out_seconds": 0.12},
+    {"id": "A4-kim-exit", "section": "A4", "asset_id": "ordinary_steps", "placement": "point", "anchor": {"turn": 341, "edge": "start"}, "offset_seconds": 0.2, "gain_db": -24, "fade_in_seconds": 0.04, "fade_out_seconds": 0.12},
+    {
+      "id": "H3", "section": "A5", "asset_id": "harbour_water_stone", "placement": "interval",
+      "start": {"turn": 415, "edge": "end"}, "start_offset_seconds": 0.1,
+      "end": {"turn": 423, "edge": "end"}, "end_offset_seconds": 0.0,
+      "gain_db": -25, "fade_in_seconds": 1.1, "fade_out_seconds": 1.4,
+      "fade_out_start_not_before": {"turn": 422, "edge": "end"},
+      "perspective_owner": "HELENA", "invited_participants": ["RUT"], "excluded_participants": ["KIM"],
+      "invitation_withdrawal": {"participant": "RUT", "on_request_turn": 421, "immediate": true, "sound_change": false},
+      "note": "Helena stops sharing as soon as Rut requests it; 422 follows promptly. Quiet water persists through Helena's complete reply because it is HER ongoing experience. Fade only afterwards toward Rut's Tack. Clamp the fade start at or after422.end, shortening the fade if necessary. No switch, cutoff or new onset denotes loss of access."
+    },
+    {"id": "A5-coat-lift", "section": "A5", "asset_id": "coat_chair", "placement": "point", "anchor": {"turn": 430, "edge": "end"}, "offset_seconds": 0.05, "gain_db": -23, "fade_in_seconds": 0.03, "fade_out_seconds": 0.08, "note": "Use quiet fabric portion; omit any conspicuous chair movement not present in the action."},
+    {"id": "A6-bag-lift", "section": "A6", "asset_id": "scarf_bag", "placement": "point", "anchor": {"turn": 443, "edge": "end"}, "offset_seconds": 0.05, "gain_db": -23, "fade_in_seconds": 0.03, "fade_out_seconds": 0.08},
+    {"id": "A6-rut-exit", "section": "A6", "asset_id": "ordinary_steps", "placement": "point", "anchor": {"turn": 489, "edge": "start"}, "offset_seconds": 0.2, "gain_db": -24, "fade_in_seconds": 0.04, "fade_out_seconds": 0.12, "note": "Exactly the ordinary exit sound used earlier. No terminal breath, dissolve or extinction of room."},
+    {"id": "A7-rut-mug", "section": "A7", "asset_id": "mug_set_down", "placement": "point", "anchor": {"turn": 491, "edge": "end"}, "offset_seconds": 0.15, "gain_db": -22, "fade_in_seconds": 0.01, "fade_out_seconds": 0.07},
+    {
+      "id": "H4", "section": "A7", "asset_id": "harbour_water_stone", "placement": "interval",
+      "start": {"turn": 495, "edge": "end"}, "start_offset_seconds": 0.1,
+      "end": {"turn": 526, "edge": "end"}, "end_offset_seconds": 1.4,
+      "gain_db": -29, "fade_in_seconds": 1.2, "fade_out_seconds": 1.4,
+      "fade_out_start_not_before": {"turn": 526, "edge": "end"},
+      "perspective_owner": "HELENA", "invited_participants": [], "excluded_participants": ["KIM", "RUT"],
+      "note": "Continue very softly across Kim's I cannot see it, refusal to reopen, mug handling, request to put it aside, and the offered nearly withdrawn hand. Only AFTER narration526 makes Helena turn and accept the hand may H4 recede. No access opens; the fading reflects Helena choosing to set her activity aside."
+    },
+    {"id": "A7-helena-mug", "section": "A7", "asset_id": "mug_set_down", "placement": "point", "anchor": {"turn": 522, "edge": "end"}, "offset_seconds": 0.05, "gain_db": -24, "fade_in_seconds": 0.01, "fade_out_seconds": 0.07, "note": "H4 does not change here."},
+    {"id": "A7-final-steps", "section": "A7", "asset_id": "ordinary_steps", "placement": "point", "anchor": {"turn": 529, "edge": "end"}, "offset_seconds": 0.0, "gain_db": -24, "fade_in_seconds": 0.04, "fade_out_seconds": 0.12, "note": "A few ordinary steps, then the remaining unaltered room tail. No closing door or theatrical ending."}
+  ],
+  "protected_silences": [
+    {"section": "A4", "reason": "The memory fragment and withdrawal of Kim's invitation receive no water onset, cutoff, special breathing, thought voice or sound effect. Spoken text and performance carry them."},
+    {"section": "A6", "reason": "Sleeve refusal and choice of Kim remain in the narrator's words and the actors' timing; no emotional sting or explanatory object sound."}
+  ]
+}

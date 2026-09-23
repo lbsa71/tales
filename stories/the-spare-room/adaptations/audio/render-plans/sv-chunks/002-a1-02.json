@@ -1,0 +1,422 @@
+{
+  "title": "Gästrummet — 002-a1-02, A1.2 – Beslutet och halsduken",
+  "chunk_id": "002-a1-02",
+  "section": "A1",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 18,
+    "end_spoken_index": 54,
+    "expected_spoken_lines": 37
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 18,
+      "source_line": 51,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Vi sa idag.",
+      "tags": "[firm]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 19,
+      "source_line": 53,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Torsdag passade inte. Det var det jag sa."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 20,
+      "source_line": 55,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Och idag passade bättre. Jag frågade dig, när Kim var med."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 21,
+      "source_line": 57,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "För att prata om det. Jag har något på torsdag."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 22,
+      "source_line": 59,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Kim?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 23,
+      "source_line": 61,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Jag var med en del av tiden."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 24,
+      "source_line": 63,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Du kom och letade upp mig efteråt. Du sa att hon var redo."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 25,
+      "source_line": 65,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Hon hade varit hos Sal igen. Jag trodde det betydde något."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 26,
+      "source_line": 67,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Det betydde att Sal hade bjudit dit mig igen."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 27,
+      "source_line": 69,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Du sa att besöket var hemskt."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 28,
+      "source_line": 71,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Rundvandringen var hemsk. Hon gick runt med oss och förklarade var alla satt. Ingen satt någonstans. När vi hade druckit te en stund visste jag inte vilka jag hade blivit presenterad för.",
+      "tags": "[matter-of-fact]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 29,
+      "source_line": 73,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Tyckte du om Sal?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 30,
+      "source_line": 75,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Ja."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut dricker. Helena väntar på mer.]",
+      "after_source_index": 30,
+      "source_line": 77,
+      "section": "A1"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 31,
+      "source_line": 79,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Det kunde du ha sagt."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 32,
+      "source_line": 81,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Då hade du redan skickat två ställen till. Jag försökte titta på dem."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 33,
+      "source_line": 83,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Du behövde ju inte titta på dem om du hade hittat någonstans."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 34,
+      "source_line": 85,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Jag hade inte hittat någonstans. Jag hade druckit te med en kvinna."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 35,
+      "source_line": 87,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Jag tänkte att om vi bara kom hit allihop så kunde vi börja. Annars håller det bara på, och du frågar mig vad hon sa, och hon frågar mig vad du sa, och jag kommer inte ihåg vem jag skulle ha sagt vad till.",
+      "tags": "[hurried]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 36,
+      "source_line": 89,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Så du sa till mig att hon hade gått med på det."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 37,
+      "source_line": 91,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Ja. Förlåt.",
+      "tags": "[apologetic]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 38,
+      "source_line": 93,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Mamma. Vill du flytta idag?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 39,
+      "source_line": 95,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Ta upp min halsduk."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 40,
+      "source_line": 97,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Det hjälper väl inte."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 41,
+      "source_line": 99,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Jag vill inte att du packar medan jag svarar."
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD: Halsduken tas upp. Låt Rut vika den innan hon talar.]",
+      "after_source_index": 41,
+      "source_line": 101,
+      "section": "A1"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 42,
+      "source_line": 103,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Jag vet inte än."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 43,
+      "source_line": 105,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Jag måste säga till Neri att jag blir sen."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 44,
+      "source_line": 107,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Hur sen?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 45,
+      "source_line": 109,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Jag vet inte heller."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 46,
+      "source_line": 111,
+      "section": "A1",
+      "speaker": "BERÄTTARE",
+      "text": "Kim går ut. Rut lyfter upp den tomma väskan.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 47,
+      "source_line": 113,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Kim, är botten på den här ren?"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Inget svar.]",
+      "after_source_index": 47,
+      "source_line": 115,
+      "section": "A1"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 48,
+      "source_line": 117,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Kim?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 49,
+      "source_line": 119,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Hen hör dig inte därute."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 50,
+      "source_line": 121,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Jag ville bara veta om jag kan lägga i halsduken löst."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 51,
+      "source_line": 123,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Jag tvättar halsduken om den blir smutsig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 52,
+      "source_line": 125,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Den där tvättar man inte. Du förstörde den förra."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 53,
+      "source_line": 127,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Det var väldigt länge sen."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 54,
+      "source_line": 129,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Ja, ja. Jag tyckte om den."
+    }
+  ],
+  "continuity": {
+    "previous_text": "Jag vill ha den om jag går.",
+    "future_text": "Jag behöver en minut."
+  }
+}

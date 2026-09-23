@@ -1,0 +1,232 @@
+{
+  "title": "Gästrummet — 007-a2-03, A2.3 – Dansen går åt fel håll",
+  "chunk_id": "007-a2-03",
+  "section": "A2",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 165,
+    "end_spoken_index": 179,
+    "expected_spoken_lines": 15
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim skrattar. Rut ställer ner muggen.]",
+      "after_source_index": 164,
+      "source_line": 389,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 165,
+      "source_line": 391,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "En gång skickade jag trettio personer åt fel håll. I lokalen där vi dansade på fredagarna. Kim, res dig. Jag ska visa.",
+      "tags": "[animated]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 166,
+      "source_line": 393,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Här?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 167,
+      "source_line": 395,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Du går åt vänster och sen tillbaka till mig. Nej, ditt vänster."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 168,
+      "source_line": 397,
+      "section": "A2",
+      "speaker": "BERÄTTARE",
+      "text": "Kim går åt vänster. Rut går åt höger. De stannar på var sin sida om bordet.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 169,
+      "source_line": 399,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Där. Så gjorde jag. Fast jag fortsatte ropa ut turerna som om vi alla hade gått åt rätt håll."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 170,
+      "source_line": 401,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Ska jag komma tillbaka?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 171,
+      "source_line": 403,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Inte än. Vid det här laget hade jag tappat bort pianisten."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 172,
+      "source_line": 405,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Det fanns ingen pianist."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 173,
+      "source_line": 407,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Någon förde oväsen."
+    },
+    {
+      "kind": "reaction",
+      "source_spoken": false,
+      "relative_to_source_index": 173,
+      "speaker": "RUT",
+      "text": "Ha!",
+      "tags": "[laughs]"
+    },
+    {
+      "kind": "reaction",
+      "source_spoken": false,
+      "relative_to_source_index": 173,
+      "speaker": "HELENA",
+      "text": "Ha!",
+      "tags": "[chuckles]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut skrattar och tappar bort nästa instruktion. Kim väntar. Helena skrattar åt att hen står och väntar.]",
+      "after_source_index": 173,
+      "source_line": 409,
+      "section": "A2"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 174,
+      "source_line": 411,
+      "section": "A2",
+      "speaker": "KIM",
+      "text": "Ska jag bara stå kvar här?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 175,
+      "source_line": 413,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Äsch, kom tillbaka. Vi kan inte göra det bara vi två."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 176,
+      "source_line": 415,
+      "section": "A2",
+      "speaker": "BERÄTTARE",
+      "text": "Kim tar den långa vägen runt. Rut väntar på hen.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 177,
+      "source_line": 417,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "En kvinna kom fram efteråt och sa att det var uppfriskande. Hon hade haft hatten på sig hela kvällen. Jag hade hoppats att någon skulle slå av den. Inte göra henne illa. Bara hatten.",
+      "tags": "[amused]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 178,
+      "source_line": 419,
+      "section": "A2",
+      "speaker": "HELENA",
+      "text": "Sa du att du hade gjort fel?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 179,
+      "source_line": 421,
+      "section": "A2",
+      "speaker": "RUT",
+      "text": "Nej. Jag sa tack."
+    }
+  ],
+  "continuity": {
+    "previous_text": " de nu hade gått hela vägen fram för att tacka någon så var det ju synd om det skulle vara förgäves.",
+    "future_text": "Nu är de redo. Kim, vill du se resten?"
+  }
+}

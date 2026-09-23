@@ -1,0 +1,246 @@
+{
+  "title": "Gästrummet — 014-a5-02, A5.2 – Att stanna",
+  "chunk_id": "014-a5-02",
+  "section": "A5",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 359,
+    "end_spoken_index": 375,
+    "expected_spoken_lines": 17
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena väntar.]",
+      "after_source_index": 358,
+      "source_line": 857,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 359,
+      "source_line": 859,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "De tog någon annan till slut. Dansledarna. En kvinna jag inte kände."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 360,
+      "source_line": 861,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Det visste jag inte."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 361,
+      "source_line": 863,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Det var de ju tvungna till. De kunde inte fortsätta hålla ett rum ledigt åt mig. Mara skrev. Ett ganska fint brev, faktiskt. Det dröjde väldigt länge innan jag svarade."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 362,
+      "source_line": 865,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Du hade inte sagt att du skulle följa med."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 363,
+      "source_line": 867,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Jag höll på att göra mig i ordning."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 364,
+      "source_line": 869,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Du hade lagt en blus på elementet."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 365,
+      "source_line": 871,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "För att värma den. Rummet vi fick var alltid kallt."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 366,
+      "source_line": 873,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Du var inte där än."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut lyfter kappan och lägger ner den igen.]",
+      "after_source_index": 366,
+      "source_line": 875,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 367,
+      "source_line": 877,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Jag vet var jag var, Helena.",
+      "tags": "[firm]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena väntar.]",
+      "after_source_index": 367,
+      "source_line": 879,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 368,
+      "source_line": 881,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Mara hade börjat ta lördagarna. Folk frågade efter henne. Hon höll alldeles för högt tempo, men det tyckte de om. De tyckte om att inte hinna tänka efter om de gjorde rätt."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 369,
+      "source_line": 883,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Du kanske hade tyckt om att följa med dem."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 370,
+      "source_line": 885,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Kanske det. Jag följde inte med."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 371,
+      "source_line": 887,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag vet."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 372,
+      "source_line": 889,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Jag stannade hos dig. Jag ville det. Jag tycker inte om hur du har pratat om det idag.",
+      "tags": "[firm]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 373,
+      "source_line": 891,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Inte jag heller."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Tystnad. Rut dricker det sista av sitt te.]",
+      "after_source_index": 373,
+      "source_line": 893,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 374,
+      "source_line": 895,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag var tacksam."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 375,
+      "source_line": 897,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Du behöver inte säga det som om du avslutar ett brev."
+    }
+  ],
+  "continuity": {
+    "previous_text": "rbi. Vad de åt. Jag tycker om det. Jag kan fråga henne något utan att undra om jag redan borde veta.",
+    "future_text": "När du lämnade de fyra trodde jag att du skulle gå tillbaka. Inte på en gång. Jag trodde att du skul"
+  }
+}

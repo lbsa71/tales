@@ -1,0 +1,554 @@
+{
+  "title": "Gästrummet — 016-a5-04, A5.4 – Hunden och Ruts försök",
+  "chunk_id": "016-a5-04",
+  "section": "A5",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 393,
+    "end_spoken_index": 434,
+    "expected_spoken_lines": 42
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Skynda inte på Rut inför nästa historia.]",
+      "after_source_index": 392,
+      "source_line": 941,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 393,
+      "source_line": 943,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Vi bodde nära Louth en gång. Ovanför ett kök. Dennis hade tagit med sitt syskonbarn. Ingen visste varför. Hon dansade inte. Hon hade en liten hund som bara åt vit mat.",
+      "tags": "[conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 394,
+      "source_line": 945,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Den här har jag hört."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 395,
+      "source_line": 947,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Berätta inte slutet då."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 396,
+      "source_line": 949,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag kan inte slutet."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 397,
+      "source_line": 951,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Värdinnan skickade upp fisk. Vi kom hem sent; hon trodde att vi inte hade ätit. Dennis syskonbarn började gråta för att hunden inte ville röra den."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 398,
+      "source_line": 953,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Var det den med tapeten?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 399,
+      "source_line": 955,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Det var en annan hund. Jag önskar att jag inte hade berättat om den."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 400,
+      "source_line": 957,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Förlåt."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 401,
+      "source_line": 959,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Mara gjorde något. Jag ser henne kliva ur sängen. Hon hade det här förskräckliga nattlinnet. Det var snällt. Det hon gjorde, menar jag. Jag minns att jag blev irriterad för att det var snällt och jag inte hade kommit på det.",
+      "tags": "[thoughtful]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena väntar. Rut försöker minnas.]",
+      "after_source_index": 401,
+      "source_line": 961,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 402,
+      "source_line": 963,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Nej. Det är borta."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 403,
+      "source_line": 965,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Värmde hon den?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 404,
+      "source_line": 967,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Vad?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 405,
+      "source_line": 969,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Fisken."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 406,
+      "source_line": 971,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Varför skulle det hjälpa?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 407,
+      "source_line": 973,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag vet inte. Jag försöker få i hunden mat."
+    },
+    {
+      "kind": "reaction",
+      "source_spoken": false,
+      "relative_to_source_index": 407,
+      "speaker": "RUT",
+      "text": "Ha!",
+      "tags": "[laughs]"
+    },
+    {
+      "kind": "reaction",
+      "source_spoken": false,
+      "relative_to_source_index": 407,
+      "speaker": "HELENA",
+      "text": "Ha!",
+      "tags": "[laughs]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut skrattar. Helena skrattar med. Låt skrattet pågå så länge de faktiskt tycker att det är roligt.]",
+      "after_source_index": 407,
+      "source_line": 975,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 408,
+      "source_line": 977,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Det var en fin liten hund. Smutsiga tassar."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 409,
+      "source_line": 979,
+      "section": "A5",
+      "speaker": "BERÄTTARE",
+      "text": "Helena tar fram väskan under sin stol. Hon bär den till ingången, ställer ner den och kommer tillbaka utan den.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut följer henne med blicken hela vägen.]",
+      "after_source_index": 409,
+      "source_line": 981,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 410,
+      "source_line": 983,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Och torsdag?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 411,
+      "source_line": 985,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Vi har inte bestämt något om torsdag."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut reser sig med kappan i händerna.]",
+      "after_source_index": 411,
+      "source_line": 987,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 412,
+      "source_line": 989,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Håll den här ett tag. Innan jag går. Får jag titta på det? Vattnet."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 413,
+      "source_line": 991,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Ja."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 414,
+      "source_line": 993,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Jag vill inte ha en lektion. Bara titta."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 415,
+      "source_line": 995,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Kom hit. Du får titta med mig. Vänta lite."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena tar kappan och lägger den över sin egen stol. Rut sätter sig i Kims tomma stol; Helena sätter sig bredvid.]",
+      "after_source_index": 415,
+      "source_line": 997,
+      "section": "A5"
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD H3: HELENAS vatten mot sten, samma ljud som förut. En ny inbjudan, enbart till Rut; Kim är inte där och har fortfarande ingen tillgång. Ingen av kvinnorna lämnar rummet.]",
+      "after_source_index": 415,
+      "source_line": 999,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 416,
+      "source_line": 1001,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Åh."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 417,
+      "source_line": 1003,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Kallt?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 418,
+      "source_line": 1005,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Ja. Säg inget på en stund."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena väntar. Rut griper tag i sitsen.]",
+      "after_source_index": 418,
+      "source_line": 1007,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 419,
+      "source_line": 1009,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Vilken sida är jag på?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 420,
+      "source_line": 1011,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Lite på båda. Du får det från mig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 421,
+      "source_line": 1013,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Jag tycker inte om det. Sluta. Snälla.",
+      "tags": "[firm]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 422,
+      "source_line": 1015,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Okej. Jag har slutat visa dig.",
+      "tags": "[calm]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Avsluta Ruts del av upplevelsen så snart hon ber om det; ingen kamp, förhandling eller fördröjning. H3 fortsätter svagt genom Helenas svar och tonar sedan undan när publikens uppmärksamhet återvänder till Rut. Helena har kvar sin egen hamn.]",
+      "after_source_index": 422,
+      "source_line": 1017,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 423,
+      "source_line": 1019,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Tack."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut sätter båda fötterna i golvet. Låt henne hämta sig innan hon frågar.]",
+      "after_source_index": 423,
+      "source_line": 1021,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 424,
+      "source_line": 1023,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Tycker du om det där?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 425,
+      "source_line": 1025,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Väldigt mycket."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 426,
+      "source_line": 1027,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Jag kunde inte hitta dig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 427,
+      "source_line": 1029,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag var bredvid dig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 428,
+      "source_line": 1031,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Jag vet att du var bredvid mig. Jag ville ha dig där också. I det. Någon jag kunde titta på."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena börjar svara, men tar sig tid att hitta det svar hon sedan ger.]",
+      "after_source_index": 428,
+      "source_line": 1033,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 429,
+      "source_line": 1035,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag vet inte hur jag ska göra det än.",
+      "tags": "[thoughtful]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 430,
+      "source_line": 1037,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Nähä. Kanske en annan gång."
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD: Rut tar upp kappan.]",
+      "after_source_index": 430,
+      "source_line": 1039,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 431,
+      "source_line": 1041,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Tänker du fortfarande gå?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 432,
+      "source_line": 1043,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Ja."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut tar på sig kappan; en ärm vrängs delvis ut och in. Kim talar från ingången.]",
+      "after_source_index": 432,
+      "source_line": 1045,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 433,
+      "source_line": 1047,
+      "section": "A5",
+      "speaker": "KIM",
+      "text": "Får jag komma in?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 434,
+      "source_line": 1049,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Ja. I rummet."
+    }
+  ],
+  "continuity": {
+    "previous_text": "inns den där blusen. Jag gav bort den till slut. Jag borde ha behållit den. Jag klädde i den färgen.",
+    "future_text": "Vad sa Neri?"
+  }
+}

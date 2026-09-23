@@ -1,0 +1,286 @@
+{
+  "title": "Gästrummet — 004-a1-04, A1.4 – Middagen och försöket",
+  "chunk_id": "004-a1-04",
+  "section": "A1",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 84,
+    "end_spoken_index": 105,
+    "expected_spoken_lines": 22
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena ler. Kim sätter sig.]",
+      "after_source_index": 83,
+      "source_line": 201,
+      "section": "A1"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 84,
+      "source_line": 203,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Jag vill att du träffar hen. De andra också. Det är dem jag ska höra ihop med. Jag vet inte hur jag ska säga det utan att det låter som en ceremoni. Det är mest middag.",
+      "tags": "[warm]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 85,
+      "source_line": 205,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Hur många av dem måste jag prata med?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 86,
+      "source_line": 207,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Du kan bara prata med Neri. Hen vill träffa dig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 87,
+      "source_line": 209,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Vad har du berättat för hen?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 88,
+      "source_line": 211,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Snälla saker. Inte så snälla. Sängen.",
+      "tags": "[playful]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 89,
+      "source_line": 213,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Det var inget fel på den sängen."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 90,
+      "source_line": 215,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Varje gång jag sa att jag var rädd att ramla ur kortade du benen. Till slut stod den nästan på golvet."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 91,
+      "source_line": 217,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Du tyckte om den till slut."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 92,
+      "source_line": 219,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Jag älskade den. Jag har den kvar. Det var en hemsk säng.",
+      "tags": "[fondly]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 93,
+      "source_line": 221,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Har du behållit den?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 94,
+      "source_line": 223,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Ja. Jag tar inte med den ikväll. Neri har gjort i ordning någonstans. Hen frågade vad jag ville ha. Jag sa att vad som helst dög, och sen fick jag gå tillbaka och säga att det inte gjorde det."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 95,
+      "source_line": 225,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Vad sa hen?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 96,
+      "source_line": 227,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Det gjorde inget."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim väntar på något mer från Helena. Det kommer inget.]",
+      "after_source_index": 96,
+      "source_line": 229,
+      "section": "A1"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 97,
+      "source_line": 231,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Gå på middagen då. Båda två. Jag stannar här."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 98,
+      "source_line": 233,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Och när du vill mig något?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 99,
+      "source_line": 235,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Jag sa att jag kunde vara tyst. Du svarade inte."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 100,
+      "source_line": 237,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Jag vill inte att du sitter här och är rädd för att säga något."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 101,
+      "source_line": 239,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Stanna här då. Gör det du höll på med därute. Då ser jag att du gör det. Då kanske jag klarar av att inte avbryta."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 102,
+      "source_line": 241,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Vi kan prova det. Nu på en gång. Och om det funkar –"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 103,
+      "source_line": 243,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Sätt dig. Ingen har gått med på att gå någonstans.",
+      "tags": "[firm]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD: Kim sätter sig.]",
+      "after_source_index": 103,
+      "source_line": 245,
+      "section": "A1"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 104,
+      "source_line": 247,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Det är något jag skulle vilja göra färdigt. Det kan ta en stund."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 105,
+      "source_line": 249,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Vi kommer ju ingen vart med packningen ändå."
+    }
+  ],
+  "continuity": {
+    "previous_text": "Jag visste inte att det skulle bli Neri.",
+    "future_text": "Vad?"
+  }
+}

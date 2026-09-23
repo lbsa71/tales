@@ -1,0 +1,239 @@
+{
+  "title": "Gästrummet — 013-a5-01, A5.1 – Den första natten",
+  "chunk_id": "013-a5-01",
+  "section": "A5",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 342,
+    "end_spoken_index": 358,
+    "expected_spoken_lines": 17
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 342,
+      "source_line": 817,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Hen borde inte ha sagt det där."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 343,
+      "source_line": 819,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Nej."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut viker kappan. En ärm faller ner; hon lyfter upp den.]",
+      "after_source_index": 343,
+      "source_line": 821,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 344,
+      "source_line": 823,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Hen ville hjälpa till."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 345,
+      "source_line": 825,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Låt bli, snälla."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut slutar vika.]",
+      "after_source_index": 345,
+      "source_line": 827,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 346,
+      "source_line": 829,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Du sa inte att du var så rädd."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 347,
+      "source_line": 831,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag var på golvet och bad dig att andas."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 348,
+      "source_line": 833,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Jag trodde att du var orolig för mig. Jag låg där och lät så mycket. Jag var rädd att om jag tystnade skulle du tro att jag hade slutat."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 349,
+      "source_line": 835,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag kunde inte känna var stolen slutade. Jag lade handen på den och visste att det var en stol, men det kändes inte som något jag kände igen. Med golvet var det lättare. Jag kunde trycka mot det.",
+      "tags": "[restrained]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 350,
+      "source_line": 837,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Du sa inget."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 351,
+      "source_line": 839,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag visste inte hur. Du fortsatte prata. Det hjälpte."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 352,
+      "source_line": 841,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Jag kan prata om potatis ganska länge."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 353,
+      "source_line": 843,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Det gjorde du."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: De sitter. Rut slätar ut en bit av kappan.]",
+      "after_source_index": 353,
+      "source_line": 845,
+      "section": "A5"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 354,
+      "source_line": 847,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Förr brukade du be mig säga till när jag gick ut. En gång gick jag och hälsade på någon och glömde det. När jag kom tillbaka stod du i hallen. Du ville inte säga hur länge du hade stått där.",
+      "tags": "[reflective]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 355,
+      "source_line": 849,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag minns."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 356,
+      "source_line": 851,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Efter det berättade jag vart jag skulle, hur länge, med vem. Då hade du hunnit bli upptagen med annat. Du sa ja, ja, gå du. Jag fortsatte säga till ändå. Det tog evigheter innan jag slutade."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 357,
+      "source_line": 853,
+      "section": "A5",
+      "speaker": "HELENA",
+      "text": "Jag tyckte om att höra vad du hade gjort när du kom tillbaka."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 358,
+      "source_line": 855,
+      "section": "A5",
+      "speaker": "RUT",
+      "text": "Ibland gjorde du det. Ibland hoppade jag över det tråkiga och då fanns det inte mycket kvar. Sal berättar det tråkiga. Vem som kom förbi. Vad de åt. Jag tycker om det. Jag kan fråga henne något utan att undra om jag redan borde veta."
+    }
+  ],
+  "continuity": {
+    "previous_text": "Kim går. Rut sitter i stolen hon flyttade, med kappan i knät.",
+    "future_text": "De tog någon annan till slut. Dansledarna. En kvinna jag inte kände."
+  }
+}

@@ -12,6 +12,8 @@ A [stage curator's review](editorial/CURATOR_REVIEW_2026-09-22.md) prompted this
 
 Approximately seventy minutes remains an ambition, not a measured runtime. The next step is the [blocked workshop](WORKSHOP_GUIDE.md): three actors, actual ordinary objects and spectators unfamiliar with the script. No workshop or audience evidence has been obtained.
 
+A separate [45-minute audio adaptation](adaptations/audio/README.md) was commissioned on 23 September 2026. Its [work order](adaptations/audio/WORK_ORDER.md) calls for separate character voices, sparse narration and a performed listening test. It has its own manuscript and development record; drafting is pending. The stage sources and the stage workshop remain distinct from this adaptation.
+
 PDF generation is left to the existing CI at the author's request. The current local PDF may still contain the first draft until CI runs; use the linked Markdown for this revision.
 
 ## Form
@@ -49,6 +51,7 @@ The Swedish translation, **Gästrummet**, and existing audio remain **first-draf
 | [DEVELOPMENT_DIARY.md](DEVELOPMENT_DIARY.md) | Conversation history and reasons for revisions |
 | [PROGRESS_SUMMARY.md](PROGRESS_SUMMARY.md) | Completed work, unresolved risks and evidence still needed |
 | [WORKSHOP_GUIDE.md](WORKSHOP_GUIDE.md) | Blocking, unbriefed audience questions and evidence to collect |
+| [adaptations/audio/](adaptations/audio/README.md) | Commission for a 45-minute English audio adaptation; script and listening test pending |
 
 ## Review and earlier versions
 

@@ -1,0 +1,362 @@
+{
+  "title": "Gästrummet — 017-a6-01, A6.1 – Flytten blir verklig",
+  "chunk_id": "017-a6-01",
+  "section": "A6",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 435,
+    "end_spoken_index": 464,
+    "expected_spoken_lines": 30
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 435,
+      "source_line": 1053,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Vad sa Neri?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 436,
+      "source_line": 1055,
+      "section": "A6",
+      "speaker": "KIM",
+      "text": "Att jag ska komma när jag kan. De har börjat."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 437,
+      "source_line": 1057,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Sa du att jag inte hade lovat?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 438,
+      "source_line": 1059,
+      "section": "A6",
+      "speaker": "KIM",
+      "text": "Ja. Och att Rut inte hade gått med på det. Hen var tyst en stund."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 439,
+      "source_line": 1061,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Har du ätit något?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 440,
+      "source_line": 1063,
+      "section": "A6",
+      "speaker": "KIM",
+      "text": "Inte än."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 441,
+      "source_line": 1065,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Du borde gå."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 442,
+      "source_line": 1067,
+      "section": "A6",
+      "speaker": "KIM",
+      "text": "Jag följer dig först. Jag vet var Sal är."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 443,
+      "source_line": 1069,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Det vet jag också, vännen."
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD: Rut lyfter upp väskan vid ingången.]",
+      "after_source_index": 443,
+      "source_line": 1071,
+      "section": "A6"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 444,
+      "source_line": 1073,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Det är verkligen inte mycket i den här."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 445,
+      "source_line": 1075,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Halsduken. Glasögonen har du i fickan."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 446,
+      "source_line": 1077,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Jag kan lämna väskan. Bära halsduken."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 447,
+      "source_line": 1079,
+      "section": "A6",
+      "speaker": "KIM",
+      "text": "Ta den. Den går att vika ihop. Du kan behålla den."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 448,
+      "source_line": 1081,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Jag kommer tillbaka med den någon gång. Du ville ha en röd när jag köpte den."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 449,
+      "source_line": 1083,
+      "section": "A6",
+      "speaker": "KIM",
+      "text": "I ungefär en dag, ja."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 450,
+      "source_line": 1085,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Jag gick tillbaka för att se om de hade någon röd. De sa nej. Jag blev väldigt arg på mannen. Han hade sagt att de skulle få in."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 451,
+      "source_line": 1087,
+      "section": "A6",
+      "speaker": "KIM",
+      "text": "Det har du aldrig berättat."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 452,
+      "source_line": 1089,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Då verkade du ju nöjd med den."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut tittar i väskan igen. Kim låter henne göra det.]",
+      "after_source_index": 452,
+      "source_line": 1091,
+      "section": "A6"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 453,
+      "source_line": 1093,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Mamma. När du går den här gången så flyttar du. Du kommer inte att bo här."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 454,
+      "source_line": 1095,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Jag vet."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 455,
+      "source_line": 1097,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Jag behöver höra dig säga det."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 456,
+      "source_line": 1099,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Jag ska bo hos Sal."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena låter svaret vara.]",
+      "after_source_index": 456,
+      "source_line": 1101,
+      "section": "A6"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 457,
+      "source_line": 1103,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Och om jag ropar på dig därifrån?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 458,
+      "source_line": 1105,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Då hör jag dig inte. Om vi inte är på besök hos varandra."
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut börjar säga något, men känner efter i fickan i stället.]",
+      "after_source_index": 458,
+      "source_line": 1107,
+      "section": "A6"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 459,
+      "source_line": 1109,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Vi kommer att ses."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 460,
+      "source_line": 1111,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Ja. Det hoppas jag."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 461,
+      "source_line": 1113,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Är du säker?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 462,
+      "source_line": 1115,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Nej."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 463,
+      "source_line": 1117,
+      "section": "A6",
+      "speaker": "HELENA",
+      "text": "Vi kan vänta en dag."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 464,
+      "source_line": 1119,
+      "section": "A6",
+      "speaker": "RUT",
+      "text": "Jag vill gärna hinna dit innan jag tappar modet. Snälla.",
+      "tags": "[earnest]"
+    }
+  ],
+  "continuity": {
+    "previous_text": "Ja. I rummet.",
+    "future_text": "Sal kanske är hemsk att bo med."
+  }
+}

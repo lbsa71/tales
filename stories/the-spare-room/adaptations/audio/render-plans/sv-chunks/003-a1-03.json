@@ -1,0 +1,371 @@
+{
+  "title": "Gästrummet — 003-a1-03, A1.3 – Att kunna gå ifrån",
+  "chunk_id": "003-a1-03",
+  "section": "A1",
+  "model_id": "eleven_v3",
+  "language_code": "sv",
+  "seed": 71023,
+  "source": {
+    "path": "stories/the-spare-room/adaptations/audio/translations/svenska/SCRIPT.md",
+    "start_spoken_index": 55,
+    "end_spoken_index": 83,
+    "expected_spoken_lines": 29
+  },
+  "source_sha256_at_preparation": "4901fed85804833e0b3e8ae9d5d3c6ab48a18786122ba31a16ac803cd691f3ac",
+  "voices": {
+    "RUT": {
+      "name": "Annie Svensk",
+      "voice_id": "a2RZfOPKpyNO38vDv3DD",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "mörk och allvarlig",
+        "mogen roll; biblioteket anger medelålders"
+      ]
+    },
+    "HELENA": {
+      "name": "Sanna Hartfield – Sassy and Natural",
+      "voice_id": "ZSHzpa6aUvhjzShiBmYw",
+      "casting": [
+        "svenska",
+        "kvinna",
+        "medelålders",
+        "rak, energisk samtalsröst"
+      ]
+    },
+    "KIM": {
+      "name": "Eva",
+      "voice_id": "HqmZnnvy6tCQd8EGWKRT",
+      "casting": [
+        "svenska",
+        "kvinnlig röst",
+        "ung vuxen",
+        "resonant, lätt luftig; Kim har pronomen hen"
+      ]
+    },
+    "BERÄTTARE": {
+      "name": "Adam Composer Stockholm",
+      "voice_id": "x0u3EW21dbrORJzOq1m9",
+      "casting": [
+        "svenska",
+        "man",
+        "medelålders",
+        "djup och resonant"
+      ]
+    }
+  },
+  "items": [
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Helena börjar svara, men ger upp.]",
+      "after_source_index": 54,
+      "source_line": 131,
+      "section": "A1"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 55,
+      "source_line": 133,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Jag behöver en minut."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 56,
+      "source_line": 135,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Okej."
+    },
+    {
+      "kind": "narration",
+      "source_spoken": true,
+      "source_index": 57,
+      "source_line": 137,
+      "section": "A1",
+      "speaker": "BERÄTTARE",
+      "text": "Helena går ut samma väg. Rut viker halsduken.",
+      "tags": "[calm, conversational]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Rut viker färdigt innan hon ropar, med sin vanliga samtalsröst.]",
+      "after_source_index": 57,
+      "source_line": 139,
+      "section": "A1"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 58,
+      "source_line": 141,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Helena.",
+      "tags": "[conversational]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[RÖST: Helena svarar utifrån, utan särskild ljudbehandling.]",
+      "after_source_index": 58,
+      "source_line": 143,
+      "section": "A1"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 59,
+      "source_line": 145,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Vad?",
+      "tags": "[conversational]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 60,
+      "source_line": 147,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Ingenting. Jag undrade om du hade gått med Kim."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 61,
+      "source_line": 149,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Jag sa att jag behövde en minut."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 62,
+      "source_line": 151,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Ja. Gör det."
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD: Helena kommer tillbaka.]",
+      "after_source_index": 62,
+      "source_line": 153,
+      "section": "A1"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 63,
+      "source_line": 155,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Jag kan inte. Inte så här."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 64,
+      "source_line": 157,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Jag bad dig inte komma tillbaka."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 65,
+      "source_line": 159,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Jag höll på med något och så var du där. Jag hörde dig. Jag hör dig alltid. Jag kan gå hur långt som helst och du kan ändå ropa på mig.",
+      "tags": "[restrained]"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 66,
+      "source_line": 161,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Förr tyckte du om att veta att jag var här."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 67,
+      "source_line": 163,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Jag tycker fortfarande om att veta att du är här. Jag vill kunna gå ifrån en stund."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 68,
+      "source_line": 165,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Du går ifrån hela tiden."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 69,
+      "source_line": 167,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Jag vill vara borta på riktigt. Utan att lyssna efter mitt namn."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 70,
+      "source_line": 169,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Jag skulle kunna vara tyst."
+    },
+    {
+      "kind": "comment",
+      "comment": "[LJUD: Kim kommer tillbaka, redan mitt i en mening.]",
+      "after_source_index": 70,
+      "source_line": 171,
+      "section": "A1"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 71,
+      "source_line": 173,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Hen kan vänta lite till, men inte så länge. Brödet är nästan klart."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 72,
+      "source_line": 175,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Är det den där middagen?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 73,
+      "source_line": 177,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Den första. Ja. Ikväll."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 74,
+      "source_line": 179,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Du skulle ju säga till mig."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 75,
+      "source_line": 181,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Det gjorde jag. Du sa att du skulle försöka komma."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 76,
+      "source_line": 183,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Det sa jag. Förlåt."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 77,
+      "source_line": 185,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Neri bakar limpan. Jag ska göra skorpan."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 78,
+      "source_line": 187,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Vad är det för fel på skorpan?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 79,
+      "source_line": 189,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Inget. Jag bränner den lite."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 80,
+      "source_line": 191,
+      "section": "A1",
+      "speaker": "RUT",
+      "text": "Varför det?"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 81,
+      "source_line": 193,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "För att när vi träffades hade Neri bränt frukosten. Jag kände lukten ända ut på gatan. Jag gick in för att säga till, och hen stod bara där med den här hemska rostmackan och grät. Skrattade, faktiskt. Det fick jag också om bakfoten. Hur som helst. Neri hatar lukten. Men hen sa att jag fick, den här gången.",
+      "tags": "[warm]"
+    },
+    {
+      "kind": "comment",
+      "comment": "[SPEL: Kim vill att Helena ska glädjas åt det här. Ge henne tid att göra det.]",
+      "after_source_index": 81,
+      "source_line": 195,
+      "section": "A1"
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 82,
+      "source_line": 197,
+      "section": "A1",
+      "speaker": "HELENA",
+      "text": "Du berättade om brödskivan. Du sa inte att det var Neri."
+    },
+    {
+      "kind": "dialogue",
+      "source_spoken": true,
+      "source_index": 83,
+      "source_line": 199,
+      "section": "A1",
+      "speaker": "KIM",
+      "text": "Jag visste inte att det skulle bli Neri."
+    }
+  ],
+  "continuity": {
+    "previous_text": "Ja, ja. Jag tyckte om den.",
+    "future_text": "Jag vill att du träffar hen. De andra också. Det är dem jag ska höra ihop med. Jag vet inte hur jag "
+  }
+}
